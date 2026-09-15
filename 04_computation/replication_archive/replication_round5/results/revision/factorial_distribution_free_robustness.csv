@@ -1,0 +1,2 @@
+estimand,n,estimate,exact_sign_flip_p,bootstrap_low,bootstrap_high,n_sign_flips,n_bootstrap
+Evidence-channel main effect on R1-R0 resource-linked placement-gap delta,10,0.13333333333333325,0.015625,0.05666666666666662,0.2066666666666666,1024,50000

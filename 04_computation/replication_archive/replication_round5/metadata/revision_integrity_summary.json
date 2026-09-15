@@ -1,0 +1,11 @@
+{
+  "baseline_v2_exact_reproduction_max_abs_diff": 8.881784197001252e-16,
+  "baseline_exact_reproduction_pass": true,
+  "main_run_rows": 160,
+  "main_seed_count": 40,
+  "factorial_cells": 8,
+  "factorial_seeds_per_cell": 10,
+  "credential_control_scenarios": 4,
+  "credential_control_seeds": 20,
+  "task_balance_seeds": 20
+}

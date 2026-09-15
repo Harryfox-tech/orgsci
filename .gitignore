@@ -1,0 +1,26 @@
+# Python and notebook by-products
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local environments, secrets, and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep reproducible source/results, but not disposable computation caches
+04_computation/**/cache/
+04_computation/**/tmp/
+04_computation/**/.cache/
+
+# Raw data are local by default; document provenance instead
+03_data/raw/*
+!03_data/raw/.gitkeep
+!03_data/raw/README.md

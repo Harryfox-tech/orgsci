@@ -1,0 +1,18 @@
+{
+  "revision_date": "2026-08-29",
+  "main_seed_range": "1000-1039",
+  "factorial_seed_range": "1000-1009",
+  "neutral_control_seed_range": "1000-1019",
+  "confirmatory_family": [
+    "H1 fit",
+    "H1 placement",
+    "H1 search",
+    "H3 alignment",
+    "H3 gap",
+    "H4 gap",
+    "H4 evidence",
+    "H4 placement"
+  ],
+  "H2_status": "construct/manipulation check after structural no-discount diagnostic",
+  "RQ5_status": "exploratory risk hypothesis"
+}

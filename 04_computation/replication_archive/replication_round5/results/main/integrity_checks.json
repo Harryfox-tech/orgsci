@@ -1,0 +1,12 @@
+{
+  "160_run_rows": true,
+  "40_seeds_each_regime": true,
+  "unique_student_hire_per_seed_regime": true,
+  "job_capacity_le_2": true,
+  "rounds_1_to_6": true,
+  "placement_range": true,
+  "gtf_range": true,
+  "cred_sens_range": true,
+  "opp_gap_range": true,
+  "no_missing_key_metrics": true
+}

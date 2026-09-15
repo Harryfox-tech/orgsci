@@ -1,0 +1,15 @@
+# First-five primary-text source audit (2026-09-15)
+
+The user supplied five PDF attachments in the current task. They were inspected for title, bibliographic identity, pagination, main-text sections, tables/figures and version notices. This ledger records the exact source *version* behind the cards. The attachments remain in the user's Codex attachment area; PDFs were **not** copied into the public Git repository. Publisher/JSTOR notices on several files restrict use or redistribution, so this repository stores original analysis and source pointers, not the copyrighted full texts.
+
+| Card | Supplied filename | Source version and locator convention | Pages | SHA-256 |
+| --- | --- | --- | ---: | --- |
+| March 1991 | `1-2634940.pdf` | JSTOR scan of *Organization Science* 2(1):71–87; printed page + PDF page 1 cover | 18 | `A2EA604CF50E563F56CB4E011F6195FF06864CAB04FA46BF8B6290DD432C134F` |
+| Kocak–Levinthal–Puranam | `2-The-Dual-Challenge-of-Search-and-Coordination-for-Organizational-Adaptation-How-Structures-of-Influence-Matter.pdf` | 2022 publisher *Articles in Advance* PDF, explicitly not final copyedited/numbered version; use section/equation/figure and **PDF page** locators | 20 | `2C7490E522B84B8E0F6517A92053A007C90D3AA6C057B605E3181FC58E9047C3` |
+| Fang–Lee–Schilling | `3-ssrn_id960273_code517200.pdf` | 2008-08-06 author SSRN working paper, 49 internally numbered pages; **not the 2010 published version** | 49 | `E9E1DD2A3933233FAAB9C89C9E2444132D95C7C05DC67B0848A6CAFF6DACF40A` |
+| Levinthal–Schliesmann | `4-pdf_download_AA2D74B7-97C5-4CF7-82E5-CA4E8CFEF4A5.pdf` | Published *Organization Science* 36(2):903–917 PDF; PDF page 1 cover, printed pagination thereafter | 16 | `A86629841DB929EFA42C4AD6F254C05F94A0B135714B20BFC8F6AC1D90562B2E` |
+| Kane–Alavi | `5-25146139.pdf` | JSTOR scan of *Organization Science* 18(5):796–812; PDF page 1 cover, printed pagination thereafter | 18 | `C18E1D30A12FE8DC08F1BF28A1E3D1409F1D6253DDC44FABDD6AC1554962E113` |
+
+**Paper-specific caveats:** Fang's author draft can verify its own rules and reported numbers, but a manuscript citing the 2010 article should cross-check the final published text for changes. Kocak's supplied advance PDF itself says final formatting/copyediting may differ; official publisher HTML provides the final-title/DOI confirmation. Kane's user-supplied explanatory text can now be tested against Table 1, Table 3, Figures 1–6 and Appendix B rather than serving as a surrogate source. None of the five PDFs supplies executable code or a modern paired-seed log, so a historical simulation result must not be described as having this project's paired-seed policy.
+
+**Audit distinction:** a result is `primary-text verified` only when the correct PDF version and printed page/figure/table/section are named in the card. `Author interpretation` is distinct from the figure/table measurement, and a transfer to AI-enabled recruitment is `our inference / untested`. The PDF attachments' personal download metadata are deliberately omitted from this shareable ledger.

@@ -4,7 +4,7 @@ The minimum acceptable *full-text* card follows the user's Kane example in subst
 
 ## A. Theory argument
 
-1. Bibliographic record, version, source coverage and exact locators.
+1. Bibliographic record, version (author draft, advance manuscript, or copyedited publication), source coverage, document identity and exact locators. Do not transfer an author-draft number into a final-publication claim without checking the final text.
 2. Surface question versus the organizational-theory puzzle.
 3. Existing theory and the consequential fixed/exogenous assumption (authors' characterization versus our diagnosis).
 4. The smallest causal loop, including endogenous versus fixed stocks.
@@ -36,4 +36,4 @@ The minimum acceptable *full-text* card follows the user's Kane example in subst
 21. Manuscript handoff: a proposition or discussion claim that the source can support, and a tempting claim it cannot support.
 22. Computational-owner handoff: config, seed policy and code path only when an experiment actually exists; baseline archive stays locked.
 
-**Evidence labels:** `Paper-verified` (source and locator); `Author-claim` (authors' interpretation); `Our analysis` (inference); `User-supplied explanation / verify` (a working description without inspected primary text); `Not assessable` (missing source). The shared conversation supplies the intellectual reading method and a Kane working explanation; it does not replace inspection of the paper's PDF.
+**Evidence labels:** `Paper-verified` (source *version* and locator); `Author-claim` (authors' interpretation, not our causal verification); `Our analysis` (inference); `User-supplied explanation / verify` (a working description without inspected primary text); `Not assessable` (missing source or supplement). Keep page labels as printed-paper versus PDF page indexes; record the document checksum in a separate provenance ledger when originals are available. The shared conversation supplies the intellectual reading method and a Kane working explanation; it does not replace inspection of the paper's PDF.

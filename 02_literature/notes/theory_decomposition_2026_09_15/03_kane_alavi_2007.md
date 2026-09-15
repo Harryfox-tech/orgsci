@@ -1,0 +1,11 @@
+# Kane and Alavi (2007) — Information Technology and Organizational Learning
+
+**Theory move.** The paper extends March's learning model with distinct IT-enabled learning mechanisms and shows their exploration/exploitation effects depend on context and combinations. [Publisher record](https://pubsonline.informs.org/doi/10.1287/orsc.1070.0286), *Organization Science* 18(5):796–812. **Coverage:** publisher abstract and [earlier card](../orgsci_core_reading_pack/03_kane_alavi_2007.md); publisher PDF link is not proof that its full text was read.
+
+1. **Phenomenon.** IT supports learning, but different tools need not create the same exploration/exploitation trajectory [verified: abstract].
+2. **Existing theory / assumption.** March's model provides a baseline without these tool-specific channels. Treating IT as a single intervention hides differences [first claim verified in abstract; latter is our interpretation].
+3. **Why it matters.** If mechanisms interact with structure and environment, a generic adoption effect is theoretically under-specified [analysis].
+4. **Mechanism.** The authors use prior case-study evidence to introduce e-mail communication, best-practice repositories and groupware into a computational learning model [verified: abstract]. Exact agents, states, rule modifications and temporal order for each tool are **not assessable** from current coverage.
+5. **Design / non-obvious result.** They compare distinct mechanisms and combinations under organizational and environmental conditions; each affects learning dynamics differently [verified: abstract]. Direction by mechanism, baselines, isolation, parameter values and robustness are **not assessable**.
+6. **Contribution / limit.** Tool affordances should be theorized by what learning channel they alter, while the abstract alone does not establish empirical adoption effects.
+7. **Relation: adopt channel decomposition.** R1 ranking, R2 explanation and R3 active tasks can be distinguished as evaluation, guidance and intervention. This is our mapping, not their finding. **Test:** separate channel toggles and neutral controls before claiming a particular mechanism; sequential regime contrasts may bundle more than one difference.

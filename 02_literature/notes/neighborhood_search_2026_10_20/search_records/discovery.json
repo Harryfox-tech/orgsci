@@ -1,0 +1,386 @@
+[
+  {
+    "query": "demand aware career path recommendations",
+    "url": "https://api.openalex.org/works?search=demand+aware+career+path+recommendations&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:33.531391Z",
+    "reported_count": 71032,
+    "results": [
+      {
+        "title": "Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach",
+        "doi": "https://doi.org/10.1287/mnsc.2020.3727",
+        "year": 2020,
+        "venue": "Management Science",
+        "abstract": "A skill's value depends on dynamic market conditions. To remain marketable, contractors need to keep reskilling themselves continuously. But choosing new skills to learn is an inherently hard task: Contractors have very little information about current and future market conditions, which often results in poor learning choices. Recommendation frameworks could reduce uncertainty in learning choices. However, conventional approaches would likely be inefficient; they would model previous (often poor) observed contractor learning behaviors to provide future career path recommendations while ignoring current market trends. This work proposes a framework that combines reinforcement learning, Bayesian inference, and gradient boosting to provide recommendations on how contractors should behave when choosing new skills to learn. Compared with standard recommender systems, this framework does not learn from previous (often poor) behaviors to make future recommendations. Instead, it relies on a Markov Decision Process to operate on a graph of feasible actions and dynamically recommend profitable career paths. The framework uses market information to identify current trends and project future wages. Based on this information, it recommends feasible, relevant actions that a contractor can take to learn new, in-demand skills. Evaluation of the framework on 1.73 million job applications from an online labor market shows that its implementation could increase (1) the marketplace's revenue by up to 6%, (2) contractors' wages by 22%, and (3) the diversity of new skill acquisitions by 47%. A comparison with alternative recommender systems highlights the limitations of approaches that make recommendations based on previously observed learning behaviors."
+      },
+      {
+        "title": "Career Compass: An AI-Driven Skill-Aware Career Guidance Framework for Personalized Student Recommendations",
+        "doi": "https://doi.org/10.1109/icict68280.2026.11510984",
+        "year": 2026,
+        "venue": "International Conference on Inventive Computation Technologies (ICICT)",
+        "abstract": "The proliferation of the global job market accelerated by digitalization and automation has heightened the demand for intelligent career guidance systems that match the competencies of students and the demands of the changing industry. Traditional approaches to career counseling often use static forms of assessment and generalized forms of advice that do not decode or recognize the dynamic between individual skills, learning pathways, and new occupational trends. This work solves the issue of poor personalization in career recommendation systems by proposing an AI-based, skill-aware career guidance system called CareerCompass, which aims to provide adaptive and data-driven recommendations for students. The main aim of the project is to create a system for personalized recommendation which will combine multidimensional skill profiling, indicators of academic performance and labour market intelligence to steer students towards appropriate career paths. The framework uses machine learning-based skill extraction, semantic similarity modeling as well as hybrid recommendation methods using collaborative filtering and knowledge-based inference. A dynamic skill taxonomy and predictive competency mapping module further improves the recommendations given by continuously updating career relevance scores. Experimental evaluation based on a large scale student skill dataset shows substantial gains in recommendation precision (92.4%), recall (89.1%) and F1-score (90.7%) as compared to conventional rule-based and static model of recommendations (on average margin of 12-18%). User validation studies also show an increase in perceived recommendation relevancy and confidence in decision among the students by 35%. The results suggest that combining skill intelligence for adapting with AI-based recommendation mechanisms can have a significant impact on improving the effectiveness of career guidance systems. The proposed Career Compass framework offers a solution for personalized career planning on a large scale and can be powered by data, to help people make informed decisions and plan their long-term employability in today's rapidly evolving professional landscape."
+      },
+      {
+        "title": "AI- Driven Career Path Recommendation and Guidance System",
+        "doi": "https://doi.org/10.5281/zenodo.19664605",
+        "year": 2026,
+        "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+        "abstract": "The use of Artificial Intelligence in career guidance has gained importance due to rapidly evolving job market demands and the limitations of traditional counselling systems, which often provide generic and non-personalized recommendations. This paper presents an AI-Driven Career Guidance and Development Platform that integrates key functionalities such as resume building, interview preparation, skill analysis, and career recommendation into a unified system. The platform is developed using Next.js for the frontend, Clerk for authentication, Prisma ORM with NeonDB for database management, and Inngest for handling asynchronous background workflows. It leverages the Google Gemini API to generate context-aware outputs, including resume content, interview questions, and personalized career suggestions based on user inputs such as skills, interests, and experience. The system relies on structured data combined with prompt-based AI generation rather than complex standalone machine learning models, ensuring simplicity and scalability. Performance is evaluated based on response time, relevance of generated outputs, and user interaction efficiency. Results indicate improved user experience, faster resume creation, and more relevant career guidance. The proposed architecture demonstrates how modern full-stack technologies combined with generative AI can deliver scalable and practical career support solutions."
+      },
+      {
+        "title": "First-Year Students’ IT Career Awareness",
+        "doi": "https://doi.org/10.1007/978-3-031-21076-1_6",
+        "year": 2022,
+        "venue": "Communications in computer and information science",
+        "abstract": null
+      },
+      {
+        "title": "Career Path Recommendations for Long-term Income Maximization: A Reinforcement Learning Approach",
+        "doi": "https://doi.org/10.48550/arxiv.2309.05391",
+        "year": 2023,
+        "venue": "arXiv (Cornell University)",
+        "abstract": "This study explores the potential of reinforcement learning algorithms to enhance career planning processes. Leveraging data from Randstad The Netherlands, the study simulates the Dutch job market and develops strategies to optimize employees' long-term income. By formulating career planning as a Markov Decision Process (MDP) and utilizing machine learning algorithms such as Sarsa, Q-Learning, and A2C, we learn optimal policies that recommend career paths with high-income occupations and industries. The results demonstrate significant improvements in employees' income trajectories, with RL models, particularly Q-Learning and Sarsa, achieving an average increase of 5% compared to observed career paths. The study acknowledges limitations, including narrow job filtering, simplifications in the environment formulation, and assumptions regarding employment continuity and zero application costs. Future research can explore additional objectives beyond income optimization and address these limitations to further enhance career planning processes."
+      },
+      {
+        "title": "Interactive Career Roadmap Website: Career Paths with Progress Tracking and AI Guided Recommendations",
+        "doi": "https://doi.org/10.55041/ijcope.v2i6.169",
+        "year": 2026,
+        "venue": "International Journal of Creative and Open Research in Engineering and Management",
+        "abstract": "Career navigation in rapidly evolving technology sectors presents substantial cognitive and motivational challenges for learners at all levels. Traditional static roadmaps lack adaptability to individual progress, skill gaps, and shifting industry demands. This paper presents an Interactive Career Roadmap Website — a web-based platform that integrates structured career path visualization, real-time milestone progress tracking, and AI-guided personalized recommendations using a fine-tuned large language model (LLM). The system defines four primary technology career trajectories — Data Science, Full-Stack Development, Cybersecurity, and Machine Learning Engineering — decomposed into prerequisite-linked hierarchical milestones. Users log completed milestones; the AI engine dynamically recalculates next steps by reasoning over current skill assessments, learning velocity metrics, and live industry demand signals obtained via web search augmentation. A randomized controlled study involving 120 participants over eight weeks demonstrated a statistically significant 34% improvement in goal clarity (p < 0.01) and a 28% increase in self-reported learning motivation compared to static roadmap baselines. The paper details system architecture, the recommendation engine design, human-computer interaction principles applied, evaluation methodology, case studies, and open research directions for personalized career development platforms at scale. Keywords— Career Roadmap, Progress Tracking, AI Recommendations, Skill Gap Analysis, Personalized Learning, Human-Computer Interaction, Large Language Models, Retrieval-Augmented Generation, EdTech, Knowledge Graphs."
+      },
+      {
+        "title": "Career Assessment and Recommendation System",
+        "doi": "https://doi.org/10.5281/zenodo.19287514",
+        "year": 2026,
+        "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+        "abstract": "Selecting the right career path is one of the toughest choices for students and job seekers. Many people find it hard to identify careers that match their skills, interests, and education. Traditional career guidance often feels too general and lacks a personal touch. To tackle this problem, this paper suggests an AI- Based Career Assessment and Recommendation System that offers customized career suggestions using data- driven methods. This system gathers user information through resume submissions, interest questionnaires, aptitude tests, and evaluations of technical skills. It processes this data with advanced algorithms and machine learning techniques to pinpoint the user's strengths, preferences, and skill levels. From this analysis, it recommends suitable career paths along with the relevant courses and educational resources needed to achieve those career goals."
+      },
+      {
+        "title": "PCRS: Personalized Career-Path Recommender System for Engineering Students",
+        "doi": "https://doi.org/10.1109/access.2020.3040338",
+        "year": 2020,
+        "venue": "IEEE Access",
+        "abstract": "Choosing a university specialization is a challenging decision for high-school students. Due to the lack of guidance and limited online resources, students base their decisions on subjective perceptions of family and friends. This increases the risk of high university dropout rates, and students changing their university disciplines. To address the aforementioned drawbacks, this research paper presents a Personalized Career-path Recommender System (PCRS) to provide guidance and help high school students choose engineering discipline. The design of PCRS is based on fuzzy intelligence of N-layered architecture and uses students’ academic performance, personality type, and extra-curricular skills. The association between personality type and engineering discipline was built using a sample of 1250 engineering students enrolled in seven engineering disciplines at An-Najah National University. PCRS is implemented as a mobile application and it is tested against an evaluation sample of 177 engineers. The sample consists of graduate or undergraduate engineers who are satisfied with their engineering disciplines. The evaluation examined the agreement between the recommendations generated by PCRS and the 177 actual engineering discipline of the sample. The evaluation results proved a slight agreement between the suggested recommendations of PCRS and the actual discipline of the research sample. Hence, PCRS is capable of providing guidance to high-school students who are interested in pursuing their studies in Engineering. The PCRS application is the first career-path recommender to target Palestinian community and other developing countries in the MENA region. The design of PCRS is scalable and it can be expanded in the future to consider other academic majors of higher education."
+      }
+    ]
+  },
+  {
+    "query": "internal talent markets skill development",
+    "url": "https://api.openalex.org/works?search=internal+talent+markets+skill+development&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:34.682986Z",
+    "reported_count": 98537,
+    "results": [
+      {
+        "title": "Towards Agile Talent Management: The Opportunities of a Skills-first Approach",
+        "doi": "https://doi.org/10.5465/amproc.2023.232bp",
+        "year": 2023,
+        "venue": "Academy of Management Proceedings",
+        "abstract": "Despite its evolution over the last two decades, talent management has been criticised for being too static in its approach. Drawing on matching theory and adopting an agility lens, we show how a skills-matching perspective on talent management fosters the development of strategic agility, responsive to external and internal demands. Through qualitative research encompassing 34 interviews in 15 multinational enterprises, we illustrate how a skills focus required revisiting talent strategies to facilitate initial and dynamic matching in external and internal labour markets, and we highlight key boundary conditions for skills-matching. We reveal a set of dynamic capabilities, underlying two meta-capabilities, strategic sensitivity and resource fluidity, which underpin the skills-matching process and enable strategic agility. In doing so, we shift the focus of talent management towards skills acquisition and development, and emphasise the need to look beyond traditional learning and development to alignment across the wider talent function."
+      },
+      {
+        "title": "Small Businesses to Overcome Skill Shortages and Talent Mismatches",
+        "doi": "https://doi.org/10.1108/978-1-83909-624-220211008",
+        "year": 2022,
+        "venue": "Emerald Group Publishing Limited eBooks",
+        "abstract": "Chapter Contribution The fourth industrial revolution and its disruptive technological advances are leading to continuous significant changes in the labour markets, which affect employees and employers of all sizes. Currently, organisations are experiencing considerable skill shortages and talent mismatches: the skills that organisations are looking for do not align with those available in the labour market. This means that matching available candidates on the market with job vacancies is unlikely. In addition, the increasing wage pressure in occupations linked with the most in-demand skills and in high-skills industries has become a reality. The immaterial assets of a business, such as the competences and skills of its workforce and leaders, are the most significant elements in providing a competitive advantage is a fact no one in the present era would argue against. While big corporations dispose more resources and capabilities to deal with these challenges, small businesses – considered the foundation of many healthy communities – have limited assets to face such global and complex dynamics. This chapter acknowledges the significance of small businesses in the global landscape and their key role as ‘job generators’ in enabling an inclusive economic growth in developed as well as in emerging countries. And in this context gives focus to the crucial issue how of small businesses can overcome the skill and the talent gap, and which strategic shifts they can put in place in order to withstand these environmental constraints. To this end, this chapter provides a broad investigation of international reports discussing the role played by external factors – such as governments and their policy frameworks – and the concept of knowledge sharing. Moreover, it examines the influence of internal factors. Specifically explored is the key role of the human resources function in attracting skilled graduates, upskilling its workforce, establishing a total reward and talent development strategy and engaging in job design. This chapter is of particular relevance to owner managers, general and HR managers of small businesses, but also public officials and private institutions. It identifies and offers practical solutions for small businesses that aim to transform themselves to successfully cope with skills shortages and the war for talent in the age of digitalisation."
+      },
+      {
+        "title": "Stable Matching on the Job? Theory and Evidence on Internal Talent Markets",
+        "doi": "https://doi.org/10.2139/ssrn.4824719",
+        "year": 2024,
+        "venue": "SSRN Electronic Journal",
+        "abstract": null
+      },
+      {
+        "title": "Inclusive talent development as a key talent management approach: A systematic literature review",
+        "doi": "https://doi.org/10.1016/j.hrmr.2022.100926",
+        "year": 2022,
+        "venue": "Human Resource Management Review",
+        "abstract": "Over the past decades, organizations have faced challenges in retaining good employees due to market competition and talent scarcity, thereby forcing leaders to improve their human resource strategies. Organizations often source exclusive talent development instead of nurturing talent inclusively. Exclusive refers to organizations' tendency to hire top talents outside their organization when needs arise, or if they have to look for candidates within the organization, only those identified as performers within their elite pool are selected. Literature suggests that inclusive talent development (i.e., career development via training for all employees regardless of individual performance) can complement management for employee retention. The present study carries out a systematic review of articles published from 1997 to 2020 pertaining to talent development, particularly inclusive nurturing, to enable frugal human resource management, i.e., developing human resource inclusive talent development (ITD) in a resource constrained environment. We address three major questions: to what degree is talent development (TD) represented in the wider talent management (TM) literature?; how does ITD contribute to individual talent growth and organizational performance?; and what are the limitations of current research on ITD? A total of 48 articles on TD, with 13 articles on ITD, are analyzed to provide theoretical and practical insights. This review presents research gaps on inclusive TD, and highlights future research directions, such as wider coverage to develop a more comprehensive scope, TD for low performers to improve their individual growth and organizational performance, application of frugal innovation through ITD, and association with resource-based view – valuable, rare, inimitability, and organized model (RBV-VRIO). While ITD coupled with other TM activities has significant effect on individual growth and organizational performance, the evidence for and discussion of this concept remains scarce. The research contributes to existing HRM literatures: (1) TD is a limited area of research and has minority representation within TM literature; (2) ITD is becoming increasingly crucial for individual talent growth and organizational performance towards a sustainable competitive advantage as primed by the RBV – VRIO model; and (3) key limitations of research on TD include one-sided perspectives to TD, lack of balance between individual talent growth and organizational performance, and other methodological weaknesses."
+      },
+      {
+        "title": "A skills‐matching perspective on talent management: Developing strategic agility",
+        "doi": "https://doi.org/10.1002/hrm.22192",
+        "year": 2023,
+        "venue": "Human Resource Management",
+        "abstract": "Abstract Despite two decades of evolution as an area of research and practice, talent management faces ongoing criticism for being overly static in its approach, offering little in terms of enabling strategic agility. This is problematic as organizations increasingly rely on strategic agility to manage their dynamic business operations. Drawing on matching theory and adopting an agility lens, we explore the link between talent management and strategic agility. Through a qualitative research design, encompassing 34 interviews in 15 organizations, we explicate a skills‐matching perspective on talent management, including initial and dynamic skills‐matching in external and internal labor markets. Through this process, organizations can build a set of dynamic capabilities, underlying two meta‐capabilities, strategic sensitivity and resource fluidity, which enable strategic agility. In doing so, we portray skills‐matching as an illustration of a processual view on talent management and create a model of developing strategic agility through skills‐matching, responsive to external and internal demands."
+      },
+      {
+        "title": "Talent Management and Skill Development in FinTech Ecosystems: A Strategic HRM Perspective",
+        "doi": null,
+        "year": 2026,
+        "venue": "Bulletin of Management Review",
+        "abstract": "This study explores how talent management practices (TMP) impact organizational performance (OP) within FinTech ecosystems, mediated by skill development (SD). The research has been based on a quantitative design, deductive approach, and positivist research philosophy. The structured questionnaire was used to collect primary data from 279 employees of FinTech firms in Pakistan. The analysis of the data was conducted using Partial Least Squares Structural Equation Modeling (PLS-SEM) with the assistance of SmartPLS 4.0. The study found a significant and positive impact of TMP on SD and OP. The results also indicate that the TMP-OP relationship is mediated by SD. These findings are supported by Strategic Human Resource Management (SHRM), the Resource-Based View (RBV), and Dynamic Capabilities Theory (DCT). The results suggest that FinTech companies should stop using the old models of talent management and invest in continuous learning and digital SD to enhance OP. It is original research on SHRM and fintech in Pakistan. Keywords: Talent Management, Skill Development, FinTech, Organizational Performance, Strategic HRM, PLS-SEM"
+      },
+      {
+        "title": "Narrowing Talent Gap: An Analysis on Effectiveness of Internal Talent Development Strategies in Small Enterprises.",
+        "doi": "https://doi.org/10.5281/zenodo.7792600",
+        "year": 2023,
+        "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+        "abstract": "Talent Capital is an active and dynamic resource needed for any organization to grow consistently. Talent Capital Management is the process of assessing the needed number of employees needed for completing the tasks and the skills needed for each task. The talent gap is the difference in number of employees needed for each position in the organization chart and the number of employees available at present in the organization. Internal Talent Management strategies include automation, training, assigning extra jobs, restructure the jobs based on employee involvement needed in quantitative measures ( hours or units, or both units and time). This helps to increase employee engagement effectively and can identify the areas where the level of automation can be increased or outsource talent in the tasks having lower employee engagement rates. The respondents of this survey are the managers or entrepreneurs and tool used is an employee utilization chart in which the effective rate of engagement is used to distribute the tasks and identify talent gap. It is case a panel study in which 89 firms participated from four sectors, retail, Manufacturing with assembly line, Engineering, food processing, and continuous process firms. The survey was conducted from April 2022 to October 2022. The results shows that, there is a shortage in talents in engineering , continuous process industry as task based skills are important. In assembly line, the work rate is adjusted with the available talents or prefer to outsource. In retail sector, the talent need is adjusted with part-time. Generic and traditional knowledge are acquired fast."
+      },
+      {
+        "title": "FDI in hot labour markets: The implications of the war for talent",
+        "doi": "https://doi.org/10.1057/s42214-020-00052-y",
+        "year": 2020,
+        "venue": "Journal of International Business Policy",
+        "abstract": "Abstract This paper highlights an inherent contradiction that exists within investment promotion activities in rich countries. Since the financial crisis, many inward investment agencies have shifted their activities from job creation per se to seeking to attract investment in high-tech activities. Such knowledge-intensive sectors are engaged in what has become referred to as “the war for talent”, so locations need to understand their value proposition to firms, especially where labour is tight. This paper explores the implications of this, in terms of the impact on employment and earnings of high skilled labour. We show that, because skill shortages already exist in many of these sectors, seeking to attract inward investment in these sectors simply causes the earnings of such workers to be bid up, and employment in the incumbent sector to fall. We highlight the over-riding importance that firms place on the availability of skilled labour when determining locations, and how policies which promote labour market flexibility, particularly through investment in skills to address skill shortages, can significantly mitigate the adverse effects, which tend to be more keenly felt in poorer regions of Europe where skilled labour is in even shorter supply."
+      }
+    ]
+  },
+  {
+    "query": "algorithmic recommendations experiential learning",
+    "url": "https://api.openalex.org/works?search=algorithmic+recommendations+experiential+learning&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:35.779833Z",
+    "reported_count": 29600,
+    "results": [
+      {
+        "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
+        "doi": "https://doi.org/10.1287/orsc.2022.16738",
+        "year": 2025,
+        "venue": "Organization Science",
+        "abstract": "This study examines the relationship between the adoption of algorithmic recommendation tools and experiential learning. We argue that the adoption of an algorithmic recommendation tool will harm experiential learning in organizations by limiting knowledge retention and retrieval. We further argue that the adverse relationship between algorithmic tool adoption and experiential learning will be stronger in organizations operating in low-task-difficulty environments than those in high-task-difficulty ones because organizational members in such organizations are likely to rely more on algorithmic recommendations, experiencing higher skill erosion. In addition, the relationship will be stronger in organizations facing low task variety than in those with high task variety, as these organizations are likely to have more rigid routines and in turn experience higher routine disruption after adopting an algorithmic tool. We utilize data on the adoption of an algorithmic tool called a clinical decision support system (CDSS) in a sample of emergency departments in California and utilize a fixed-effects panel regression with control function to test our arguments. We find that the relationship between cumulative experience and mortality becomes significantly weaker after CDSS adoption, suggesting flatter learning curves. We also find evidence that the effect is moderated by task difficulty and task variety. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.16738 ."
+      },
+      {
+        "title": "Algorithmic Recommendation Tools And Experiential Learning In Clinical Care",
+        "doi": "https://doi.org/10.2139/ssrn.5132003",
+        "year": 2025,
+        "venue": "SSRN Electronic Journal",
+        "abstract": null
+      },
+      {
+        "title": "Algorithmic personalization and brand loyalty: An experiential perspective",
+        "doi": "https://doi.org/10.1177/14705931241230041",
+        "year": 2024,
+        "venue": "Marketing Theory",
+        "abstract": "This article explores the relationship between algorithmic personalization and brand loyalty by examining how personalization experiences are articulated within the context of music streaming consumption. Despite previous acknowledgement of the link between personalization and brand loyalty, an experientially grounded understanding of how this works has yet to be articulated. Building upon the concept of ‘experiential brand loyalty’, the Algorithmic Personalization/Depersonalization Loop highlights the development of brand loyalty through consumers’ interactions with algorithm-backed brands. Being seen and understood by the algorithm sets off an iterative, two-way learning relationship that ultimately heightens the consumers’ experience, activates positive emotions, and deepens the relational bond with the brand, leading to brand loyalty. If, however, the algorithm is unsuccessful in personalizing the service experience, a ‘depersonalization’ process can occur that erodes brand loyalty and can lead to brand switching or even consumer activism."
+      },
+      {
+        "title": "Benchmarking In-context Experiential Learning Through Repeated Product Recommendations",
+        "doi": "https://doi.org/10.48550/arxiv.2511.22130",
+        "year": 2025,
+        "venue": "arXiv (Cornell University)",
+        "abstract": "To navigate ever-shifting real-world environments, agents must grapple with incomplete knowledge and adapt their strategies through experience. However, current evaluations of LLM-based agents largely overlook this capability. Crucially, we stress not just the ability to contend with uncertainty within a task (episode), as episode-specific information is progressively revealed across turns, but also the refinement of such adaptive ability across similar episodes, as agents accumulate experiences and infer their shared latent structure. Repeated product recommendation offers a natural setting to isolate this need for experiential learning: within each interaction, an intelligent recommender must elicit unknown customer preferences through questions; across multiple interactions, it should tailor its questioning strategy to the observed customer and product distributions. We instantiate the Benchmark for Experiential Learning and Active exploration (BELA) by combining (1) a rich catalog of real-world products from Amazon, (2) a diverse collection of synthetic customer personas aimed to capture heterogeneous latent preferences, and (3) an LLM-based customer simulator framework that emulate preference-revealing interactions. Rather than aiming to faithfully replicate real consumer behavior, BELA provides a controlled and scalable testbed for whether agents can exploit consistent latent preferences across episodes. Benchmarking current models reveals that they can learn across turns, but struggle to improve across episodes. This underscore the need for frontier models to advance in experiential learning capabilities."
+      },
+      {
+        "title": "Redesigning the Future of Experiential Learning",
+        "doi": "https://doi.org/10.33423/jhetp.v21i8.4507",
+        "year": 2021,
+        "venue": "Journal of Higher Education Theory and Practice",
+        "abstract": "In response to the call for more work-ready graduates, many academic programs have looked toward experiential learning to close the gap between theory and practice. Rather than sending students off campus, we have chosen instead to create an on-campus experience consisting of a series of two credit courses. Each course is the outcome of a collaborative process that relies on the expertise and experience of industry professionals who help develop and ultimately deliver a customized learning experience. These activity-based, guided learning experiences provide an inside look at how core knowledge can be applied to real work processes and problems."
+      },
+      {
+        "title": "Using Generative Artificial Intelligence Tools to Explain and Enhance Experiential Learning for Authentic Assessment",
+        "doi": "https://doi.org/10.3390/educsci14010083",
+        "year": 2024,
+        "venue": "Education Sciences",
+        "abstract": "The emergence of generative artificial intelligence (GenAI) requires innovative educational environments to leverage this technology effectively to address concerns like academic integrity, plagiarism, and others. Additionally, higher education needs effective pedagogies to achieve intended learning outcomes. This emphasizes the need to redesign active learning experiences in the GenAI era. Authentic assessment and experiential learning are two possible meaningful alternatives in this context. Accordingly, this article investigates how GenAI can enhance teaching and learning by constructively addressing study situations beyond conventional learning approaches and cultivating high-order skills and knowledge acquisition. This study employs thing ethnography to examine GenAI tools’ integration with authentic assessment and experiential learning and explore implementation alternatives. The results reveal insights into creating human-centered and GenAI-enhanced learning experiences within a constructive alignment. Specific examples are also provided to guide their implementation. Our contributions extend beyond the traditional use of GenAI tools as mere agents-to-write or agents-to-answer questions to become agents-to-support experiential learning for authentic assessment. These findings underscore the transformative role of GenAI tools in enhancing teaching and learning efficacy and effectiveness. The limitations in treating GenAI tools as subjects in thing ethnography are acknowledged, with potential for future implementation evaluation."
+      },
+      {
+        "title": "A Fuzzy-Neural Model for Personalized Learning Recommendations Grounded in Experiential Learning Theory",
+        "doi": "https://doi.org/10.3390/info16050339",
+        "year": 2025,
+        "venue": "Information",
+        "abstract": "Personalized learning is a defining characteristic of current education, with flexible and adaptable experiences that respond to individual learners’ requirements and approaches to learning. Traditional implementations of educational theories—such as Kolb’s Experiential Learning Theory—often follow rule-based approaches, offering predefined structures but lacking adaptability to dynamically changing learner behavior. In contrast, AI-based approaches such as artificial neural networks (ANNs) have high adaptability but lack interpretability. In this work, a new model, a fuzzy-ANN model, is developed that combines fuzzy logic with ANNs to make recommendations for activities in the learning process, overcoming current model weaknesses. In the first stage, fuzzy logic is used to map Kolb’s dimensions of learning style onto continuous membership values, providing a flexible and easier-to-interpret representation of learners’ preferred approaches to learning. These fuzzy weights are then processed in an ANN, enabling refinement and improvement in learning recommendations through analysis of patterns and adaptable learning. To make recommendations adapt and develop over time, a Weighted Sum Model (WSM) is used, combining learner activity trends and real-time feedback in dynamically updating proposed activity recommendations. Experimental evaluation in an educational environment shows that the model effectively generates personalized and changing experiences for learners, in harmony with learners’ requirements and activity trends."
+      },
+      {
+        "title": "A New Resource Recommendation Method for Experiential Leaching Based on the Completion Degree of Online Learning Tasks",
+        "doi": "https://doi.org/10.3991/ijet.v18i01.37129",
+        "year": 2023,
+        "venue": "International Journal of Emerging Technologies in Learning (iJET)",
+        "abstract": "Experiential Learning (ExL) is an effective way to consolidate theoretical knowledge and deepen understandings, and the recommendation of ExL resources needs to also take the effect of students’ theoretical learning into consideration. However, existing studies generally ignore the stage-by-stage assessment of students’ completion of online learning tasks, and the recommendation performance of existing resource recommendation models for ExL is not satisfactory enough. Therefore, the recommendation method needs to be innovated, and the interpretability of recommendation results is facing challenges. To respond to these issues, this paper studied a new resource recommendation method for ExL based on the completion degree of online learning tasks. At first, the paper gave the principle of recommending ExL resources based on the completion degree of online learning tasks, and built an online learning task completion degree prediction model. Then, this paper adopted a bi-directional GRU network model based on attention mechanism to analyze the recent online learning behavior sequence of students and attain the completion degree of students’ short term learning tasks. After that, a knowledge map representing ExL resources and the correlation of knowledge attributes was drawn; by combining the completion degree of both the short-term and long-term learning tasks, the ExL resources suitable for students were recommended to them. At last, experimental results verified the effectiveness of the constructed model."
+      }
+    ]
+  },
+  {
+    "query": "performative prediction human capital investment",
+    "url": "https://api.openalex.org/works?search=performative+prediction+human+capital+investment&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:36.859349Z",
+    "reported_count": 87614,
+    "results": [
+      {
+        "title": "Automation and Human Capital Investment",
+        "doi": "https://doi.org/10.53330/xogm3113",
+        "year": 2026,
+        "venue": null,
+        "abstract": "Technological change has an ambiguous impact on labour market by creating demand for some skills and reducing demand of some others. Hence the relationship of demand for skills and the need for training is an empirical question. In this paper, I investigate association between types of technological change and decisions. I categorise several measures of automation on the basis of tasks (done at individual or occupation level) and technology (Software, Robot, AI) and compare their relationship with human capital investment. I find that the correlation between automation and training varies depending on the automation measure used, showing a decline with both individual-and occupation-level automation measures. However when relying on technology based measures of automation, workers exposed to older technologies (Robot, Software) receive less training with automation, while workers exposed to newer technologies (AI) receive more training with automation. The findings are consistent across workers of different age groups and skill levels."
+      },
+      {
+        "title": "Human Capital Investment and Development: The Role of On-the-Job Training",
+        "doi": "https://doi.org/10.1086/728667",
+        "year": 2023,
+        "venue": "Journal of Political Economy Macroeconomics",
+        "abstract": "Workers in richer countries experience faster rates of wage growth over their lifetimes than workers in poorer countries. We offer an explanation for this pattern by showing that workers in richer economies receive more firm-provided training. Using cross-country enterprise and worker-level data, we document that the share of workers who receive firm-provided training increases with development, and that firm-provided training is a key determinant of workers’ human capital. We then build a general equilibrium search model with firm-provided training investments. Our model suggests that firm-provided training accounts for 38% of cross-country wage growth differences and 12% of cross-country income differences."
+      },
+      {
+        "title": "Application of Artificial Intelligence for Better Investment in Human Capital",
+        "doi": "https://doi.org/10.3390/math11030612",
+        "year": 2023,
+        "venue": "Mathematics",
+        "abstract": "Selecting candidates for a specific job or nominating a person for a specific position takes time and effort due to the need to search for the individual’s file. Ultimately, the hiring decision may not be successful. However, artificial intelligence helps organizations or companies choose the right person for the right job. In addition, artificial intelligence contributes to the selection of harmonious working teams capable of achieving an organization’s strategy and goals. This study aimed to contribute to the development of machine-learning models to analyze and cluster personality traits and classify applicants to conduct correct hiring decisions for particular jobs and identify their weaknesses and strengths. Helping applicants to succeed while managing work and training employees with weaknesses is necessary to achieving an organization’s goals. Applying the proposed methodology, we used a publicly available Big-Five-personality-traits-test dataset to conduct the analyses. Preprocessing techniques were adopted to clean the dataset. Moreover, hypothesis testing was performed using Pearson’s correlation approach. Based on the testing results, we concluded that a positive relationship exists between four personality traits (agreeableness, conscientiousness, extraversion, and openness), and a negative correlation occurred between neuroticism traits and the four traits. This dataset was unlabeled. However, we applied the K-mean clustering algorithm to the data-labeling task. Furthermore, various supervised machine-learning models, such as random forest (RF), support vector machine (SVM), K-nearest neighbor (KNN), and AdaBoost, were used for classification purposes. The experimental results revealed that the SVM attained the highest results, with an accuracy of 98%, outperforming the other classification models. This study adds to the current literature and body of knowledge through examining the extent of the application of artificial intelligence in the present and, potentially, the future of human-resource management. Our results may be of significance to companies, organizations and their leaders and human-resource executives, in addition to human-resource professionals."
+      },
+      {
+        "title": "The impact of investment in human capital on bank performance: evidence from Bangladesh",
+        "doi": "https://doi.org/10.1186/s43093-021-00105-5",
+        "year": 2021,
+        "venue": "Future Business Journal",
+        "abstract": "Abstract The objective of this study is to examine the aspects of investment in human capital like training of employees, education level of employees, knowledge level of employees, and skills of employees that influence the performance of a bank and to provide some comments to improve the banking sectors. This research included a conceptual model along with hypotheses. This empirical study is based on primary data. The data were obtained by the convenient sampling procedure with a questionnaire using the seven-point Likert scale. The hypothesized model has been validated using data from 261 participants, and an analysis was conducted using the system of structural equation modelling. The results revealed that investment in training, knowledge level and skills of the employee were positively connected to bank performance at less than 1% and a 5% level of significance. But the employee’s educational level does not substantially affect bank output in this analysis. The focus field is the study of the human capital investments of the Human Resources Division at Janata Bank Limited. It investigates different aspects of the Janata Bank’s facilities as well as the problems and prospects. Thus, this study can be a policy dialogue for the managers, owners, decision-makers, and academicians."
+      },
+      {
+        "title": "Human capital investment and perceived automation risks: Evidence from 16 countries",
+        "doi": "https://doi.org/10.1016/j.jebo.2021.12.027",
+        "year": 2022,
+        "venue": "Journal of Economic Behavior & Organization",
+        "abstract": "Robotics and artificial intelligence are transforming jobs and career paths, and equipping workers with the ability to gain new skills has become a strategic policy imperative. Previous studies showed that investment in human capital depends on locus of control, risk preferences and impatience. Yet in a changing world of work, the perceived risk of being replaced by a machine or an algorithm might also affect workers’ decisions to gain new professional skills. Using novel survey data from representative samples of working individuals in 16 countries, this paper shows that fear of automation is positively associated with workers’ intentions to invest in training activities outside their workplace. This effect is robust to controlling for other known behavioural traits. We also show that fear of automation reinforces the effect that internal locus of control exerts on retraining intentions."
+      },
+      {
+        "title": "HUMAN CAPITAL INVESTMENT AND ECONOMIC GROWTH IN RWANDA",
+        "doi": "https://doi.org/10.5281/zenodo.7376700",
+        "year": 2022,
+        "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+        "abstract": "Abstract: Acknowledging that human capital stocks influence the economic growth of such a country, this thesis was conducted for studying the relationship between human capital and economic growth in Rwanda. Time series data used were the secondary data from the World Bank, development indicators open source. The Ordinal Least Square (OLS) regression was used for performing the analysis of those time series (1980-2019). Different tests used by econometricians for running a robust model were run, that is ADF for testing the stationarity of the series and the Johansen Cointegration test for identifying whether there is cointegration of vectors among endogenous variables and the existence of long-run equilibrium. The time series were stationary in the first difference, denoted by I(1) and two vectors are cointegrated which directed the researcher to run the VECM. The estimates of VECM showed that there is a 9.82% adjustment of shock from the short-run to the long-run equilibrium. All the human capital proxy variables were statistically significant, however, some variables indicated unexpected negative signs, which are suspected to be caused by a lack of data collection over time and human capital constraints such as unemployment, quality of education and health system challenges. Therefore, it is recommended to improve the quality of education, and health services and conduct further research using other proxy variables of human capital in Rwanda for comparison purposes. Keywords: Human capital investment; economic growth; cointegration; time series. Title: HUMAN CAPITAL INVESTMENT AND ECONOMIC GROWTH IN RWANDA Author: RUDASINGWA Didace International Journal of Thesis Projects and Dissertations (IJTPD) Vol. 10, Issue 4, October 2022 - December 2022 Page No: 79-88 Research Publish Journals Website: www.researchpublish.com Published Date: 29-November-2022 DOI: https://doi.org/10.5281/zenodo.7376701 Paper Download Link (Source) https://www.researchpublish.com/papers/human-capital-investment-and-economic-growth-in-rwanda"
+      },
+      {
+        "title": "Risk of Investment in Human Capital and Skills Mismatch",
+        "doi": "https://doi.org/10.4467/25439561le.20.013.13004",
+        "year": 2020,
+        "venue": "Labor et Educatio",
+        "abstract": "This paper uses data from the fifth edition of the European Working Conditions Survey to examine the relationship between workers’ skills mismatch and risk of investment in work-related training. Apart from financial (earnings) worker’s risk, the study addresses also some non-financial facets of the investment risk. The results indicate that while mismatched workers have higher earnings risk than wellmatched ones, they also perceive their jobs as more insecure. Surprisingly, mismatched workers are also relatively more optimistic of having good career prospects and finding similarly paid employment. These findings did not allow a conclusion about the difference in non-financial risk between mismatched and well-matched workers."
+      },
+      {
+        "title": "Evaluating the Impact of Remittances on Human Capital Investment in the Kyrgyz Republic",
+        "doi": "https://doi.org/10.2139/ssrn.3849991",
+        "year": 2021,
+        "venue": "SSRN Electronic Journal",
+        "abstract": "Remittances from overseas can encourage human capital investment and improve educational outcomes in developing countries. Empirical studies, however, have shown mixed evidence at best. This paper uses a 5-year panel dataset that tracks the same 3,000 households and 8,000 individuals through time in all seven regions of the Kyrgyz Republic to examine the impact of remittances on the human capital formation of school-age children. After correcting for selection bias and other potential endogeneities with instrumental variables and fixed effects regressions, remittances are found to have negative impacts on human capital investment and educational achievement. The negative effects can be attributed in part to recipients’ increased expenditure on durable goods and extended hours of child labor on farm work as a compensation for missing adult labor. Our finding calls for actions that mitigate the negative effects and incentivize families to spend remittances on education, including financial literacy education, better monitoring of farm labor hours of school-age children, and targeted investment to improve the quality of education services in the Kyrgyz Republic."
+      }
+    ]
+  },
+  {
+    "query": "skill investment information labor market training",
+    "url": "https://api.openalex.org/works?search=skill+investment+information+labor+market+training&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:38.028984Z",
+    "reported_count": 127201,
+    "results": [
+      {
+        "title": "The demand for AI skills in the labor market",
+        "doi": "https://doi.org/10.1016/j.labeco.2021.102002",
+        "year": 2021,
+        "venue": "Labour Economics",
+        "abstract": null
+      },
+      {
+        "title": "Workplace Training Unpacked: Labor Market Competition and Investment in General Skills",
+        "doi": "https://doi.org/10.2139/ssrn.5006121",
+        "year": 2024,
+        "venue": "SSRN Electronic Journal",
+        "abstract": "Skills acquired on the job, whether general or industry-specific, significantly influence workers' labor market outcomes. Workers with general skills tend to have higher re-employment prospects and greater resilience to economic shocks. Using novel data from a recent policy intervention in the Italian labor market, we develop a new measure that captures the tasks taught in firm-provided training for individual workers. This measure enables us to examine the relationship between labor market competition and firms' decisions to invest in general versus industry-specific skills. Our findings indicate that, as theory predicts, workers in more competitive labor markets receive less general training."
+      },
+      {
+        "title": "Information Technology Skills and Labor Market Outcomes for Workers",
+        "doi": "https://doi.org/10.1287/isre.2020.0975",
+        "year": 2021,
+        "venue": "Information Systems Research",
+        "abstract": "Job erosion is a major concern globally, especially given the COVID-19 pandemic. Unemployment and low wages remain pressing societal challenges in the wake of increased automation, more so for traditionally disadvantaged groups in the labor market, such as women, minorities, and the elderly. However, workers who possess relevant information technology (IT) skills may have an edge in an increasingly digital economy. In this study, we examine the role of IT skills in labor market outcomes for workers, using a household IT use survey from an emerging economy that captures detailed, individual-level data on IT skills, which are also integrated with data on workers’ wages, occupations, and industries between 2007 and 2015. The results indicate that basic IT skills increase individuals’ employment probability, which is driven by both higher labor force participation and a higher probability of transitioning from unemployment to employment, after accounting for the decision to participate in the workforce. Advanced IT skills do not provide a significant incremental effect on employment probability on top of basic IT skills. However, having advanced IT skills helps workers to earn higher wages while incrementally increasing the probability that they are employed in higher-paid jobs. Interestingly, the effect of basic IT skills on employment is significantly larger for the female and older workforce that typically has a higher preference for flexible work options. These results emphasize the importance of providing necessary IT access and offering basic IT training to traditionally disadvantaged groups to close the IT skills gap and the digital divide. We offer implications for the future of work, education, and public policy for designing IT training policies for workers, students, and organizations to stimulate employment with higher wages, particularly in developing economies and for traditionally disadvantaged segments of the workforce, such as women and the elderly, particularly after the COVID-19 pandemic."
+      },
+      {
+        "title": "Skill Investment, Job Creation, and Labor Market Policy under Search Frictions",
+        "doi": null,
+        "year": 2026,
+        "venue": "eScholarship (California Digital Library)",
+        "abstract": "This dissertation studies skill investment, job creation, and labor market policy under search frictions. In each chapter, workers or firms make sunk investments in frictional labor markets, and private incentives diverge from the social value of those decisions. The central question across all three chapters is not whether to intervene, but where: which side of the matching process bears the relevant distortion, and what instruments are needed to correct it. The green transition is often analyzed through the lens of technology adoption and capital reallocation, but its political economy turns on workers and jobs. Chapter 1 asks whether production subsidies alone are sufficient to implement the green transition, or whether worker-side support is also needed. I develop a two-sector Diamond-Mortensen-Pissarides model in which green workers invest in sector-specific human capital before matching with firms. Since training is sunk at the time of wage bargaining, workers capture only a fraction of its social return and underinvest relative to the planner. A production subsidy corrects the environmental externality and delivers the right number of green jobs, but does not implement the planner's training choice; a worker-side training subsidy is also required to correct the skill margin. In a U.S. calibration, a production-only policy reaches the same 14 percent green employment benchmark as the coordinated policy, but with lower green human capital and lower output. The two policies are not substitutes: reaching the right employment level does not guarantee the right skill intensity. Governments seeking to revitalize manufacturing often face a chicken-and-egg problem: firms hesitate to expand without skilled workers, while workers are reluctant to acquire those skills without job prospects. Chapter 2 asks whether public support should target firms, workers, or both. It studies manufacturing development in a two-sector open economy with search frictions and endogenous job-specific capital. The key friction is capital hold-up: investment is sunk before wage bargaining, discouraging job creation most severely in manufacturing, where capital intensity is highest. The calibrated shortfall is about one percent of total employment, roughly one-fifth of the Latin America-East Asia industrial employment gap. Whether worker-side support is also needed depends on whether search externalities are efficiently internalized: when they are, an investment subsidy financed by a firm-level employment tax is sufficient; when they are not, workers' sectoral choices are also distorted and targeted training support is needed alongside. The first step in a worker's career is often particularly hard: an entry-level job is required in order to get an entry-level job. Chapter 3 studies the school-to-work transition through this lens. Firms bear training costs when they hire inexperienced workers and therefore rank them below experienced applicants; entrants who remain unemployed too long face a persistent skill-loss shock, a cost borne by future employers rather than the firm that turned them away. Standard interventions such as anti-discrimination law and hiring subsidies improve welfare, but modestly. The largest gains come from subsidizing entrant hiring so heavily that firms actually prefer inexperienced workers over experienced ones. This reversal of the natural ranking generates a welfare gain of 1.51 percent and brings the economy close to the constrained-efficient allocation. Together, the three chapters show that employment expansion is not a sufficient guide to policy design in frictional labor markets. Similar employment outcomes can mask distinct underlying distortions: worker underinvestment in green human capital, firm underinvestment in manufacturing capital, or the systematic disfavoring of inexperienced workers at labor market entry. Because these wedges operate on different margins of the matching process, a policy that raises employment on one margin need not restore efficiency on another. The relevant policy question is not simply how much employment to create, but which margin of matching and investment must be corrected to create it efficiently."
+      },
+      {
+        "title": "Financial life-skills training and labor market outcomes in Indonesia",
+        "doi": "https://doi.org/10.1016/j.iree.2022.100255",
+        "year": 2022,
+        "venue": "International Review of Economics Education",
+        "abstract": "This study examines the relationship between a United States Agency for International Development financial life skills training program for poor and vulnerable youth in Indonesia on labor market outcomes two years following the training. Longitudinal results indicate that self-efficacy and financial behaviors improved from pre-training to two years after the training, and a logistic regression analysis finds significant correlations between self-efficacy and financial behaviors with finding new or better employment. Because financial literacy education can be associated with improved financial behaviors, and soft skills acquisition can be associated with improved self-efficacy, we conclude that the training program led indirectly to new or better employment outcomes for participants. Reinforcing this result, between 92 % and 97 % of the trained youth attributed the training program to their observed improvements in work performance and/or to new or better employment opportunities."
+      },
+      {
+        "title": "Skills and Human Capital in the Labor Market",
+        "doi": "https://doi.org/10.3386/w32908",
+        "year": 2024,
+        "venue": "National Bureau of Economic Research",
+        "abstract": "This paper synthesizes the economics literature on skills and human capital, with a particular focus on higher-order capacities like social and decision-making skills.We review the empirical evidence on returns to human capital from both a micro and macro perspective, as well as the evidence on returns to human capital investment over the life-cycle.We highlight two key limitations of human capital theory as currently implemented.First, prior work mostly assumes that human capital is one-dimensional and can be measured by education or test scores alone.Second, human capital is typically modeled as augmenting the marginal product of labor with workers being treated as factors of production, just like physical capital.We argue for a new approach that treats workers as agents who decide how to allocate their labor over job tasks.Traditional cognitive skills make workers more productive in any task, while higher-order skills govern workers' choices of which tasks to perform and whether to work alone or in a team.We illustrate the value of this approach with stylized models that incorporate teamwork and decisionmaking skills and generate predictions about how returns to skills vary across contexts."
+      },
+      {
+        "title": "Skills in the labor market",
+        "doi": "https://doi.org/10.5282/edoc.36743",
+        "year": 2026,
+        "venue": "Electronic Theses of LMU Munich (Ludwig-Maximilians-Universität München)",
+        "abstract": "This thesis is the product of a journey that offered intellectual rewards and personal joy, but also trials and setbacks.I owe heartfelt thanks to all who made it special and stood by"
+      },
+      {
+        "title": "Investment in training and skills",
+        "doi": "https://doi.org/10.1920/re.ifs.2023.0277",
+        "year": 2023,
+        "venue": null,
+        "abstract": "IFS Green Budget 2023 1 Investment in training and skillsImran Tahir (IFS) Key findings1.The UK has seen a significant decline in participation in adult education and training.The number of publicly funded qualifications started by adults has declined by 70% since the early 2000s, dropping from nearly 5.5 million qualifications to 1.5 million by 2020.Although the total number of adults participating in employerprovided training has remained fairly stable over time, the average number of days of workplace training received each year has fallen by 19% per employee in England since 2011.2. The decline in training participation has occurred alongside a fall in both public and private investment in training.Average employer spending on training has decreased by 27% per trainee since 2011.Since its peak in 2003-04, public funding for adult skills has fallen by 31% in real terms, mostly as a result of a reduction in provision of low-level courses.But the historical decline in funding also reflects long-term freezes in funding rates.Funding provided for an adult learner taking GCSE English or maths has fallen by 20% since 2015-16 in real terms.3.There are five main policy levers that this (or a future) government might look to in the adult skills policy sphere: the direct public funding of qualifications and skills programmes, loans to learners, training subsidies, taxation of training and the regulation of training.In making changes to any lever, there is a trade-off between the costs of the reform (both the fiscal cost and the cost associated with further policy churn) and the benefits, which depend on whether the reform leads to additional training that is genuinely new and productive.4. Ensuring that public funding of adult education is well spent is key.Adult skills funding is set to increase by 11% on today's levels, reaching around £4.7 billion by 2024-25.Given the low returns to many adult skills courses, instead of expanding  The Institute for Fiscal Studies, October 2023"
+      }
+    ]
+  },
+  {
+    "query": "skill recommendations competition labor supply",
+    "url": "https://api.openalex.org/works?search=skill+recommendations+competition+labor+supply&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:39.219397Z",
+    "reported_count": 40456,
+    "results": [
+      {
+        "title": "Digital skills supply and demand on the Russia regional labor markets",
+        "doi": "https://doi.org/10.1051/e3sconf/202341305017",
+        "year": 2023,
+        "venue": "E3S Web of Conferences",
+        "abstract": "The digital transformation has a significant impact on labor resources development, leading to a change in the skills types that are in demand and offered in the labor market. Due to the spatial heterogeneity of the Russian economy, the digital skills of the population in different regions have significant differences, which acts as a limitation of labor mobility, reduces the efficiency of using human potential and requires the development of inclusive regulatory measures. The study purpose is to assess the current spatial differentiation of the digital skills of the workforce, the ratio of their market demand and supply, as well as to propose appropriate measures to improve the efficiency of the regional labor market. A quantitative assessment of the demand of employers for workforce digital competencies in the regional labor markets was obtained on the basis of an analysis of the requirements for applicants presented in the unified database of vacancies in Russia, their further automated processing and ranking. The corresponding quantitative assessment of the market supply of digital competencies of the workforce was obtained using the hierarchical data clustering. The scientific novelty of the study lies in the identification the imbalance between the level of workforce digital skills development in Russian regions and the needs of regional labor markets. The practical significance of the study results lies in substantiating the policy of workforce digital skills inclusive development for each region, which should include corporate strategies for the development of digital competencies of both employed workers and potential job seekers."
+      },
+      {
+        "title": "Soft Skills, Competition, and Hiring Discrimination",
+        "doi": "https://doi.org/10.1596/1813-9450-10755",
+        "year": 2024,
+        "venue": "World Bank policy research working paper",
+        "abstract": "We conduct a correspondence study to assess demand for soft skills in the context of hiring discrimination in Malaysia. We find no evidence of gender-based discrimination, including in STEM occupations. However, in line with previous studies in the same context, we find evidence of ethnic discrimination. We then test the relevance of two soft skills: leadership and teamwork. We find some evidence that the labor market rewards simple signals of teamwork for the average applicant. Teamwork also plays an important role in the context of labor market discrimination, reducing the discrimination gap by 40%. In contrast, signaling leadership skills has no effect. Last, we consider the role of labor market competition. Companies facing competition in the labor market, measured by the number of competitors advertising similar positions, are 56 to 66% less likely to discriminate. On the supply-side, discrimination increases with the relative quality of the pool of applicants. Our results provide novel evidence that soft skills and labor market competition both play an important role in understanding hiring discrimination. This underlines potential pathways to overcome labor market discrimination and improve job matching."
+      },
+      {
+        "title": "Designing labor market recommender systems: the importance of job seeker preferences and competition",
+        "doi": null,
+        "year": 2021,
+        "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+        "abstract": "International audience"
+      },
+      {
+        "title": "Labor Supply and Demand Projection in Sub-Saharan Africa",
+        "doi": "https://doi.org/10.1596/35239",
+        "year": 2021,
+        "venue": "World Bank, Washington, DC eBooks",
+        "abstract": "Attribution-Please cite the work as follows: \""
+      },
+      {
+        "title": "Am I Fit for Tomorrow’s Labor Market? The Effect of Graduates’ Skills Development during Higher Education for the 21st Century’s Labor Market",
+        "doi": "https://doi.org/10.3390/su12187746",
+        "year": 2020,
+        "venue": "Sustainability",
+        "abstract": "This study contributes to the employability skills debate by investigating how students’ self-perceived 21st century skills relate to the self-perceived fit between their higher education curriculum and their future labor market for a sustainable entry to this labor market. Survey data from 4670 fourth-year students over a period of four years were analyzed. Furthermore, out of this group, 83 students were monitored longitudinally over their full educational student careers. Results showed a positive relationship between students’ self-perceived 21st century skills and their self-perceived “education-future labor market fit”. Among more recent cohorts, a significant improvement in their self-perceived 21st century skills was found. Overall, this study indicated that in order to deliver “employable” graduates, students need to be thoroughly trained in 21st century skills, and their development should be retained and expanded. This is one of the few studies that uses a vast amount of both cross-sectional and longitudinal data on skills and labor market perspectives among new graduates."
+      },
+      {
+        "title": "Labor Market Soft Skills in the Context of Digitalization of the Economy",
+        "doi": "https://doi.org/10.3390/socsci11030091",
+        "year": 2022,
+        "venue": "Social Sciences",
+        "abstract": "Economies globally have relied on the difficulties of labor market operations. Their survival is based on their ability to adapt to the realities of current technological and digital requirements. The purpose of this study was to assess the future needs of the labor market for soft skills acquired by employees in the context of digitalization of the economy in facing modern attributes of labor market requirements using secondary data. The arguments advanced in this paper are premised on the notion that the digitalization of the economy leads to an increase in employers’ need for employees to acquire soft skills. The study is grounded on the Goal-Setting Theory of Motivation, which presupposes that there is a critical link between the goals individuals or organizations set for themselves and their performance. The analysis of the selected studies revealed that soft skills are considered critical during job interviews and are becoming increasingly scarce. This study predicts a shortage of employees with soft skills, accompanied by an increase in employers’ need for flexible skills. Additionally, this research recommends that discussions should consider the implications of digital technologies for personnel management and holistic measures to safeguard organizational wellbeing and protect the labor market economy through digitalization."
+      },
+      {
+        "title": "Money or meaning? Labor supply responses to work meaning of employed and unemployed individuals",
+        "doi": "https://doi.org/10.1016/j.euroecorev.2021.103786",
+        "year": 2021,
+        "venue": "European Economic Review",
+        "abstract": null
+      },
+      {
+        "title": "The impact of digital economy development on the demand and supply of labor market",
+        "doi": "https://doi.org/10.54691/bcpbm.v33i.2835",
+        "year": 2022,
+        "venue": "BCP Business & Management",
+        "abstract": "With the continuous development of the digital economy, the labor market has been affected to some extent. Therefore, in order to prevent employment problems caused by the changes, this paper will study the impact of the development of the digital economy on the supply and demand of the labor market. This paper will find out whether the market matches the supply and demand of labor by combining the analysis of how the digital economy affects the demand and supply of the labor market. Through the research, this paper finds that in the long term, the changes in labor supply roughly match the changes in demand affected by the digital economy; in the short term, the labor supply cannot match the demand for jobs in some fields in terms of quantity. This study helps to provide entry points and methods to solve employment problems in the context of digital economy development."
+      }
+    ]
+  }
+]

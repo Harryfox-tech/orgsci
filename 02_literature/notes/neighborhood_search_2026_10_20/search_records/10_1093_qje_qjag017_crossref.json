@@ -1,0 +1,935 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+    "checked_at": "2026-10-20T01:28:12.389886Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T22:53:17Z",
+        "timestamp": 1791413597070,
+        "version": "4.3.3"
+      },
+      "reference-count": 66,
+      "publisher": "Oxford University Press (OUP)",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                23
+              ]
+            ],
+            "date-time": "2026-03-23T00:00:00Z",
+            "timestamp": 1774224000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100011326",
+          "name": "London School of Economics",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "90561"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "90561"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100011326",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100000269",
+          "name": "ESRC",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100000269",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100032010",
+          "name": "STICERD",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100032010",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            11
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Why do managers matter for firm performance? This article provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data cover 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.</jats:p>",
+      "DOI": "10.1093/qje/qjag017",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            21
+          ]
+        ],
+        "date-time": "2026-03-21T12:38:49Z",
+        "timestamp": 1774096729000
+      },
+      "page": "1871-1920",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs"
+      ],
+      "prefix": "10.1093",
+      "volume": "141",
+      "author": [
+        {
+          "given": "Virginia",
+          "family": "Minni",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Chicago Booth School of Business ,",
+              "place": [
+                "United States"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2026071100311861800_bib1",
+          "doi-asserted-by": "publisher",
+          "first-page": "251",
+          "DOI": "10.1111/1468-0262.00020",
+          "article-title": "High Wage Workers and High Wage Firms",
+          "volume": "67",
+          "author": "Abowd",
+          "year": "1999",
+          "journal-title": "Econometrica"
+        },
+        {
+          "key": "2026071100311861800_bib2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1043",
+          "DOI": "10.1016/S0169-7218(11)02410-5",
+          "article-title": "Skills, Tasks and Technologies: Implications for Employment and Earnings",
+          "volume-title": "Handbook of Labor Economics",
+          "author": "Acemoglu",
+          "year": "2011"
+        },
+        {
+          "key": "2026071100311861800_bib3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1086/717046",
+          "article-title": "Management and Shocks to Worker Productivity",
+          "volume": "130",
+          "author": "Adhvaryu",
+          "year": "2022",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib4",
+          "doi-asserted-by": "publisher",
+          "first-page": "1569",
+          "DOI": "10.1093/restud/rdac062",
+          "article-title": "Managerial Quality and Productivity Dynamics",
+          "volume": "90",
+          "author": "Adhvaryu",
+          "year": "2023",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026071100311861800_bib5",
+          "doi-asserted-by": "publisher",
+          "first-page": "313",
+          "DOI": "10.1162/003355301556329",
+          "article-title": "Employer Learning and Statistical Discrimination",
+          "volume": "116",
+          "author": "Altonji",
+          "year": "2001",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2139/ssrn.4883862",
+          "article-title": "Gender Gaps Across the Spectrum of Development: Local Talent and Firm Productivity",
+          "author": "Ashraf",
+          "year": "2024"
+        },
+        {
+          "key": "2026071100311861800_bib7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3386/w33843",
+          "article-title": "Meaning at Work",
+          "author": "Ashraf",
+          "year": "2025"
+        },
+        {
+          "key": "2026071100311861800_bib8",
+          "doi-asserted-by": "publisher",
+          "first-page": "645",
+          "DOI": "10.1093/qje/qjaa004",
+          "article-title": "The Fall of the Labor Share and the Rise of Superstar Firms",
+          "volume": "135",
+          "author": "Autor",
+          "year": "2020",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib9",
+          "doi-asserted-by": "publisher",
+          "first-page": "881",
+          "DOI": "10.2307/2118351",
+          "article-title": "The Internal Economics of the Firm: Evidence from Personnel Data",
+          "volume": "109",
+          "author": "Baker",
+          "year": "1994",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib10",
+          "doi-asserted-by": "publisher",
+          "first-page": "921",
+          "DOI": "10.2307/2118352",
+          "article-title": "The Wage Policy of a Firm",
+          "volume": "109",
+          "author": "Baker",
+          "year": "1994",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib11",
+          "doi-asserted-by": "publisher",
+          "first-page": "729",
+          "DOI": "10.1162/qjec.122.2.729",
+          "article-title": "Incentives for Managers and Inequality among Workers: Evidence from a Firm-Level Experiment",
+          "volume": "122",
+          "author": "Bandiera",
+          "year": "2007",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib12",
+          "doi-asserted-by": "publisher",
+          "first-page": "1079",
+          "DOI": "10.1111/jeea.12028",
+          "article-title": "Team Incentives: Evidence from a Firm Level Experiment",
+          "volume": "11",
+          "author": "Bandiera",
+          "year": "2013",
+          "journal-title": "Journal of the European Economic Association"
+        },
+        {
+          "key": "2026071100311861800_bib13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1325",
+          "DOI": "10.1086/705331",
+          "article-title": "CEO Behavior and Firm Performance",
+          "volume": "128",
+          "author": "Bandiera",
+          "year": "2020",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib14",
+          "doi-asserted-by": "publisher",
+          "first-page": "2085",
+          "DOI": "10.1093/qje/qjz022",
+          "article-title": "Promotions and the Peter Principle",
+          "volume": "134",
+          "author": "Benson",
+          "year": "2019",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib15",
+          "doi-asserted-by": "publisher",
+          "first-page": "375",
+          "DOI": "10.1257/aer.20220831",
+          "article-title": "Potential’ and the Gender Promotion Gap",
+          "volume": "116",
+          "author": "Benson",
+          "year": "2026",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "2026071100311861800_bib16",
+          "doi-asserted-by": "publisher",
+          "first-page": "315",
+          "DOI": "10.2307/2297807",
+          "article-title": "Strategic Promotion and Compensation",
+          "volume": "62",
+          "author": "Bernhardt",
+          "year": "1995",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026071100311861800_bib17",
+          "doi-asserted-by": "publisher",
+          "first-page": "626",
+          "DOI": "10.1093/restud/rdz029",
+          "article-title": "The Glittering Prizes: Career Incentives and Bureaucrat Performance",
+          "volume": "87",
+          "author": "Bertrand",
+          "year": "2020",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026071100311861800_bib18",
+          "doi-asserted-by": "publisher",
+          "first-page": "1169",
+          "DOI": "10.1162/003355303322552775",
+          "article-title": "Managing with Style: The Effect of Managers on Firm Policies",
+          "volume": "118",
+          "author": "Bertrand",
+          "year": "2003",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib19",
+          "doi-asserted-by": "publisher",
+          "first-page": "1800",
+          "DOI": "10.1093/restud/rdac067",
+          "article-title": "Career Spillovers in Internal Labour Markets",
+          "volume": "90",
+          "author": "Bianchi",
+          "year": "2023",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026071100311861800_bib20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1697",
+          "DOI": "10.1016/S0169-7218(11)02417-8",
+          "article-title": "Human Resource Management and Productivity",
+          "volume-title": "Handbook of Labor Economics",
+          "author": "Bloom",
+          "year": "2011"
+        },
+        {
+          "key": "2026071100311861800_bib21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3386/w31674",
+          "article-title": "Economic Decision-Making Skill Predicts Income in Two Countries",
+          "author": "Caplin",
+          "year": "2023"
+        },
+        {
+          "key": "2026071100311861800_bib22",
+          "doi-asserted-by": "publisher",
+          "first-page": "S13",
+          "DOI": "10.1086/694153",
+          "article-title": "Firms and Labor Market Inequality: Evidence and Some Theory",
+          "volume": "36",
+          "author": "Card",
+          "year": "2018",
+          "journal-title": "Journal of Labor Economics"
+        },
+        {
+          "key": "2026071100311861800_bib23",
+          "doi-asserted-by": "publisher",
+          "first-page": "967",
+          "DOI": "10.1093/qje/qjt006",
+          "article-title": "Workplace Heterogeneity and the Rise of West German Wage Inequality",
+          "volume": "128",
+          "author": "Card",
+          "year": "2013",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib24",
+          "doi-asserted-by": "publisher",
+          "first-page": "493",
+          "DOI": "10.1257/jel.20150777",
+          "article-title": "Sorting through Search and Matching Models in Economics",
+          "volume": "55",
+          "author": "Chade",
+          "year": "2017",
+          "journal-title": "Journal of Economic Literature"
+        },
+        {
+          "key": "2026071100311861800_bib25",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2307/j.ctvjghwrj",
+          "volume-title": "The Visible Hand: The Managerial Revolution in American Business",
+          "author": "Chandler",
+          "year": "1993"
+        },
+        {
+          "key": "2026071100311861800_bib26",
+          "volume-title": "It’s the Manager: Gallup Finds the Quality of Managers and Team Leaders Is the Single Biggest Factor in Your Organization’s Long-Term Success",
+          "author": "Clifton",
+          "year": "2019"
+        },
+        {
+          "key": "2026071100311861800_bib27",
+          "doi-asserted-by": "publisher",
+          "first-page": "386",
+          "DOI": "10.1111/j.1468-0335.1937.tb00002.x",
+          "article-title": "The Nature of the Firm",
+          "volume": "4",
+          "author": "Coase",
+          "year": "1937",
+          "journal-title": "Economica"
+        },
+        {
+          "key": "2026071100311861800_bib28",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.1177/1536867X20909691",
+          "article-title": "Fast Poisson Estimation with High-Dimensional Fixed Effects",
+          "volume": "20",
+          "author": "Correia",
+          "year": "2020",
+          "journal-title": "Stata Journal"
+        },
+        {
+          "key": "2026071100311861800_bib29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1429",
+          "DOI": "10.3368/jhr.58.5.0121-11455R1",
+          "article-title": "The Growing Importance of Social Tasks in High-Paying Occupations: Implications for Sorting",
+          "volume": "58",
+          "author": "Cortes",
+          "year": "2023",
+          "journal-title": "Journal of Human Resources"
+        },
+        {
+          "key": "2026071100311861800_bib30",
+          "doi-asserted-by": "publisher",
+          "first-page": "2508",
+          "DOI": "10.1287/mnsc.2023.01373",
+          "article-title": "Stable Matching on the Job? Theory and Evidence on Internal Talent Markets",
+          "volume": "71",
+          "author": "Cowgill",
+          "year": "2025",
+          "journal-title": "Management Science"
+        },
+        {
+          "key": "2026071100311861800_bib31",
+          "doi-asserted-by": "publisher",
+          "first-page": "1703",
+          "DOI": "10.1257/aer.20210863",
+          "article-title": "The Old Boys’ Club: Schmoozing and the Gender Gap",
+          "volume": "113",
+          "author": "Cullen",
+          "year": "2023",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "2026071100311861800_bib32",
+          "doi-asserted-by": "publisher",
+          "first-page": "1593",
+          "DOI": "10.1093/qje/qjx022",
+          "article-title": "The Growing Importance of Social Skills in the Labor Market",
+          "volume": "132",
+          "author": "Deming",
+          "year": "2017",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib33",
+          "volume-title": "Internal Labor Markets and Manpower Analysis",
+          "author": "Doeringer",
+          "year": "1985"
+        },
+        {
+          "key": "2026071100311861800_bib34",
+          "doi-asserted-by": "publisher",
+          "first-page": "1063",
+          "DOI": "10.3982/ECTA19244",
+          "article-title": "Managers and Productivity in the Public Sector",
+          "volume": "90",
+          "author": "Fenizia",
+          "year": "2022",
+          "journal-title": "Econometrica"
+        },
+        {
+          "key": "2026071100311861800_bib35",
+          "doi-asserted-by": "publisher",
+          "first-page": "2123",
+          "DOI": "10.1086/705715",
+          "article-title": "Supervisors and Performance Management Systems",
+          "volume": "128",
+          "author": "Frederiksen",
+          "year": "2020",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib36",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1086/649786",
+          "article-title": "How General Is Human Capital? A Task-Based Approach",
+          "volume": "28",
+          "author": "Gathmann",
+          "year": "2010",
+          "journal-title": "Journal of Labor Economics"
+        },
+        {
+          "key": "2026071100311861800_bib37",
+          "doi-asserted-by": "publisher",
+          "first-page": "680",
+          "DOI": "10.1515/9781400845354-019",
+          "article-title": "What Do Managers Do? Exploring Persistent Performance Differences among Seemingly Similar Enterprises",
+          "volume-title": "Handbook of Organizational Economics",
+          "author": "Gibbons",
+          "year": "2013"
+        },
+        {
+          "key": "2026071100311861800_bib38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1321",
+          "DOI": "10.1162/003355399556287",
+          "article-title": "A Theory of Wage and Promotion Dynamics Inside Firms",
+          "volume": "114",
+          "author": "Gibbons",
+          "year": "1999",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2206.15098",
+          "article-title": "Talent Hoarding in Organizations",
+          "author": "Haegele",
+          "year": "2025"
+        },
+        {
+          "key": "2026071100311861800_bib40",
+          "doi-asserted-by": "publisher",
+          "first-page": "243",
+          "DOI": "10.1086/711409",
+          "article-title": "People Management Skills, Employee Attrition, and Manager Rewards: An Empirical Analysis",
+          "volume": "129",
+          "author": "Hoffman",
+          "year": "2021",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib41",
+          "doi-asserted-by": "publisher",
+          "first-page": "74",
+          "DOI": "10.2307/3003320",
+          "article-title": "Moral Hazard and Observability",
+          "author": "Holmström",
+          "year": "1979",
+          "journal-title": "Bell Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib42",
+          "doi-asserted-by": "publisher",
+          "first-page": "1439",
+          "DOI": "10.3982/ECTA11427",
+          "article-title": "The Allocation of Talent and U.S. Economic Growth",
+          "volume": "87",
+          "author": "Hsieh",
+          "year": "2019",
+          "journal-title": "Econometrica"
+        },
+        {
+          "key": "2026071100311861800_bib43",
+          "doi-asserted-by": "publisher",
+          "first-page": "1403",
+          "DOI": "10.1162/qjec.2009.124.4.1403",
+          "article-title": "Misallocation and Manufacturing TFP in China and India",
+          "volume": "124",
+          "author": "Hsieh",
+          "year": "2009",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib44",
+          "doi-asserted-by": "publisher",
+          "first-page": "661",
+          "DOI": "10.1016/j.jeconom.2021.12.016",
+          "article-title": "Internal Labor Markets: A Worker Flow Approach",
+          "volume": "233",
+          "author": "Huitfeldt",
+          "year": "2023",
+          "journal-title": "Journal of Econometrics"
+        },
+        {
+          "key": "2026071100311861800_bib45",
+          "doi-asserted-by": "publisher",
+          "first-page": "309",
+          "DOI": "10.1037/a0020761",
+          "article-title": "A General Approach to Causal Mediation Analysis",
+          "volume": "15",
+          "author": "Imai",
+          "year": "2010",
+          "journal-title": "Psychological Methods"
+        },
+        {
+          "key": "2026071100311861800_bib46",
+          "doi-asserted-by": "publisher",
+          "first-page": "51",
+          "DOI": "10.1214/10-STS321",
+          "article-title": "Identification, Inference and Sensitivity Analysis for Causal Mediation Effects",
+          "volume": "25",
+          "author": "Imai",
+          "year": "2010",
+          "journal-title": "Statistical Science"
+        },
+        {
+          "key": "2026071100311861800_bib47",
+          "doi-asserted-by": "publisher",
+          "first-page": "972",
+          "DOI": "10.1086/260808",
+          "article-title": "Job Matching and the Theory of Turnover",
+          "volume": "87",
+          "author": "Jovanovic",
+          "year": "1979",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib48",
+          "doi-asserted-by": "publisher",
+          "first-page": "1575",
+          "DOI": "10.1093/restud/rdu021",
+          "article-title": "Employer Learning, Productivity, and the Earnings Distribution: Evidence from Performance Measures",
+          "volume": "81",
+          "author": "Kahn",
+          "year": "2014",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026071100311861800_bib49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1346",
+          "DOI": "10.1257/aer.90.5.1346",
+          "article-title": "Performance Pay and Productivity",
+          "volume": "90",
+          "author": "Lazear",
+          "year": "2000",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "2026071100311861800_bib50",
+          "doi-asserted-by": "publisher",
+          "first-page": "841",
+          "DOI": "10.1086/261010",
+          "article-title": "Rank-Order Tournaments as Optimum Labor Contracts",
+          "volume": "89",
+          "author": "Lazear",
+          "year": "1981",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib51",
+          "doi-asserted-by": "publisher",
+          "first-page": "823",
+          "DOI": "10.1086/681097",
+          "article-title": "The Value of Bosses",
+          "volume": "33",
+          "author": "Lazear",
+          "year": "2015",
+          "journal-title": "Journal of Labor Economics"
+        },
+        {
+          "key": "2026071100311861800_bib52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3386/w31192",
+          "article-title": "Managers and Productivity in Retail",
+          "author": "Metcalfe",
+          "year": "2023"
+        },
+        {
+          "key": "2026071100311861800_bib53",
+          "doi-asserted-by": "publisher",
+          "first-page": "586",
+          "DOI": "10.1257/pandp.20241076",
+          "article-title": "Global Managers, Local Workers: Wage Setting inside a Multinational Firm",
+          "volume": "114",
+          "author": "Minni",
+          "year": "2024",
+          "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+          "key": "2026071100311861800_bib54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Minni Virginia , “Replication Data for: ‘Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs’,” (2026), Harvard Dataverse. 10.7910/DVN/HU6OQO.",
+          "DOI": "10.1093/qje/qjag017"
+        },
+        {
+          "key": "2026071100311861800_bib55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3386/w34782",
+          "article-title": "Managers and the Cultural Transmission of Gender Norms",
+          "author": "Minni",
+          "year": "2026"
+        },
+        {
+          "key": "2026071100311861800_bib56",
+          "article-title": "O*NET 29.1 Database",
+          "author": "National Center for O*NET Development",
+          "year": "2024"
+        },
+        {
+          "key": "2026071100311861800_bib57",
+          "doi-asserted-by": "publisher",
+          "first-page": "1994",
+          "DOI": "10.1086/728454",
+          "article-title": "Careers in Firms: The Role of Learning about Ability and Human Capital Acquisition",
+          "volume": "132",
+          "author": "Pastorino",
+          "year": "2024",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "key": "2026071100311861800_bib58",
+          "first-page": "329",
+          "article-title": "What Happens within Firms? A Survey of Empirical Evidence on Compensation Policies",
+          "volume-title": "Labor Statistics Measurement Issues",
+          "author": "Prendergast",
+          "year": "1998"
+        },
+        {
+          "key": "2026071100311861800_bib59",
+          "doi-asserted-by": "publisher",
+          "first-page": "641",
+          "DOI": "10.1016/S1573-4463(86)01015-5",
+          "article-title": "The Theory of Equalizing Differences",
+          "volume-title": "Handbook of Labor Economics",
+          "author": "Rosen",
+          "year": "1986"
+        },
+        {
+          "key": "2026071100311861800_bib60",
+          "volume-title": "Career Mobility in a Corporate Hierarchy",
+          "author": "Rosenbaum",
+          "year": "1984"
+        },
+        {
+          "key": "2026071100311861800_bib61",
+          "volume-title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+          "author": "Smith",
+          "year": "1776"
+        },
+        {
+          "key": "2026071100311861800_bib62",
+          "doi-asserted-by": "publisher",
+          "first-page": "175",
+          "DOI": "10.1016/j.jeconom.2020.09.006",
+          "article-title": "Estimating Dynamic Treatment Effects in Event Studies with Heterogeneous Treatment Effects",
+          "volume": "225",
+          "author": "Sun",
+          "year": "2021",
+          "journal-title": "Journal of Econometrics"
+        },
+        {
+          "key": "2026071100311861800_bib63",
+          "doi-asserted-by": "publisher",
+          "first-page": "439",
+          "DOI": "10.2307/2118478",
+          "article-title": "Job Mobility and the Careers of Young Men",
+          "volume": "107",
+          "author": "Topel",
+          "year": "1992",
+          "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib64",
+          "volume-title": "European Company Survey 2019-Workplace Practices Unlocking Employee Potential, European Company Survey 2019 series",
+          "author": "van Houten",
+          "year": "2020"
+        },
+        {
+          "key": "2026071100311861800_bib65",
+          "doi-asserted-by": "crossref",
+          "first-page": "255",
+          "DOI": "10.2307/2555679",
+          "article-title": "Job Assignments, Signalling, and Efficiency",
+          "volume": "15",
+          "author": "Waldman",
+          "year": "1984",
+          "journal-title": "RAND Journal of Economics"
+        },
+        {
+          "key": "2026071100311861800_bib66",
+          "doi-asserted-by": "publisher",
+          "first-page": "1581",
+          "DOI": "10.1093/qje/qjag004",
+          "article-title": "How Do You Identify a Good Manager?",
+          "volume": "141",
+          "author": "Weidmann",
+          "year": "2026",
+          "journal-title": "Quarterly Journal of Economics"
+        }
+      ],
+      "container-title": [
+        "The Quarterly Journal of Economics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjag017/67484320/qjag017.pdf",
+          "content-type": "application/pdf",
+          "content-version": "am",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/qje/article-pdf/141/3/1871/67484320/qjag017.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/qje/article-pdf/141/3/1871/67484320/qjag017.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            11
+          ]
+        ],
+        "date-time": "2026-07-11T04:32:01Z",
+        "timestamp": 1783744321000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/qje/article/141/3/1871/8537773"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            23
+          ]
+        ]
+      },
+      "references-count": 66,
+      "journal-issue": {
+        "issue": "3",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              23
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              11
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1093/qje/qjag017",
+      "relation": {},
+      "ISSN": [
+        "0033-5533",
+        "1531-4650"
+      ],
+      "issn-type": [
+        {
+          "value": "0033-5533",
+          "type": "print"
+        },
+        {
+          "value": "1531-4650",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published-other": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            23
+          ]
+        ]
+      }
+    }
+  }
+}

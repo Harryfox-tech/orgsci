@@ -1,0 +1,117 @@
+[
+  {
+    "index": 1,
+    "title": "Workforce planning in production with flexible or budgeted employee training and volatile demand",
+    "authors": [
+      "Patricia Heuser",
+      "Peter Letmathe",
+      "Matthias Schinner"
+    ],
+    "year": 2022,
+    "doi": "10.1007/s11573-022-01090-z",
+    "arxiv_id": null,
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+    "full_text_status": "open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": "link.springer.com",
+    "download_status": "failed",
+    "download_error": "fetch failed",
+    "local_pdf_path": null,
+    "filename": "2022_Workforce_planning_in_production_with_flexible_or_budgeted_employee_training_and_238f9c9ff17b.pdf",
+    "final_url": null,
+    "content_type": null,
+    "checked_at": "2026-10-20T00:49:46.103Z",
+    "byte_length": null,
+    "sha256": null,
+    "http_status": null,
+    "retry_after": null,
+    "download_error_code": "network_error",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified"
+  }
+]

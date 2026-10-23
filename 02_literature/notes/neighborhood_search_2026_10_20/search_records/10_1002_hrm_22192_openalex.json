@@ -1,0 +1,1246 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.22192",
+    "checked_at": "2026-10-20T01:25:25.932759Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4386098127",
+    "doi": "https://doi.org/10.1002/hrm.22192",
+    "title": "A skills‐matching perspective on talent management: Developing strategic agility",
+    "display_name": "A skills‐matching perspective on talent management: Developing strategic agility",
+    "publication_year": 2023,
+    "publication_date": "2023-08-23",
+    "ids": {
+      "openalex": "https://openalex.org/W4386098127",
+      "doi": "https://doi.org/10.1002/hrm.22192"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/hrm.22192",
+      "doi": "https://doi.org/10.1002/hrm.22192",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/hrm.22192",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+      "source": {
+        "id": "https://openalex.org/S134094273",
+        "display_name": "Human Resource Management",
+        "issn_l": "0090-4848",
+        "issn": [
+          "0090-4848",
+          "1099-050X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1",
+          "ft50",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Human Resource Management",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5002219547",
+          "display_name": "Stefan Jooss",
+          "orcid": "https://orcid.org/0000-0001-9054-4738",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9054-4738"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I165143802",
+            "display_name": "The University of Queensland",
+            "ror": "https://ror.org/00rqy9422",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I165143802"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Stefan Jooss",
+        "raw_affiliation_strings": [
+          "UQ Business School The University of Queensland  Brisbane Australia",
+          "UQ Business School, The University of Queensland, Brisbane, Australia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-9054-4738",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "UQ Business School The University of Queensland  Brisbane Australia",
+            "institution_ids": [
+              "https://openalex.org/I165143802"
+            ]
+          },
+          {
+            "raw_affiliation_string": "UQ Business School, The University of Queensland, Brisbane, Australia",
+            "institution_ids": [
+              "https://openalex.org/I165143802"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063663517",
+          "display_name": "David G. Collings",
+          "orcid": "https://orcid.org/0000-0003-1252-7080",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1252-7080"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205274468",
+            "display_name": "Trinity College Dublin",
+            "ror": "https://ror.org/02tyrky19",
+            "country_code": "IE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I205274468"
+            ]
+          }
+        ],
+        "countries": [
+          "IE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "David G. Collings",
+        "raw_affiliation_strings": [
+          "Trinity Business School Trinity College Dublin  Dublin Ireland",
+          "Trinity Business School, Trinity College Dublin, Dublin, Ireland"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1252-7080",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Trinity Business School Trinity College Dublin  Dublin Ireland",
+            "institution_ids": [
+              "https://openalex.org/I205274468"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Trinity Business School, Trinity College Dublin, Dublin, Ireland",
+            "institution_ids": [
+              "https://openalex.org/I205274468"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5075475459",
+          "display_name": "John McMackin",
+          "orcid": "https://orcid.org/0000-0002-6169-3299",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6169-3299"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I42934936",
+            "display_name": "Dublin City University",
+            "ror": "https://ror.org/04a1a1e81",
+            "country_code": "IE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I42934936"
+            ]
+          }
+        ],
+        "countries": [
+          "IE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "John McMackin",
+        "raw_affiliation_strings": [
+          "DCU Business School Dublin City University  Dublin Ireland",
+          "DCU Business School, Dublin City University, Dublin, Ireland"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "DCU Business School Dublin City University  Dublin Ireland",
+            "institution_ids": [
+              "https://openalex.org/I42934936"
+            ]
+          },
+          {
+            "raw_affiliation_string": "DCU Business School, Dublin City University, Dublin, Ireland",
+            "institution_ids": [
+              "https://openalex.org/I42934936"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5090746236",
+          "display_name": "Michael H. Dickmann",
+          "orcid": "https://orcid.org/0000-0003-3775-663X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3775-663X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I82284825",
+            "display_name": "Cranfield University",
+            "ror": "https://ror.org/05cncd958",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I82284825"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Michael Dickmann",
+        "raw_affiliation_strings": [
+          "Cranfield School of Management Cranfield University  Cranfield UK",
+          "Cranfield School of Management, Cranfield University, Cranfield, UK"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-3775-663X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cranfield School of Management Cranfield University  Cranfield UK",
+            "institution_ids": [
+              "https://openalex.org/I82284825"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Cranfield School of Management, Cranfield University, Cranfield, UK",
+            "institution_ids": [
+              "https://openalex.org/I82284825"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5002219547"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I165143802"
+    ],
+    "apc_list": {
+      "value": 3760,
+      "currency": "USD",
+      "value_usd": 3760
+    },
+    "apc_paid": {
+      "value": 3760,
+      "currency": "USD",
+      "value_usd": 3760
+    },
+    "fwci": 25.5775,
+    "has_fulltext": true,
+    "cited_by_count": 89,
+    "citation_normalized_percentile": {
+      "value": 0.9972963,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "63",
+      "issue": "1",
+      "first_page": "141",
+      "last_page": "157"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12843",
+      "display_name": "Human Resource and Talent Management",
+      "score": 0.9955999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10003",
+        "display_name": "Innovation and Knowledge Management",
+        "score": 0.0010999999940395355,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1408",
+          "display_name": "Strategy and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.000699999975040555,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/talent-management",
+        "display_name": "talent management",
+        "score": 0.9919999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/strategic-agility",
+        "display_name": "strategic agility",
+        "score": 0.9470000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/skill-matching",
+        "display_name": "skill matching",
+        "score": 0.984000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/matching-theory",
+        "display_name": "matching theory",
+        "score": 0.996999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/dynamic-capabilities",
+        "display_name": "dynamic capabilities",
+        "score": 0.9139999747276306
+      },
+      {
+        "id": "https://openalex.org/keywords/strategic-sensitivity",
+        "display_name": "strategic sensitivity",
+        "score": 0.8360000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/resource-fluidity",
+        "display_name": "resource fluidity",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/labor-market",
+        "display_name": "labor market",
+        "score": 0.6119999885559082
+      },
+      {
+        "id": "https://openalex.org/keywords/meta-capability",
+        "display_name": "meta-capability",
+        "score": 0.6600000262260437
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C165064840",
+        "wikidata": "https://www.wikidata.org/wiki/Q1321061",
+        "display_name": "Matching (statistics)",
+        "level": 2,
+        "score": 0.741728663444519
+      },
+      {
+        "id": "https://openalex.org/C2780504989",
+        "wikidata": "https://www.wikidata.org/wiki/Q2742037",
+        "display_name": "Dynamic capabilities",
+        "level": 2,
+        "score": 0.7384295463562012
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.5594519972801208
+      },
+      {
+        "id": "https://openalex.org/C48243021",
+        "wikidata": "https://www.wikidata.org/wiki/Q932522",
+        "display_name": "Strategic planning",
+        "level": 2,
+        "score": 0.5325972437858582
+      },
+      {
+        "id": "https://openalex.org/C12713177",
+        "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+        "display_name": "Perspective (graphical)",
+        "level": 2,
+        "score": 0.5215299129486084
+      },
+      {
+        "id": "https://openalex.org/C98045186",
+        "wikidata": "https://www.wikidata.org/wiki/Q205663",
+        "display_name": "Process (computing)",
+        "level": 2,
+        "score": 0.5128262639045715
+      },
+      {
+        "id": "https://openalex.org/C86275758",
+        "wikidata": "https://www.wikidata.org/wiki/Q376657",
+        "display_name": "Strategic management",
+        "level": 2,
+        "score": 0.5096125602722168
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.4985315799713135
+      },
+      {
+        "id": "https://openalex.org/C206345919",
+        "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+        "display_name": "Resource (disambiguation)",
+        "level": 2,
+        "score": 0.4929671287536621
+      },
+      {
+        "id": "https://openalex.org/C7991579",
+        "wikidata": "https://www.wikidata.org/wiki/Q17955",
+        "display_name": "Criticism",
+        "level": 2,
+        "score": 0.48260819911956787
+      },
+      {
+        "id": "https://openalex.org/C177264268",
+        "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+        "display_name": "Set (abstract data type)",
+        "level": 2,
+        "score": 0.47153621912002563
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.4419676959514618
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.2551748752593994
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.21146515011787415
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.07631558179855347
+      },
+      {
+        "id": "https://openalex.org/C31258907",
+        "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+        "display_name": "Computer network",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199360897",
+        "wikidata": "https://www.wikidata.org/wiki/Q9143",
+        "display_name": "Programming language",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C111919701",
+        "wikidata": "https://www.wikidata.org/wiki/Q9135",
+        "display_name": "Operating system",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1002/hrm.22192",
+        "doi": "https://doi.org/10.1002/hrm.22192",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/hrm.22192",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+        "source": {
+          "id": "https://openalex.org/S134094273",
+          "display_name": "Human Resource Management",
+          "issn_l": "0090-4848",
+          "issn": [
+            "0090-4848",
+            "1099-050X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-1",
+            "ft50",
+            "jufo-3",
+            "ki-jl-1",
+            "norway-2",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Human Resource Management",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doras.dcu.ie:32722",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://orcid.org/0000-0003-1252-7080>,",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401511",
+          "display_name": "Dublin City University Open Access Institutional Repository (Dublin City University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I42934936",
+          "host_organization_name": "Dublin City University",
+          "host_organization_lineage": [
+            "https://openalex.org/I42934936"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      },
+      {
+        "id": "pmh:oai:dspace.lib.cranfield.ac.uk:1826/20145",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://dspace.lib.cranfield.ac.uk/bitstreams/940b6881-77e6-4ea2-b9f2-9a80f458c38c/download",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401778",
+          "display_name": "CERES (Cranfield University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I82284825",
+          "host_organization_name": "Cranfield University",
+          "host_organization_lineage": [
+            "https://openalex.org/I82284825"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1002/hrm.22192",
+      "doi": "https://doi.org/10.1002/hrm.22192",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/hrm.22192",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+      "source": {
+        "id": "https://openalex.org/S134094273",
+        "display_name": "Human Resource Management",
+        "issn_l": "0090-4848",
+        "issn": [
+          "0090-4848",
+          "1099-050X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1",
+          "ft50",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Human Resource Management",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "score": 0.6452000141143799,
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "display_name": "Decent work and economic growth",
+        "score": 0.6399999856948853,
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4386098127.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4386098127.grobid-xml"
+    },
+    "referenced_works_count": 81,
+    "referenced_works": [
+      "https://openalex.org/W72525632",
+      "https://openalex.org/W160557884",
+      "https://openalex.org/W316667688",
+      "https://openalex.org/W651847978",
+      "https://openalex.org/W1215052957",
+      "https://openalex.org/W1534982143",
+      "https://openalex.org/W1804930862",
+      "https://openalex.org/W1822234011",
+      "https://openalex.org/W1967254945",
+      "https://openalex.org/W1982861403",
+      "https://openalex.org/W1984958540",
+      "https://openalex.org/W2004530408",
+      "https://openalex.org/W2007583326",
+      "https://openalex.org/W2013137835",
+      "https://openalex.org/W2031624988",
+      "https://openalex.org/W2044972374",
+      "https://openalex.org/W2047683303",
+      "https://openalex.org/W2050127793",
+      "https://openalex.org/W2072249856",
+      "https://openalex.org/W2082605457",
+      "https://openalex.org/W2101049208",
+      "https://openalex.org/W2108387116",
+      "https://openalex.org/W2108922153",
+      "https://openalex.org/W2111812658",
+      "https://openalex.org/W2118036454",
+      "https://openalex.org/W2123709218",
+      "https://openalex.org/W2129313129",
+      "https://openalex.org/W2131305193",
+      "https://openalex.org/W2135296668",
+      "https://openalex.org/W2155667567",
+      "https://openalex.org/W2157995238",
+      "https://openalex.org/W2166968204",
+      "https://openalex.org/W2236347344",
+      "https://openalex.org/W2246222230",
+      "https://openalex.org/W2252485760",
+      "https://openalex.org/W2438756077",
+      "https://openalex.org/W2483540831",
+      "https://openalex.org/W2486557611",
+      "https://openalex.org/W2530672123",
+      "https://openalex.org/W2562451115",
+      "https://openalex.org/W2563743615",
+      "https://openalex.org/W2606639482",
+      "https://openalex.org/W2619013324",
+      "https://openalex.org/W2738241474",
+      "https://openalex.org/W2763949344",
+      "https://openalex.org/W2770256834",
+      "https://openalex.org/W2784066967",
+      "https://openalex.org/W2795349040",
+      "https://openalex.org/W2892370970",
+      "https://openalex.org/W2900184492",
+      "https://openalex.org/W2900801941",
+      "https://openalex.org/W2914819582",
+      "https://openalex.org/W2921704498",
+      "https://openalex.org/W2946274400",
+      "https://openalex.org/W2950012097",
+      "https://openalex.org/W2962892177",
+      "https://openalex.org/W2963014876",
+      "https://openalex.org/W2976517144",
+      "https://openalex.org/W2985951318",
+      "https://openalex.org/W3004875438",
+      "https://openalex.org/W3017214408",
+      "https://openalex.org/W3048118390",
+      "https://openalex.org/W3080561826",
+      "https://openalex.org/W3089175331",
+      "https://openalex.org/W3093186885",
+      "https://openalex.org/W3128011748",
+      "https://openalex.org/W3133502163",
+      "https://openalex.org/W3138829422",
+      "https://openalex.org/W3165021773",
+      "https://openalex.org/W3209807569",
+      "https://openalex.org/W3215323731",
+      "https://openalex.org/W4206371701",
+      "https://openalex.org/W4212960165",
+      "https://openalex.org/W4225523361",
+      "https://openalex.org/W4283363684",
+      "https://openalex.org/W4292615586",
+      "https://openalex.org/W4294577731",
+      "https://openalex.org/W4310047273",
+      "https://openalex.org/W4353058570",
+      "https://openalex.org/W6606726418",
+      "https://openalex.org/W6795684281"
+    ],
+    "related_works": [
+      "https://openalex.org/W2363143165",
+      "https://openalex.org/W2899924589",
+      "https://openalex.org/W1612368499",
+      "https://openalex.org/W2367722511",
+      "https://openalex.org/W2066814525",
+      "https://openalex.org/W2373704583",
+      "https://openalex.org/W2039798511",
+      "https://openalex.org/W590723071",
+      "https://openalex.org/W2914820606",
+      "https://openalex.org/W3121161157"
+    ],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Despite": [
+        1
+      ],
+      "two": [
+        2,
+        110
+      ],
+      "decades": [
+        3
+      ],
+      "of": [
+        4,
+        9,
+        29,
+        106,
+        130,
+        141
+      ],
+      "evolution": [
+        5
+      ],
+      "as": [
+        6,
+        36,
+        127
+      ],
+      "an": [
+        7,
+        55,
+        128
+      ],
+      "area": [
+        8
+      ],
+      "research": [
+        10,
+        71
+      ],
+      "and": [
+        11,
+        53,
+        65,
+        89,
+        94,
+        114,
+        137,
+        150
+      ],
+      "practice,": [
+        12
+      ],
+      "talent": [
+        13,
+        63,
+        85,
+        135
+      ],
+      "management": [
+        14,
+        64,
+        136
+      ],
+      "faces": [
+        15
+      ],
+      "ongoing": [
+        16
+      ],
+      "criticism": [
+        17
+      ],
+      "for": [
+        18
+      ],
+      "being": [
+        19
+      ],
+      "overly": [
+        20
+      ],
+      "static": [
+        21
+      ],
+      "in": [
+        22,
+        27,
+        76,
+        92
+      ],
+      "its": [
+        23
+      ],
+      "approach,": [
+        24
+      ],
+      "offering": [
+        25
+      ],
+      "little": [
+        26
+      ],
+      "terms": [
+        28
+      ],
+      "enabling": [
+        30
+      ],
+      "strategic": [
+        31,
+        41,
+        66,
+        112,
+        119,
+        143
+      ],
+      "agility.": [
+        32,
+        67,
+        120
+      ],
+      "This": [
+        33
+      ],
+      "is": [
+        34
+      ],
+      "problematic": [
+        35
+      ],
+      "organizations": [
+        37,
+        101
+      ],
+      "increasingly": [
+        38
+      ],
+      "rely": [
+        39
+      ],
+      "on": [
+        40,
+        50,
+        84,
+        134
+      ],
+      "agility": [
+        42,
+        56,
+        144
+      ],
+      "to": [
+        43,
+        148
+      ],
+      "manage": [
+        44
+      ],
+      "their": [
+        45
+      ],
+      "dynamic": [
+        46,
+        90,
+        107
+      ],
+      "business": [
+        47
+      ],
+      "operations.": [
+        48
+      ],
+      "Drawing": [
+        49
+      ],
+      "matching": [
+        51
+      ],
+      "theory": [
+        52
+      ],
+      "adopting": [
+        54
+      ],
+      "lens,": [
+        57
+      ],
+      "we": [
+        58,
+        79,
+        124
+      ],
+      "explore": [
+        59
+      ],
+      "the": [
+        60
+      ],
+      "link": [
+        61
+      ],
+      "between": [
+        62
+      ],
+      "Through": [
+        68,
+        98
+      ],
+      "a": [
+        69,
+        81,
+        104,
+        131,
+        139
+      ],
+      "qualitative": [
+        70
+      ],
+      "design,": [
+        72
+      ],
+      "encompassing": [
+        73
+      ],
+      "34": [
+        74
+      ],
+      "interviews": [
+        75
+      ],
+      "15": [
+        77
+      ],
+      "organizations,": [
+        78
+      ],
+      "explicate": [
+        80
+      ],
+      "skills‐matching": [
+        82,
+        91,
+        126
+      ],
+      "perspective": [
+        83
+      ],
+      "management,": [
+        86
+      ],
+      "including": [
+        87
+      ],
+      "initial": [
+        88
+      ],
+      "external": [
+        93,
+        149
+      ],
+      "internal": [
+        95,
+        151
+      ],
+      "labor": [
+        96
+      ],
+      "markets.": [
+        97
+      ],
+      "this": [
+        99
+      ],
+      "process,": [
+        100
+      ],
+      "can": [
+        102
+      ],
+      "build": [
+        103
+      ],
+      "set": [
+        105
+      ],
+      "capabilities,": [
+        108
+      ],
+      "underlying": [
+        109
+      ],
+      "meta‐capabilities,": [
+        111
+      ],
+      "sensitivity": [
+        113
+      ],
+      "resource": [
+        115
+      ],
+      "fluidity,": [
+        116
+      ],
+      "which": [
+        117
+      ],
+      "enable": [
+        118
+      ],
+      "In": [
+        121
+      ],
+      "doing": [
+        122
+      ],
+      "so,": [
+        123
+      ],
+      "portray": [
+        125
+      ],
+      "illustration": [
+        129
+      ],
+      "processual": [
+        132
+      ],
+      "view": [
+        133
+      ],
+      "create": [
+        138
+      ],
+      "model": [
+        140
+      ],
+      "developing": [
+        142
+      ],
+      "through": [
+        145
+      ],
+      "skills‐matching,": [
+        146
+      ],
+      "responsive": [
+        147
+      ],
+      "demands.": [
+        152
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 31
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 36
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 21
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-19T09:35:57.686232",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

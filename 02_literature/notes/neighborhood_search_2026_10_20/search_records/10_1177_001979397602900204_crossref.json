@@ -1,0 +1,193 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1177/001979397602900204",
+    "checked_at": "2026-10-20T01:28:11.278582Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            2
+          ]
+        ],
+        "date-time": "2026-10-02T10:12:07Z",
+        "timestamp": 1790935927062,
+        "version": "4.1.0"
+      },
+      "reference-count": 0,
+      "publisher": "SAGE Publications",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1976,
+                1,
+                1
+              ]
+            ],
+            "date-time": "1976-01-01T00:00:00Z",
+            "timestamp": 189302400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "ILR Review"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            1976,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.1177/001979397602900204",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2015,
+            6,
+            23
+          ]
+        ],
+        "date-time": "2015-06-23T17:56:39Z",
+        "timestamp": 1435082199000
+      },
+      "page": "236-248",
+      "source": "Crossref",
+      "is-referenced-by-count": 48,
+      "title": [
+        "A Cobweb Model of the Supply and Starting Salary of New Engineers"
+      ],
+      "prefix": "10.1177",
+      "volume": "29",
+      "author": [
+        {
+          "given": "Richard B.",
+          "family": "Freeman",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            1976,
+            1,
+            1
+          ]
+        ]
+      },
+      "container-title": [
+        "ILR Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/001979397602900204",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/001979397602900204",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            29
+          ]
+        ],
+        "date-time": "2026-04-29T10:30:35Z",
+        "timestamp": 1777458635000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/001979397602900204"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            1976,
+            1
+          ]
+        ]
+      },
+      "references-count": 0,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              1976,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/001979397602900204"
+      ],
+      "URL": "https://doi.org/10.1177/001979397602900204",
+      "relation": {},
+      "ISSN": [
+        "0019-7939",
+        "2162-271X"
+      ],
+      "issn-type": [
+        {
+          "value": "0019-7939",
+          "type": "print"
+        },
+        {
+          "value": "2162-271X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            1976,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

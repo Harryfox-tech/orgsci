@@ -1,0 +1,1108 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2023.01373",
+    "checked_at": "2026-10-20T01:25:23.078911Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4399389739",
+    "doi": "https://doi.org/10.1287/mnsc.2023.01373",
+    "title": "Stable Matching on the Job? Theory and Evidence on Internal Talent Markets",
+    "display_name": "Stable Matching on the Job? Theory and Evidence on Internal Talent Markets",
+    "publication_year": 2024,
+    "publication_date": "2024-06-06",
+    "ids": {
+      "openalex": "https://openalex.org/W4399389739",
+      "doi": "https://doi.org/10.1287/mnsc.2023.01373"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1287/mnsc.2023.01373",
+      "doi": "https://doi.org/10.1287/mnsc.2023.01373",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1287/mnsc.2023.01373",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S33323087",
+        "display_name": "Management Science",
+        "issn_l": "0025-1909",
+        "issn": [
+          "0025-1909",
+          "1526-5501"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1-star",
+          "ft50",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "utd24",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315699",
+        "host_organization_name": "Institute for Operations Research and the Management Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315699"
+        ],
+        "host_organization_lineage_names": [
+          "Institute for Operations Research and the Management Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Management Science",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5008658368",
+          "display_name": "Bo Cowgill",
+          "orcid": "https://orcid.org/0000-0002-2525-2306",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2525-2306"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I78577930",
+            "display_name": "Columbia University",
+            "ror": "https://ror.org/00hj8s172",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Bo Cowgill",
+        "raw_affiliation_strings": [
+          "Columbia Business School, New York, New York 10027",
+          "Columbia Business School, New York, New York 10027;"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2525-2306",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Columbia Business School, New York, New York 10027",
+            "institution_ids": [
+              "https://openalex.org/I78577930"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Columbia Business School, New York, New York 10027;",
+            "institution_ids": [
+              "https://openalex.org/I78577930"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Jonathan M. V. Davis",
+          "orcid": "https://orcid.org/0000-0003-4352-4085",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4352-4085"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I181233156",
+            "display_name": "University of Oregon",
+            "ror": "https://ror.org/0293rh119",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I181233156"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jonathan M. V. Davis",
+        "raw_affiliation_strings": [
+          "University of Oregon, Eugene, Oregon 97403",
+          "University of Oregon, Eugene, Oregon 97403;"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4352-4085",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Oregon, Eugene, Oregon 97403",
+            "institution_ids": [
+              "https://openalex.org/I181233156"
+            ]
+          },
+          {
+            "raw_affiliation_string": "University of Oregon, Eugene, Oregon 97403;",
+            "institution_ids": [
+              "https://openalex.org/I181233156"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5027670332",
+          "display_name": "B. Pablo Montagnes",
+          "orcid": "https://orcid.org/0000-0003-1316-6926",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1316-6926"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I150468666",
+            "display_name": "Emory University",
+            "ror": "https://ror.org/03czfpz43",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I150468666"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "B. Pablo Montagnes",
+        "raw_affiliation_strings": [
+          "Emory University, Atlanta, Georgia 30322",
+          "Emory University, Atlanta, Georgia 30322;"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-1316-6926",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Emory University, Atlanta, Georgia 30322",
+            "institution_ids": [
+              "https://openalex.org/I150468666"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Emory University, Atlanta, Georgia 30322;",
+            "institution_ids": [
+              "https://openalex.org/I150468666"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5069883636",
+          "display_name": "Patryk Perkowski",
+          "orcid": "https://orcid.org/0009-0000-8417-2907",
+          "observed_orcids": [
+            "https://orcid.org/0009-0000-8417-2907"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19772626",
+            "display_name": "Yeshiva University",
+            "ror": "https://ror.org/045x93337",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I19772626"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Patryk Perkowski",
+        "raw_affiliation_strings": [
+          "Yeshiva University, New York, New York 10033"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0000-8417-2907",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Yeshiva University, New York, New York 10033",
+            "institution_ids": [
+              "https://openalex.org/I19772626"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 4,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5008658368"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I78577930"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 6.4034,
+    "has_fulltext": false,
+    "cited_by_count": 21,
+    "citation_normalized_percentile": {
+      "value": 0.96268334,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "71",
+      "issue": "3",
+      "first_page": "2508",
+      "last_page": "2526"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10991",
+      "display_name": "Game Theory and Voting Systems",
+      "score": 0.9955999851226807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10991",
+        "display_name": "Game Theory and Voting Systems",
+        "score": 0.9955999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.0003000000142492354,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.00019999999494757503,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/stable-matching",
+        "display_name": "stable matching",
+        "score": 0.8880000114440918
+      },
+      {
+        "id": "https://openalex.org/keywords/self-organization",
+        "display_name": "self-organization",
+        "score": 0.7049999833106995
+      },
+      {
+        "id": "https://openalex.org/keywords/deferred-acceptance",
+        "display_name": "deferred acceptance",
+        "score": 0.9079999923706055
+      },
+      {
+        "id": "https://openalex.org/keywords/job-satisfaction",
+        "display_name": "job satisfaction",
+        "score": 0.6970000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/skill-development",
+        "display_name": "skill development",
+        "score": 0.3070000112056732
+      },
+      {
+        "id": "https://openalex.org/keywords/assortative-matching",
+        "display_name": "assortative matching",
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-coordination",
+        "display_name": "organizational coordination",
+        "score": 0.4580000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/principal-agent-incentives",
+        "display_name": "principal-agent incentives",
+        "score": 0.36000001430511475
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C165064840",
+        "wikidata": "https://www.wikidata.org/wiki/Q1321061",
+        "display_name": "Matching (statistics)",
+        "level": 2,
+        "score": 0.6066185832023621
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.4495092034339905
+      },
+      {
+        "id": "https://openalex.org/C175444787",
+        "wikidata": "https://www.wikidata.org/wiki/Q39072",
+        "display_name": "Microeconomics",
+        "level": 1,
+        "score": 0.3829774260520935
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.37314897775650024
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.20635205507278442
+      },
+      {
+        "id": "https://openalex.org/C105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "level": 1,
+        "score": 0.08917966485023499
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1287/mnsc.2023.01373",
+        "doi": "https://doi.org/10.1287/mnsc.2023.01373",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1287/mnsc.2023.01373",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S33323087",
+          "display_name": "Management Science",
+          "issn_l": "0025-1909",
+          "issn": [
+            "0025-1909",
+            "1526-5501"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-1-star",
+            "ft50",
+            "jufo-3",
+            "ki-jl-1",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "utd24",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315699",
+          "host_organization_name": "Institute for Operations Research and the Management Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315699"
+          ],
+          "host_organization_lineage_names": [
+            "Institute for Operations Research and the Management Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Management Science",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.833299994468689
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.7200000286102295
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 52,
+    "referenced_works": [
+      "https://openalex.org/W595331685",
+      "https://openalex.org/W1485535210",
+      "https://openalex.org/W1576312471",
+      "https://openalex.org/W1884571572",
+      "https://openalex.org/W1988624576",
+      "https://openalex.org/W1991849790",
+      "https://openalex.org/W2028534080",
+      "https://openalex.org/W2029022404",
+      "https://openalex.org/W2060445186",
+      "https://openalex.org/W2068115726",
+      "https://openalex.org/W2088703435",
+      "https://openalex.org/W2097876146",
+      "https://openalex.org/W2108174251",
+      "https://openalex.org/W2115494716",
+      "https://openalex.org/W2115897852",
+      "https://openalex.org/W2123788784",
+      "https://openalex.org/W2146038986",
+      "https://openalex.org/W2151169308",
+      "https://openalex.org/W2158100648",
+      "https://openalex.org/W2158281340",
+      "https://openalex.org/W2164851385",
+      "https://openalex.org/W2207102163",
+      "https://openalex.org/W2222512263",
+      "https://openalex.org/W2261048370",
+      "https://openalex.org/W2563429979",
+      "https://openalex.org/W2596451211",
+      "https://openalex.org/W2613303232",
+      "https://openalex.org/W2753335427",
+      "https://openalex.org/W2762975052",
+      "https://openalex.org/W2768249411",
+      "https://openalex.org/W2885527360",
+      "https://openalex.org/W2890782667",
+      "https://openalex.org/W2892380133",
+      "https://openalex.org/W2956069966",
+      "https://openalex.org/W2986411036",
+      "https://openalex.org/W2994688483",
+      "https://openalex.org/W2996633585",
+      "https://openalex.org/W3022954220",
+      "https://openalex.org/W3081646121",
+      "https://openalex.org/W3121503129",
+      "https://openalex.org/W3123388428",
+      "https://openalex.org/W3123464746",
+      "https://openalex.org/W3124444568",
+      "https://openalex.org/W3124932231",
+      "https://openalex.org/W3125013833",
+      "https://openalex.org/W3135222230",
+      "https://openalex.org/W3208345306",
+      "https://openalex.org/W4233255451",
+      "https://openalex.org/W4240671987",
+      "https://openalex.org/W4242255739",
+      "https://openalex.org/W4300544651",
+      "https://openalex.org/W4386949031"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W1972035260",
+      "https://openalex.org/W1502198272",
+      "https://openalex.org/W2017540542",
+      "https://openalex.org/W4301594054",
+      "https://openalex.org/W2794488505",
+      "https://openalex.org/W2006758266",
+      "https://openalex.org/W2066504725",
+      "https://openalex.org/W1527813328",
+      "https://openalex.org/W2073254488"
+    ],
+    "abstract_inverted_index": {
+      "A": [
+        0
+      ],
+      "principal": [
+        1
+      ],
+      "often": [
+        2
+      ],
+      "needs": [
+        3
+      ],
+      "to": [
+        4,
+        7
+      ],
+      "match": [
+        5,
+        133,
+        146
+      ],
+      "agents": [
+        6,
+        12
+      ],
+      "perform": [
+        8
+      ],
+      "coordinated": [
+        9
+      ],
+      "tasks,": [
+        10
+      ],
+      "but": [
+        11,
+        119
+      ],
+      "can": [
+        13
+      ],
+      "quit": [
+        14
+      ],
+      "or": [
+        15
+      ],
+      "slack": [
+        16
+      ],
+      "off": [
+        17
+      ],
+      "if": [
+        18
+      ],
+      "they": [
+        19
+      ],
+      "dislike": [
+        20
+      ],
+      "their": [
+        21
+      ],
+      "match.": [
+        22
+      ],
+      "We": [
+        23,
+        42,
+        72
+      ],
+      "study": [
+        24
+      ],
+      "two": [
+        25
+      ],
+      "prevalent": [
+        26
+      ],
+      "approaches": [
+        27
+      ],
+      "for": [
+        28
+      ],
+      "matching": [
+        29
+      ],
+      "within": [
+        30,
+        96
+      ],
+      "organizations:": [
+        31
+      ],
+      "centralized": [
+        32
+      ],
+      "assignment": [
+        33
+      ],
+      "by": [
+        34,
+        128,
+        158,
+        168
+      ],
+      "firm": [
+        35
+      ],
+      "leaders": [
+        36
+      ],
+      "and": [
+        37,
+        50,
+        59,
+        69,
+        137,
+        150,
+        182
+      ],
+      "self-organization": [
+        38
+      ],
+      "through": [
+        39
+      ],
+      "market-like": [
+        40
+      ],
+      "mechanisms.": [
+        41
+      ],
+      "provide": [
+        43
+      ],
+      "a": [
+        44,
+        80
+      ],
+      "formal": [
+        45
+      ],
+      "model": [
+        46,
+        63
+      ],
+      "of": [
+        47,
+        52,
+        104
+      ],
+      "the": [
+        48,
+        100,
+        129,
+        143,
+        169
+      ],
+      "strengths": [
+        49
+      ],
+      "weaknesses": [
+        51
+      ],
+      "both": [
+        53
+      ],
+      "methods": [
+        54
+      ],
+      "under": [
+        55
+      ],
+      "different": [
+        56
+      ],
+      "settings,": [
+        57
+      ],
+      "incentives,": [
+        58
+      ],
+      "production": [
+        60
+      ],
+      "technologies.": [
+        61
+      ],
+      "The": [
+        62,
+        131,
+        179
+      ],
+      "highlights": [
+        64
+      ],
+      "trade-offs": [
+        65,
+        76
+      ],
+      "between": [
+        66
+      ],
+      "match-specific": [
+        67
+      ],
+      "productivity": [
+        68
+      ],
+      "job": [
+        70,
+        97
+      ],
+      "satisfaction.": [
+        71
+      ],
+      "then": [
+        73
+      ],
+      "measure": [
+        74
+      ],
+      "these": [
+        75
+      ],
+      "with": [
+        77
+      ],
+      "data": [
+        78,
+        183
+      ],
+      "from": [
+        79
+      ],
+      "large": [
+        81
+      ],
+      "organization’s": [
+        82
+      ],
+      "internal": [
+        83
+      ],
+      "talent": [
+        84
+      ],
+      "market.": [
+        85
+      ],
+      "Firm-dictated": [
+        86
+      ],
+      "matches": [
+        87,
+        95,
+        109
+      ],
+      "are": [
+        88,
+        113,
+        120,
+        185
+      ],
+      "33%": [
+        89
+      ],
+      "more": [
+        90
+      ],
+      "valuable": [
+        91
+      ],
+      "than": [
+        92,
+        117
+      ],
+      "randomly": [
+        93
+      ],
+      "assigned": [
+        94
+      ],
+      "categories": [
+        98
+      ],
+      "(using": [
+        99,
+        110
+      ],
+      "firm’s": [
+        101,
+        144
+      ],
+      "preferred": [
+        102,
+        145
+      ],
+      "metric": [
+        103
+      ],
+      "quality).": [
+        105
+      ],
+      "By": [
+        106
+      ],
+      "contrast,": [
+        107
+      ],
+      "preference-based": [
+        108
+      ],
+      "deferred": [
+        111
+      ],
+      "acceptance)": [
+        112
+      ],
+      "only": [
+        114
+      ],
+      "5%": [
+        115
+      ],
+      "better": [
+        116
+      ],
+      "random": [
+        118
+      ],
+      "ranked": [
+        121
+      ],
+      "(on": [
+        122
+      ],
+      "average)": [
+        123
+      ],
+      "about": [
+        124
+      ],
+      "38": [
+        125
+      ],
+      "percentiles": [
+        126
+      ],
+      "higher": [
+        127
+      ],
+      "workforce.": [
+        130
+      ],
+      "self-organized": [
+        132
+      ],
+      "is": [
+        134,
+        147
+      ],
+      "positively": [
+        135
+      ],
+      "assortative": [
+        136,
+        149
+      ],
+      "helps": [
+        138
+      ],
+      "workers": [
+        139
+      ],
+      "grow": [
+        140
+      ],
+      "new": [
+        141
+      ],
+      "skills;": [
+        142
+      ],
+      "negatively": [
+        148
+      ],
+      "harvests": [
+        151
+      ],
+      "existing": [
+        152
+      ],
+      "expertise.": [
+        153
+      ],
+      "This": [
+        154,
+        164
+      ],
+      "paper": [
+        155
+      ],
+      "was": [
+        156,
+        166
+      ],
+      "accepted": [
+        157
+      ],
+      "Joshua": [
+        159
+      ],
+      "Gans,": [
+        160
+      ],
+      "business": [
+        161
+      ],
+      "strategy.": [
+        162
+      ],
+      "Funding:": [
+        163
+      ],
+      "work": [
+        165
+      ],
+      "supported": [
+        167
+      ],
+      "Ewing": [
+        170
+      ],
+      "Marion": [
+        171
+      ],
+      "Kauffman": [
+        172
+      ],
+      "Foundation": [
+        173
+      ],
+      "(Emerging": [
+        174
+      ],
+      "Scholar": [
+        175
+      ],
+      "Award).": [
+        176
+      ],
+      "Supplemental": [
+        177
+      ],
+      "Material:": [
+        178
+      ],
+      "online": [
+        180
+      ],
+      "appendix": [
+        181
+      ],
+      "files": [
+        184
+      ],
+      "available": [
+        186
+      ],
+      "at": [
+        187
+      ],
+      "https://doi.org/10.1287/mnsc.2023.01373": [
+        188
+      ],
+      ".": [
+        189
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 10
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2022,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

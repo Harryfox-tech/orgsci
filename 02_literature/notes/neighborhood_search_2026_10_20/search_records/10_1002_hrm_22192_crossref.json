@@ -1,0 +1,776 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1002/hrm.22192",
+    "checked_at": "2026-10-20T01:25:25.155252Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            15
+          ]
+        ],
+        "date-time": "2026-10-15T17:43:09Z",
+        "timestamp": 1792086189879,
+        "version": "4.4.0"
+      },
+      "reference-count": 91,
+      "publisher": "Wiley",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                8,
+                23
+              ]
+            ],
+            "date-time": "2023-08-23T00:00:00Z",
+            "timestamp": 1692748800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Human Resource Management"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title><jats:p>Despite two decades of evolution as an area of research and practice, talent management faces ongoing criticism for being overly static in its approach, offering little in terms of enabling strategic agility. This is problematic as organizations increasingly rely on strategic agility to manage their dynamic business operations. Drawing on matching theory and adopting an agility lens, we explore the link between talent management and strategic agility. Through a qualitative research design, encompassing 34 interviews in 15 organizations, we explicate a skills‐matching perspective on talent management, including initial and dynamic skills‐matching in external and internal labor markets. Through this process, organizations can build a set of dynamic capabilities, underlying two meta‐capabilities, strategic sensitivity and resource fluidity, which enable strategic agility. In doing so, we portray skills‐matching as an illustration of a processual view on talent management and create a model of developing strategic agility through skills‐matching, responsive to external and internal demands.</jats:p>",
+      "DOI": "10.1002/hrm.22192",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            23
+          ]
+        ],
+        "date-time": "2023-08-23T11:16:16Z",
+        "timestamp": 1692789376000
+      },
+      "page": "141-157",
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 83,
+      "title": [
+        "A skills‐matching perspective on talent management: Developing strategic agility"
+      ],
+      "prefix": "10.1002",
+      "volume": "63",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9054-4738",
+          "authenticated-orcid": false,
+          "given": "Stefan",
+          "family": "Jooss",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "UQ Business School The University of Queensland  Brisbane Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1252-7080",
+          "authenticated-orcid": false,
+          "given": "David G.",
+          "family": "Collings",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Trinity Business School Trinity College Dublin  Dublin Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "John",
+          "family": "McMackin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "DCU Business School Dublin City University  Dublin Ireland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3775-663X",
+          "authenticated-orcid": false,
+          "given": "Michael",
+          "family": "Dickmann",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Cranfield School of Management Cranfield University  Cranfield UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_11_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3015"
+        },
+        {
+          "key": "e_1_2_11_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2019.100700"
+        },
+        {
+          "key": "e_1_2_11_4_1",
+          "volume-title": "The new‐collar workforce",
+          "author": "Ammerman C.",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_11_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ibusrev.2022.102036"
+        },
+        {
+          "key": "e_1_2_11_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amd.2018.0003"
+        },
+        {
+          "key": "e_1_2_11_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0026078"
+        },
+        {
+          "key": "e_1_2_11_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2012.0119"
+        },
+        {
+          "key": "e_1_2_11_9_1",
+          "article-title": "Are you ready to lead work without jobs?",
+          "volume": "62",
+          "author": "Boudreau J.",
+          "year": "2021",
+          "journal-title": "MIT Sloan Management Review"
+        },
+        {
+          "key": "e_1_2_11_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/14780887.2019.1670765"
+        },
+        {
+          "key": "e_1_2_11_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1525/cmr.2014.56.3.39"
+        },
+        {
+          "key": "e_1_2_11_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oxfordhb/9780199532162.001.0001"
+        },
+        {
+          "key": "e_1_2_11_13_1",
+          "first-page": "46",
+          "article-title": "HR goes agile",
+          "volume": "96",
+          "author": "Cappelli P.",
+          "year": "2018",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "key": "e_1_2_11_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jwb.2015.10.002"
+        },
+        {
+          "key": "e_1_2_11_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2015.10.014"
+        },
+        {
+          "key": "e_1_2_11_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2009.06.001"
+        },
+        {
+          "key": "e_1_2_11_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amp.2022.0024"
+        },
+        {
+          "key": "e_1_2_11_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jwb.2021.101194"
+        },
+        {
+          "key": "e_1_2_11_19_1",
+          "first-page": "54",
+          "article-title": "The practices that set learning organizations apart",
+          "volume": "62",
+          "author": "Collings D. G.",
+          "year": "2021",
+          "journal-title": "MIT Sloan Management Review"
+        },
+        {
+          "key": "e_1_2_11_20_1",
+          "volume-title": "Skills‐first: An emerging approach to managing human resources for the new world of work",
+          "author": "Collings D. G.",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_11_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2009.04.001"
+        },
+        {
+          "key": "e_1_2_11_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206318757018"
+        },
+        {
+          "key": "e_1_2_11_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2019.100694"
+        },
+        {
+          "key": "e_1_2_11_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2019.100695"
+        },
+        {
+          "key": "e_1_2_11_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijmr.12156"
+        },
+        {
+          "key": "e_1_2_11_26_1",
+          "volume-title": "Skills‐based organization survey",
+          "author": "Deloitte",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_11_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206307312507"
+        },
+        {
+          "key": "e_1_2_11_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2019.100693"
+        },
+        {
+          "key": "e_1_2_11_29_1",
+          "first-page": "98",
+          "article-title": "The new deal at the top",
+          "volume": "85",
+          "author": "Doz Y. L.",
+          "year": "2007",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "key": "e_1_2_11_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.lrp.2009.07.006"
+        },
+        {
+          "key": "e_1_2_11_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.21473"
+        },
+        {
+          "key": "e_1_2_11_32_1",
+          "unstructured": "Dyer L. &Ericksen J.(2006).Dynamic organizations: achieving marketplace agility through workforce scalability.CAHRS Working Paper 6‐12."
+        },
+        {
+          "key": "e_1_2_11_33_1",
+          "first-page": "7",
+          "volume-title": "Leading and managing people in the dynamic organization",
+          "author": "Dyer L.",
+          "year": "2003"
+        },
+        {
+          "key": "e_1_2_11_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/19416520802211503"
+        },
+        {
+          "key": "e_1_2_11_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22038"
+        },
+        {
+          "key": "e_1_2_11_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2007.23464020"
+        },
+        {
+          "key": "e_1_2_11_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2016.04.014"
+        },
+        {
+          "key": "e_1_2_11_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/978-1-80117-834-120221008"
+        },
+        {
+          "key": "e_1_2_11_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2021.0320"
+        },
+        {
+          "key": "e_1_2_11_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2013.05.002"
+        },
+        {
+          "key": "e_1_2_11_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2018.0482"
+        },
+        {
+          "key": "e_1_2_11_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.21972"
+        },
+        {
+          "key": "e_1_2_11_43_1",
+          "first-page": "110",
+          "volume-title": "‘A players’ or ‘a positions’? The strategic logic of workforce management",
+          "author": "Huselid M. A.",
+          "year": "2005"
+        },
+        {
+          "key": "e_1_2_11_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551-017-3583-6"
+        },
+        {
+          "key": "e_1_2_11_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7551/mitpress/13930.001.0001"
+        },
+        {
+          "key": "e_1_2_11_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2019.1686651"
+        },
+        {
+          "key": "e_1_2_11_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12558"
+        },
+        {
+          "key": "e_1_2_11_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0001839217736045"
+        },
+        {
+          "key": "e_1_2_11_49_1",
+          "volume-title": "The new possible: How HR can help build the organization of the future",
+          "author": "Komm A.",
+          "year": "2021"
+        },
+        {
+          "key": "e_1_2_11_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744-6570.2005.00672.x"
+        },
+        {
+          "key": "e_1_2_11_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0263-2373(92)90002-L"
+        },
+        {
+          "key": "e_1_2_11_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jwb.2022.101365"
+        },
+        {
+          "key": "e_1_2_11_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1515/9781400845354-014"
+        },
+        {
+          "key": "e_1_2_11_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22100"
+        },
+        {
+          "key": "e_1_2_11_55_1",
+          "first-page": "231",
+          "article-title": "Strategic HRM moving forward: What can we learn from micro perspectives?",
+          "volume": "27",
+          "author": "Lepak D. P.",
+          "year": "2012",
+          "journal-title": "International Review of Industrial and Organizational Psychology"
+        },
+        {
+          "key": "e_1_2_11_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amp.2006.20591002"
+        },
+        {
+          "key": "e_1_2_11_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1094428120948600"
+        },
+        {
+          "key": "e_1_2_11_58_1",
+          "volume-title": "Taking a skills‐based approach to building the future workforce",
+          "author": "McKinsey",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_11_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2020.100791"
+        },
+        {
+          "key": "e_1_2_11_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2019.1579747"
+        },
+        {
+          "key": "e_1_2_11_61_1",
+          "volume-title": "Structure in fives: Designing effective organizations",
+          "author": "Mintzberg H.",
+          "year": "1992"
+        },
+        {
+          "key": "e_1_2_11_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/256898"
+        },
+        {
+          "key": "e_1_2_11_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2012.689160"
+        },
+        {
+          "key": "e_1_2_11_64_1",
+          "volume-title": "Skills for 2030",
+          "author": "OECD",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_11_65_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.21941"
+        },
+        {
+          "key": "e_1_2_11_66_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2009.0318"
+        },
+        {
+          "key": "e_1_2_11_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206313512152"
+        },
+        {
+          "key": "e_1_2_11_68_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2009.44635041"
+        },
+        {
+          "key": "e_1_2_11_69_1",
+          "volume-title": "Future of work and skills survey",
+          "author": "PwC",
+          "year": "2021"
+        },
+        {
+          "key": "e_1_2_11_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206308316058"
+        },
+        {
+          "key": "e_1_2_11_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206318808885"
+        },
+        {
+          "key": "e_1_2_11_72_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2019.0233"
+        },
+        {
+          "key": "e_1_2_11_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1467-8551.12182"
+        },
+        {
+          "key": "e_1_2_11_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744-6570.1995.tb01780.x"
+        },
+        {
+          "key": "e_1_2_11_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.intman.2020.100737"
+        },
+        {
+          "key": "e_1_2_11_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2017.4002"
+        },
+        {
+          "key": "e_1_2_11_77_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ergon.2007.01.007"
+        },
+        {
+          "key": "e_1_2_11_78_1",
+          "volume-title": "Strategy‐driven talent management: A leadership imperative",
+          "author": "Silzer R. F.",
+          "year": "2009"
+        },
+        {
+          "key": "e_1_2_11_79_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/joms.12620"
+        },
+        {
+          "key": "e_1_2_11_80_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9781139424585"
+        },
+        {
+          "key": "e_1_2_11_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.lrp.2017.06.007"
+        },
+        {
+          "key": "e_1_2_11_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1525/cmr.2016.58.4.13"
+        },
+        {
+          "key": "e_1_2_11_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z"
+        },
+        {
+          "key": "e_1_2_11_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22050"
+        },
+        {
+          "key": "e_1_2_11_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/00251741211227663"
+        },
+        {
+          "key": "e_1_2_11_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.lrp.2012.05.001"
+        },
+        {
+          "key": "e_1_2_11_87_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1525/cmr.2014.56.3.5"
+        },
+        {
+          "key": "e_1_2_11_88_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/annals.2016.0117"
+        },
+        {
+          "key": "e_1_2_11_89_1",
+          "volume-title": "The future of jobs report 2020",
+          "author": "World Economic Forum",
+          "year": "2020"
+        },
+        {
+          "key": "e_1_2_11_90_1",
+          "volume-title": "Five ways a skills‐first approach unlocks access to future jobs",
+          "author": "World Economic Forum",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_11_91_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/259061"
+        },
+        {
+          "key": "e_1_2_11_92_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2019.100696"
+        }
+      ],
+      "container-title": [
+        "Human Resource Management"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hrm.22192",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            1,
+            19
+          ]
+        ],
+        "date-time": "2024-01-19T08:03:00Z",
+        "timestamp": 1705651380000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.22192"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            23
+          ]
+        ]
+      },
+      "references-count": 91,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/hrm.22192"
+      ],
+      "URL": "https://doi.org/10.1002/hrm.22192",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0090-4848",
+        "1099-050X"
+      ],
+      "issn-type": [
+        {
+          "value": "0090-4848",
+          "type": "print"
+        },
+        {
+          "value": "1099-050X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            8,
+            23
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2022-12-07",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2023-08-09",
+          "order": 1,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2023-08-23",
+          "order": 2,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

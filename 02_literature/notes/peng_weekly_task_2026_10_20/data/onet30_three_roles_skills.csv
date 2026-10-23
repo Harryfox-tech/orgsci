@@ -1,0 +1,106 @@
+﻿onet_version,occupation_code,occupation_title,skill_id,skill_name,importance_raw,level_raw,importance_rescaled,level_proxy_0_1,eligible_for_proxy,importance_suppress,level_suppress,level_not_relevant,importance_sample_n,level_sample_n,importance_standard_error,level_standard_error,importance_date,level_date,importance_source,level_source,weight_within_role
+30.0,13-1071.00,Human Resources Specialists,2.A.1.a,Reading Comprehension,4.0,4.0,0.75,0.5714285714285714,True,N,N,N,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0.05907837731390311
+30.0,13-1071.00,Human Resources Specialists,2.A.1.b,Active Listening,4.0,4.0,0.75,0.5714285714285714,True,N,N,N,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0.05907837731390311
+30.0,13-1071.00,Human Resources Specialists,2.A.1.c,Writing,3.88,4.0,0.72,0.5714285714285714,True,N,N,N,8,8,0.1250,0.0000,08/2019,08/2019,Analyst,Analyst,0.05671524222134698
+30.0,13-1071.00,Human Resources Specialists,2.A.1.d,Speaking,4.12,4.0,0.78,0.5714285714285714,True,N,N,N,8,8,0.1250,0.0000,08/2019,08/2019,Analyst,Analyst,0.06144151240645924
+30.0,13-1071.00,Human Resources Specialists,2.A.1.e,Mathematics,2.0,2.0,0.25,0.2857142857142857,True,N,N,N,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0.019692792437967704
+30.0,13-1071.00,Human Resources Specialists,2.A.1.f,Science,1.12,0.12,0.030000000000000027,,False,N,N,Y,8,8,0.1250,0.1250,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.A.2.a,Critical Thinking,3.88,4.0,0.72,0.5714285714285714,True,N,N,N,8,8,0.1250,0.0000,08/2019,08/2019,Analyst,Analyst,0.05671524222134698
+30.0,13-1071.00,Human Resources Specialists,2.A.2.b,Active Learning,3.25,3.38,0.5625,0.4828571428571428,True,N,N,N,8,8,0.1637,0.1830,08/2019,08/2019,Analyst,Analyst,0.044308782985427335
+30.0,13-1071.00,Human Resources Specialists,2.A.2.c,Learning Strategies,3.0,3.25,0.5,0.4642857142857143,True,N,N,N,8,8,0.1890,0.1637,08/2019,08/2019,Analyst,Analyst,0.03938558487593541
+30.0,13-1071.00,Human Resources Specialists,2.A.2.d,Monitoring,3.0,3.75,0.5,0.5357142857142857,True,N,N,N,8,8,0.0000,0.1637,08/2019,08/2019,Analyst,Analyst,0.03938558487593541
+30.0,13-1071.00,Human Resources Specialists,2.B.1.a,Social Perceptiveness,3.38,3.88,0.595,0.5542857142857143,True,N,N,N,8,8,0.1830,0.1250,08/2019,08/2019,Analyst,Analyst,0.04686884600236313
+30.0,13-1071.00,Human Resources Specialists,2.B.1.b,Coordination,3.0,3.5,0.5,0.5,True,N,N,N,8,8,0.0000,0.1890,08/2019,08/2019,Analyst,Analyst,0.03938558487593541
+30.0,13-1071.00,Human Resources Specialists,2.B.1.c,Persuasion,2.88,3.0,0.47,0.42857142857142855,True,N,N,N,8,8,0.1250,0.0000,08/2019,08/2019,Analyst,Analyst,0.03702244978337928
+30.0,13-1071.00,Human Resources Specialists,2.B.1.d,Negotiation,3.0,3.0,0.5,0.42857142857142855,True,N,N,N,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0.03938558487593541
+30.0,13-1071.00,Human Resources Specialists,2.B.1.e,Instructing,3.12,3.12,0.53,0.44571428571428573,True,N,N,N,8,8,0.1250,0.1250,08/2019,08/2019,Analyst,Analyst,0.041748719968491534
+30.0,13-1071.00,Human Resources Specialists,2.B.1.f,Service Orientation,3.38,3.25,0.595,0.4642857142857143,True,N,N,N,8,8,0.1830,0.1637,08/2019,08/2019,Analyst,Analyst,0.04686884600236313
+30.0,13-1071.00,Human Resources Specialists,2.B.2.i,Complex Problem Solving,3.12,3.12,0.53,0.44571428571428573,True,N,N,N,8,8,0.1250,0.1250,08/2019,08/2019,Analyst,Analyst,0.041748719968491534
+30.0,13-1071.00,Human Resources Specialists,2.B.3.a,Operations Analysis,1.25,0.25,0.0625,,False,N,N,Y,8,8,0.1637,0.1637,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.b,Technology Design,1.75,0.75,0.1875,0.10714285714285714,True,N,N,N,8,8,0.1637,0.1637,08/2019,08/2019,Analyst,Analyst,0.014769594328475778
+30.0,13-1071.00,Human Resources Specialists,2.B.3.c,Equipment Selection,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.d,Installation,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.e,Programming,1.62,0.62,0.15500000000000003,0.08857142857142856,True,N,N,N,8,8,0.1830,0.1830,08/2019,08/2019,Analyst,Analyst,0.012209531311539979
+30.0,13-1071.00,Human Resources Specialists,2.B.3.g,Operations Monitoring,1.5,0.5,0.125,0.07142857142857142,True,N,N,N,8,8,0.1890,0.1890,08/2019,08/2019,Analyst,Analyst,0.009846396218983852
+30.0,13-1071.00,Human Resources Specialists,2.B.3.h,Operation and Control,1.12,0.12,0.030000000000000027,,False,N,N,Y,8,8,0.1250,0.1250,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.j,Equipment Maintenance,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.k,Troubleshooting,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.l,Repairing,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0
+30.0,13-1071.00,Human Resources Specialists,2.B.3.m,Quality Control Analysis,1.75,0.75,0.1875,0.10714285714285714,True,N,N,N,8,8,0.2500,0.2500,08/2019,08/2019,Analyst,Analyst,0.014769594328475778
+30.0,13-1071.00,Human Resources Specialists,2.B.4.e,Judgment and Decision Making,3.25,3.5,0.5625,0.5,True,N,N,N,8,8,0.1637,0.1890,08/2019,08/2019,Analyst,Analyst,0.044308782985427335
+30.0,13-1071.00,Human Resources Specialists,2.B.4.g,Systems Analysis,2.88,2.75,0.47,0.39285714285714285,True,N,N,N,8,8,0.2266,0.1637,08/2019,08/2019,Analyst,Analyst,0.03702244978337928
+30.0,13-1071.00,Human Resources Specialists,2.B.4.h,Systems Evaluation,2.38,2.88,0.345,0.4114285714285714,True,N,N,N,8,8,0.1830,0.2266,08/2019,08/2019,Analyst,Analyst,0.02717605356439543
+30.0,13-1071.00,Human Resources Specialists,2.B.5.a,Time Management,3.0,3.0,0.5,0.42857142857142855,True,N,N,N,8,8,0.0000,0.0000,08/2019,08/2019,Analyst,Analyst,0.03938558487593541
+30.0,13-1071.00,Human Resources Specialists,2.B.5.b,Management of Financial Resources,1.88,1.25,0.21999999999999997,0.17857142857142858,True,N,N,N,8,8,0.1250,0.2500,08/2019,08/2019,Analyst,Analyst,0.017329657345411576
+30.0,13-1071.00,Human Resources Specialists,2.B.5.c,Management of Material Resources,1.88,1.25,0.21999999999999997,0.17857142857142858,True,N,N,N,8,8,0.1250,0.2500,08/2019,08/2019,Analyst,Analyst,0.017329657345411576
+30.0,13-1071.00,Human Resources Specialists,2.B.5.d,Management of Personnel Resources,2.88,2.88,0.47,0.4114285714285714,True,N,N,N,8,8,0.1250,0.1250,08/2019,08/2019,Analyst,Analyst,0.03702244978337928
+30.0,15-1252.00,Software Developers,2.A.1.a,Reading Comprehension,3.5,4.25,0.625,0.6071428571428571,True,N,N,N,8,8,0.1890,0.2500,08/2025,08/2025,Analyst,Analyst,0.04783773440489859
+30.0,15-1252.00,Software Developers,2.A.1.b,Active Listening,3.38,3.88,0.595,0.5542857142857143,True,N,N,N,8,8,0.1830,0.2266,08/2025,08/2025,Analyst,Analyst,0.04554152315346345
+30.0,15-1252.00,Software Developers,2.A.1.c,Writing,3.25,3.62,0.5625,0.5171428571428571,True,N,N,N,8,8,0.1637,0.1830,08/2025,08/2025,Analyst,Analyst,0.04305396096440873
+30.0,15-1252.00,Software Developers,2.A.1.d,Speaking,3.12,3.62,0.53,0.5171428571428571,True,N,N,N,8,8,0.1250,0.1830,08/2025,08/2025,Analyst,Analyst,0.040566398775354
+30.0,15-1252.00,Software Developers,2.A.1.e,Mathematics,2.75,3.25,0.4375,0.4642857142857143,True,N,N,N,8,8,0.2500,0.3134,08/2025,08/2025,Analyst,Analyst,0.03348641408342901
+30.0,15-1252.00,Software Developers,2.A.1.f,Science,2.12,1.88,0.28,,False,N,Y,N,8,8,0.3981,0.6105,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.A.2.a,Critical Thinking,3.88,4.12,0.72,0.5885714285714286,True,N,N,N,8,8,0.2266,0.2266,08/2025,08/2025,Analyst,Analyst,0.05510907003444317
+30.0,15-1252.00,Software Developers,2.A.2.b,Active Learning,3.5,3.62,0.625,0.5171428571428571,True,N,N,N,8,8,0.1890,0.2631,08/2025,08/2025,Analyst,Analyst,0.04783773440489859
+30.0,15-1252.00,Software Developers,2.A.2.c,Learning Strategies,2.62,3.12,0.405,0.44571428571428573,True,N,N,N,8,8,0.1830,0.1250,08/2025,08/2025,Analyst,Analyst,0.030998851894374287
+30.0,15-1252.00,Software Developers,2.A.2.d,Monitoring,3.0,3.5,0.5,0.5,True,N,N,N,8,8,0.0000,0.1890,08/2025,08/2025,Analyst,Analyst,0.03827018752391887
+30.0,15-1252.00,Software Developers,2.B.1.a,Social Perceptiveness,2.88,3.38,0.47,0.4828571428571428,True,N,N,N,8,8,0.2266,0.1830,08/2025,08/2025,Analyst,Analyst,0.035973976272483735
+30.0,15-1252.00,Software Developers,2.B.1.b,Coordination,3.0,3.12,0.5,0.44571428571428573,True,N,N,N,8,8,0.1890,0.2266,08/2025,08/2025,Analyst,Analyst,0.03827018752391887
+30.0,15-1252.00,Software Developers,2.B.1.c,Persuasion,2.75,3.12,0.4375,0.44571428571428573,True,N,N,N,8,8,0.1637,0.1250,08/2025,08/2025,Analyst,Analyst,0.03348641408342901
+30.0,15-1252.00,Software Developers,2.B.1.d,Negotiation,2.62,2.88,0.405,0.4114285714285714,True,N,N,N,8,8,0.1830,0.1250,08/2025,08/2025,Analyst,Analyst,0.030998851894374287
+30.0,15-1252.00,Software Developers,2.B.1.e,Instructing,2.88,3.12,0.47,0.44571428571428573,True,N,N,N,8,8,0.1250,0.2266,08/2025,08/2025,Analyst,Analyst,0.035973976272483735
+30.0,15-1252.00,Software Developers,2.B.1.f,Service Orientation,2.88,3.0,0.47,0.42857142857142855,True,N,N,N,8,8,0.1250,0.0000,08/2025,08/2025,Analyst,Analyst,0.035973976272483735
+30.0,15-1252.00,Software Developers,2.B.2.i,Complex Problem Solving,3.38,3.5,0.595,0.5,True,N,N,N,8,8,0.1830,0.1890,08/2025,08/2025,Analyst,Analyst,0.04554152315346345
+30.0,15-1252.00,Software Developers,2.B.3.a,Operations Analysis,3.25,3.12,0.5625,,False,N,Y,N,8,8,0.4532,0.5154,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.b,Technology Design,3.38,3.62,0.595,0.5171428571428571,True,N,N,N,8,8,0.3239,0.4605,08/2025,08/2025,Analyst,Analyst,0.04554152315346345
+30.0,15-1252.00,Software Developers,2.B.3.c,Equipment Selection,2.12,1.75,0.28,,False,N,Y,N,8,8,0.4795,0.5590,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.d,Installation,1.88,1.0,0.21999999999999997,0.14285714285714285,True,N,N,N,8,8,0.3504,0.3780,08/2025,08/2025,Analyst,Analyst,0.0168388825105243
+30.0,15-1252.00,Software Developers,2.B.3.e,Programming,4.0,4.12,0.75,,False,N,Y,N,8,8,0.3780,0.5154,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.g,Operations Monitoring,2.75,2.38,0.4375,0.33999999999999997,True,N,N,N,8,8,0.2500,0.2631,08/2025,08/2025,Analyst,Analyst,0.03348641408342901
+30.0,15-1252.00,Software Developers,2.B.3.h,Operation and Control,2.0,1.75,0.25,,False,N,Y,N,8,8,0.3273,0.5590,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.j,Equipment Maintenance,1.25,0.25,0.0625,,False,N,N,Y,8,8,0.2500,0.2500,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.k,Troubleshooting,2.62,2.38,0.405,0.33999999999999997,True,N,N,N,8,8,0.2631,0.4978,08/2025,08/2025,Analyst,Analyst,0.030998851894374287
+30.0,15-1252.00,Software Developers,2.B.3.l,Repairing,1.12,0.25,0.030000000000000027,,False,N,N,Y,8,8,0.1250,0.2500,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.3.m,Quality Control Analysis,2.75,2.75,0.4375,,False,N,Y,N,8,8,0.4910,0.7258,08/2025,08/2025,Analyst,Analyst,0
+30.0,15-1252.00,Software Developers,2.B.4.e,Judgment and Decision Making,3.62,3.75,0.655,0.5357142857142857,True,N,N,N,8,8,0.1830,0.3134,08/2025,08/2025,Analyst,Analyst,0.05013394565633372
+30.0,15-1252.00,Software Developers,2.B.4.g,Systems Analysis,3.5,3.88,0.625,0.5542857142857143,True,N,N,N,8,8,0.3273,0.3504,08/2025,08/2025,Analyst,Analyst,0.04783773440489859
+30.0,15-1252.00,Software Developers,2.B.4.h,Systems Evaluation,3.38,4.12,0.595,0.5885714285714286,True,N,N,N,8,8,0.3750,0.4407,08/2025,08/2025,Analyst,Analyst,0.04554152315346345
+30.0,15-1252.00,Software Developers,2.B.5.a,Time Management,3.12,3.25,0.53,0.4642857142857143,True,N,N,N,8,8,0.1250,0.2500,08/2025,08/2025,Analyst,Analyst,0.040566398775354
+30.0,15-1252.00,Software Developers,2.B.5.b,Management of Financial Resources,1.75,1.0,0.1875,0.14285714285714285,True,N,N,N,8,8,0.2500,0.3273,08/2025,08/2025,Analyst,Analyst,0.014351320321469576
+30.0,15-1252.00,Software Developers,2.B.5.c,Management of Material Resources,1.62,1.0,0.15500000000000003,0.14285714285714285,True,N,N,N,8,8,0.1830,0.3273,08/2025,08/2025,Analyst,Analyst,0.011863758132414852
+30.0,15-1252.00,Software Developers,2.B.5.d,Management of Personnel Resources,2.25,2.62,0.3125,0.3742857142857143,True,N,N,N,8,8,0.1637,0.1830,08/2025,08/2025,Analyst,Analyst,0.023918867202449293
+30.0,15-2031.00,Operations Research Analysts,2.A.1.a,Reading Comprehension,4.0,4.25,0.75,0.6071428571428571,True,N,N,N,8,8,0.0000,0.1637,08/2024,08/2024,Analyst,Analyst,0.04807692307692308
+30.0,15-2031.00,Operations Research Analysts,2.A.1.b,Active Listening,4.0,4.0,0.75,0.5714285714285714,True,N,N,N,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0.04807692307692308
+30.0,15-2031.00,Operations Research Analysts,2.A.1.c,Writing,4.0,4.0,0.75,0.5714285714285714,True,N,N,N,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0.04807692307692308
+30.0,15-2031.00,Operations Research Analysts,2.A.1.d,Speaking,4.0,4.0,0.75,0.5714285714285714,True,N,N,N,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0.04807692307692308
+30.0,15-2031.00,Operations Research Analysts,2.A.1.e,Mathematics,4.5,4.88,0.875,0.6971428571428572,True,N,N,N,8,8,0.1890,0.2266,08/2024,08/2024,Analyst,Analyst,0.05608974358974359
+30.0,15-2031.00,Operations Research Analysts,2.A.1.f,Science,3.25,3.25,0.5625,0.4642857142857143,True,N,N,N,8,8,0.1637,0.1637,08/2024,08/2024,Analyst,Analyst,0.03605769230769231
+30.0,15-2031.00,Operations Research Analysts,2.A.2.a,Critical Thinking,4.0,4.12,0.75,0.5885714285714286,True,N,N,N,8,8,0.0000,0.1250,08/2024,08/2024,Analyst,Analyst,0.04807692307692308
+30.0,15-2031.00,Operations Research Analysts,2.A.2.b,Active Learning,3.88,4.12,0.72,0.5885714285714286,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.046153846153846156
+30.0,15-2031.00,Operations Research Analysts,2.A.2.c,Learning Strategies,3.0,3.0,0.5,0.42857142857142855,True,N,N,N,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0.032051282051282055
+30.0,15-2031.00,Operations Research Analysts,2.A.2.d,Monitoring,2.88,3.12,0.47,0.44571428571428573,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.03012820512820513
+30.0,15-2031.00,Operations Research Analysts,2.B.1.a,Social Perceptiveness,2.88,2.88,0.47,0.4114285714285714,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.03012820512820513
+30.0,15-2031.00,Operations Research Analysts,2.B.1.b,Coordination,3.12,3.12,0.53,0.44571428571428573,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.03397435897435898
+30.0,15-2031.00,Operations Research Analysts,2.B.1.c,Persuasion,2.88,3.12,0.47,0.44571428571428573,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.03012820512820513
+30.0,15-2031.00,Operations Research Analysts,2.B.1.d,Negotiation,2.12,2.38,0.28,0.33999999999999997,True,N,N,N,8,8,0.1250,0.1830,08/2024,08/2024,Analyst,Analyst,0.01794871794871795
+30.0,15-2031.00,Operations Research Analysts,2.B.1.e,Instructing,3.0,3.0,0.5,0.42857142857142855,True,N,N,N,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0.032051282051282055
+30.0,15-2031.00,Operations Research Analysts,2.B.1.f,Service Orientation,2.75,2.88,0.4375,0.4114285714285714,True,N,N,N,8,8,0.1637,0.1250,08/2024,08/2024,Analyst,Analyst,0.028044871794871796
+30.0,15-2031.00,Operations Research Analysts,2.B.2.i,Complex Problem Solving,4.12,4.5,0.78,0.6428571428571429,True,N,N,N,8,8,0.1250,0.1890,08/2024,08/2024,Analyst,Analyst,0.05
+30.0,15-2031.00,Operations Research Analysts,2.B.3.a,Operations Analysis,3.75,4.25,0.6875,0.6071428571428571,True,N,N,N,8,8,0.1637,0.2500,08/2024,08/2024,Analyst,Analyst,0.044070512820512824
+30.0,15-2031.00,Operations Research Analysts,2.B.3.b,Technology Design,1.75,1.12,0.1875,0.16,True,N,N,N,8,8,0.1637,0.2950,08/2024,08/2024,Analyst,Analyst,0.01201923076923077
+30.0,15-2031.00,Operations Research Analysts,2.B.3.c,Equipment Selection,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.d,Installation,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.e,Programming,2.62,2.75,0.405,0.39285714285714285,True,N,N,N,8,8,0.2631,0.2500,08/2024,08/2024,Analyst,Analyst,0.025961538461538463
+30.0,15-2031.00,Operations Research Analysts,2.B.3.g,Operations Monitoring,1.88,1.25,0.21999999999999997,0.17857142857142858,True,N,N,N,8,8,0.1250,0.2500,08/2024,08/2024,Analyst,Analyst,0.014102564102564101
+30.0,15-2031.00,Operations Research Analysts,2.B.3.h,Operation and Control,1.12,0.12,0.030000000000000027,,False,N,N,Y,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.j,Equipment Maintenance,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.k,Troubleshooting,1.25,0.25,0.0625,,False,N,N,Y,8,8,0.1637,0.1637,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.l,Repairing,1.0,0.0,0.0,,False,N,N,Y,8,8,0.0000,0.0000,08/2024,08/2024,Analyst,Analyst,0
+30.0,15-2031.00,Operations Research Analysts,2.B.3.m,Quality Control Analysis,1.88,1.38,0.21999999999999997,0.19714285714285712,True,N,N,N,8,8,0.1250,0.2631,08/2024,08/2024,Analyst,Analyst,0.014102564102564101
+30.0,15-2031.00,Operations Research Analysts,2.B.4.e,Judgment and Decision Making,3.88,4.38,0.72,0.6257142857142857,True,N,N,N,8,8,0.1250,0.1830,08/2024,08/2024,Analyst,Analyst,0.046153846153846156
+30.0,15-2031.00,Operations Research Analysts,2.B.4.g,Systems Analysis,3.88,3.88,0.72,0.5542857142857143,True,N,N,N,8,8,0.1250,0.1250,08/2024,08/2024,Analyst,Analyst,0.046153846153846156
+30.0,15-2031.00,Operations Research Analysts,2.B.4.h,Systems Evaluation,3.88,4.25,0.72,0.6071428571428571,True,N,N,N,8,8,0.1250,0.1637,08/2024,08/2024,Analyst,Analyst,0.046153846153846156
+30.0,15-2031.00,Operations Research Analysts,2.B.5.a,Time Management,3.12,3.0,0.53,0.42857142857142855,True,N,N,N,8,8,0.1250,0.0000,08/2024,08/2024,Analyst,Analyst,0.03397435897435898
+30.0,15-2031.00,Operations Research Analysts,2.B.5.b,Management of Financial Resources,1.88,1.38,0.21999999999999997,0.19714285714285712,True,N,N,N,8,8,0.2266,0.3239,08/2024,08/2024,Analyst,Analyst,0.014102564102564101
+30.0,15-2031.00,Operations Research Analysts,2.B.5.c,Management of Material Resources,1.88,1.25,0.21999999999999997,0.17857142857142858,True,N,N,N,8,8,0.2266,0.3134,08/2024,08/2024,Analyst,Analyst,0.014102564102564101
+30.0,15-2031.00,Operations Research Analysts,2.B.5.d,Management of Personnel Resources,2.62,2.62,0.405,0.3742857142857143,True,N,N,N,8,8,0.1830,0.1830,08/2024,08/2024,Analyst,Analyst,0.025961538461538463

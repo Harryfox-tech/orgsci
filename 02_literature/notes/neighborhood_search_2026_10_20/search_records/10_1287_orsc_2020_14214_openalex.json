@@ -1,0 +1,1233 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2020.14214",
+    "checked_at": "2026-10-20T01:25:28.680062Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4384692351",
+    "doi": "https://doi.org/10.1287/orsc.2020.14214",
+    "title": "Leveraging Learning Collectives: How Novice Outsiders Break into an Occupation",
+    "display_name": "Leveraging Learning Collectives: How Novice Outsiders Break into an Occupation",
+    "publication_year": 2023,
+    "publication_date": "2023-07-18",
+    "ids": {
+      "openalex": "https://openalex.org/W4384692351",
+      "doi": "https://doi.org/10.1287/orsc.2020.14214"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1287/orsc.2020.14214",
+      "doi": "https://doi.org/10.1287/orsc.2020.14214",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1287/orsc.2020.14214",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S206124708",
+        "display_name": "Organization Science",
+        "issn_l": "1047-7039",
+        "issn": [
+          "1047-7039",
+          "1526-5455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1-star",
+          "ft50",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "utd24",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315699",
+        "host_organization_name": "Institute for Operations Research and the Management Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315699"
+        ],
+        "host_organization_lineage_names": [
+          "Institute for Operations Research and the Management Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Organization Science",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5066080494",
+          "display_name": "Ece Kaynak",
+          "orcid": "https://orcid.org/0000-0003-4077-2200",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4077-2200"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180825142",
+            "display_name": "City, University of London",
+            "ror": "https://ror.org/04489at23",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I124357947",
+              "https://openalex.org/I180825142",
+              "https://openalex.org/I4401726869"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Ece Kaynak",
+        "raw_affiliation_strings": [
+          "Department of Management, Bayes Business School, City, University of London, London EC1Y 8TZ, United Kingdom",
+          "City, University of London Institutional Repository"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4077-2200",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Management, Bayes Business School, City, University of London, London EC1Y 8TZ, United Kingdom",
+            "institution_ids": [
+              "https://openalex.org/I180825142"
+            ]
+          },
+          {
+            "raw_affiliation_string": "City, University of London Institutional Repository",
+            "institution_ids": [
+              "https://openalex.org/I180825142"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5066080494"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I180825142"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 4.9774,
+    "has_fulltext": false,
+    "cited_by_count": 5,
+    "citation_normalized_percentile": {
+      "value": 0.95637386,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 98
+    },
+    "biblio": {
+      "volume": "35",
+      "issue": "3",
+      "first_page": "948",
+      "last_page": "973"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11466",
+      "display_name": "Innovative Education and Learning Practices",
+      "score": 0.9926999807357788,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3307",
+        "display_name": "Human Factors and Ergonomics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11466",
+        "display_name": "Innovative Education and Learning Practices",
+        "score": 0.9926999807357788,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3307",
+          "display_name": "Human Factors and Ergonomics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10153",
+        "display_name": "Education, sociology, and vocational training",
+        "score": 0.002899999963119626,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10344",
+        "display_name": "Management and Organizational Studies",
+        "score": 0.000699999975040555,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/coding-bootcamps",
+        "display_name": "coding bootcamps",
+        "score": 0.9440000057220459
+      },
+      {
+        "id": "https://openalex.org/keywords/software-developers",
+        "display_name": "software developers",
+        "score": 0.6980000138282776
+      },
+      {
+        "id": "https://openalex.org/keywords/peer-learning",
+        "display_name": "peer learning",
+        "score": 0.5799999833106995
+      },
+      {
+        "id": "https://openalex.org/keywords/near-peer-mentorship",
+        "display_name": "near-peer mentorship",
+        "score": 0.75
+      },
+      {
+        "id": "https://openalex.org/keywords/self-directed-learning",
+        "display_name": "self-directed learning",
+        "score": 0.7329999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/occupational-socialization",
+        "display_name": "occupational socialization",
+        "score": 0.5809999704360962
+      },
+      {
+        "id": "https://openalex.org/keywords/situated-learning",
+        "display_name": "situated learning",
+        "score": 0.5770000219345093
+      },
+      {
+        "id": "https://openalex.org/keywords/peripheral-participation",
+        "display_name": "peripheral participation",
+        "score": 0.4950000047683716
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2776535583",
+        "wikidata": "https://www.wikidata.org/wiki/Q967647",
+        "display_name": "Mentorship",
+        "level": 2,
+        "score": 0.6744392514228821
+      },
+      {
+        "id": "https://openalex.org/C132829578",
+        "wikidata": "https://www.wikidata.org/wiki/Q581151",
+        "display_name": "Situated",
+        "level": 2,
+        "score": 0.5903362035751343
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.5092688798904419
+      },
+      {
+        "id": "https://openalex.org/C138020889",
+        "wikidata": "https://www.wikidata.org/wiki/Q2349659",
+        "display_name": "Collaborative learning",
+        "level": 2,
+        "score": 0.4240609407424927
+      },
+      {
+        "id": "https://openalex.org/C47177190",
+        "wikidata": "https://www.wikidata.org/wiki/Q207137",
+        "display_name": "Curriculum",
+        "level": 2,
+        "score": 0.4229186475276947
+      },
+      {
+        "id": "https://openalex.org/C98045186",
+        "wikidata": "https://www.wikidata.org/wiki/Q205663",
+        "display_name": "Process (computing)",
+        "level": 2,
+        "score": 0.42069464921951294
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.39500725269317627
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.3848457932472229
+      },
+      {
+        "id": "https://openalex.org/C19417346",
+        "wikidata": "https://www.wikidata.org/wiki/Q7922",
+        "display_name": "Pedagogy",
+        "level": 1,
+        "score": 0.3830071687698364
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.37715572118759155
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.37385642528533936
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.2696588635444641
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.18669003248214722
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.1309317648410797
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.12071216106414795
+      },
+      {
+        "id": "https://openalex.org/C111919701",
+        "wikidata": "https://www.wikidata.org/wiki/Q9135",
+        "display_name": "Operating system",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1287/orsc.2020.14214",
+        "doi": "https://doi.org/10.1287/orsc.2020.14214",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1287/orsc.2020.14214",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S206124708",
+          "display_name": "Organization Science",
+          "issn_l": "1047-7039",
+          "issn": [
+            "1047-7039",
+            "1526-5455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-1-star",
+            "ft50",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "utd24",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315699",
+          "host_organization_name": "Institute for Operations Research and the Management Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315699"
+          ],
+          "host_organization_lineage_names": [
+            "Institute for Operations Research and the Management Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Organization Science",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:openaccess.city.ac.uk:31275",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://openaccess.city.ac.uk/view/creators_id/ece=2Ekaynak.html>",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401940",
+          "display_name": "City Research Online (City University London)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I180825142",
+          "host_organization_name": "City, University of London",
+          "host_organization_lineage": [
+            "https://openalex.org/I180825142"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Quality education",
+        "score": 0.9235000014305115,
+        "id": "https://metadata.un.org/sdg/4"
+      },
+      {
+        "display_name": "Decent work and economic growth",
+        "score": 0.9211000204086304,
+        "id": "https://metadata.un.org/sdg/8"
+      },
+      {
+        "display_name": "Reduced inequalities",
+        "score": 0.4000000059604645,
+        "id": "https://metadata.un.org/sdg/10"
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "display_name": "Quality education",
+        "score": 0.47999998927116394,
+        "id": "https://metadata.un.org/sdg/4"
+      }
+    ],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 78,
+    "referenced_works": [
+      "https://openalex.org/W1492833693",
+      "https://openalex.org/W1495403436",
+      "https://openalex.org/W1546736995",
+      "https://openalex.org/W1575032121",
+      "https://openalex.org/W1972085662",
+      "https://openalex.org/W1972409002",
+      "https://openalex.org/W1974324060",
+      "https://openalex.org/W1974729988",
+      "https://openalex.org/W1976819890",
+      "https://openalex.org/W1981590134",
+      "https://openalex.org/W1995646485",
+      "https://openalex.org/W2000117884",
+      "https://openalex.org/W2003496454",
+      "https://openalex.org/W2007572411",
+      "https://openalex.org/W2013419496",
+      "https://openalex.org/W2013748330",
+      "https://openalex.org/W2024797259",
+      "https://openalex.org/W2033630110",
+      "https://openalex.org/W2040934453",
+      "https://openalex.org/W2046295972",
+      "https://openalex.org/W2049213320",
+      "https://openalex.org/W2058107732",
+      "https://openalex.org/W2070861550",
+      "https://openalex.org/W2071637898",
+      "https://openalex.org/W2081917516",
+      "https://openalex.org/W2095437943",
+      "https://openalex.org/W2099681765",
+      "https://openalex.org/W2100308678",
+      "https://openalex.org/W2103261934",
+      "https://openalex.org/W2103484761",
+      "https://openalex.org/W2105507325",
+      "https://openalex.org/W2110209692",
+      "https://openalex.org/W2111681832",
+      "https://openalex.org/W2118771233",
+      "https://openalex.org/W2121830293",
+      "https://openalex.org/W2127488046",
+      "https://openalex.org/W2141552044",
+      "https://openalex.org/W2146691185",
+      "https://openalex.org/W2149415807",
+      "https://openalex.org/W2150587481",
+      "https://openalex.org/W2154756042",
+      "https://openalex.org/W2156940063",
+      "https://openalex.org/W2171216914",
+      "https://openalex.org/W2175187395",
+      "https://openalex.org/W2312206113",
+      "https://openalex.org/W2313058334",
+      "https://openalex.org/W2319541994",
+      "https://openalex.org/W2323473282",
+      "https://openalex.org/W2549230823",
+      "https://openalex.org/W2555313058",
+      "https://openalex.org/W2564226227",
+      "https://openalex.org/W2576437897",
+      "https://openalex.org/W2601573656",
+      "https://openalex.org/W2728940892",
+      "https://openalex.org/W2735001613",
+      "https://openalex.org/W2736330005",
+      "https://openalex.org/W2748429368",
+      "https://openalex.org/W2780659056",
+      "https://openalex.org/W2783431373",
+      "https://openalex.org/W2791546809",
+      "https://openalex.org/W2990520658",
+      "https://openalex.org/W3121647552",
+      "https://openalex.org/W3142026107",
+      "https://openalex.org/W3154698993",
+      "https://openalex.org/W4205802393",
+      "https://openalex.org/W4210702550",
+      "https://openalex.org/W4235204989",
+      "https://openalex.org/W4236422721",
+      "https://openalex.org/W4240671868",
+      "https://openalex.org/W4245961435",
+      "https://openalex.org/W4246853516",
+      "https://openalex.org/W4247188100",
+      "https://openalex.org/W4248267115",
+      "https://openalex.org/W4256640166",
+      "https://openalex.org/W4297975088",
+      "https://openalex.org/W4299601558",
+      "https://openalex.org/W4300308332",
+      "https://openalex.org/W4388148783"
+    ],
+    "related_works": [
+      "https://openalex.org/W2778988436",
+      "https://openalex.org/W4388134124",
+      "https://openalex.org/W776058294",
+      "https://openalex.org/W3201027058",
+      "https://openalex.org/W2312471814",
+      "https://openalex.org/W2790336230",
+      "https://openalex.org/W3098671446",
+      "https://openalex.org/W2980274995",
+      "https://openalex.org/W4394805096",
+      "https://openalex.org/W4253892317"
+    ],
+    "abstract_inverted_index": {
+      "Existing": [
+        0
+      ],
+      "research": [
+        1
+      ],
+      "depicts": [
+        2
+      ],
+      "occupational": [
+        3,
+        24,
+        85,
+        198,
+        234,
+        238
+      ],
+      "learning": [
+        4,
+        30,
+        90,
+        109,
+        137,
+        206,
+        219
+      ],
+      "as": [
+        5,
+        243
+      ],
+      "predominantly": [
+        6
+      ],
+      "happening": [
+        7
+      ],
+      "through": [
+        8
+      ],
+      "formal": [
+        9
+      ],
+      "education,": [
+        10
+      ],
+      "situated": [
+        11
+      ],
+      "learning,": [
+        12
+      ],
+      "or": [
+        13,
+        78,
+        129
+      ],
+      "a": [
+        14,
+        42,
+        105,
+        148,
+        152,
+        252
+      ],
+      "combination": [
+        15
+      ],
+      "of": [
+        16,
+        27,
+        50,
+        61,
+        93,
+        195,
+        223,
+        233
+      ],
+      "the": [
+        17,
+        48,
+        64,
+        80,
+        193,
+        196,
+        208
+      ],
+      "two.": [
+        18
+      ],
+      "How": [
+        19
+      ],
+      "career": [
+        20
+      ],
+      "switchers": [
+        21
+      ],
+      "might": [
+        22
+      ],
+      "develop": [
+        23
+      ],
+      "skills": [
+        25,
+        239
+      ],
+      "outside": [
+        26
+      ],
+      "these": [
+        28
+      ],
+      "established": [
+        29
+      ],
+      "pathways": [
+        31
+      ],
+      "is": [
+        32,
+        146
+      ],
+      "understudied.": [
+        33
+      ],
+      "This": [
+        34,
+        200,
+        247
+      ],
+      "paper": [
+        35
+      ],
+      "examines": [
+        36
+      ],
+      "how": [
+        37
+      ],
+      "novice": [
+        38,
+        114
+      ],
+      "outsiders": [
+        39,
+        115
+      ],
+      "break": [
+        40
+      ],
+      "into": [
+        41
+      ],
+      "skilled": [
+        43
+      ],
+      "occupation": [
+        44,
+        216
+      ],
+      "by": [
+        45,
+        189,
+        251
+      ],
+      "looking": [
+        46
+      ],
+      "at": [
+        47,
+        138
+      ],
+      "case": [
+        49
+      ],
+      "aspiring": [
+        51
+      ],
+      "software": [
+        52,
+        118,
+        244
+      ],
+      "developers": [
+        53
+      ],
+      "attending": [
+        54
+      ],
+      "coding": [
+        55
+      ],
+      "bootcamps.": [
+        56,
+        139
+      ],
+      "Drawing": [
+        57
+      ],
+      "on": [
+        58
+      ],
+      "17": [
+        59
+      ],
+      "months": [
+        60
+      ],
+      "fieldwork": [
+        62
+      ],
+      "in": [
+        63,
+        167
+      ],
+      "San": [
+        65
+      ],
+      "Francisco": [
+        66
+      ],
+      "Bay": [
+        67
+      ],
+      "area,": [
+        68
+      ],
+      "I": [
+        69
+      ],
+      "find": [
+        70
+      ],
+      "that": [
+        71,
+        83,
+        175,
+        227
+      ],
+      "bootcamps": [
+        72,
+        88,
+        184
+      ],
+      "did": [
+        73
+      ],
+      "not": [
+        74
+      ],
+      "resemble": [
+        75
+      ],
+      "either": [
+        76
+      ],
+      "schools": [
+        77
+      ],
+      "workplaces,": [
+        79
+      ],
+      "two": [
+        81
+      ],
+      "institutions": [
+        82
+      ],
+      "facilitate": [
+        84
+      ],
+      "learning.": [
+        86
+      ],
+      "Instead,": [
+        87
+      ],
+      "scaffolded": [
+        89
+      ],
+      "collectives—groups": [
+        91
+      ],
+      "composed": [
+        92
+      ],
+      "peers": [
+        94,
+        97
+      ],
+      "and": [
+        95,
+        101,
+        155,
+        169,
+        181,
+        211,
+        240
+      ],
+      "near": [
+        96
+      ],
+      "who": [
+        98
+      ],
+      "learn": [
+        99,
+        127
+      ],
+      "collaboratively": [
+        100
+      ],
+      "purposefully": [
+        102
+      ],
+      "to": [
+        103,
+        116,
+        123,
+        126,
+        187,
+        192
+      ],
+      "reach": [
+        104
+      ],
+      "shared": [
+        106
+      ],
+      "goal.": [
+        107
+      ],
+      "Within": [
+        108
+      ],
+      "collectives,": [
+        110
+      ],
+      "aspirants": [
+        111,
+        176,
+        186,
+        204
+      ],
+      "progressed": [
+        112
+      ],
+      "from": [
+        113,
+        128,
+        254
+      ],
+      "hirable": [
+        117
+      ],
+      "developers,": [
+        119
+      ],
+      "despite": [
+        120
+      ],
+      "limited": [
+        121
+      ],
+      "access": [
+        122,
+        178
+      ],
+      "proximate": [
+        124
+      ],
+      "experts": [
+        125
+      ],
+      "legitimate": [
+        130
+      ],
+      "peripheral": [
+        131
+      ],
+      "participation": [
+        132
+      ],
+      "opportunities.": [
+        133
+      ],
+      "Three": [
+        134
+      ],
+      "scaffoldings": [
+        135
+      ],
+      "facilitated": [
+        136,
+        156
+      ],
+      "First,": [
+        140
+      ],
+      "peer": [
+        141
+      ],
+      "team": [
+        142
+      ],
+      "structures": [
+        143,
+        163
+      ],
+      "turned": [
+        144
+      ],
+      "what": [
+        145
+      ],
+      "normally": [
+        147
+      ],
+      "solitary": [
+        149
+      ],
+      "activity—writing": [
+        150
+      ],
+      "code—into": [
+        151
+      ],
+      "collaborative": [
+        153
+      ],
+      "endeavor": [
+        154
+      ],
+      "peer-to-peer": [
+        157
+      ],
+      "knowledge": [
+        158,
+        179
+      ],
+      "exchange.": [
+        159
+      ],
+      "Second,": [
+        160
+      ],
+      "near-peer": [
+        161
+      ],
+      "role": [
+        162
+      ],
+      "engaged": [
+        164
+      ],
+      "recent": [
+        165
+      ],
+      "graduates": [
+        166
+      ],
+      "teaching": [
+        168
+      ],
+      "mentorship": [
+        170
+      ],
+      "relationships": [
+        171
+      ],
+      "with": [
+        172,
+        217
+      ],
+      "novices": [
+        173,
+        228
+      ],
+      "so": [
+        174
+      ],
+      "could": [
+        177
+      ],
+      "quickly": [
+        180
+      ],
+      "easily.": [
+        182
+      ],
+      "Third,": [
+        183
+      ],
+      "encouraged": [
+        185
+      ],
+      "self-learn": [
+        188
+      ],
+      "reaching": [
+        190
+      ],
+      "out": [
+        191
+      ],
+      "expertise": [
+        194
+      ],
+      "broader": [
+        197
+      ],
+      "community.": [
+        199
+      ],
+      "third": [
+        201
+      ],
+      "scaffolding": [
+        202
+      ],
+      "prepared": [
+        203
+      ],
+      "for": [
+        205,
+        214
+      ],
+      "beyond": [
+        207
+      ],
+      "bootcamp": [
+        209
+      ],
+      "curriculum": [
+        210
+      ],
+      "socialized": [
+        212
+      ],
+      "them": [
+        213
+      ],
+      "an": [
+        215,
+        230
+      ],
+      "high": [
+        218
+      ],
+      "demands.": [
+        220
+      ],
+      "The": [
+        221
+      ],
+      "outcome": [
+        222
+      ],
+      "this": [
+        224
+      ],
+      "process": [
+        225
+      ],
+      "was": [
+        226,
+        249
+      ],
+      "pursuing": [
+        229
+      ],
+      "alternative": [
+        231
+      ],
+      "mode": [
+        232
+      ],
+      "entry": [
+        235
+      ],
+      "developed": [
+        236
+      ],
+      "both": [
+        237
+      ],
+      "new": [
+        241
+      ],
+      "self-conceptions": [
+        242
+      ],
+      "developers.": [
+        245
+      ],
+      "Funding:": [
+        246
+      ],
+      "work": [
+        248
+      ],
+      "supported": [
+        250
+      ],
+      "grant": [
+        253
+      ],
+      "Stanford": [
+        255
+      ],
+      "Cyber": [
+        256
+      ],
+      "Initiative.": [
+        257
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

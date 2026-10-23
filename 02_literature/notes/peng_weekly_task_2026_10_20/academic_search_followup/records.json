@@ -1,0 +1,883 @@
+[
+  {
+    "title": "Feedback Specificity, Exploration, and Learning.",
+    "authors": [
+      "Jodi S. Goodman",
+      "Robert E. Wood",
+      "Margaretha Hendrickx"
+    ],
+    "year": 2004,
+    "venue": "Journal of Applied Psychology",
+    "doi": "10.1037/0021-9010.89.2.248",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "Greater feedback specificity is generally considered to be beneficial for performance and learning, but the evidence for this generalization is limited. The authors argue that increasing the specificity of feedback is beneficial for initial performance but discourages exploration and undermines the learning needed for later, more independent performance. The results of their transfer experiment demonstrate that increasing the specificity of feedback positively affected practice performance, but its benefits did not endure over time or modification of the task. In addition, feedback specificity negatively affected levels of exploration during practice and interacted with exploration strategies to affect learning. The results suggest that those who received feedback of varying specificity may have learned through different but equally beneficial mechanisms.",
+    "jel_codes": [],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "closed",
+    "full_text_status": "no_open_pdf",
+    "pdf_url": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "skipped",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1037/0021-9010.89.2.248",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "Journal of Applied Psychology"
+      },
+      {
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/15065973",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "PubMed"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "http://psycnet.apa.org/journals/apl/89/2/248.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "title": "Goal Relatedness and Learning: Evidence from Hospitals",
+    "authors": [
+      "Jonathan R. Clark",
+      "Venkat Kuppuswamy",
+      "Bradley R. Staats"
+    ],
+    "year": 2018,
+    "venue": "Organization Science",
+    "doi": "10.1287/orsc.2017.1166",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "Organizations vary significantly in the rates at which they learn from experience (i.e., learning by doing). While prior work has explored how different categories of prior experience affect learning outcomes, limited attention has been paid to the role played by the organizational context. We focus on one important aspect of an organization’s context—goals—and examine how the degree of goal relatedness across an organization’s diverse set of activities affects the rate at which it learns from experience. In doing so, we argue that even where otherwise diverse activities are knowledge related, if they are not goal related, learning by doing is likely to suffer. Using data from the hospital industry our findings suggest that goal relatedness is an important consideration when it comes to learning. Although goal-related teaching aids learning by doing in clinical care, we find that strong academic affiliations (and the research-oriented tasks and goals they bring with them) may detract from it.",
+    "jel_codes": [],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "closed",
+    "full_text_status": "no_open_pdf",
+    "pdf_url": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "skipped",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:16.506748Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:16.506748Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1287/orsc.2017.1166",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "Organization Science"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2017.1166",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "title": "The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory.",
+    "authors": [
+      "Avraham N. Kluger",
+      "Angelo DeNisi"
+    ],
+    "year": 1996,
+    "venue": "Psychological Bulletin",
+    "doi": "10.1037/0033-2909.119.2.254",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "Since the beginning of the century, feedback interventions (FIs) produced negative—but largely ignored—effects on performance. A meta-analysis (607 effect sizes; 23,663 observations) suggests that FIs improved performance on average (d =.41) but that over '/3 of the FIs decreased perfor-mance. This finding cannot be explained by sampling error, feedback sign, or existing theories. The authors proposed a preliminary FI theory (FIT) and tested it with moderator analyses. The central assumption of FIT is that FIs change the locus of attention among 3 general and hierarchically organized levels of control: task learning, task motivation, and meta-tasks (including self-related) processes. The results suggest that FI effectiveness decreases as attention moves up the hierarchy closer to the self and away from the task. These findings are further moderated by task characteristics that are still poorly understood. To relate feedback directly to behavior is very confusing. Results are contradictory and seldom straight-forward. (Ilgen, Fisher, & Taylor, 1979, p. 368) The effects of manipulation of KR [knowledge of results] on motor learning...reveal... some violent contradictions to earlier beliefs about KR, and some glaring absences in our knowledge. (Salmoni, Schmidt, & Walter, 1984, p. 378). Feedback does not uniformly improve performance. (Balcazar,",
+    "jel_codes": [],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "closed",
+    "full_text_status": "no_open_pdf",
+    "pdf_url": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "skipped",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1037/0033-2909.119.2.254",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "Psychological Bulletin"
+      },
+      {
+        "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.461.6812",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "submittedVersion",
+        "source": null
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://psycnet.apa.org/journals/bul/119/2/254.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "title": "Balancing Exploration and Exploitation Through Structural Design: The Isolation of Subgroups and Organizational Learning",
+    "authors": [
+      "Christina Fang",
+      "Jeho Lee",
+      "Melissa A. Schilling"
+    ],
+    "year": 2010,
+    "venue": "Organization Science",
+    "doi": "10.1287/orsc.1090.0468",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "The classic trade-off between exploration and exploitation in organizational learning has attracted vigorous attention by researchers over the last two decades. Despite this attention, however, the question of how firms can better maintain the balance of exploration and exploitation remains unresolved. Drawing on a wide range of research on population and organization structure, we argue that an organization divided into semi-isolated subgroups may help strike this balance. We simulate such an organization, systematically varying the interaction pattern between individuals to explore how the degree of subgroup isolation and intergroup connectivity influences organizational learning. We also test this model with a range of contingency variables highlighted in the management research. We find that moderate levels of cross-group linking lead to the highest equilibrium performance by enabling superior ideas to diffuse across groups without reducing organizational diversity too quickly. This finding is remarkably resilient to a wide range of variance in factors such as problem complexity, environmental dynamism, and personnel turnover.",
+    "jel_codes": [],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "closed",
+    "full_text_status": "no_open_pdf",
+    "pdf_url": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "skipped",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:19.119429Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:19.119429Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1287/orsc.1090.0468",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "Organization Science"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.1090.0468",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "title": "Workforce planning incorporating skills: State of the art",
+    "authors": [
+      "Philippe De Bruecker",
+      "Jorne Van den Bergh",
+      "Jeroen Beliën",
+      "Erik Demeulemeester"
+    ],
+    "year": 2015,
+    "venue": "European Journal of Operational Research",
+    "doi": "10.1016/j.ejor.2014.10.038",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": null,
+    "jel_codes": [],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "green",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://lirias.kuleuven.be/retrieve/c02fa0fc-2336-4fb8-ba63-83a8de3b874c",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "eligible",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1016/j.ejor.2014.10.038",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "publishedVersion",
+        "source": "European Journal of Operational Research"
+      },
+      {
+        "landing_page_url": "https://doi.org/10.2139/ssrn.2437372",
+        "pdf_url": null,
+        "is_oa": true,
+        "version": "publishedVersion",
+        "source": "SSRN Electronic Journal"
+      },
+      {
+        "landing_page_url": "https://lirias.kuleuven.be/handle/123456789/453095",
+        "pdf_url": "https://lirias.kuleuven.be/retrieve/c02fa0fc-2336-4fb8-ba63-83a8de3b874c",
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "Lirias (KU Leuven)"
+      },
+      {
+        "landing_page_url": "https://lirias.kuleuven.be/handle/123456789/478202",
+        "pdf_url": "https://lirias.kuleuven.be/retrieve/9ec5384e-de02-46ba-afaf-991a18257816",
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "Lirias (KU Leuven)"
+      },
+      {
+        "landing_page_url": "http://www.sciencedirect.com/science/article/pii/S0377221714008601",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "submittedVersion",
+        "source": "RePEc: Research Papers in Economics"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0377221714008601?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0377221714008601?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "title": "Workforce planning in production with flexible or budgeted employee training and volatile demand",
+    "authors": [
+      "Patricia Heuser",
+      "Peter Letmathe",
+      "Matthias Schinner"
+    ],
+    "year": 2022,
+    "venue": "Journal of Business Economics",
+    "doi": "10.1007/s11573-022-01090-z",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "AbstractCompanies have to adapt their product portfolio to rapidly changing markets and high demand volatility. As a result, they need to invest in workforce learning and training measures to gain flexibility. Especially during ramp-up phases employees have to adjust their skill set to new production requirements. While traditional employee training models focus on a condensed period of training at the beginning of a production ramp-up, we aim to shed light on the effectiveness of more flexible concepts of training with a general availability of training measures during a product’s life cycle. We budget training in two dimensions, (1) training capacity per period and (2) periods that do not allow training. To analyze the impact of different training scenarios, a multi-period workforce scheduling problem with workers who learn through learning-by-doing and training is considered. The model further incorporates forgetting. We distinguish a flexible and a budgeted training environment. In the budgeted setting, training measures are only available in the first periods of a production ramp-up to a limited extent. Data from a computational study with 600 scenarios and near-optimal solutions are analyzed statistically to derive insights into an employee’s skill development. Overall, we investigate different training strategies under demand volatility and capacity scenarios and analyze the specific outcomes in order to provide managerial implications. Our results indicate that traditional budgeting of training measures has a negative effect on employee learning. The negative impact of budgeting is stronger when production capacity is scarce and demand cannot be fully satisfied.",
+    "jel_codes": [
+      "M11"
+    ],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://www.econstor.eu/bitstream/10419/309949/1/s11573-022-01090-z.pdf",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "eligible",
+    "source_platforms": [
+      "crossref",
+      "openalex",
+      "rwth_repository",
+      "econstor"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        },
+        {
+          "platform": "rwth_repository",
+          "source_url": "https://publications.rwth-aachen.de/record/843931",
+          "checked_at": "2026-10-20T00:50:25.977510Z",
+          "evidence_type": "page_text"
+        },
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "jel_codes": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1007/s11573-022-01090-z",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "is_oa": true,
+        "version": "publishedVersion",
+        "source": "Journal of Business Economics"
+      },
+      {
+        "landing_page_url": "http://link.springer.com/10.1007/s11573-022-01090-z",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "submittedVersion",
+        "source": "RePEc: Research Papers in Economics"
+      },
+      {
+        "landing_page_url": "https://hdl.handle.net/10419/309949",
+        "pdf_url": null,
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "Econstor (Econstor)"
+      },
+      {
+        "landing_page_url": "https://publications.rwth-aachen.de/record/843931",
+        "pdf_url": null,
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "RWTH Publications (RWTH Aachen)"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11573-022-01090-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+    "checked_at": "2026-10-20T00:48:14.192216Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+    "checked_at": "2026-10-20T00:48:15.061018Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+    "checked_at": "2026-10-20T00:48:15.859489Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2017.1166",
+    "checked_at": "2026-10-20T00:48:16.506748Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+    "checked_at": "2026-10-20T00:48:17.133251Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+    "checked_at": "2026-10-20T00:48:17.792903Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+    "checked_at": "2026-10-20T00:48:18.444906Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.1090.0468",
+    "checked_at": "2026-10-20T00:48:19.119429Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+    "checked_at": "2026-10-20T00:48:19.716379Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+    "checked_at": "2026-10-20T00:48:20.531340Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=employee+training+guidance+skill+development&per_page=6",
+    "checked_at": "2026-10-20T00:48:21.297852Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=workforce+learning+skill+allocation+agent+based&per_page=6",
+    "checked_at": "2026-10-20T00:48:22.288779Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=adaptive+guidance+self+regulated+learning&per_page=6",
+    "checked_at": "2026-10-20T00:48:23.325583Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=multi+skill+workforce+planning+learning+training&per_page=6",
+    "checked_at": "2026-10-20T00:48:24.424788Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+    "checked_at": "2026-10-20T00:49:44.079416Z",
+    "status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+    "checked_at": "2026-10-20T00:49:45.100137Z",
+    "status": 200
+  }
+]

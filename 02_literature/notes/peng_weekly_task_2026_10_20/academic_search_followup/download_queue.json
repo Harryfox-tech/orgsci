@@ -1,0 +1,195 @@
+[
+  {
+    "title": "Workforce planning in production with flexible or budgeted employee training and volatile demand",
+    "authors": [
+      "Patricia Heuser",
+      "Peter Letmathe",
+      "Matthias Schinner"
+    ],
+    "year": 2022,
+    "venue": "Journal of Business Economics",
+    "doi": "10.1007/s11573-022-01090-z",
+    "publication_type": "journal-article",
+    "publication_status": "published-journal-article",
+    "abstract": "AbstractCompanies have to adapt their product portfolio to rapidly changing markets and high demand volatility. As a result, they need to invest in workforce learning and training measures to gain flexibility. Especially during ramp-up phases employees have to adjust their skill set to new production requirements. While traditional employee training models focus on a condensed period of training at the beginning of a production ramp-up, we aim to shed light on the effectiveness of more flexible concepts of training with a general availability of training measures during a product’s life cycle. We budget training in two dimensions, (1) training capacity per period and (2) periods that do not allow training. To analyze the impact of different training scenarios, a multi-period workforce scheduling problem with workers who learn through learning-by-doing and training is considered. The model further incorporates forgetting. We distinguish a flexible and a budgeted training environment. In the budgeted setting, training measures are only available in the first periods of a production ramp-up to a limited extent. Data from a computational study with 600 scenarios and near-optimal solutions are analyzed statistically to derive insights into an employee’s skill development. Overall, we investigate different training strategies under demand volatility and capacity scenarios and analyze the specific outcomes in order to provide managerial implications. Our results indicate that traditional budgeting of training measures has a negative effect on employee learning. The negative impact of budgeting is stronger when production capacity is scarce and demand cannot be fully satisfied.",
+    "jel_codes": [
+      "M11"
+    ],
+    "study_type": null,
+    "sample_size": null,
+    "population": null,
+    "geography": null,
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://www.econstor.eu/bitstream/10419/309949/1/s11573-022-01090-z.pdf",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "download_status": "eligible",
+    "source_platforms": [
+      "crossref",
+      "openalex",
+      "rwth_repository",
+      "econstor"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        },
+        {
+          "platform": "rwth_repository",
+          "source_url": "https://publications.rwth-aachen.de/record/843931",
+          "checked_at": "2026-10-20T00:50:25.977510Z",
+          "evidence_type": "page_text"
+        },
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "jel_codes": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ]
+    },
+    "fetched_at": "2026-10-20",
+    "missing_fields": {
+      "study_type": "Not assigned from metadata; requires methods inspection.",
+      "sample_size": "Not extracted from methods.",
+      "population": "Not extracted from methods.",
+      "geography": "Not extracted from methods.",
+      "jel_codes": "Not provided by checked records."
+    },
+    "candidate_locations": [
+      {
+        "landing_page_url": "https://doi.org/10.1007/s11573-022-01090-z",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "is_oa": true,
+        "version": "publishedVersion",
+        "source": "Journal of Business Economics"
+      },
+      {
+        "landing_page_url": "http://link.springer.com/10.1007/s11573-022-01090-z",
+        "pdf_url": null,
+        "is_oa": false,
+        "version": "submittedVersion",
+        "source": "RePEc: Research Papers in Economics"
+      },
+      {
+        "landing_page_url": "https://hdl.handle.net/10419/309949",
+        "pdf_url": null,
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "Econstor (Econstor)"
+      },
+      {
+        "landing_page_url": "https://publications.rwth-aachen.de/record/843931",
+        "pdf_url": null,
+        "is_oa": true,
+        "version": "submittedVersion",
+        "source": "RWTH Publications (RWTH Aachen)"
+      }
+    ],
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11573-022-01090-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11573-022-01090-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  }
+]

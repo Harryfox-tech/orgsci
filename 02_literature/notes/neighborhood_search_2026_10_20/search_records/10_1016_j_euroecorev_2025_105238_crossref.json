@@ -1,0 +1,876 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+    "checked_at": "2026-10-20T01:25:30.711160Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            10
+          ]
+        ],
+        "date-time": "2026-10-10T05:21:12Z",
+        "timestamp": 1791609672791,
+        "version": "4.3.4"
+      },
+      "reference-count": 54,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2026-04-01T00:00:00Z",
+            "timestamp": 1775001600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2026-04-01T00:00:00Z",
+            "timestamp": 1775001600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                29
+              ]
+            ],
+            "date-time": "2025-12-29T00:00:00Z",
+            "timestamp": 1766966400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000269",
+          "name": "UKRI ESRC",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100000269",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "European Economic Review"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.euroecorev.2025.105238",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            29
+          ]
+        ],
+        "date-time": "2025-12-29T16:17:58Z",
+        "timestamp": 1767025078000
+      },
+      "page": "105238",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "special_numbering": "C",
+      "title": [
+        "How do beliefs and preferences over jobs affect enrollment in vocational training: Experimental evidence from India"
+      ],
+      "prefix": "10.1016",
+      "volume": "184",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-3636-9048",
+          "authenticated-orcid": false,
+          "given": "Apurav Yash",
+          "family": "Bhatiya",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bhaskar",
+          "family": "Chakravorty",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Clément",
+          "family": "Imbert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Roland",
+          "family": "Rathelot",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1279",
+          "DOI": "10.1093/restud/rdaa057",
+          "article-title": "Anonymity or distance? Job search and labour market exclusion in a growing African city",
+          "volume": "88",
+          "author": "Abebe",
+          "year": "2021",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "671",
+          "key": "10.1016/j.euroecorev.2025.105238_b2",
+          "doi-asserted-by": "crossref",
+          "first-page": "2089",
+          "DOI": "10.1093/ej/ueaf026",
+          "article-title": "Matching frictions and distorted beliefs: Evidence from a job fair experiment",
+          "volume": "135",
+          "author": "Abebe",
+          "year": "2025",
+          "journal-title": "Econ. J."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.euroecorev.2025.105238_b3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1757",
+          "DOI": "10.1257/aer.20190586",
+          "article-title": "The selection of talent: Experimental and structural evidence from Ethiopia",
+          "volume": "111",
+          "author": "Abebe",
+          "year": "2021",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.euroecorev.2025.105238_b4",
+          "doi-asserted-by": "crossref",
+          "first-page": "2165",
+          "DOI": "10.1086/724320",
+          "article-title": "Returns to on-the-job soft skills training",
+          "volume": "131",
+          "author": "Adhvaryu",
+          "year": "2023",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.euroecorev.2025.105238_b5",
+          "doi-asserted-by": "crossref",
+          "first-page": "2369",
+          "DOI": "10.3982/ECTA15959",
+          "article-title": "Tackling youth unemployment: Evidence from a labor market experiment in uganda",
+          "volume": "88",
+          "author": "Alfonsi",
+          "year": "2020",
+          "journal-title": "Econometrica"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b6",
+          "doi-asserted-by": "crossref",
+          "first-page": "999",
+          "DOI": "10.1007/s11150-023-09681-7",
+          "article-title": "Gender gaps: Back and here to stay? Evidence from skilled Ugandan workers during COVID-19",
+          "volume": "22",
+          "author": "Alfonsi",
+          "year": "2024",
+          "journal-title": "Review of Economics of the Household"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b7",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1016/j.jpubeco.2018.05.003",
+          "article-title": "Learning about job search: A field experiment with job seekers in Germany",
+          "volume": "164",
+          "author": "Altmann",
+          "year": "2018",
+          "journal-title": "J. Public Econ."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b8",
+          "series-title": "Understanding willingness to migrate illegally: Evidence from a lab in the field experiment",
+          "author": "Bah",
+          "year": "2018"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b9",
+          "doi-asserted-by": "crossref",
+          "first-page": "103153",
+          "DOI": "10.1016/j.jdeveco.2023.103153",
+          "article-title": "Can information and alternatives to irregular migration reduce “backway” migration from the Gambia?",
+          "volume": "165",
+          "author": "Bah",
+          "year": "2023",
+          "journal-title": "Journal of Development Economics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b10",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1086/728429",
+          "article-title": "The search for good jobs: Evidence from a six year field experiment in uganda",
+          "volume": "43",
+          "author": "Bandiera",
+          "year": "2025",
+          "journal-title": "Journal of Labor Economics"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b11",
+          "doi-asserted-by": "crossref",
+          "first-page": "103330",
+          "DOI": "10.1016/j.jdeveco.2024.103330",
+          "article-title": "How important are matching frictions in the labor market? experimental & non-experimental evidence from a large Indian firm",
+          "volume": "171",
+          "author": "Banerjee",
+          "year": "2024",
+          "journal-title": "Journal of Development Economics"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b12",
+          "series-title": "Spatial mismatches and imperfect information in the job search",
+          "author": "Banerjee",
+          "year": "2020"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.euroecorev.2025.105238_b13",
+          "first-page": "321",
+          "article-title": "Hidden income and the perceived returns to migration",
+          "volume": "15",
+          "author": "Baseler",
+          "year": "2023",
+          "journal-title": "Am. Econ. J.: Appl. Econ."
+        },
+        {
+          "issue": "642",
+          "key": "10.1016/j.euroecorev.2025.105238_b14",
+          "doi-asserted-by": "crossref",
+          "first-page": "471",
+          "DOI": "10.1093/ej/ueab071",
+          "article-title": "Screening and signalling non-cognitive skills: experimental evidence from uganda",
+          "volume": "132",
+          "author": "Bassi",
+          "year": "2022",
+          "journal-title": "Econ. J."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b15",
+          "doi-asserted-by": "crossref",
+          "first-page": "103826",
+          "DOI": "10.1016/j.jinteco.2023.103826",
+          "article-title": "Testing classic theories of migration in the lab",
+          "volume": "145",
+          "author": "Batista",
+          "year": "2023",
+          "journal-title": "Journal of International Economics"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b16",
+          "series-title": "Information, Intermediaries, and International Migration",
+          "author": "Bazzi",
+          "year": "2021"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b17",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1111/j.1728-4457.2015.00025.x",
+          "article-title": "Internal migration and development: Comparing migration intensities around the world",
+          "volume": "41",
+          "author": "Bell",
+          "year": "2015",
+          "journal-title": "Popul. Dev. Rev."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.euroecorev.2025.105238_b18",
+          "doi-asserted-by": "crossref",
+          "first-page": "608",
+          "DOI": "10.1093/restud/rdt044",
+          "article-title": "Inference on treatment effects after selection among high-dimensional controls",
+          "volume": "81",
+          "author": "Belloni",
+          "year": "2014",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.euroecorev.2025.105238_b19",
+          "doi-asserted-by": "crossref",
+          "first-page": "1411",
+          "DOI": "10.1093/restud/rdy059",
+          "article-title": "Providing advice to jobseekers at low cost: An experimental study on online advice",
+          "volume": "86",
+          "author": "Belot",
+          "year": "2019",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b20",
+          "first-page": "130",
+          "article-title": "Eliciting time preferences when income and consumption vary: Theory, validation & application to job search",
+          "volume": "17",
+          "author": "Belot",
+          "year": "2025",
+          "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b21",
+          "first-page": "1",
+          "article-title": "The impacts of industrial and entrepreneurial work on income and health: Experimental evidence from Ethiopia",
+          "volume": "10",
+          "author": "Blattman",
+          "year": "2018",
+          "journal-title": "Am. Econ. J.: Appl. Econ."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.euroecorev.2025.105238_b22",
+          "doi-asserted-by": "crossref",
+          "first-page": "1671",
+          "DOI": "10.3982/ECTA10489",
+          "article-title": "Underinvestment in a profitable technology: The case of seasonal migration in Bangladesh",
+          "volume": "82",
+          "author": "Bryan",
+          "year": "2014",
+          "journal-title": "Econometrica"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.euroecorev.2025.105238_b23",
+          "doi-asserted-by": "crossref",
+          "first-page": "2229",
+          "DOI": "10.1086/701810",
+          "article-title": "The Aggregate Productivity Effects of Internal Migration: Evidence from Indonesia",
+          "volume": "127",
+          "author": "Bryan",
+          "year": "2019",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.euroecorev.2025.105238_b24",
+          "doi-asserted-by": "crossref",
+          "first-page": "3547",
+          "DOI": "10.1257/aer.20200961",
+          "article-title": "Job search and hiring with limited information about workseekers’ skills",
+          "volume": "112",
+          "author": "Carranza",
+          "year": "2022",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b25",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jdeveco.2024.103273",
+          "article-title": "Can information about jobs improve the effectiveness of vocational training? Experimental evidence from India",
+          "volume": "169",
+          "author": "Chakravorty",
+          "year": "2024",
+          "journal-title": "J. Dev. Econ."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b26",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.worlddev.2023.106242",
+          "article-title": "Impact of the COVID-19 crisis on India’s rural youth: Evidence from a panel survey and an experiment",
+          "volume": "168",
+          "author": "Chakravorty",
+          "year": "2023",
+          "journal-title": "World Dev."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b27",
+          "article-title": "Singletons, cluster-robust standard errors and fixed effects: A bad mix",
+          "volume": "7",
+          "author": "Correia",
+          "year": "2015",
+          "journal-title": "Tech. Note, Duke Univ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b28",
+          "doi-asserted-by": "crossref",
+          "first-page": "766",
+          "DOI": "10.1086/717891",
+          "article-title": "How much does your boss make? The effects of salary comparisons",
+          "volume": "130",
+          "author": "Cullen",
+          "year": "2022",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b29",
+          "doi-asserted-by": "crossref",
+          "first-page": "479",
+          "DOI": "10.1002/jae.1233",
+          "article-title": "Eliciting probabilistic expectations with visual aids in developing countries: how sensitive are answers to variations in elicitation design?",
+          "volume": "26",
+          "author": "Delavande",
+          "year": "2011",
+          "journal-title": "J. Appl. Econometrics"
+        },
+        {
+          "issue": "614",
+          "key": "10.1016/j.euroecorev.2025.105238_b30",
+          "doi-asserted-by": "crossref",
+          "first-page": "2353",
+          "DOI": "10.1111/ecoj.12509",
+          "article-title": "Location, search costs and youth unemployment: experimental evidence from transport subsidies",
+          "volume": "128",
+          "author": "Franklin",
+          "year": "2018",
+          "journal-title": "Econ. J."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b31",
+          "doi-asserted-by": "crossref",
+          "first-page": "103311",
+          "DOI": "10.1016/j.jdeveco.2024.103311",
+          "article-title": "Information frictions, belief updating and internal migration: Evidence from Ghana and Uganda",
+          "volume": "171",
+          "author": "Frohnweiler",
+          "year": "2024",
+          "journal-title": "Journal of Development Economics"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b32",
+          "series-title": "Handbook of Economic Expectations",
+          "first-page": "107",
+          "article-title": "Survey experiments on economic expectations",
+          "author": "Fuster",
+          "year": "2023"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.euroecorev.2025.105238_b33",
+          "doi-asserted-by": "crossref",
+          "first-page": "939",
+          "DOI": "10.1093/qje/qjt056",
+          "article-title": "The agricultural productivity gap",
+          "volume": "129",
+          "author": "Gollin",
+          "year": "2014",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b34",
+          "series-title": "Vocational education voucher delivery and labor market returns: A randomized evaluation among Kenyan youth",
+          "author": "Hicks",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b35",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jdeveco.2020.102473",
+          "article-title": "Costs and benefits of rural-urban migration: Evidence from India",
+          "volume": "146",
+          "author": "Imbert",
+          "year": "2020",
+          "journal-title": "J. Dev. Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b36",
+          "doi-asserted-by": "crossref",
+          "first-page": "1505",
+          "DOI": "10.1093/qje/qjae001",
+          "article-title": "Worker beliefs about outside options",
+          "volume": "139",
+          "author": "Jäger",
+          "year": "2022",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.euroecorev.2025.105238_b37",
+          "doi-asserted-by": "crossref",
+          "first-page": "753",
+          "DOI": "10.1093/qje/qjs002",
+          "article-title": "Do labor market opportunities affect young women’s work and family decisions? Experimental evidence from India",
+          "volume": "127",
+          "author": "Jensen",
+          "year": "2012",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b38",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jdeveco.2022.102987",
+          "article-title": "Can information correct optimistic wage expectations? Evidence from mozambican job-seekers",
+          "volume": "159",
+          "author": "Jones",
+          "year": "2022",
+          "journal-title": "J. Dev. Econ."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.euroecorev.2025.105238_b39",
+          "doi-asserted-by": "crossref",
+          "first-page": "2317",
+          "DOI": "10.1093/jeea/jvac057",
+          "article-title": "Job search in the 21st century",
+          "volume": "20",
+          "author": "Kircher",
+          "year": "2022",
+          "journal-title": "J. Eur. Econ. Assoc."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.euroecorev.2025.105238_b40",
+          "first-page": "729",
+          "article-title": "Internal borders and migration in India",
+          "volume": "18",
+          "author": "Kone",
+          "year": "2018",
+          "journal-title": "J. Econ. Geogr."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b41",
+          "doi-asserted-by": "crossref",
+          "first-page": "803",
+          "DOI": "10.3982/ECTA15962",
+          "article-title": "The welfare effects of encouraging rural-urban migration",
+          "volume": "91",
+          "author": "Lagakos",
+          "year": "2023",
+          "journal-title": "Econometrica"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.euroecorev.2025.105238_b42",
+          "doi-asserted-by": "crossref",
+          "first-page": "2877",
+          "DOI": "10.1257/aer.20131026",
+          "article-title": "How local are labor markets? Evidence from a spatial job search model",
+          "volume": "107",
+          "author": "Manning",
+          "year": "2017",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.euroecorev.2025.105238_b43",
+          "first-page": "42",
+          "article-title": "Mismatch unemployment and the geography of job search",
+          "volume": "10",
+          "author": "Marinescu",
+          "year": "2018",
+          "journal-title": "Am. Econ. J.: Macroecon."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.euroecorev.2025.105238_b44",
+          "doi-asserted-by": "crossref",
+          "first-page": "3722",
+          "DOI": "10.1257/aer.20161500",
+          "article-title": "Valuing alternative work arrangements",
+          "volume": "107",
+          "author": "Mas",
+          "year": "2017",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.euroecorev.2025.105238_b45",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1093/wbro/lkx001",
+          "article-title": "How effective are active labor market policies in developing countries? a critical review of recent evidence",
+          "volume": "32",
+          "author": "McKenzie",
+          "year": "2017",
+          "journal-title": "World Bank Res. Obs."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b46",
+          "doi-asserted-by": "crossref",
+          "first-page": "116",
+          "DOI": "10.1016/j.jdeveco.2012.01.001",
+          "article-title": "A land of milk and honey with streets paved with gold: Do emigrants have over-optimistic expectations about incomes abroad?",
+          "volume": "102",
+          "author": "McKenzie",
+          "year": "2013",
+          "journal-title": "J. Dev. Econ."
+        },
+        {
+          "key": "10.1016/j.euroecorev.2025.105238_b47",
+          "series-title": "Field and Natural Experiments in Migration",
+          "author": "McKenzie",
+          "year": "2022"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b48",
+          "doi-asserted-by": "crossref",
+          "first-page": "452",
+          "DOI": "10.1093/restud/rdab021",
+          "article-title": "Migration and informal insurance: evidence from a randomized controlled trial and a structural model",
+          "volume": "89",
+          "author": "Meghir",
+          "year": "2022",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b49",
+          "doi-asserted-by": "crossref",
+          "first-page": "46",
+          "DOI": "10.1257/aer.20131365",
+          "article-title": "Networks and misallocation: Insurance, migration, and the rural-urban wage gap",
+          "volume": "106",
+          "author": "Munshi",
+          "year": "2016",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.euroecorev.2025.105238_b50",
+          "doi-asserted-by": "crossref",
+          "first-page": "1779",
+          "DOI": "10.1093/restud/rdy056",
+          "article-title": "Frictional Labour Mobility",
+          "volume": "86",
+          "author": "Schmutz",
+          "year": "2019",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1093/wber/lhz023",
+          "article-title": "Get Rich or Die Tryin’: Perceived Earnings, Perceived Mortality Rates, and Migration Decisions of Potential Work Migrants from Nepal",
+          "volume": "34",
+          "author": "Shrestha",
+          "year": "2020",
+          "journal-title": "World Bank Econ. Rev."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.euroecorev.2025.105238_b52",
+          "doi-asserted-by": "crossref",
+          "first-page": "1843",
+          "DOI": "10.1257/aer.20150811",
+          "article-title": "Trade, migration, and productivity: A quantitative analysis of China",
+          "volume": "109",
+          "author": "Tombe",
+          "year": "2019",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.euroecorev.2025.105238_b53",
+          "doi-asserted-by": "crossref",
+          "first-page": "38",
+          "DOI": "10.1016/j.jue.2008.08.001",
+          "article-title": "Workers’ marginal costs of commuting",
+          "volume": "65",
+          "author": "Van Ommeren",
+          "year": "2009",
+          "journal-title": "J. Urban Econ."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.euroecorev.2025.105238_b54",
+          "doi-asserted-by": "crossref",
+          "first-page": "1727",
+          "DOI": "10.1093/qje/qjt025",
+          "article-title": "Inequality, the urban-rural gap, and migration",
+          "volume": "128",
+          "author": "Young",
+          "year": "2013",
+          "journal-title": "Q. J. Econ."
+        }
+      ],
+      "container-title": [
+        "European Economic Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0014292125002880?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0014292125002880?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            6
+          ]
+        ],
+        "date-time": "2026-03-06T09:20:55Z",
+        "timestamp": 1772788855000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0014292125002880"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            4
+          ]
+        ]
+      },
+      "references-count": 54,
+      "alternative-id": [
+        "S0014292125002880"
+      ],
+      "URL": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+      "relation": {},
+      "ISSN": [
+        "0014-2921"
+      ],
+      "issn-type": [
+        {
+          "value": "0014-2921",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "How do beliefs and preferences over jobs affect enrollment in vocational training: Experimental evidence from India",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "European Economic Review",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2025 The Authors. Published by Elsevier B.V.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "105238"
+    }
+  }
+}

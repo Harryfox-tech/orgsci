@@ -1,0 +1,636 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+    "checked_at": "2026-10-20T01:25:32.084160Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ],
+        "date-time": "2026-06-30T06:39:33Z",
+        "timestamp": 1782801573829,
+        "version": "3.54.5"
+      },
+      "publisher-location": "New York, NY, USA",
+      "reference-count": 65,
+      "publisher": "ACM",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                3
+              ]
+            ],
+            "date-time": "2024-06-03T00:00:00Z",
+            "timestamp": 1717372800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100006374",
+          "name": "National Science Foundation",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2027737, 2113373"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2027737, 2113373"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100006374",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "dl.acm.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1145/3630106.3658929",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            5
+          ]
+        ],
+        "date-time": "2024-06-05T09:14:21Z",
+        "timestamp": 1717578861000
+      },
+      "page": "616-630",
+      "update-policy": "https://doi.org/10.1145/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 6,
+      "title": [
+        "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness"
+      ],
+      "prefix": "10.1145",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-9290-0849",
+          "authenticated-orcid": false,
+          "given": "Seamus",
+          "family": "Somerstep",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Statistics, University of Michigan, United States of America"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6046-8479",
+          "authenticated-orcid": false,
+          "given": "Ya'acov",
+          "family": "Ritov",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Statistics, University of Michigan, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-5657-2283",
+          "authenticated-orcid": false,
+          "given": "Yuekai",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Statistics, University of Michigan, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "320",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            5
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_2_1_1_1",
+          "volume-title": "Proceedings of the 35th International Conference on Machine Learning. PMLR, 60–69",
+          "author": "Agarwal Alekh",
+          "year": "2018",
+          "unstructured": "Alekh Agarwal, Alina Beygelzimer, Miroslav Dudik, John Langford, and Hanna Wallach. 2018. A Reductions Approach to Fair Classification. In Proceedings of the 35th International Conference on Machine Learning. PMLR, 60–69."
+        },
+        {
+          "key": "e_1_3_2_1_2_1",
+          "volume-title": "The Theory of Discrimination. Labor Economics vol 4",
+          "author": "Arrow Kenneth",
+          "year": "1971",
+          "unstructured": "Kenneth Arrow. 1971. The Theory of Discrimination. Labor Economics vol 4 (1971)."
+        },
+        {
+          "key": "e_1_3_2_1_3_1",
+          "volume-title": "Fairness in Criminal Justice Risk Assessments: The State of the Art. arXiv:1703.09207 [stat] (March",
+          "author": "Berk Richard",
+          "year": "2017",
+          "unstructured": "Richard Berk, Hoda Heidari, Shahin Jabbari, Michael Kearns, and Aaron Roth. 2017. Fairness in Criminal Justice Risk Assessments: The State of the Art. arXiv:1703.09207 [stat] (March 2017). arxiv:1703.09207 [stat]"
+        },
+        {
+          "key": "e_1_3_2_1_4_1",
+          "volume-title": "Boyd and Lieven Vandenberghe",
+          "author": "P.",
+          "year": "2004",
+          "unstructured": "Stephen P. Boyd and Lieven Vandenberghe. 2004. Convex Optimization. Cambridge University Press, Cambridge, UK ; New York."
+        },
+        {
+          "key": "e_1_3_2_1_5_1",
+          "volume-title": "International Conference on Artificial Intelligence and Statistics.",
+          "author": "Brown Gavin",
+          "year": "2022",
+          "unstructured": "Gavin Brown, Shlomi Hod, and Iden Kalemaj. 2022. Performative Prediction in a Stateful World. In International Conference on Artificial Intelligence and Statistics."
+        },
+        {
+          "key": "e_1_3_2_1_6_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ran Canetti Aloni Cohen Nishanth Dikkala Govind Ramnarayan Sarah Scheffler and Adam Smith. 2019. From Soft Classifiers to Hard Decisions: How fair can we be?arxiv:1810.02003 [cs.LG]",
+          "DOI": "10.1145/3287560.3287561"
+        },
+        {
+          "key": "e_1_3_2_1_7_1",
+          "unstructured": "Ben Casselman and Dana Goldstein. 2015. The New Science of Sentencing. https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing."
+        },
+        {
+          "key": "e_1_3_2_1_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287586"
+        },
+        {
+          "key": "e_1_3_2_1_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/big.2016.0047"
+        },
+        {
+          "key": "e_1_3_2_1_10_1",
+          "volume-title": "Will Affirmative-Action Policies Eliminate Negative Stereotypes?The American Economic Review 83, 5",
+          "author": "Coate Stephen",
+          "year": "1993",
+          "unstructured": "Stephen Coate and Glenn C. Loury. 1993. Will Affirmative-Action Policies Eliminate Negative Stereotypes?The American Economic Review 83, 5 (1993), 1220–1240. jstor:2117558"
+        },
+        {
+          "key": "e_1_3_2_1_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3386/w23811"
+        },
+        {
+          "key": "e_1_3_2_1_12_1",
+          "unstructured": "Kate Crawford. 2017. The Trouble with Bias."
+        },
+        {
+          "key": "e_1_3_2_1_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372878"
+        },
+        {
+          "key": "e_1_3_2_1_14_1",
+          "volume-title": "Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women",
+          "author": "Dastin Jeffrey",
+          "year": "2018",
+          "unstructured": "Jeffrey Dastin. 2018. Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women. Reuters (Oct. 2018)."
+        },
+        {
+          "key": "e_1_3_2_1_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/20539517211044808"
+        },
+        {
+          "key": "e_1_3_2_1_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1161/CIRCULATIONAHA.115.001593"
+        },
+        {
+          "key": "e_1_3_2_1_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372847"
+        },
+        {
+          "key": "e_1_3_2_1_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3593013.3594006"
+        },
+        {
+          "key": "e_1_3_2_1_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3593013.3594006"
+        },
+        {
+          "key": "e_1_3_2_1_20_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Hanming Fang and Andrea Moro. 2011. Chapter 5 - Theories of Statistical Discrimination and Affirmative Action: A Survey. Handbook of Social Economics Vol. 1. North-Holland 133–200. https://doi.org/10.1016/B978-0-444-53187-2.00005-X",
+          "DOI": "10.1016/B978-0-444-53187-2.00005-X"
+        },
+        {
+          "key": "e_1_3_2_1_21_1",
+          "volume-title": "Affirmative Action in Winner-Take-All Markets. The Journal of Economic Inequality",
+          "author": "Fryar G.",
+          "year": "2005",
+          "unstructured": "Roland G. Fryar and Glenn C. Loury. 2005. Affirmative Action in Winner-Take-All Markets. The Journal of Economic Inequality (2005)."
+        },
+        {
+          "key": "e_1_3_2_1_22_1",
+          "volume-title": "Journal of Political Economy",
+          "author": "Fryar G.",
+          "year": "2013",
+          "unstructured": "Roland G. Fryar and Glenn C. Loury. 2013. Valuing Diversity. Journal of Political Economy (2013)."
+        },
+        {
+          "key": "e_1_3_2_1_23_1",
+          "unstructured": "Roland G. Fryar Glenn C. Loury and Tolga Yuret. 2008. An Economic Analysis of Color-Blind Affirmative Action. The Journal of Law Economics and Organization. (2008)."
+        },
+        {
+          "key": "e_1_3_2_1_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s13347-022-00584-6"
+        },
+        {
+          "key": "e_1_3_2_1_25_1",
+          "volume-title": "Beyond Impossibility: Balancing Sufficiency, Separation and Accuracy. arxiv:2205.12327 [cs.LG]",
+          "author": "Gultchin Limor",
+          "year": "2022",
+          "unstructured": "Limor Gultchin, Vincent Cohen-Addad, Sophie Giffard-Roisin, Varun Kanade, and Frederik Mallmann-Trenn. 2022. Beyond Impossibility: Balancing Sufficiency, Separation and Accuracy. arxiv:2205.12327 [cs.LG]"
+        },
+        {
+          "key": "e_1_3_2_1_26_1",
+          "volume-title": "Performative Power. arXiv:2203.17232 [cs, econ] (March",
+          "author": "Hardt Moritz",
+          "year": "2022",
+          "unstructured": "Moritz Hardt, Meena Jagadeesan, and Celestine Mendler-Dünner. 2022. Performative Power. arXiv:2203.17232 [cs, econ] (March 2022). arxiv:2203.17232 [cs, econ]"
+        },
+        {
+          "key": "e_1_3_2_1_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2840728.2840730"
+        },
+        {
+          "key": "e_1_3_2_1_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5555/3157382.3157469"
+        },
+        {
+          "key": "e_1_3_2_1_29_1",
+          "volume-title": "Proceedings of the 36th International Conference on Machine Learning. PMLR, 2692–2701",
+          "author": "Heidari Hoda",
+          "year": "2019",
+          "unstructured": "Hoda Heidari, Vedant Nanda, and Krishna Gummadi. 2019. On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning. In Proceedings of the 36th International Conference on Machine Learning. PMLR, 2692–2701."
+        },
+        {
+          "key": "e_1_3_2_1_30_1",
+          "volume-title": "A Tale of Two Shifts: Causal Strategic Classification. https://arxiv.org/pdf/2302.06280.pdf",
+          "author": "Horowitz Guy",
+          "year": "2023",
+          "unstructured": "Guy Horowitz and Nir Rosenfeld. 2023. A Tale of Two Shifts: Causal Strategic Classification. https://arxiv.org/pdf/2302.06280.pdf (2023)."
+        },
+        {
+          "key": "e_1_3_2_1_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287597"
+        },
+        {
+          "key": "e_1_3_2_1_32_1",
+          "volume-title": "Proceedings of the 38th International Conference on Machine Learning. PMLR, 4641–4650",
+          "author": "Izzo Zachary",
+          "year": "2021",
+          "unstructured": "Zachary Izzo, Lexing Ying, and James Zou. 2021. How to Learn When Data Reacts to Your Model: Performative Gradient Descent. In Proceedings of the 38th International Conference on Machine Learning. PMLR, 4641–4650."
+        },
+        {
+          "key": "e_1_3_2_1_33_1",
+          "volume-title": "Supply-Side Equilibria in Recommender Systems. In Thirty-Seventh Conference on Neural Information Processing Systems.",
+          "author": "Jagadeesan Meena",
+          "year": "2023",
+          "unstructured": "Meena Jagadeesan, Nikhil Garg, and Jacob Steinhardt. 2023. Supply-Side Equilibria in Recommender Systems. In Thirty-Seventh Conference on Neural Information Processing Systems."
+        },
+        {
+          "key": "e_1_3_2_1_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287578"
+        },
+        {
+          "key": "e_1_3_2_1_35_1",
+          "unstructured": "Michael P. Kim and Juan C. Perdomo. 2023. Making Decisions under Outcome Performativity. arxiv:2210.01745 [cs stat]"
+        },
+        {
+          "key": "e_1_3_2_1_36_1",
+          "volume-title": "Proceedings of the 8th Conference on Innovations in Theoretical Computer Science (ITCS)",
+          "author": "Kleinberg Jon",
+          "year": "2016",
+          "unstructured": "Jon Kleinberg, Sendhil Mullainathan, and Manish Raghavan. 2016. Inherent Trade-Offs in the Fair Determination of Risk Scores. In Proceedings of the 8th Conference on Innovations in Theoretical Computer Science (ITCS). Berkeley, CA. arxiv:1609.05807"
+        },
+        {
+          "key": "e_1_3_2_1_37_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Claire Lazar Reich and Suhas Vijaykumar. 2021. A Possibility in Algorithmic Fairness: Can Calibration and Equal Error Rates Be Reconciled?Schloss Dagstuhl – Leibniz-Zentrum für Informatik. https://doi.org/10.4230/LIPICS.FORC.2021.4",
+          "DOI": "10.4230/LIPICS.FORC.2021.4"
+        },
+        {
+          "key": "e_1_3_2_1_38_1",
+          "volume-title": "Proceedings of the 38th International Conference on Machine Learning. PMLR, 6243–6253",
+          "author": "Levanon Sagi",
+          "year": "2021",
+          "unstructured": "Sagi Levanon and Nir Rosenfeld. 2021. Strategic Classification Made Practical. In Proceedings of the 38th International Conference on Machine Learning. PMLR, 6243–6253."
+        },
+        {
+          "key": "e_1_3_2_1_39_1",
+          "volume-title": "Delayed Impact of Fair Machine Learning. arXiv:1803.04383 [cs, stat] (March",
+          "author": "Liu T.",
+          "year": "2018",
+          "unstructured": "Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, and Moritz Hardt. 2018. Delayed Impact of Fair Machine Learning. arXiv:1803.04383 [cs, stat] (March 2018). arxiv:1803.04383 [cs, stat]"
+        },
+        {
+          "key": "e_1_3_2_1_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372861"
+        },
+        {
+          "key": "e_1_3_2_1_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5555/3524938.3525528"
+        },
+        {
+          "key": "e_1_3_2_1_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4324/9780203056615"
+        },
+        {
+          "key": "e_1_3_2_1_43_1",
+          "volume-title": "Learning Adversarially Fair and Transferable Representations. arXiv:1802.06309 [cs, stat] (Feb",
+          "author": "Madras David",
+          "year": "2018",
+          "unstructured": "David Madras, Elliot Creager, Toniann Pitassi, and Richard Zemel. 2018. Learning Adversarially Fair and Transferable Representations. arXiv:1802.06309 [cs, stat] (Feb. 2018). arxiv:1802.06309 [cs, stat]"
+        },
+        {
+          "key": "e_1_3_2_1_44_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Andreas Maurer. 2016. A vector-contraction inequality for Rademacher complexities. arxiv:1605.00251 [cs.LG]",
+          "DOI": "10.1007/978-3-319-46379-7_1"
+        },
+        {
+          "key": "e_1_3_2_1_45_1",
+          "unstructured": "Celestine Mendler-Dünner Frances Ding and Yixin Wang. 2022. Anticipating Performativity by Predicting from Predictions. In Advances in Neural Information Processing Systems."
+        },
+        {
+          "key": "e_1_3_2_1_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5555/3495724.3496138"
+        },
+        {
+          "key": "e_1_3_2_1_47_1",
+          "volume-title": "Strategic Classification Is Causal Modeling in Disguise. arXiv:1910.10362 [cs, stat] (Feb",
+          "author": "Miller John",
+          "year": "2020",
+          "unstructured": "John Miller, Smitha Milli, and Moritz Hardt. 2020. Strategic Classification Is Causal Modeling in Disguise. arXiv:1910.10362 [cs, stat] (Feb. 2020). arxiv:1910.10362 [cs, stat]"
+        },
+        {
+          "key": "e_1_3_2_1_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287576"
+        },
+        {
+          "key": "e_1_3_2_1_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0047-2727(01)00121-9"
+        },
+        {
+          "key": "e_1_3_2_1_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0022-0531(03)00165-0"
+        },
+        {
+          "key": "e_1_3_2_1_51_1",
+          "unstructured": "Kirtan Padh Diego Antognini Emma Lejal Glaude Boi Faltings and Claudiu Musat. 2021. Addressing Fairness in Classification with a Model-Agnostic Multi-Objective Algorithm. arxiv:2009.04441 [cs.LG]"
+        },
+        {
+          "key": "e_1_3_2_1_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0169-7161(06)26005-X"
+        },
+        {
+          "key": "e_1_3_2_1_53_1",
+          "volume-title": "Performative Prediction. In Proceedings of the 37th International Conference on Machine Learning. PMLR, 7599–7609",
+          "author": "Perdomo Juan",
+          "year": "2020",
+          "unstructured": "Juan Perdomo, Tijana Zrnic, Celestine Mendler-Dünner, and Moritz Hardt. 2020. Performative Prediction. In Proceedings of the 37th International Conference on Machine Learning. PMLR, 7599–7609."
+        },
+        {
+          "key": "e_1_3_2_1_54_1",
+          "unstructured": "Case-Kevin Petrasic Benjamin Saul James Greig and Katherine Lamberth. 2017. Algorithms and Bias: What Lenders Need to Know. White & Case LLP."
+        },
+        {
+          "key": "e_1_3_2_1_55_1",
+          "volume-title": "The Statistical Theory of Racism and Sexism. The American Economic Review",
+          "author": "Phelps Edmund",
+          "year": "1972",
+          "unstructured": "Edmund Phelps. 1972. The Statistical Theory of Racism and Sexism. The American Economic Review (1972)."
+        },
+        {
+          "key": "e_1_3_2_1_56_1",
+          "volume-title": "Advances in Neural Information Processing Systems, I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett (Eds.). Vol. 30. Curran Associates",
+          "author": "Pleiss Geoff",
+          "year": "2017",
+          "unstructured": "Geoff Pleiss, Manish Raghavan, Felix Wu, Jon Kleinberg, and Kilian Q Weinberger. 2017. On Fairness and Calibration. In Advances in Neural Information Processing Systems, I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett (Eds.). Vol. 30. Curran Associates, Inc.https://proceedings.neurips.cc/paper_files/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf"
+        },
+        {
+          "key": "e_1_3_2_1_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3587930"
+        },
+        {
+          "key": "e_1_3_2_1_58_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Miriam Rateike Isabel Valera and Patrick Forré. 2023. Designing Long-term Group Fair Policies in Dynamical Systems. arxiv:2311.12447 [cs.AI]",
+          "DOI": "10.1145/3630106.3658538"
+        },
+        {
+          "key": "e_1_3_2_1_59_1",
+          "volume-title": "Predictive Policing: Using Machine Learning to Detect Patterns of Crime. Wired (Aug.",
+          "author": "Rudin Cynthia",
+          "year": "2013",
+          "unstructured": "Cynthia Rudin. 2013. Predictive Policing: Using Machine Learning to Detect Patterns of Crime. Wired (Aug. 2013)."
+        },
+        {
+          "key": "e_1_3_2_1_60_1",
+          "volume-title": "Causal Strategic Linear Regression. In International Conference on Machine Learning.",
+          "author": "Shavit Yonadav",
+          "year": "2020",
+          "unstructured": "Yonadav Shavit, Benjamin Edelman, and Brian Axelrod. 2020. Causal Strategic Linear Regression. In International Conference on Machine Learning."
+        },
+        {
+          "key": "e_1_3_2_1_61_1",
+          "volume-title": "Learning in Reverse Causal Strategic Environments with Ramifications on Two Sided Markets. In NeurIPS 2023 Workshop on Algorithmic Fairness through the Lens of Time (AFT2023)",
+          "author": "Somerstep Seamus",
+          "year": "2023",
+          "unstructured": "Seamus Somerstep, Yuekai Sun, and Ya’acov Ritov. 2023. Learning in Reverse Causal Strategic Environments with Ramifications on Two Sided Markets. In NeurIPS 2023 Workshop on Algorithmic Fairness through the Lens of Time (AFT2023)."
+        },
+        {
+          "key": "e_1_3_2_1_62_1",
+          "volume-title": "The Twelfth International Conference on Learning Representations. https://openreview.net/forum?id=vEfmVS5ywF",
+          "author": "Somerstep Seamus",
+          "year": "2024",
+          "unstructured": "Seamus Somerstep, Yuekai Sun, and Yaacov Ritov. 2024. Learning in reverse causal strategic environments with ramifications on two sided markets. In The Twelfth International Conference on Learning Representations. https://openreview.net/forum?id=vEfmVS5ywF"
+        },
+        {
+          "key": "e_1_3_2_1_63_1",
+          "volume-title": "Long-Term Fairness with Unknown Dynamics. In Thirty-Seventh Conference on Neural Information Processing Systems.",
+          "author": "Yin Tongxin",
+          "year": "2023",
+          "unstructured": "Tongxin Yin, Reilly Raab, Mingyan Liu, and Yang Liu. 2023. Long-Term Fairness with Unknown Dynamics. In Thirty-Seventh Conference on Neural Information Processing Systems."
+        },
+        {
+          "key": "e_1_3_2_1_64_1",
+          "unstructured": "Sebastian Zezulka and Konstantin Genin. 2023. Performativity and Prospective Fairness. arxiv:2310.08349 [cs.CY]"
+        },
+        {
+          "key": "e_1_3_2_1_65_1",
+          "volume-title": "Proceedings of the 39th International Conference on Machine Learning(Proceedings of Machine Learning Research, Vol. 162)",
+          "author": "Zhang Xueru",
+          "year": "2022",
+          "unstructured": "Xueru Zhang, Mohammad Mahdi Khalili, Kun Jin, Parinaz Naghizadeh, and Mingyan Liu. 2022. Fairness Interventions as (Dis)Incentives for Strategic Manipulation. In Proceedings of the 39th International Conference on Machine Learning(Proceedings of Machine Learning Research, Vol. 162), Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato (Eds.). PMLR, 26239–26264. https://proceedings.mlr.press/v162/zhang22l.html"
+        }
+      ],
+      "event": {
+        "name": "FAccT '24: The 2024 ACM Conference on Fairness, Accountability, and Transparency",
+        "location": "Rio de Janeiro Brazil",
+        "acronym": "FAccT '24"
+      },
+      "container-title": [
+        "The 2024 ACM Conference on Fairness Accountability and Transparency"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://dl.acm.org/doi/10.1145/3630106.3658929",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/3630106.3658929",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2025-08-22T17:33:27Z",
+        "timestamp": 1755884007000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dl.acm.org/doi/10.1145/3630106.3658929"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            3
+          ]
+        ]
+      },
+      "references-count": 65,
+      "alternative-id": [
+        "10.1145/3630106.3658929",
+        "10.1145/3630106"
+      ],
+      "URL": "https://doi.org/10.1145/3630106.3658929",
+      "relation": {},
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2024-06-05",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

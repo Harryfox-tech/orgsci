@@ -1,0 +1,1997 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works?query.title=Learning+the+Distribution+Map+in+Reverse+Causal+Performative+Prediction&rows=4",
+    "checked_at": "2026-10-20T01:25:19.392675Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work-list",
+    "message-version": "1.0.0",
+    "message": {
+      "facets": {},
+      "total-results": 4018009,
+      "items": [
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                30
+              ]
+            ],
+            "date-time": "2026-01-30T13:06:58Z",
+            "timestamp": 1769778418677,
+            "version": "3.49.0"
+          },
+          "reference-count": 45,
+          "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "issue": "11",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2025,
+                    11,
+                    1
+                  ]
+                ],
+                "date-time": "2025-11-01T00:00:00Z",
+                "timestamp": 1761955200000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+            },
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2025,
+                    11,
+                    1
+                  ]
+                ],
+                "date-time": "2025-11-01T00:00:00Z",
+                "timestamp": 1761955200000
+              },
+              "content-version": "stm-asf",
+              "delay-in-days": 0,
+              "URL": "https://doi.org/10.15223/policy-029"
+            },
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2025,
+                    11,
+                    1
+                  ]
+                ],
+                "date-time": "2025-11-01T00:00:00Z",
+                "timestamp": 1761955200000
+              },
+              "content-version": "stm-asf",
+              "delay-in-days": 0,
+              "URL": "https://doi.org/10.15223/policy-037"
+            }
+          ],
+          "funder": [
+            {
+              "name": "PGMO project SAMOA"
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "IEEE Trans. Automat. Contr."
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "DOI": "10.1109/tac.2025.3566920",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2025,
+                5,
+                5
+              ]
+            ],
+            "date-time": "2025-05-05T14:01:07Z",
+            "timestamp": 1746453667000
+          },
+          "page": "7125-7140",
+          "source": "Crossref",
+          "is-referenced-by-count": 1,
+          "title": [
+            "Learning Market Equilibria Preserving Statistical Privacy Using Performative Prediction"
+          ],
+          "prefix": "10.1109",
+          "volume": "70",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0001-6948-3133",
+              "authenticated-orcid": false,
+              "given": "Hélène",
+              "family": "Le Cadre",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Inria, University of Lille, CNRS, Centrale Lille, Lille, France"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-0700-3816",
+              "authenticated-orcid": false,
+              "given": "Mandar",
+              "family": "Datar",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "LIA, University of Avignon, Avignon, France"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0004-6154-2978",
+              "authenticated-orcid": false,
+              "given": "Mathis",
+              "family": "Guckert",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Inria, University of Lille, CNRS, Centrale Lille, Lille, France"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-2177-9979",
+              "authenticated-orcid": false,
+              "given": "Eitan",
+              "family": "Altman",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Centre Inria d'Universit&#x00E9; C&#x00F4;t&#x00E9; d'Azur, Sophia Antipolis, France"
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "263",
+          "reference": [
+            {
+              "key": "ref1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.23919/ECC57647.2023.10178247"
+            },
+            {
+              "key": "ref2",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.ejor.2019.09.035"
+            },
+            {
+              "key": "ref3",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.orl.2021.08.001"
+            },
+            {
+              "key": "ref4",
+              "article-title": "Welfare effects of dynamic electricity pricing",
+              "author": "Campaigne",
+              "year": "2016"
+            },
+            {
+              "key": "ref5",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TSG.2022.3158442"
+            },
+            {
+              "key": "ref6",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.23919/ECC51009.2020.9143658"
+            },
+            {
+              "issue": "PMLR",
+              "key": "ref7",
+              "first-page": "7599",
+              "article-title": "Performative prediction",
+              "volume-title": "Proc. Mach. Learn. Res.",
+              "author": "Perdomo",
+              "year": "2020"
+            },
+            {
+              "key": "ref8",
+              "first-page": "1",
+              "article-title": "Multiplayer performative prediction: Learning in decision-dependent games",
+              "volume": "24",
+              "author": "Narang",
+              "year": "2023",
+              "journal-title": "J. Mach. Learn. Res."
+            },
+            {
+              "key": "ref9",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/11681878_14"
+            },
+            {
+              "key": "ref10",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/2492002.2482585"
+            },
+            {
+              "key": "ref11",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.geb.2013.06.013"
+            },
+            {
+              "key": "ref12",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3185511"
+            },
+            {
+              "key": "ref13",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TNET.2019.2951713"
+            },
+            {
+              "key": "ref14",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1561/9781601988195"
+            },
+            {
+              "issue": "1",
+              "key": "ref15",
+              "first-page": "492",
+              "article-title": "Extremal mechanisms for local differential privacy",
+              "volume": "17",
+              "author": "Kairouz",
+              "year": "2016",
+              "journal-title": "J. Mach. Learn. Res."
+            },
+            {
+              "key": "ref16",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3328526.3329589"
+            },
+            {
+              "key": "ref17",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.epsr.2022.108442"
+            },
+            {
+              "key": "ref18",
+              "first-page": "280",
+              "article-title": "Optimum statistical estimation with strategic data sources",
+              "volume-title": "Proc. Conf. Learn. Theory",
+              "author": "Cai",
+              "year": "2015"
+            },
+            {
+              "key": "ref19",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TAC.2019.2922190"
+            },
+            {
+              "key": "ref20",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3391436"
+            },
+            {
+              "key": "ref21",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.23919/ACC55779.2023.10156151"
+            },
+            {
+              "key": "ref22",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.23919/ACC55779.2023.10156377"
+            },
+            {
+              "key": "ref23",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.automatica.2022.110440"
+            },
+            {
+              "key": "ref24",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.24963/ijcai.2022/766"
+            },
+            {
+              "key": "ref25",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/tac.2023.3264164"
+            },
+            {
+              "key": "ref26",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1146/annurev-control-053018-023634"
+            },
+            {
+              "key": "ref27",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1287/opre.2017.1712"
+            },
+            {
+              "key": "ref28",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TPWRS.2019.2896654"
+            },
+            {
+              "key": "ref29",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1287/opre.1070.0416"
+            },
+            {
+              "key": "ref30",
+              "article-title": "Data sharing markets",
+              "author": "Rasouli",
+              "year": "2021"
+            },
+            {
+              "key": "ref31",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/MSP.2010.936021"
+            },
+            {
+              "key": "ref32",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TSP.2017.2656847"
+            },
+            {
+              "key": "ref33",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10589-010-9331-9"
+            },
+            {
+              "key": "ref34",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/978-3-642-39077-7_5"
+            },
+            {
+              "key": "ref35",
+              "first-page": "394",
+              "article-title": "Improving the gaussian mechanism for differential privacy: Analytical calibration and optimal denoising",
+              "volume-title": "Proc. Int. Conf. Mach. Learn.",
+              "author": "Balle",
+              "year": "2018"
+            },
+            {
+              "key": "ref36",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1137/1.9781611971132"
+            },
+            {
+              "key": "ref37",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/978-3-642-12586-7"
+            },
+            {
+              "key": "ref38",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1109/TAC.2024.3410890"
+            },
+            {
+              "key": "ref39",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1137/20M1387341"
+            },
+            {
+              "key": "ref40",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10107-007-0161-1"
+            },
+            {
+              "key": "ref41",
+              "first-page": "16291",
+              "article-title": "Linearly constrained bilevel optimization: A smoothed implicit gradient approach",
+              "volume-title": "Proc. Int. Conf. Mach. Learn.",
+              "author": "Khanduri",
+              "year": "2023"
+            },
+            {
+              "key": "ref42",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1214/08-AIHP309"
+            },
+            {
+              "key": "ref43",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s10107-023-02001-y"
+            },
+            {
+              "key": "ref44",
+              "article-title": "Penalty and barrier methods for constrained optimization",
+              "author": "Freund",
+              "year": "2004"
+            },
+            {
+              "key": "ref45",
+              "doi-asserted-by": "crossref",
+              "article-title": "Learning market equilibria preserving statistical privacy using performative prediction",
+              "author": "Le Cadre",
+              "DOI": "10.1109/TAC.2025.3566920"
+            }
+          ],
+          "container-title": [
+            "IEEE Transactions on Automatic Control"
+          ],
+          "link": [
+            {
+              "URL": "http://xplorestaging.ieee.org/ielx8/9/11218261/10985824.pdf?arnumber=10985824",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                29
+              ]
+            ],
+            "date-time": "2026-01-29T21:28:23Z",
+            "timestamp": 1769722103000
+          },
+          "score": 22.086636,
+          "resource": {
+            "primary": {
+              "URL": "https://ieeexplore.ieee.org/document/10985824/"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          },
+          "references-count": 45,
+          "journal-issue": {
+            "issue": "11"
+          },
+          "URL": "https://doi.org/10.1109/tac.2025.3566920",
+          "ISSN": [
+            "0018-9286",
+            "1558-2523",
+            "2334-3303"
+          ],
+          "issn-type": [
+            {
+              "value": "0018-9286",
+              "type": "print"
+            },
+            {
+              "value": "1558-2523",
+              "type": "electronic"
+            },
+            {
+              "value": "2334-3303",
+              "type": "electronic"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2025,
+                11
+              ]
+            ]
+          }
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                16
+              ]
+            ],
+            "date-time": "2026-06-16T07:23:42Z",
+            "timestamp": 1781594622784,
+            "version": "3.54.5"
+          },
+          "reference-count": 39,
+          "publisher": "Elsevier BV",
+          "issue": "1",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2003,
+                    1,
+                    1
+                  ]
+                ],
+                "date-time": "2003-01-01T00:00:00Z",
+                "timestamp": 1041379200000
+              },
+              "content-version": "tdm",
+              "delay-in-days": 0,
+              "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Trends in Cognitive Sciences"
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2003,
+                1
+              ]
+            ]
+          },
+          "DOI": "10.1016/s1364-6613(02)00009-8",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2003,
+                1,
+                17
+              ]
+            ],
+            "date-time": "2003-01-17T14:29:21Z",
+            "timestamp": 1042813761000
+          },
+          "page": "43-48",
+          "source": "Crossref",
+          "is-referenced-by-count": 62,
+          "title": [
+            "Learning, prediction and causal Bayes nets"
+          ],
+          "prefix": "10.1016",
+          "volume": "7",
+          "author": [
+            {
+              "given": "Clark",
+              "family": "Glymour",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "78",
+          "reference": [
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB1",
+              "series-title": "An Investigation of The Laws of Thought, On Which are Founded the Mathematical Theories of Logic and Probabilities",
+              "author": "Boole",
+              "year": "1854"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB2",
+              "series-title": "Collected Papers on Mathematics, Logic, and Philosophy",
+              "author": "Frege",
+              "year": "1984"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB3",
+              "series-title": "Conditioned Reflexes; An Investigation of the Physiological Activity of the Cerebral Cortex",
+              "author": "Pavlov",
+              "year": "1927"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB4",
+              "series-title": "The Child's Conception of Physical Causality",
+              "author": "Piaget",
+              "year": "1930"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB5",
+              "series-title": "The Perception of Causality",
+              "author": "Michotte",
+              "year": "1943"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB6",
+              "doi-asserted-by": "crossref",
+              "first-page": "510",
+              "DOI": "10.3758/BF03197251",
+              "article-title": "Causal inference as perceptual judgements",
+              "volume": "23",
+              "author": "Anderson",
+              "year": "1995",
+              "journal-title": "Mem. Cogn."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB7",
+              "doi-asserted-by": "crossref",
+              "first-page": "299",
+              "DOI": "10.1016/S1364-6613(00)01506-0",
+              "article-title": "Perceptual causality and animacy",
+              "volume": "4",
+              "author": "Scholl",
+              "year": "2000",
+              "journal-title": "Trends Cogn. Sci."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB8",
+              "series-title": "The Architecture of Cognition",
+              "author": "Anderson",
+              "year": "1983"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB9",
+              "series-title": "Classical Conditioning Ii: Current Theory and Research",
+              "first-page": "64",
+              "article-title": "A theory of Pavlovian conditioning: variations in the effectiveness of reinforcement and nonreinforcement",
+              "author": "Rescorla",
+              "year": "1972"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB10",
+              "series-title": "Rational Models of Cognition",
+              "article-title": "The rational analysis of human causal and probability judgement",
+              "author": "Lopez",
+              "year": "1998"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB11",
+              "series-title": "A Dynamic Systems Approach to the Development of Cognition and Action",
+              "author": "Thelen",
+              "year": "1994"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB12",
+              "series-title": "Sociological Methodology",
+              "article-title": "Structural analysis of multivariate data: a review",
+              "author": "Kiiveri",
+              "year": "1982"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB13",
+              "series-title": "Probabilistic Reasoning in Uncertain Systems",
+              "author": "Pearl",
+              "year": "1988"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB14",
+              "series-title": "Springer Lecture Notes in Statistics",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1007/978-1-4612-2748-9",
+              "author": "Spirtes",
+              "year": "1993"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB15",
+              "series-title": "Causality",
+              "author": "Pearl",
+              "year": "2000"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB16",
+              "series-title": "Computation, Causation and Discovery",
+              "author": "Glymour",
+              "year": "1999"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB17",
+              "doi-asserted-by": "crossref",
+              "first-page": "277",
+              "DOI": "10.1023/A:1015421711749",
+              "article-title": "Automated remote sensing with near infrared reflectance spectra: carbonate recognition",
+              "volume": "6",
+              "author": "Ramsey",
+              "year": "2002",
+              "journal-title": "Data Mining and Knowledge Discovery"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB18",
+              "series-title": "Cause and Correlation in Biology: A User's Guide to Path Analysis, Structural Equations and Causal Inference",
+              "author": "Shipley",
+              "year": "2000"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB19",
+              "series-title": "Computation, Causation and Discovery",
+              "first-page": "141",
+              "article-title": "A Bayesian approach to causal discovery",
+              "author": "Heckerman",
+              "year": "1999"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB20",
+              "series-title": "Explanation and Cognition",
+              "article-title": "The role of mechanism beliefs in causal reasoning",
+              "author": "Ahn",
+              "year": "2000"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB21",
+              "series-title": "Rational Models of Cognition",
+              "article-title": "Causal mechanism and probability: a normative approach",
+              "author": "Glymour",
+              "year": "1998"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB22",
+              "series-title": "Proceedings of the 21st Annual Conference of the Cognitive Science Society",
+              "first-page": "595",
+              "author": "Rehder",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB23",
+              "series-title": "Early Categorization",
+              "article-title": "Words, kinds and causal powers: a theory theory perspective on early naming and categorization",
+              "author": "Gopnik",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB24",
+              "doi-asserted-by": "crossref",
+              "first-page": "414",
+              "DOI": "10.1037/0278-7393.19.2.414",
+              "article-title": "Selective associations and causality judgements: presence of a strong causal factor may reduce judgements of a weaker one",
+              "volume": "19",
+              "author": "Baker",
+              "year": "1993",
+              "journal-title": "J. Exp. Psychol. Learn. Mem. Cogn."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB25",
+              "doi-asserted-by": "crossref",
+              "first-page": "147",
+              "DOI": "10.3758/BF03334492",
+              "article-title": "A note on measurement of contingency between two binary variables in judgement tasks",
+              "volume": "15",
+              "author": "Allan",
+              "year": "1980",
+              "journal-title": "Bull. Psychon. Soc."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB26",
+              "series-title": "The Mind's Arrows: Bayes Nets and Graphical Causal Models in Psychology",
+              "author": "Glymour",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB27",
+              "doi-asserted-by": "crossref",
+              "first-page": "367",
+              "DOI": "10.1037/0033-295X.104.2.367",
+              "article-title": "From covariation to causation: a causal power theory",
+              "volume": "104",
+              "author": "Cheng",
+              "year": "1997",
+              "journal-title": "Psychol. Rev."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB28",
+              "author": "Cheng",
+              "year": "2002",
+              "journal-title": "Assessing interactive causal influence"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB29",
+              "article-title": "Structure learning in human causal induction",
+              "volume": "Vol. 13",
+              "author": "Tenenbaum",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB30",
+              "series-title": "Proceedings of the Twentieth Annual Conference of the Cognitive Science Society",
+              "first-page": "1102",
+              "article-title": "A Bayesian network model of causal learning",
+              "author": "Waldmann",
+              "year": "1998"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB31",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1006/cogp.1999.0724",
+              "article-title": "Distinguishing Genuine from Spurious Causes: a Coherence Hypothesis",
+              "author": "Lien",
+              "year": "2000",
+              "journal-title": "Cogn. Psychol."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB32",
+              "author": "Danks",
+              "year": "2002",
+              "journal-title": "Equilibria of the Rescorla–Wagner model"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB33",
+              "series-title": "Proceedings of the Twenty-Fourth Annual Conference of the Cognitive Science Society",
+              "author": "Lagnado",
+              "year": "2002"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB34",
+              "doi-asserted-by": "crossref",
+              "first-page": "668",
+              "DOI": "10.1037/0012-1649.37.5.668",
+              "article-title": "The emergence of children's causal explanations and theories: evidence from everyday conversation",
+              "volume": "37",
+              "author": "Hickling",
+              "year": "2001",
+              "journal-title": "Dev. Psychol."
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB35",
+              "series-title": "The Cognitive Basis of Science",
+              "article-title": "Causal maps and Bayes nets: a cognitive and computational account of theory-formation",
+              "author": "Gopnik",
+              "year": "2002"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB36",
+              "series-title": "Proceedings of the Neural Information Processing Systems Meeting, Whistler, B.C.",
+              "author": "Schulz",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB37",
+              "series-title": "Proceedings of the Conference on Artificial Intelligence and Statistics",
+              "author": "Spirtes",
+              "year": "2001"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB38",
+              "series-title": "Proceedings of the Twenty-Fourth Annual Conference of the Cognitive Science Society",
+              "author": "Sloman",
+              "year": "2002"
+            },
+            {
+              "key": "10.1016/S1364-6613(02)00009-8_BIB39",
+              "series-title": "Discovering Causal Structure",
+              "author": "Glymour",
+              "year": "1987"
+            }
+          ],
+          "container-title": [
+            "Trends in Cognitive Sciences"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "https://api.elsevier.com/content/article/PII:S1364661302000098?httpAccept=text/xml",
+              "content-type": "text/xml",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://api.elsevier.com/content/article/PII:S1364661302000098?httpAccept=text/plain",
+              "content-type": "text/plain",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                31
+              ]
+            ],
+            "date-time": "2019-03-31T10:28:41Z",
+            "timestamp": 1554028121000
+          },
+          "score": 21.796965,
+          "resource": {
+            "primary": {
+              "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1364661302000098"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2003,
+                1
+              ]
+            ]
+          },
+          "references-count": 39,
+          "journal-issue": {
+            "issue": "1",
+            "published-print": {
+              "date-parts": [
+                [
+                  2003,
+                  1
+                ]
+              ]
+            }
+          },
+          "alternative-id": [
+            "S1364661302000098"
+          ],
+          "URL": "https://doi.org/10.1016/s1364-6613(02)00009-8",
+          "ISSN": [
+            "1364-6613"
+          ],
+          "issn-type": [
+            {
+              "value": "1364-6613",
+              "type": "print"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2003,
+                1
+              ]
+            ]
+          }
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2026-09-24T22:25:03Z",
+            "timestamp": 1790288703551,
+            "version": "4.1.0"
+          },
+          "reference-count": 73,
+          "publisher": "Elsevier BV",
+          "issue": "1",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2011,
+                    1,
+                    1
+                  ]
+                ],
+                "date-time": "2011-01-01T00:00:00Z",
+                "timestamp": 1293840000000
+              },
+              "content-version": "tdm",
+              "delay-in-days": 0,
+              "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+            }
+          ],
+          "funder": [
+            {
+              "name": "Daegu University Research Grant, 2010"
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Expert Systems with Applications"
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2011,
+                1
+              ]
+            ]
+          },
+          "DOI": "10.1016/j.eswa.2010.06.073",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2010,
+                7,
+                7
+              ]
+            ],
+            "date-time": "2010-07-07T08:36:35Z",
+            "timestamp": 1278491795000
+          },
+          "page": "360-370",
+          "source": "Crossref",
+          "is-referenced-by-count": 8,
+          "title": [
+            "Conceptual modeling of causal map: Object oriented causal map"
+          ],
+          "prefix": "10.1016",
+          "volume": "38",
+          "author": [
+            {
+              "given": "Soon Jae",
+              "family": "Kwon",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "78",
+          "reference": [
+            {
+              "issue": "2",
+              "key": "10.1016/j.eswa.2010.06.073_bib1",
+              "doi-asserted-by": "crossref",
+              "first-page": "137",
+              "DOI": "10.1080/07421222.1996.11518126",
+              "article-title": "Cognitive fit in requirements modeling: A study of object and process methodologies",
+              "volume": "13",
+              "author": "Agarwal",
+              "year": "1996",
+              "journal-title": "Journal of Management Information Systems"
+            },
+            {
+              "issue": "6",
+              "key": "10.1016/j.eswa.2010.06.073_bib2",
+              "doi-asserted-by": "crossref",
+              "first-page": "1",
+              "DOI": "10.1002/(SICI)1520-684X(19980615)29:6<1::AID-SCJ1>3.0.CO;2-E",
+              "article-title": "A dialogue method for assisting students in understanding causalities in physical systems",
+              "volume": "29",
+              "author": "Asami",
+              "year": "1998",
+              "journal-title": "Systems and Computers in Japan"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib3",
+              "series-title": "Cognition",
+              "author": "Ashcraft",
+              "year": "2002"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib4",
+              "doi-asserted-by": "crossref",
+              "first-page": "287",
+              "DOI": "10.1007/BF00729802",
+              "article-title": "Ontological aspects of information modeling",
+              "volume": "6",
+              "author": "Ashenhurst",
+              "year": "1996",
+              "journal-title": "Minds and Machines"
+            },
+            {
+              "issue": "2",
+              "key": "10.1016/j.eswa.2010.06.073_bib5",
+              "doi-asserted-by": "crossref",
+              "first-page": "126",
+              "DOI": "10.1145/45941.214328",
+              "article-title": "A speech-act-based office modeling approach",
+              "volume": "6",
+              "author": "Auramaki",
+              "year": "1988",
+              "journal-title": "ACM Transaction of Office Information Systems"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib6",
+              "series-title": "Structure of decision: The cognitive maps of political elites",
+              "author": "Axelrod",
+              "year": "1976"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib7",
+              "doi-asserted-by": "crossref",
+              "first-page": "17",
+              "DOI": "10.1287/isre.11.1.17.11787",
+              "article-title": "A formal approach to workflow analysis",
+              "volume": "11",
+              "author": "Basu",
+              "year": "2000",
+              "journal-title": "Information Systems Research"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib8",
+              "doi-asserted-by": "crossref",
+              "first-page": "83",
+              "DOI": "10.1016/0020-7373(92)90092-Y",
+              "article-title": "Conceptual data modeling in database design: Similarities and differences between expert and novice designers",
+              "volume": "37",
+              "author": "Batra",
+              "year": "1992",
+              "journal-title": "International Journal of Man–Machine Studies"
+            },
+            {
+              "issue": "4",
+              "key": "10.1016/j.eswa.2010.06.073_bib9",
+              "doi-asserted-by": "crossref",
+              "first-page": "385",
+              "DOI": "10.1287/isre.12.4.384.9702",
+              "article-title": "Should optional properties be used in conceptual modelling? A theory and three empirical tests",
+              "volume": "12",
+              "author": "Bodart",
+              "year": "2001",
+              "journal-title": "Information Systems Research"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib10",
+              "series-title": "Object-oriented analysis and design with applications",
+              "author": "Booch",
+              "year": "1994"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib11",
+              "series-title": "The unified modeling language user guide",
+              "author": "Booch",
+              "year": "1999"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib12",
+              "series-title": "Ontology I",
+              "article-title": "Treatise on basic philosophy",
+              "volume": "Vol. 3",
+              "author": "Bunge",
+              "year": "1977"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib13",
+              "series-title": "Ontology II",
+              "article-title": "Treatise on basic philosophy",
+              "volume": "Vol. 4",
+              "author": "Bunge",
+              "year": "1979"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib14",
+              "doi-asserted-by": "crossref",
+              "first-page": "38",
+              "DOI": "10.1287/isre.1050.0079",
+              "article-title": "Conceptualizing systems for understanding: An empirical test of decomposition principles in object-oriented analysis",
+              "volume": "17",
+              "author": "Burton-Jones",
+              "year": "2006",
+              "journal-title": "Information Systems Research"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib15",
+              "doi-asserted-by": "crossref",
+              "first-page": "137",
+              "DOI": "10.1080/0022250X.1986.9990010",
+              "article-title": "An approach for relating social structure to cognitive structure",
+              "volume": "12",
+              "author": "Carley",
+              "year": "1986",
+              "journal-title": "Journal of Mathematical Sociology"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib16",
+              "doi-asserted-by": "crossref",
+              "first-page": "219",
+              "DOI": "10.1080/00223980.1981.9915226",
+              "article-title": "Multiattributional causality for social affiliation across five cross-national samples",
+              "volume": "107",
+              "author": "Chandler",
+              "year": "1981",
+              "journal-title": "The Journal of Psychology"
+            },
+            {
+              "issue": "6",
+              "key": "10.1016/j.eswa.2010.06.073_bib17",
+              "doi-asserted-by": "crossref",
+              "first-page": "476",
+              "DOI": "10.1109/32.295895",
+              "article-title": "A metrics suite for object oriented design",
+              "volume": "20",
+              "author": "Chidamber",
+              "year": "1994",
+              "journal-title": "IEEE Transactions on Software Engineering"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib18",
+              "doi-asserted-by": "crossref",
+              "first-page": "240",
+              "DOI": "10.1016/S0022-5371(69)80069-1",
+              "article-title": "Retrieval time from semantic memory",
+              "volume": "8",
+              "author": "Collins",
+              "year": "1969",
+              "journal-title": "Journal of Verbal Learning Behavior"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib19",
+              "series-title": "Challenges and strategies for research in systems development",
+              "first-page": "9",
+              "article-title": "Systems analysis and design: A research strategy and macro-analysis",
+              "author": "Davis",
+              "year": "1992"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib20",
+              "doi-asserted-by": "crossref",
+              "first-page": "109",
+              "DOI": "10.1016/0092-6566(85)90023-6",
+              "article-title": "The general causality orientations scale: Self-determination in personality",
+              "volume": "19",
+              "author": "Deci",
+              "year": "1985",
+              "journal-title": "Journal of Research in Personality"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib21",
+              "series-title": "Knowledge and the flow of information",
+              "author": "Dretske",
+              "year": "1981"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib22",
+              "doi-asserted-by": "crossref",
+              "first-page": "33",
+              "DOI": "10.1109/52.476284",
+              "article-title": "Cornering the chimera",
+              "volume": "13",
+              "author": "Dromney",
+              "year": "1996",
+              "journal-title": "IEEE Software"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib23",
+              "first-page": "65",
+              "article-title": "The effect of field dependence on conceptual modeling performance",
+              "volume": "6",
+              "author": "Dunn",
+              "year": "1998",
+              "journal-title": "Advance of Accounting Information Systems"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib24",
+              "doi-asserted-by": "crossref",
+              "first-page": "1",
+              "DOI": "10.1016/0377-2217(88)90002-1",
+              "article-title": "Cognitive mapping: A review",
+              "volume": "36",
+              "author": "Eden",
+              "year": "1988",
+              "journal-title": "European Journal of Operational Research"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib25",
+              "series-title": "A theory of content and other essays",
+              "author": "Fodor",
+              "year": "1990"
+            },
+            {
+              "issue": "3",
+              "key": "10.1016/j.eswa.2010.06.073_bib26",
+              "doi-asserted-by": "crossref",
+              "first-page": "153",
+              "DOI": "10.1007/s00766-003-0182-0",
+              "article-title": "Empirical comparisons of animation and narration in requirements validation",
+              "volume": "9",
+              "author": "Gemino",
+              "year": "2004",
+              "journal-title": "Requirements Engineering"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib27",
+              "doi-asserted-by": "crossref",
+              "first-page": "565",
+              "DOI": "10.1207/s15516709cog2504_3",
+              "article-title": "Naı¨ve causality: A mental model theory of causal meaning and reasoning",
+              "volume": "25",
+              "author": "Goldvarg",
+              "year": "2001",
+              "journal-title": "Cognitive Science"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib28",
+              "doi-asserted-by": "crossref",
+              "first-page": "341",
+              "DOI": "10.1037/h0026822",
+              "article-title": "Impression formation and word combination in sentences",
+              "volume": "10",
+              "author": "Gollob",
+              "year": "1968",
+              "journal-title": "Journal of Personality and Social Psychology"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib29",
+              "doi-asserted-by": "crossref",
+              "first-page": "204",
+              "DOI": "10.1037/h0027050",
+              "article-title": "Affectual dynamics in simple sentences",
+              "volume": "11",
+              "author": "Heise",
+              "year": "1969",
+              "journal-title": "Journal of Personality and Social Psychology"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib30",
+              "doi-asserted-by": "crossref",
+              "first-page": "48",
+              "DOI": "10.1037/h0030084",
+              "article-title": "Potency dynamics in simple sentences",
+              "volume": "16",
+              "author": "Heise",
+              "year": "1970",
+              "journal-title": "Journal of Personality and Social Psychology"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib31",
+              "series-title": "Object-oriented software engineering: A use case driven approach",
+              "author": "Jacobson",
+              "year": "1992"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib32",
+              "series-title": "The object advantage: Business process reengineering with object technology",
+              "author": "Jacobson",
+              "year": "1995"
+            },
+            {
+              "issue": "12",
+              "key": "10.1016/j.eswa.2010.06.073_bib33",
+              "doi-asserted-by": "crossref",
+              "first-page": "681",
+              "DOI": "10.1016/0950-5849(96)81745-9",
+              "article-title": "Evaluating the quality of entity-relationship models",
+              "volume": "37",
+              "author": "Kesh",
+              "year": "1995",
+              "journal-title": "Information Software Technology"
+            },
+            {
+              "issue": "3",
+              "key": "10.1016/j.eswa.2010.06.073_bib34",
+              "doi-asserted-by": "crossref",
+              "first-page": "284",
+              "DOI": "10.1287/isre.11.3.284.12206",
+              "article-title": "How do we understand a system with (so) many diagrams? Cognitive integration processes in diagrammatic reasoning",
+              "volume": "11",
+              "author": "Kim",
+              "year": "2000",
+              "journal-title": "Information Systems Research"
+            },
+            {
+              "issue": "6",
+              "key": "10.1016/j.eswa.2010.06.073_bib35",
+              "doi-asserted-by": "crossref",
+              "first-page": "103",
+              "DOI": "10.1145/203241.203265",
+              "article-title": "Comparing data modeling formalisms",
+              "volume": "38",
+              "author": "Kim",
+              "year": "1995",
+              "journal-title": "Communications of ACM"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib36",
+              "doi-asserted-by": "crossref",
+              "first-page": "559",
+              "DOI": "10.1023/A:1008366512300",
+              "article-title": "Teleology as higher-order causation: A situation theoretic account",
+              "volume": "8",
+              "author": "Koons",
+              "year": "1998",
+              "journal-title": "Minds ad Machines"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib37",
+              "series-title": "Information system design methodologies: Improving the practice",
+              "first-page": "145",
+              "article-title": "Activity modeling and behaviour modeling",
+              "author": "Kung",
+              "year": "1986"
+            },
+            {
+              "issue": "2",
+              "key": "10.1016/j.eswa.2010.06.073_bib38",
+              "doi-asserted-by": "crossref",
+              "first-page": "139",
+              "DOI": "10.1108/14684520610659175",
+              "article-title": "Cognitive map-based web site design: Empirical analysis approach",
+              "volume": "30",
+              "author": "Lee",
+              "year": "2006",
+              "journal-title": "Online Information Review"
+            },
+            {
+              "issue": "4",
+              "key": "10.1016/j.eswa.2010.06.073_bib39",
+              "doi-asserted-by": "crossref",
+              "first-page": "337",
+              "DOI": "10.2753/MIS0742-1222220412",
+              "article-title": "The use of cognitive maps and case-based reasoning for B2B negotiation",
+              "volume": "22",
+              "author": "Lee",
+              "year": "2006",
+              "journal-title": "Journal of Management Information Systems"
+            },
+            {
+              "issue": "2",
+              "key": "10.1016/j.eswa.2010.06.073_bib40",
+              "doi-asserted-by": "crossref",
+              "first-page": "42",
+              "DOI": "10.1109/52.268955",
+              "article-title": "Understanding quality in conceptual modeling",
+              "volume": "11",
+              "author": "Lindland",
+              "year": "1994",
+              "journal-title": "IEEE Software"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib41",
+              "series-title": "The psychology of computer vision",
+              "article-title": "A framework for representing knowledge",
+              "author": "Minsky",
+              "year": "1975"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib42",
+              "doi-asserted-by": "crossref",
+              "first-page": "45",
+              "DOI": "10.2307/248879",
+              "article-title": "The use of cognitive mapping for information requirements analysis",
+              "volume": "10",
+              "author": "Montazemi",
+              "year": "1986",
+              "journal-title": "MIS Quarterly"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib43",
+              "first-page": "129",
+              "article-title": "Improving the quality of entity-relationship models: An action research programme",
+              "volume": "30",
+              "author": "Moody",
+              "year": "1998",
+              "journal-title": "Australian Computer Journal"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib44",
+              "series-title": "Conceptual modeling, databases, and cases",
+              "article-title": "Conceptual modeling and telos",
+              "author": "Mylopoulos",
+              "year": "1992"
+            },
+            {
+              "issue": "3",
+              "key": "10.1016/j.eswa.2010.06.073_bib45",
+              "doi-asserted-by": "crossref",
+              "first-page": "475",
+              "DOI": "10.2307/3250971",
+              "article-title": "Understanding software operations support expertise: A revealed causal mapping approach",
+              "volume": "24",
+              "author": "Nelson",
+              "year": "2000",
+              "journal-title": "MIS Quarterly"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib46",
+              "series-title": "Information systems methodologies: A framework for understanding",
+              "author": "Olle",
+              "year": "1988"
+            },
+            {
+              "issue": "3",
+              "key": "10.1016/j.eswa.2010.06.073_bib47",
+              "doi-asserted-by": "crossref",
+              "first-page": "174",
+              "DOI": "10.1109/32.126767",
+              "article-title": "An automated approach to information systems decomposition",
+              "volume": "18",
+              "author": "Parsons",
+              "year": "1992",
+              "journal-title": "IEEE Transactions on Software Engineering"
+            },
+            {
+              "issue": "12",
+              "key": "10.1016/j.eswa.2010.06.073_bib48",
+              "doi-asserted-by": "crossref",
+              "first-page": "104",
+              "DOI": "10.1145/265563.265578",
+              "article-title": "Using objects for systems analysis",
+              "volume": "40",
+              "author": "Parsons",
+              "year": "1997",
+              "journal-title": "Communications of ACM"
+            },
+            {
+              "issue": "10",
+              "key": "10.1016/j.eswa.2010.06.073_bib49",
+              "doi-asserted-by": "crossref",
+              "first-page": "1437",
+              "DOI": "10.1287/mnsc.42.10.1437",
+              "article-title": "An information model based on classification theory",
+              "volume": "42",
+              "author": "Parsons",
+              "year": "1996",
+              "journal-title": "Management Science"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib50",
+              "series-title": "Causality: Models, reasoning, and inference",
+              "author": "Pearl",
+              "year": "2000"
+            },
+            {
+              "issue": "12",
+              "key": "10.1016/j.eswa.2010.06.073_bib51",
+              "doi-asserted-by": "crossref",
+              "first-page": "1241",
+              "DOI": "10.1002/mar.1051",
+              "article-title": "The interaction of reward contingencies and causality orientation on the introduction of cooperative tactics in buyer–seller negotiations",
+              "volume": "18",
+              "author": "Pullins",
+              "year": "2001",
+              "journal-title": "Psychology & Marketing"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib52",
+              "series-title": "Object-oriented modeling and design",
+              "author": "Rumbaugh",
+              "year": "1991"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib53",
+              "series-title": "The unified modeling language reference manual",
+              "author": "Rumbaugh",
+              "year": "1999"
+            },
+            {
+              "issue": "6",
+              "key": "10.1016/j.eswa.2010.06.073_bib54",
+              "doi-asserted-by": "crossref",
+              "first-page": "1137",
+              "DOI": "10.1037/0022-3514.42.6.1137",
+              "article-title": "The causal dimension scale: A measure of how individuals perceive causes",
+              "volume": "42",
+              "author": "Russell",
+              "year": "1982",
+              "journal-title": "Journal of Personality and Social Psychology"
+            },
+            {
+              "issue": "5",
+              "key": "10.1016/j.eswa.2010.06.073_bib55",
+              "doi-asserted-by": "crossref",
+              "first-page": "749",
+              "DOI": "10.1037/0022-3514.57.5.749",
+              "article-title": "Perceived locus of causality and internationalization: Examining reasons for acting in two domains",
+              "volume": "57",
+              "author": "Ryan",
+              "year": "1989",
+              "journal-title": "Journal of Personality and Social Psychology"
+            },
+            {
+              "issue": "2",
+              "key": "10.1016/j.eswa.2010.06.073_bib56",
+              "first-page": "63",
+              "article-title": "Conceptual data modeling: An empirical study of expert and novice data modelers",
+              "volume": "4",
+              "author": "Shanks",
+              "year": "1997",
+              "journal-title": "Australian Journal of Information Systems"
+            },
+            {
+              "issue": "7",
+              "key": "10.1016/j.eswa.2010.06.073_bib57",
+              "doi-asserted-by": "crossref",
+              "first-page": "77",
+              "DOI": "10.1145/1005817.1005826",
+              "article-title": "Representing composites in conceptual modeling",
+              "volume": "47",
+              "author": "Shanks",
+              "year": "2004",
+              "journal-title": "Communications of the ACM"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib58",
+              "series-title": "Categories and concepts",
+              "author": "Smith",
+              "year": "1982"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib59",
+              "series-title": "The psychology if human thought",
+              "article-title": "Concepts and thought",
+              "author": "Smith",
+              "year": "1988"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib60",
+              "series-title": "Critical issues in information systems research",
+              "first-page": "43",
+              "article-title": "Semantics",
+              "author": "Stamper",
+              "year": "1987"
+            },
+            {
+              "issue": "3",
+              "key": "10.1016/j.eswa.2010.06.073_bib61",
+              "first-page": "22",
+              "article-title": "Meronymic relationships",
+              "volume": "2",
+              "author": "Storey",
+              "year": "1991",
+              "journal-title": "Journal of Database Administration"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib62",
+              "doi-asserted-by": "crossref",
+              "first-page": "719",
+              "DOI": "10.1016/0020-7373(92)90038-M",
+              "article-title": "Analysing the novice analyst: Cognitive models in software engineering",
+              "volume": "36",
+              "author": "Sutcliffe",
+              "year": "1992",
+              "journal-title": "International Journal of Man–Machine Studies"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib63",
+              "doi-asserted-by": "crossref",
+              "first-page": "162",
+              "DOI": "10.1016/S0148-2963(01)00300-9",
+              "article-title": "Measurement process context effects in empirical tests of causal models",
+              "volume": "57",
+              "author": "Teas",
+              "year": "2004",
+              "journal-title": "Journal of Business Research"
+            },
+            {
+              "issue": "5",
+              "key": "10.1016/j.eswa.2010.06.073_bib64",
+              "doi-asserted-by": "crossref",
+              "first-page": "102",
+              "DOI": "10.1145/175290.175305",
+              "article-title": "Requirements specification: Learning object, process, and data methodologies",
+              "volume": "37",
+              "author": "Vessey",
+              "year": "1994",
+              "journal-title": "Communications of the ACM"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib65",
+              "doi-asserted-by": "crossref",
+              "first-page": "217",
+              "DOI": "10.1111/j.1365-2575.1993.tb00127.x",
+              "article-title": "On the ontological expressiveness of information systems analysis and design grammars",
+              "volume": "3",
+              "author": "Wand",
+              "year": "1993",
+              "journal-title": "Journal of Information Systems"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib66",
+              "unstructured": "Wand, Y., & Woo, C. (1993). Object oriented analysis – Is it really that simple? In Proceedings of the third workshop on information technologies and systems, Orlando, FL (pp. 186–195)."
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib67",
+              "doi-asserted-by": "crossref",
+              "first-page": "494",
+              "DOI": "10.1145/331983.331989",
+              "article-title": "An ontological analysis of the relationship construct in conceptual modeling",
+              "volume": "24",
+              "author": "Wand",
+              "year": "1999",
+              "journal-title": "ACM Transactions on Database Systems"
+            },
+            {
+              "issue": "1",
+              "key": "10.1016/j.eswa.2010.06.073_bib68",
+              "doi-asserted-by": "crossref",
+              "first-page": "1282",
+              "DOI": "10.1109/32.60316",
+              "article-title": "An ontology model on an information systems",
+              "volume": "16",
+              "author": "Wand",
+              "year": "1990",
+              "journal-title": "IEEE Transaction on Software Engineering"
+            },
+            {
+              "issue": "4",
+              "key": "10.1016/j.eswa.2010.06.073_bib69",
+              "doi-asserted-by": "crossref",
+              "first-page": "363",
+              "DOI": "10.1287/isre.13.4.363.69",
+              "article-title": "Research commentary: Information systems and conceptual modeling: A research agenda",
+              "volume": "13",
+              "author": "Wand",
+              "year": "2002",
+              "journal-title": "Information Systems Research"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib70",
+              "series-title": "Object-oriented concepts, databases, and applications",
+              "article-title": "Proposal for a formal model of objects",
+              "author": "Wand",
+              "year": "1989"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib71",
+              "series-title": "Ontological foundations of information systems",
+              "author": "Weber",
+              "year": "1997"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib72",
+              "doi-asserted-by": "crossref",
+              "first-page": "387",
+              "DOI": "10.1016/1042-8143(92)90002-I",
+              "article-title": "Conceptual modeling based on ontological principles",
+              "volume": "4",
+              "author": "Wimmer",
+              "year": "1992",
+              "journal-title": "Knowledge Acquisition"
+            },
+            {
+              "key": "10.1016/j.eswa.2010.06.073_bib73",
+              "series-title": "Artificial intelligence",
+              "author": "Winston",
+              "year": "1977"
+            }
+          ],
+          "container-title": [
+            "Expert Systems with Applications"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "https://api.elsevier.com/content/article/PII:S0957417410005774?httpAccept=text/xml",
+              "content-type": "text/xml",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://api.elsevier.com/content/article/PII:S0957417410005774?httpAccept=text/plain",
+              "content-type": "text/plain",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                9
+              ]
+            ],
+            "date-time": "2018-12-09T19:51:50Z",
+            "timestamp": 1544385110000
+          },
+          "score": 21.499964,
+          "resource": {
+            "primary": {
+              "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0957417410005774"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2011,
+                1
+              ]
+            ]
+          },
+          "references-count": 73,
+          "journal-issue": {
+            "issue": "1",
+            "published-print": {
+              "date-parts": [
+                [
+                  2011,
+                  1
+                ]
+              ]
+            }
+          },
+          "alternative-id": [
+            "S0957417410005774"
+          ],
+          "URL": "https://doi.org/10.1016/j.eswa.2010.06.073",
+          "ISSN": [
+            "0957-4174"
+          ],
+          "issn-type": [
+            {
+              "value": "0957-4174",
+              "type": "print"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2011,
+                1
+              ]
+            ]
+          }
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ],
+            "date-time": "2026-06-30T06:51:11Z",
+            "timestamp": 1782802271033,
+            "version": "3.54.5"
+          },
+          "publisher-location": "San Diego, California, USA",
+          "reference-count": 0,
+          "publisher": "Neural Information Processing Systems Foundation, Inc. (NeurIPS)",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "DOI": "10.52202/079017-1746",
+          "type": "proceedings-article",
+          "created": {
+            "date-parts": [
+              [
+                2025,
+                11,
+                3
+              ]
+            ],
+            "date-time": "2025-11-03T11:20:56Z",
+            "timestamp": 1762168856000
+          },
+          "page": "55030-55052",
+          "source": "Crossref",
+          "is-referenced-by-count": 2,
+          "title": [
+            "Distributionally Robust Performative Prediction"
+          ],
+          "prefix": "10.52202",
+          "author": [
+            {
+              "given": "Songkai",
+              "family": "Xue",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Yuekai",
+              "family": "Sun",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "29733",
+          "event": {
+            "name": "Advances in Neural Information Processing Systems 37",
+            "theme": "38th Conference on Neural Information Processing Systems (NeurIPS 2024)",
+            "location": "Vancouver, BC, Canada",
+            "acronym": "NeurIPS 2024",
+            "number": "37",
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  12,
+                  10
+                ]
+              ]
+            },
+            "end": {
+              "date-parts": [
+                [
+                  2024,
+                  12,
+                  15
+                ]
+              ]
+            }
+          },
+          "container-title": [
+            "Advances in Neural Information Processing Systems 37"
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                19
+              ]
+            ],
+            "date-time": "2026-06-19T15:38:50Z",
+            "timestamp": 1781883530000
+          },
+          "score": 21.440767,
+          "resource": {
+            "primary": {
+              "URL": "http://www.proceedings.com/079017-1746.html"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          },
+          "references-count": 0,
+          "URL": "https://doi.org/10.52202/079017-1746",
+          "published": {
+            "date-parts": [
+              [
+                2024
+              ]
+            ]
+          }
+        }
+      ],
+      "items-per-page": 4,
+      "query": {
+        "start-index": 0,
+        "search-terms": null
+      }
+    }
+  }
+}

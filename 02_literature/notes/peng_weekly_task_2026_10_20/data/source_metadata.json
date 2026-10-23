@@ -1,0 +1,31 @@
+{
+  "retrieved_on": "2026-10-20",
+  "source_version": "O*NET 30.0",
+  "source_url": "https://www.onetcenter.org/dl_files/database/db_30_0_text/Skills.txt",
+  "source_sha256": "D6832C9C195742524A9E48598D962140AAA499C2F78046D4BE3AF0B69F2686BE",
+  "attribution": "U.S. Department of Labor, Employment and Training Administration; O*NET 30.0 Database",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "rows": 105,
+  "rows_per_occupation": {
+    "13-1071.00": 35,
+    "15-1252.00": 35,
+    "15-2031.00": 35
+  },
+  "eligible_proxy_rows": 83,
+  "changes": [
+    "Select 3 occupations",
+    "Join IM and LV by occupation and skill",
+    "Add linear scale proxies and within-role weights",
+    "Keep quality flags and exclude flagged rows from derived proxies"
+  ],
+  "not_included": [
+    "Employee abilities",
+    "Job counts",
+    "Hiring thresholds",
+    "Training participation",
+    "Training costs",
+    "Learning rates"
+  ],
+  "not_a_simulation_result": true
+}

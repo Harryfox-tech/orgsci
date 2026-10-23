@@ -1,0 +1,1230 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2023.1688",
+    "checked_at": "2026-10-20T01:25:30.052702Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4385636433",
+    "doi": "https://doi.org/10.1287/orsc.2023.1688",
+    "title": "Inverted Apprenticeship: How Senior Occupational Members Develop Practical Expertise and Preserve Their Position When New Technologies Arrive",
+    "display_name": "Inverted Apprenticeship: How Senior Occupational Members Develop Practical Expertise and Preserve Their Position When New Technologies Arrive",
+    "publication_year": 2023,
+    "publication_date": "2023-08-07",
+    "ids": {
+      "openalex": "https://openalex.org/W4385636433",
+      "doi": "https://doi.org/10.1287/orsc.2023.1688"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1287/orsc.2023.1688",
+      "doi": "https://doi.org/10.1287/orsc.2023.1688",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1287/orsc.2023.1688",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S206124708",
+        "display_name": "Organization Science",
+        "issn_l": "1047-7039",
+        "issn": [
+          "1047-7039",
+          "1526-5455"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1-star",
+          "ft50",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "utd24",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310315699",
+        "host_organization_name": "Institute for Operations Research and the Management Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315699"
+        ],
+        "host_organization_lineage_names": [
+          "Institute for Operations Research and the Management Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Organization Science",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5074288704",
+          "display_name": "Matt Beane",
+          "orcid": "https://orcid.org/0000-0002-1961-4585",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1961-4585"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154570441",
+            "display_name": "University of California, Santa Barbara",
+            "ror": "https://ror.org/02t274463",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154570441"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Matthew Beane",
+        "raw_affiliation_strings": [
+          "Technology Management Department, University of California, Santa Barbara, Santa Barbara, California 93101;"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1961-4585",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Technology Management Department, University of California, Santa Barbara, Santa Barbara, California 93101;",
+            "institution_ids": [
+              "https://openalex.org/I154570441"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5049124816",
+          "display_name": "Callen Anthony",
+          "orcid": "https://orcid.org/0000-0002-1970-0264",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1970-0264"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I57206974",
+            "display_name": "New York University",
+            "ror": "https://ror.org/0190ak572",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I57206974"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Callen Anthony",
+        "raw_affiliation_strings": [
+          "Stern School of Business, New York University, New York, New York 10012"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1970-0264",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Stern School of Business, New York University, New York, New York 10012",
+            "institution_ids": [
+              "https://openalex.org/I57206974"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5074288704"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I154570441"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 37.8285,
+    "has_fulltext": false,
+    "cited_by_count": 39,
+    "citation_normalized_percentile": {
+      "value": 0.99814067,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "35",
+      "issue": "2",
+      "first_page": "405",
+      "last_page": "431"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11466",
+      "display_name": "Innovative Education and Learning Practices",
+      "score": 0.9394999742507935,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3307",
+        "display_name": "Human Factors and Ergonomics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11466",
+        "display_name": "Innovative Education and Learning Practices",
+        "score": 0.9394999742507935,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3307",
+          "display_name": "Human Factors and Ergonomics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10344",
+        "display_name": "Management and Organizational Studies",
+        "score": 0.05550000071525574,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10153",
+        "display_name": "Education, sociology, and vocational training",
+        "score": 0.0010000000474974513,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/senior-members",
+        "display_name": "senior members",
+        "score": 0.6399999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-position",
+        "display_name": "organizational position",
+        "score": 0.628000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/new-technologies",
+        "display_name": "new technologies",
+        "score": 0.6970000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/knowledge-transfer",
+        "display_name": "knowledge transfer",
+        "score": 0.6010000109672546
+      },
+      {
+        "id": "https://openalex.org/keywords/mentoring",
+        "display_name": "mentoring",
+        "score": 0.47099998593330383
+      },
+      {
+        "id": "https://openalex.org/keywords/junior-members",
+        "display_name": "junior members",
+        "score": 0.5320000052452087
+      },
+      {
+        "id": "https://openalex.org/keywords/urological-surgery",
+        "display_name": "urologic surgery",
+        "score": 0.8259999752044678
+      },
+      {
+        "id": "https://openalex.org/keywords/investment-banking",
+        "display_name": "investment banking",
+        "score": 0.9990000128746033
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2778496695",
+        "wikidata": "https://www.wikidata.org/wiki/Q254128",
+        "display_name": "Dilemma",
+        "level": 2,
+        "score": 0.7819055318832397
+      },
+      {
+        "id": "https://openalex.org/C107806365",
+        "wikidata": "https://www.wikidata.org/wiki/Q253567",
+        "display_name": "Apprenticeship",
+        "level": 2,
+        "score": 0.6866495609283447
+      },
+      {
+        "id": "https://openalex.org/C198082294",
+        "wikidata": "https://www.wikidata.org/wiki/Q3399648",
+        "display_name": "Position (finance)",
+        "level": 2,
+        "score": 0.627408504486084
+      },
+      {
+        "id": "https://openalex.org/C2777902257",
+        "wikidata": "https://www.wikidata.org/wiki/Q5038919",
+        "display_name": "Career Pathways",
+        "level": 2,
+        "score": 0.6239301562309265
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.5706337094306946
+      },
+      {
+        "id": "https://openalex.org/C2780257311",
+        "wikidata": "https://www.wikidata.org/wiki/Q2563977",
+        "display_name": "Senior management",
+        "level": 2,
+        "score": 0.46128079295158386
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.4560728669166565
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.4144875109195709
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.34765172004699707
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.3443896174430847
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.28599703311920166
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.2229737937450409
+      },
+      {
+        "id": "https://openalex.org/C509550671",
+        "wikidata": "https://www.wikidata.org/wiki/Q126945",
+        "display_name": "Medical education",
+        "level": 1,
+        "score": 0.22125175595283508
+      },
+      {
+        "id": "https://openalex.org/C71924100",
+        "wikidata": "https://www.wikidata.org/wiki/Q11190",
+        "display_name": "Medicine",
+        "level": 0,
+        "score": 0.1926122009754181
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.1896660029888153
+      },
+      {
+        "id": "https://openalex.org/C111472728",
+        "wikidata": "https://www.wikidata.org/wiki/Q9471",
+        "display_name": "Epistemology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C78519656",
+        "wikidata": "https://www.wikidata.org/wiki/Q101333",
+        "display_name": "Mechanical engineering",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C138885662",
+        "wikidata": "https://www.wikidata.org/wiki/Q5891",
+        "display_name": "Philosophy",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C41895202",
+        "wikidata": "https://www.wikidata.org/wiki/Q8162",
+        "display_name": "Linguistics",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1287/orsc.2023.1688",
+        "doi": "https://doi.org/10.1287/orsc.2023.1688",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1287/orsc.2023.1688",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S206124708",
+          "display_name": "Organization Science",
+          "issn_l": "1047-7039",
+          "issn": [
+            "1047-7039",
+            "1526-5455"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-1-star",
+            "ft50",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "utd24",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315699",
+          "host_organization_name": "Institute for Operations Research and the Management Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315699"
+          ],
+          "host_organization_lineage_names": [
+            "Institute for Operations Research and the Management Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Organization Science",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.4000000059604645
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 106,
+    "referenced_works": [
+      "https://openalex.org/W147103475",
+      "https://openalex.org/W569656438",
+      "https://openalex.org/W1556808170",
+      "https://openalex.org/W1860623194",
+      "https://openalex.org/W1926647797",
+      "https://openalex.org/W1962049867",
+      "https://openalex.org/W1966175370",
+      "https://openalex.org/W1974615929",
+      "https://openalex.org/W1978603569",
+      "https://openalex.org/W1984197822",
+      "https://openalex.org/W1984890552",
+      "https://openalex.org/W1987163608",
+      "https://openalex.org/W1988796205",
+      "https://openalex.org/W1993954029",
+      "https://openalex.org/W1997685381",
+      "https://openalex.org/W2009638102",
+      "https://openalex.org/W2012411221",
+      "https://openalex.org/W2037942082",
+      "https://openalex.org/W2044000684",
+      "https://openalex.org/W2046295972",
+      "https://openalex.org/W2049812561",
+      "https://openalex.org/W2052063554",
+      "https://openalex.org/W2062242082",
+      "https://openalex.org/W2064960623",
+      "https://openalex.org/W2074913925",
+      "https://openalex.org/W2077055319",
+      "https://openalex.org/W2084575249",
+      "https://openalex.org/W2085529605",
+      "https://openalex.org/W2085650708",
+      "https://openalex.org/W2087944368",
+      "https://openalex.org/W2091603514",
+      "https://openalex.org/W2094512671",
+      "https://openalex.org/W2099358840",
+      "https://openalex.org/W2099501379",
+      "https://openalex.org/W2102518549",
+      "https://openalex.org/W2103261934",
+      "https://openalex.org/W2103756065",
+      "https://openalex.org/W2103987036",
+      "https://openalex.org/W2104219683",
+      "https://openalex.org/W2108238827",
+      "https://openalex.org/W2110115198",
+      "https://openalex.org/W2110235569",
+      "https://openalex.org/W2113844900",
+      "https://openalex.org/W2115925287",
+      "https://openalex.org/W2118257626",
+      "https://openalex.org/W2127089424",
+      "https://openalex.org/W2131145879",
+      "https://openalex.org/W2131199965",
+      "https://openalex.org/W2132924891",
+      "https://openalex.org/W2132988439",
+      "https://openalex.org/W2141552044",
+      "https://openalex.org/W2145501277",
+      "https://openalex.org/W2148273052",
+      "https://openalex.org/W2149415807",
+      "https://openalex.org/W2150365164",
+      "https://openalex.org/W2150643376",
+      "https://openalex.org/W2154856781",
+      "https://openalex.org/W2156435103",
+      "https://openalex.org/W2156940063",
+      "https://openalex.org/W2163461852",
+      "https://openalex.org/W2168033482",
+      "https://openalex.org/W2170020138",
+      "https://openalex.org/W2219615140",
+      "https://openalex.org/W2236864841",
+      "https://openalex.org/W2305195338",
+      "https://openalex.org/W2325121109",
+      "https://openalex.org/W2326340276",
+      "https://openalex.org/W2328271091",
+      "https://openalex.org/W2329852929",
+      "https://openalex.org/W2339928365",
+      "https://openalex.org/W2462329167",
+      "https://openalex.org/W2476981613",
+      "https://openalex.org/W2510263902",
+      "https://openalex.org/W2529388072",
+      "https://openalex.org/W2578787219",
+      "https://openalex.org/W2596256178",
+      "https://openalex.org/W2606337892",
+      "https://openalex.org/W2766292959",
+      "https://openalex.org/W2783431373",
+      "https://openalex.org/W2805440323",
+      "https://openalex.org/W2913224300",
+      "https://openalex.org/W2925515791",
+      "https://openalex.org/W2951464104",
+      "https://openalex.org/W2995584971",
+      "https://openalex.org/W3005638653",
+      "https://openalex.org/W3007426246",
+      "https://openalex.org/W3023242059",
+      "https://openalex.org/W3092685420",
+      "https://openalex.org/W3122325676",
+      "https://openalex.org/W3130519599",
+      "https://openalex.org/W3169518303",
+      "https://openalex.org/W3183765052",
+      "https://openalex.org/W3198421913",
+      "https://openalex.org/W3201630677",
+      "https://openalex.org/W4207081475",
+      "https://openalex.org/W4210702550",
+      "https://openalex.org/W4237123392",
+      "https://openalex.org/W4240671868",
+      "https://openalex.org/W4245961435",
+      "https://openalex.org/W4247188100",
+      "https://openalex.org/W4253195442",
+      "https://openalex.org/W4292696018",
+      "https://openalex.org/W4300466918",
+      "https://openalex.org/W4313890705",
+      "https://openalex.org/W4360949214",
+      "https://openalex.org/W4381282391"
+    ],
+    "related_works": [
+      "https://openalex.org/W2130264791",
+      "https://openalex.org/W4235622043",
+      "https://openalex.org/W2155887593",
+      "https://openalex.org/W2102428166",
+      "https://openalex.org/W1600547024",
+      "https://openalex.org/W3125491562",
+      "https://openalex.org/W2239395319",
+      "https://openalex.org/W2573907782",
+      "https://openalex.org/W2980420562",
+      "https://openalex.org/W3017800712"
+    ],
+    "abstract_inverted_index": {
+      "New": [
+        0
+      ],
+      "technologies": [
+        1,
+        21,
+        138
+      ],
+      "create": [
+        2
+      ],
+      "a": [
+        3
+      ],
+      "dilemma": [
+        4
+      ],
+      "for": [
+        5,
+        88
+      ],
+      "senior": [
+        6,
+        33,
+        58,
+        130,
+        151,
+        180
+      ],
+      "members": [
+        7,
+        34,
+        59,
+        127,
+        131,
+        181
+      ],
+      "of": [
+        8,
+        28,
+        91,
+        107,
+        169,
+        201,
+        207,
+        243
+      ],
+      "occupations.": [
+        9
+      ],
+      "Traditionally,": [
+        10
+      ],
+      "practical": [
+        11,
+        52,
+        134,
+        192
+      ],
+      "expertise": [
+        12,
+        38,
+        53,
+        135,
+        193,
+        217
+      ],
+      "and": [
+        13,
+        94,
+        110,
+        122,
+        163,
+        172,
+        235,
+        239
+      ],
+      "position": [
+        14,
+        41,
+        46
+      ],
+      "are": [
+        15,
+        77,
+        86
+      ],
+      "considered": [
+        16
+      ],
+      "correlates,": [
+        17
+      ],
+      "yet": [
+        18
+      ],
+      "when": [
+        19
+      ],
+      "new": [
+        20,
+        37,
+        51,
+        137,
+        196
+      ],
+      "arrive,": [
+        22
+      ],
+      "they": [
+        23,
+        76,
+        85,
+        95,
+        188
+      ],
+      "may": [
+        24,
+        54
+      ],
+      "be": [
+        25,
+        42,
+        55,
+        215
+      ],
+      "knocked": [
+        26
+      ],
+      "out": [
+        27
+      ],
+      "alignment.": [
+        29
+      ],
+      "This": [
+        30,
+        224
+      ],
+      "means": [
+        31
+      ],
+      "that": [
+        32,
+        115,
+        128,
+        150
+      ],
+      "must": [
+        35
+      ],
+      "develop": [
+        36,
+        133
+      ],
+      "lest": [
+        39
+      ],
+      "their": [
+        40,
+        141,
+        174,
+        186,
+        219
+      ],
+      "threatened.": [
+        43
+      ],
+      "However,": [
+        44
+      ],
+      "because": [
+        45
+      ],
+      "often": [
+        47
+      ],
+      "signifies": [
+        48
+      ],
+      "expertise,": [
+        49
+      ],
+      "developing": [
+        50,
+        216
+      ],
+      "challenging.": [
+        56
+      ],
+      "Indeed,": [
+        57
+      ],
+      "face": [
+        60
+      ],
+      "strong": [
+        61
+      ],
+      "pressures": [
+        62
+      ],
+      "not": [
+        63
+      ],
+      "to": [
+        64,
+        66,
+        71,
+        132,
+        154,
+        182,
+        214
+      ],
+      "appear": [
+        65
+      ],
+      "nor": [
+        67
+      ],
+      "actually": [
+        68
+      ],
+      "devote": [
+        69
+      ],
+      "time": [
+        70
+      ],
+      "comprehensive": [
+        72
+      ],
+      "formal": [
+        73
+      ],
+      "training": [
+        74,
+        100
+      ],
+      "as": [
+        75,
+        119
+      ],
+      "booked": [
+        78
+      ],
+      "with": [
+        79,
+        125,
+        136,
+        194,
+        221
+      ],
+      "complex": [
+        80
+      ],
+      "problems": [
+        81
+      ],
+      "using": [
+        82
+      ],
+      "prior": [
+        83
+      ],
+      "methods,": [
+        84
+      ],
+      "responsible": [
+        87
+      ],
+      "the": [
+        89,
+        167,
+        195,
+        199,
+        205,
+        229,
+        236
+      ],
+      "learning": [
+        90,
+        206
+      ],
+      "junior": [
+        92,
+        126
+      ],
+      "members,": [
+        93
+      ],
+      "have": [
+        96
+      ],
+      "passed": [
+        97
+      ],
+      "early": [
+        98
+      ],
+      "career": [
+        99
+      ],
+      "windows.": [
+        101
+      ],
+      "Through": [
+        102
+      ],
+      "comparative": [
+        103
+      ],
+      "ethnographic": [
+        104
+      ],
+      "field": [
+        105
+      ],
+      "studies": [
+        106
+      ],
+      "urological": [
+        108
+      ],
+      "surgery": [
+        109
+      ],
+      "investment": [
+        111
+      ],
+      "banking,": [
+        112
+      ],
+      "we": [
+        113
+      ],
+      "show": [
+        114
+      ],
+      "“inverted": [
+        116
+      ],
+      "apprenticeships,”": [
+        117
+      ],
+      "defined": [
+        118
+      ],
+      "configured": [
+        120
+      ],
+      "struggle": [
+        121
+      ],
+      "restructured": [
+        123
+      ],
+      "interactions": [
+        124,
+        220
+      ],
+      "allow": [
+        129
+      ],
+      "while": [
+        139
+      ],
+      "maintaining": [
+        140
+      ],
+      "position,": [
+        142,
+        187
+      ],
+      "resolve": [
+        143
+      ],
+      "this": [
+        144
+      ],
+      "dilemma.": [
+        145
+      ],
+      "We": [
+        146,
+        165
+      ],
+      "identify": [
+        147
+      ],
+      "four": [
+        148
+      ],
+      "pathways": [
+        149,
+        178,
+        203
+      ],
+      "experts": [
+        152
+      ],
+      "took": [
+        153
+      ],
+      "structure": [
+        155
+      ],
+      "these": [
+        156,
+        177,
+        202
+      ],
+      "inverted": [
+        157
+      ],
+      "apprenticeships,": [
+        158
+      ],
+      "including": [
+        159
+      ],
+      "seeking,": [
+        160
+      ],
+      "stalling,": [
+        161
+      ],
+      "leveraging,": [
+        162
+      ],
+      "confronting.": [
+        164
+      ],
+      "uncover": [
+        166
+      ],
+      "conditions": [
+        168
+      ],
+      "each": [
+        170
+      ],
+      "pathway": [
+        171
+      ],
+      "trace": [
+        173
+      ],
+      "consequences.": [
+        175
+      ],
+      "Although": [
+        176
+      ],
+      "allowed": [
+        179
+      ],
+      "enhance": [
+        183
+      ],
+      "or": [
+        184
+      ],
+      "preserve": [
+        185
+      ],
+      "generated": [
+        189
+      ],
+      "widely": [
+        190
+      ],
+      "varying": [
+        191
+      ],
+      "technology.": [
+        197
+      ],
+      "Furthermore,": [
+        198
+      ],
+      "majority": [
+        200
+      ],
+      "undermined": [
+        204
+      ],
+      "those": [
+        208
+      ],
+      "most": [
+        209
+      ],
+      "junior,": [
+        210
+      ],
+      "who": [
+        211
+      ],
+      "were": [
+        212
+      ],
+      "supposed": [
+        213
+      ],
+      "through": [
+        218
+      ],
+      "seniors.": [
+        222
+      ],
+      "Funding:": [
+        223
+      ],
+      "work": [
+        225
+      ],
+      "was": [
+        226
+      ],
+      "supported": [
+        227
+      ],
+      "by": [
+        228
+      ],
+      "Strategic": [
+        230
+      ],
+      "Management": [
+        231
+      ],
+      "Society": [
+        232
+      ],
+      "[Grant": [
+        233,
+        245
+      ],
+      "SRF-2015DP-0063]": [
+        234
+      ],
+      "Social": [
+        237
+      ],
+      "Science": [
+        238
+      ],
+      "Humanities": [
+        240
+      ],
+      "Research": [
+        241
+      ],
+      "Council": [
+        242
+      ],
+      "Canada": [
+        244
+      ],
+      "752-2014-0378].": [
+        246
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 14
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 21
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2021,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

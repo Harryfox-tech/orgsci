@@ -1,0 +1,542 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+    "checked_at": "2026-10-20T01:29:55.174721Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2026-09-30T07:16:59Z",
+        "timestamp": 1790752619727,
+        "version": "4.1.0"
+      },
+      "reference-count": 40,
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2024-01-01T00:00:00Z",
+            "timestamp": 1704067200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100000781",
+          "name": "European Research Council (ERC) under the European Union’s Seventh Framework Program",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "615517"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "615517"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100000781",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/100010663",
+          "name": "ERC under the European Union’s Horizon 2020 Research and Innovation Program",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "963924"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "963924"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100010663",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100007229",
+          "name": "Special Research Fund [Bijzonder Onderzoeksfonds (BOF)] of Ghent University",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "BOF20/IBF/117"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "BOF20/IBF/117"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100007229",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "name": "Flemish Government under the “Onderzoeksprogramma Artificiële Intelligentie (AI) Vlaanderen” Program"
+        },
+        {
+          "DOI": "10.13039/501100003130",
+          "name": "Fonds Wetenschappelijk Onderzoek",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "G0F9816N"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "G0F9816N"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100003130",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100003130",
+          "name": "Fonds Wetenschappelijk Onderzoek",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "3G042220"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "3G042220"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100003130",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "IEEE Access"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "DOI": "10.1109/access.2024.3390229",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            4,
+            17
+          ]
+        ],
+        "date-time": "2024-04-17T17:37:40Z",
+        "timestamp": 1713375460000
+      },
+      "page": "55491-55505",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Scalable Job Recommendation With Lower Congestion Using Optimal Transport"
+      ],
+      "prefix": "10.1109",
+      "volume": "12",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8993-0751",
+          "authenticated-orcid": false,
+          "given": "Yoosof",
+          "family": "Mashayekhi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9895-9927",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Kang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2930-5057",
+          "authenticated-orcid": false,
+          "given": "Jefrey",
+          "family": "Lijffijt",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2692-7504",
+          "authenticated-orcid": false,
+          "given": "Tijl",
+          "family": "De Bie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "263",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10462-018-9654-y"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1009804230409"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2020.3028705"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v34i04.6077"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neunet.2017.03.009"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TNNLS.2019.2909432"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neunet.2018.12.011"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3376927"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3659942"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2139/ssrn.3318778"
+        },
+        {
+          "key": "ref11",
+          "article-title": "Congestion-avoiding job recommendation with optimal transport",
+          "volume-title": "Proc. FEAST Workshop ECML-PKDD",
+          "author": "Bied"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3604915.3608817"
+        },
+        {
+          "key": "ref13",
+          "article-title": "Sinkhorn distances: Lightspeed computation of optimal transport",
+          "volume-title": "Proc. Adv. Neural Inf. Process. Syst.",
+          "volume": "26",
+          "author": "Cuturi"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3340631.3394860"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3097983.3098173"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2645710.2645744"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3109859.3109912"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3470948"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3209978.3210063"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3485447.3511961"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2645710.2645752"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3308560.3317303"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10115-017-1135-0"
+        },
+        {
+          "key": "ref24",
+          "first-page": "3",
+          "article-title": "Maximizing aggregate recommendation diversity: A graph-theoretic approach",
+          "volume-title": "Proc. 1st Int. Workshop Novelty Diversity Recommender Syst.",
+          "author": "Adomavicius"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2011.15"
+        },
+        {
+          "key": "ref26",
+          "first-page": "413",
+          "article-title": "Managing popularity bias in recommender systems with personalized re-ranking",
+          "volume-title": "Proc. 32nd Int. Florida Artif. Intell. Res. Soc. Conf.",
+          "author": "Abdollahpouri"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3366423.3380196"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3503624"
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3132847.3132938"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3219819.3220088"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3097983.3098028"
+        },
+        {
+          "key": "ref32",
+          "article-title": "Designing labor market recommender systems: The importance of job seeker preferences and competition",
+          "volume-title": "Proc. IZA Workshop, Matching Workers Jobs Online-New Develop. Opportunities Social Sci. Pract.",
+          "author": "Naya"
+        },
+        {
+          "key": "ref33",
+          "first-page": "1608",
+          "article-title": "Learning generative models with Sinkhorn divergences",
+          "volume-title": "Proc. Int. Conf. Artif. Intell. Statist.",
+          "author": "Genevay"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cviu.2019.102863"
+        },
+        {
+          "key": "ref35",
+          "article-title": "Conditional network embeddings",
+          "volume-title": "Proc. 7th Int. Conf. Learn. Represent.",
+          "author": "Kang"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICAIoT57170.2022.10121826"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jksuci.2023.101739"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/D19-1410"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/DTA-05-2020-0104"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/j.ctvjnrtk1"
+        }
+      ],
+      "container-title": [
+        "IEEE Access"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6287639/10380310/10504265.pdf?arnumber=10504265",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            3
+          ]
+        ],
+        "date-time": "2024-05-03T18:53:14Z",
+        "timestamp": 1714762394000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/10504265/"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      },
+      "references-count": 40,
+      "URL": "https://doi.org/10.1109/access.2024.3390229",
+      "relation": {},
+      "ISSN": [
+        "2169-3536"
+      ],
+      "issn-type": [
+        {
+          "value": "2169-3536",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024
+          ]
+        ]
+      }
+    }
+  }
+}

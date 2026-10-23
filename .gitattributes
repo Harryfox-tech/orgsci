@@ -1,0 +1,10 @@
+# Documents and archives must retain their exact bytes on every platform.
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.zip binary
+*.png binary
+
+# Preserve the handoff manifest's checksums, including its text attachments.
+02_literature/notes/peng_weekly_handoff_2026_10_22/** -text
+02_literature/notes/peng_weekly_task_2026_10_20/data/*.csv -text

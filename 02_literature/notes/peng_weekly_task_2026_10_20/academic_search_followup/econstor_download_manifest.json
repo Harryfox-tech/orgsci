@@ -1,0 +1,139 @@
+[
+  {
+    "index": 1,
+    "title": "Workforce planning in production with flexible or budgeted employee training and volatile demand",
+    "authors": [
+      "Patricia Heuser",
+      "Peter Letmathe",
+      "Matthias Schinner"
+    ],
+    "year": 2022,
+    "doi": "10.1007/s11573-022-01090-z",
+    "arxiv_id": null,
+    "pdf_url": "https://www.econstor.eu/bitstream/10419/309949/1/s11573-022-01090-z.pdf",
+    "full_text_status": "open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex",
+      "rwth_repository",
+      "econstor"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:44.079416Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11573-022-01090-z",
+          "checked_at": "2026-10-20T00:49:45.100137Z",
+          "evidence_type": "source_metadata"
+        },
+        {
+          "platform": "rwth_repository",
+          "source_url": "https://publications.rwth-aachen.de/record/843931",
+          "checked_at": "2026-10-20T00:50:25.977510Z",
+          "evidence_type": "page_text"
+        },
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ],
+      "jel_codes": [
+        {
+          "platform": "econstor",
+          "source_url": "https://www.econstor.eu/handle/10419/309949",
+          "checked_at": "2026-10-20T00:54:30.576721Z",
+          "evidence_type": "page_text"
+        }
+      ]
+    },
+    "download_source": "www.econstor.eu",
+    "download_status": "downloaded",
+    "download_error": null,
+    "local_pdf_path": "C:\\Users\\shiqing peng\\Desktop\\orgsci\\outputs\\academic_search_20261020\\papers\\2022_Workforce_planning_in_production_with_flexible_or_budgeted_employee_training_and_238f9c9ff17b.pdf",
+    "filename": "2022_Workforce_planning_in_production_with_flexible_or_budgeted_employee_training_and_238f9c9ff17b.pdf",
+    "final_url": "https://www.econstor.eu/bitstream/10419/309949/1/s11573-022-01090-z.pdf",
+    "content_type": "application/pdf",
+    "checked_at": "2026-10-20T00:54:30.683Z",
+    "byte_length": 1516450,
+    "sha256": "ae744863a787ae05c3bd878873208563ab5ae1001c323674afd4486847243d5f",
+    "http_status": 200,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "parser_validated",
+    "paper_identity_status": "unverified"
+  }
+]

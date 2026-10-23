@@ -1,0 +1,43 @@
+{
+  "source": "User-supplied 1-Clark-GoalRelatednessLearning-2018.pdf",
+  "source_bundle": "outputs/clark_2018_fulltext_20261020/source_bundle.json",
+  "pdf_pages": 19,
+  "page_mapping": "PDF page 1 JSTOR cover; PDF pages 2-19 journal pages 100-117",
+  "method": "Manual verification from extracted text and rendered key pages; preserves raw automatic bundle without modifying skill code",
+  "automatic_inventory_limit": "Bundled caption detector missed figure/table headings. Its zero counts do not mean absence.",
+  "figures": [
+    {"id": "Figure 1", "pdf_page": 4, "printed_page": 102, "role": "theoretical mechanism framework"},
+    {"id": "Figure 2", "pdf_page": 12, "printed_page": 110, "role": "estimated learning curves by academic affiliation"},
+    {"id": "Figure 3", "pdf_page": 12, "printed_page": 110, "role": "estimated learning curves by teaching intensity"},
+    {"id": "Figure 4", "pdf_page": 16, "printed_page": 114, "role": "auxiliary Maryland annual physician-volume evidence, 2003/2005/2007"}
+  ],
+  "tables": [
+    {"id": "Table 1", "pdf_page": 10, "printed_page": 108, "role": "summary statistics and correlations"},
+    {"id": "Table 2", "pdf_page": 11, "printed_page": 109, "role": "main regressions"},
+    {"id": "Table 3", "pdf_page": 13, "printed_page": 111, "role": "patient-level and alternative-explanation robustness"},
+    {"id": "Table 4", "pdf_page": 15, "printed_page": 113, "role": "urgency-restricted robustness"}
+  ],
+  "equations": [
+    {"id": "Equation 1", "pdf_page": 9},
+    {"id": "Equation 2", "pdf_page": 9},
+    {"id": "Equation 3", "pdf_page": 10},
+    {"id": "Equation 4", "pdf_page": 10},
+    {"id": "Equation 5", "pdf_page": 10},
+    {"id": "Equation 6", "pdf_page": 11}
+  ],
+  "sample_status": {
+    "introduction_patients": 293198,
+    "introduction_hospitals": 79,
+    "methods_initial_patients": 352073,
+    "methods_initial_hospitals": 96,
+    "methods_after_exclusions_patients": 291500,
+    "methods_after_exclusions_hospitals": 72,
+    "methods_base_hospital_quarters": 984,
+    "table2_observations": 983,
+    "table2_hospitals": 52,
+    "table3_patient_observations": 257498,
+    "note": "Do not collapse introduction, methods and regression denominators. Differences between introduction and methods, and 984 versus 983, are not fully reconciled from the supplied paper."
+  },
+  "verification_date": "2026-10-20",
+  "simulation_run": false
+}

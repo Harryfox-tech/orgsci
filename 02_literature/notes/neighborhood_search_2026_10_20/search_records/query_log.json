@@ -1,0 +1,198 @@
+[
+  {
+    "url": "https://api.crossref.org/works?query.title=Algorithmic+Fairness+in+Performative+Policy+Learning%3A+Escaping+the+Impossibility+of+Group+Fairness&rows=4",
+    "checked_at": "2026-10-20T01:25:18.154957Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works?query.title=Learning+the+Distribution+Map+in+Reverse+Causal+Performative+Prediction&rows=4",
+    "checked_at": "2026-10-20T01:25:19.392675Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works?query.title=Providing+Advice+to+Jobseekers+at+Low+Cost%3A+An+Experimental+Study+on+Online+Advice&rows=4",
+    "checked_at": "2026-10-20T01:25:20.298510Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+    "checked_at": "2026-10-20T01:25:20.955387Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2020.3727",
+    "checked_at": "2026-10-20T01:25:21.750991Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+    "checked_at": "2026-10-20T01:25:22.410125Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2023.01373",
+    "checked_at": "2026-10-20T01:25:23.078911Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+    "checked_at": "2026-10-20T01:25:23.748784Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2022.16738",
+    "checked_at": "2026-10-20T01:25:24.520384Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1002/hrm.22192",
+    "checked_at": "2026-10-20T01:25:25.155252Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.22192",
+    "checked_at": "2026-10-20T01:25:25.932759Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+    "checked_at": "2026-10-20T01:25:26.579298Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.5465/amj.2023.0311",
+    "checked_at": "2026-10-20T01:25:27.379086Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+    "checked_at": "2026-10-20T01:25:28.021671Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2020.14214",
+    "checked_at": "2026-10-20T01:25:28.680062Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+    "checked_at": "2026-10-20T01:25:29.275859Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2023.1688",
+    "checked_at": "2026-10-20T01:25:30.052702Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+    "checked_at": "2026-10-20T01:25:30.711160Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.euroecorev.2025.105238",
+    "checked_at": "2026-10-20T01:25:31.500059Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+    "checked_at": "2026-10-20T01:28:08.204133Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2016.0117",
+    "checked_at": "2026-10-20T01:28:09.187520Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+    "checked_at": "2026-10-20T01:28:09.916130Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1093/restud/rdy059",
+    "checked_at": "2026-10-20T01:28:10.677949Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1177/001979397602900204",
+    "checked_at": "2026-10-20T01:28:11.278582Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1177/001979397602900204",
+    "checked_at": "2026-10-20T01:28:11.923920Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+    "checked_at": "2026-10-20T01:28:12.389886Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1093/qje/qjag017",
+    "checked_at": "2026-10-20T01:28:13.194712Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+    "checked_at": "2026-10-20T01:29:53.820037Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1145/3604915.3608817",
+    "checked_at": "2026-10-20T01:29:54.504474Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+    "checked_at": "2026-10-20T01:29:55.174721Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+    "checked_at": "2026-10-20T01:29:55.808501Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+    "checked_at": "2026-10-20T01:25:32.084160Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1145/3630106.3658929",
+    "checked_at": "2026-10-20T01:25:32.897846Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=demand+aware+career+path+recommendations&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:33.531391Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=internal+talent+markets+skill+development&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:34.682986Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=algorithmic+recommendations+experiential+learning&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:35.779833Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=performative+prediction+human+capital+investment&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:36.859349Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=skill+investment+information+labor+market+training&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:38.028984Z",
+    "http_status": 200
+  },
+  {
+    "url": "https://api.openalex.org/works?search=skill+recommendations+competition+labor+supply&per_page=8&filter=from_publication_date%3A2020-01-01%2Cto_publication_date%3A2026-10-20",
+    "checked_at": "2026-10-20T01:25:39.219397Z",
+    "http_status": 200
+  }
+]

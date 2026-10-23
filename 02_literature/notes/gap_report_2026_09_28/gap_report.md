@@ -1,5 +1,7 @@
 # 人才评价系统研究空白报告：证据感知招聘、反馈与人才池的内生变化
 
+> **2026-09-28 后续评估说明：** 以下原报告保留，不能将其“空白”表述直接视为已成立的新颖性结论。新增核验发现 Bai 等含理论模型；再申请动态、反馈信息与未来申请池已有直接近邻。请优先结合[修订判断与候选选题](../seven_topic_readings_2026_09_28/08_选题比较与缺口修订.md)及[七篇阅读的证据等级](../seven_topic_readings_2026_09_28/README.md)使用。原 Word 版未同步改写，仍是原报告。
+
 > 生成时间：2026-09-28（北京时间）。依据：草稿 draft.txt（"When AI recruitment shapes talent…"）、团队repo（只读）中的10篇阅读笔记与《前五篇_写作与仿真迁移指南》。研究方向按草稿与repo界定，本报告不另起方向，只在该方向内部定位空白。
 > 核验规则：正文和参考文献中的每一条都经过核验。有DOI的条目经Crossref核验；没有Crossref DOI的PMLR和NeurIPS论文，以出版方页面（proceedings.mlr.press、proceedings.neurips.cc）核验。完整记录见 verified_refs.json。"全文"指本次实际读过全文的公开版本（arXiv、NBER或IZA工作论文版），"仅摘要"指只读了Crossref、OpenAlex或出版方页面上的摘要。
 

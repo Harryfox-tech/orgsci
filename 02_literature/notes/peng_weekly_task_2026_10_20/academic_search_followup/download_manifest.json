@@ -1,0 +1,537 @@
+[
+  {
+    "index": 1,
+    "title": "Feedback Specificity, Exploration, and Learning.",
+    "authors": [
+      "Jodi S. Goodman",
+      "Robert E. Wood",
+      "Margaretha Hendrickx"
+    ],
+    "year": 2004,
+    "doi": "10.1037/0021-9010.89.2.248",
+    "arxiv_id": null,
+    "pdf_url": null,
+    "full_text_status": "no_open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:14.192216Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0021-9010.89.2.248",
+          "checked_at": "2026-10-20T00:48:15.061018Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": null,
+    "download_status": "skipped",
+    "download_error": "full_text_status=no_open_pdf",
+    "local_pdf_path": null,
+    "filename": null,
+    "final_url": null,
+    "content_type": null,
+    "checked_at": null,
+    "byte_length": null,
+    "sha256": null,
+    "http_status": null,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified"
+  },
+  {
+    "index": 2,
+    "title": "Goal Relatedness and Learning: Evidence from Hospitals",
+    "authors": [
+      "Jonathan R. Clark",
+      "Venkat Kuppuswamy",
+      "Bradley R. Staats"
+    ],
+    "year": 2018,
+    "doi": "10.1287/orsc.2017.1166",
+    "arxiv_id": null,
+    "pdf_url": null,
+    "full_text_status": "no_open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:15.859489Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:16.506748Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2017.1166",
+          "checked_at": "2026-10-20T00:48:16.506748Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": null,
+    "download_status": "skipped",
+    "download_error": "full_text_status=no_open_pdf",
+    "local_pdf_path": null,
+    "filename": null,
+    "final_url": null,
+    "content_type": null,
+    "checked_at": null,
+    "byte_length": null,
+    "sha256": null,
+    "http_status": null,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified"
+  },
+  {
+    "index": 3,
+    "title": "The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory.",
+    "authors": [
+      "Avraham N. Kluger",
+      "Angelo DeNisi"
+    ],
+    "year": 1996,
+    "doi": "10.1037/0033-2909.119.2.254",
+    "arxiv_id": null,
+    "pdf_url": null,
+    "full_text_status": "no_open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.133251Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1037/0033-2909.119.2.254",
+          "checked_at": "2026-10-20T00:48:17.792903Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": null,
+    "download_status": "skipped",
+    "download_error": "full_text_status=no_open_pdf",
+    "local_pdf_path": null,
+    "filename": null,
+    "final_url": null,
+    "content_type": null,
+    "checked_at": null,
+    "byte_length": null,
+    "sha256": null,
+    "http_status": null,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified"
+  },
+  {
+    "index": 4,
+    "title": "Balancing Exploration and Exploitation Through Structural Design: The Isolation of Subgroups and Organizational Learning",
+    "authors": [
+      "Christina Fang",
+      "Jeho Lee",
+      "Melissa A. Schilling"
+    ],
+    "year": 2010,
+    "doi": "10.1287/orsc.1090.0468",
+    "arxiv_id": null,
+    "pdf_url": null,
+    "full_text_status": "no_open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "abstract": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:18.444906Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:19.119429Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.1090.0468",
+          "checked_at": "2026-10-20T00:48:19.119429Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": null,
+    "download_status": "skipped",
+    "download_error": "full_text_status=no_open_pdf",
+    "local_pdf_path": null,
+    "filename": null,
+    "final_url": null,
+    "content_type": null,
+    "checked_at": null,
+    "byte_length": null,
+    "sha256": null,
+    "http_status": null,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified"
+  },
+  {
+    "index": 5,
+    "title": "Workforce planning incorporating skills: State of the art",
+    "authors": [
+      "Philippe De Bruecker",
+      "Jorne Van den Bergh",
+      "Jeroen Beliën",
+      "Erik Demeulemeester"
+    ],
+    "year": 2015,
+    "doi": "10.1016/j.ejor.2014.10.038",
+    "arxiv_id": null,
+    "pdf_url": "https://lirias.kuleuven.be/retrieve/c02fa0fc-2336-4fb8-ba63-83a8de3b874c",
+    "full_text_status": "open_pdf",
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:19.716379Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.ejor.2014.10.038",
+          "checked_at": "2026-10-20T00:48:20.531340Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "download_source": "lirias.kuleuven.be",
+    "download_status": "downloaded",
+    "download_error": null,
+    "local_pdf_path": "C:\\Users\\SHIQIN~1\\AppData\\Local\\Temp\\orgsci_academic_search_20261020\\2015_Workforce_planning_incorporating_skills_State_of_the_art_ffb59d1052b3.pdf",
+    "filename": "2015_Workforce_planning_incorporating_skills_State_of_the_art_ffb59d1052b3.pdf",
+    "final_url": "https://lirias.kuleuven.be/retrieve/c02fa0fc-2336-4fb8-ba63-83a8de3b874c",
+    "content_type": "application/pdf",
+    "checked_at": "2026-10-20T00:48:34.395Z",
+    "byte_length": 343827,
+    "sha256": "08aba43211a20a6c0526a209c27252fccda6801678d2746f9de0d66ca90f5495",
+    "http_status": 200,
+    "retry_after": null,
+    "download_error_code": null,
+    "pdf_verification_status": "parser_validated",
+    "paper_identity_status": "unverified"
+  }
+]

@@ -1,0 +1,1227 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+    "checked_at": "2026-10-20T01:29:55.808501Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4394896905",
+    "doi": "https://doi.org/10.1109/access.2024.3390229",
+    "title": "Scalable Job Recommendation With Lower Congestion Using Optimal Transport",
+    "display_name": "Scalable Job Recommendation With Lower Congestion Using Optimal Transport",
+    "publication_year": 2024,
+    "publication_date": "2024-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4394896905",
+      "doi": "https://doi.org/10.1109/access.2024.3390229"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1109/access.2024.3390229",
+      "doi": "https://doi.org/10.1109/access.2024.3390229",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.1109/access.2024.3390229",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+      "source": {
+        "id": "https://openalex.org/S2485537415",
+        "display_name": "IEEE Access",
+        "issn_l": "2169-3536",
+        "issn": [
+          "2169-3536"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Access",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5016236484",
+          "display_name": "Yoosof Mashayekhi",
+          "orcid": "https://orcid.org/0000-0002-8993-0751",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-8993-0751"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32597200",
+            "display_name": "Ghent University",
+            "ror": "https://ror.org/00cv9y106",
+            "country_code": "BE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ],
+        "countries": [
+          "BE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yoosof Mashayekhi",
+        "raw_affiliation_strings": [
+          "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-8993-0751",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium",
+            "institution_ids": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5090926391",
+          "display_name": "Bo Kang",
+          "orcid": "https://orcid.org/0000-0002-9895-9927",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9895-9927"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32597200",
+            "display_name": "Ghent University",
+            "ror": "https://ror.org/00cv9y106",
+            "country_code": "BE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ],
+        "countries": [
+          "BE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bo Kang",
+        "raw_affiliation_strings": [
+          "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-9895-9927",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium",
+            "institution_ids": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5032448836",
+          "display_name": "Jefrey Lijffijt",
+          "orcid": "https://orcid.org/0000-0002-2930-5057",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2930-5057"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32597200",
+            "display_name": "Ghent University",
+            "ror": "https://ror.org/00cv9y106",
+            "country_code": "BE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ],
+        "countries": [
+          "BE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jefrey Lijffijt",
+        "raw_affiliation_strings": [
+          "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2930-5057",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium",
+            "institution_ids": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5076045275",
+          "display_name": "Tijl De Bie",
+          "orcid": "https://orcid.org/0000-0002-2692-7504",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-2692-7504"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I32597200",
+            "display_name": "Ghent University",
+            "ror": "https://ror.org/00cv9y106",
+            "country_code": "BE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ],
+        "countries": [
+          "BE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Tijl De Bie",
+        "raw_affiliation_strings": [
+          "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-2692-7504",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Electronics and Information Systems (ELIS), IDLab, Ghent University, Ghent, Belgium",
+            "institution_ids": [
+              "https://openalex.org/I32597200"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I32597200"
+    ],
+    "apc_list": {
+      "value": 1995,
+      "currency": "USD",
+      "value_usd": 1995
+    },
+    "apc_paid": {
+      "value": 1995,
+      "currency": "USD",
+      "value_usd": 1995
+    },
+    "fwci": 1.5172,
+    "has_fulltext": true,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.87267834,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "12",
+      "issue": null,
+      "first_page": "55491",
+      "last_page": "55505"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10203",
+      "display_name": "Recommender Systems and Techniques",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10203",
+        "display_name": "Recommender Systems and Techniques",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10286",
+        "display_name": "Information Retrieval and Search Behavior",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12101",
+        "display_name": "Advanced Bandit Algorithms Research",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1803",
+          "display_name": "Management Science and Operations Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/job-recommendation",
+        "display_name": "job recommendation",
+        "score": 0.9959999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/optimal-transport",
+        "display_name": "optimal transport",
+        "score": 0.9860000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/vacancy-distribution",
+        "display_name": "vacancy distribution",
+        "score": 0.6340000033378601
+      },
+      {
+        "id": "https://openalex.org/keywords/multi-objective-optimization",
+        "display_name": "multi-objective optimization",
+        "score": 0.8289999961853027
+      },
+      {
+        "id": "https://openalex.org/keywords/pareto-optimality",
+        "display_name": "Pareto optimality",
+        "score": 0.7870000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/labor-market",
+        "display_name": "labor market",
+        "score": 0.6129999756813049
+      },
+      {
+        "id": "https://openalex.org/keywords/scalability",
+        "display_name": "scalability",
+        "score": 0.49799999594688416
+      },
+      {
+        "id": "https://openalex.org/keywords/coverage",
+        "display_name": "coverage",
+        "score": 0.37700000405311584
+      },
+      {
+        "id": "https://openalex.org/keywords/gini-coefficient",
+        "display_name": "Gini coefficient",
+        "score": 0.9279999732971191
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.7990777492523193
+      },
+      {
+        "id": "https://openalex.org/C557471498",
+        "wikidata": "https://www.wikidata.org/wiki/Q554950",
+        "display_name": "Recommender system",
+        "level": 2,
+        "score": 0.6940159797668457
+      },
+      {
+        "id": "https://openalex.org/C2778869765",
+        "wikidata": "https://www.wikidata.org/wiki/Q6028363",
+        "display_name": "Inefficiency",
+        "level": 2,
+        "score": 0.6699578166007996
+      },
+      {
+        "id": "https://openalex.org/C48044578",
+        "wikidata": "https://www.wikidata.org/wiki/Q727490",
+        "display_name": "Scalability",
+        "level": 2,
+        "score": 0.5002017021179199
+      },
+      {
+        "id": "https://openalex.org/C2777382242",
+        "wikidata": "https://www.wikidata.org/wiki/Q6017816",
+        "display_name": "Index (typography)",
+        "level": 2,
+        "score": 0.42915064096450806
+      },
+      {
+        "id": "https://openalex.org/C2776493517",
+        "wikidata": "https://www.wikidata.org/wiki/Q1479542",
+        "display_name": "Seekers",
+        "level": 2,
+        "score": 0.42039671540260315
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.2780798673629761
+      },
+      {
+        "id": "https://openalex.org/C136764020",
+        "wikidata": "https://www.wikidata.org/wiki/Q466",
+        "display_name": "World Wide Web",
+        "level": 1,
+        "score": 0.15962481498718262
+      },
+      {
+        "id": "https://openalex.org/C77088390",
+        "wikidata": "https://www.wikidata.org/wiki/Q8513",
+        "display_name": "Database",
+        "level": 1,
+        "score": 0.1385539472103119
+      },
+      {
+        "id": "https://openalex.org/C175444787",
+        "wikidata": "https://www.wikidata.org/wiki/Q39072",
+        "display_name": "Microeconomics",
+        "level": 1,
+        "score": 0.09742382168769836
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0775986909866333
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1109/access.2024.3390229",
+        "doi": "https://doi.org/10.1109/access.2024.3390229",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.1109/access.2024.3390229",
+        "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+        "source": {
+          "id": "https://openalex.org/S2485537415",
+          "display_name": "IEEE Access",
+          "issn_l": "2169-3536",
+          "issn": [
+            "2169-3536"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "IEEE Access",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:archive.ugent.be:01HVR2H0T42RR3HPW71N84HZP8",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://biblio.ugent.be/publication/01HVR2H0T42RR3HPW71N84HZP8",
+        "pdf_url": "https://biblio.ugent.be/publication/01HVR2H0T42RR3HPW71N84HZP8/file/01HYWVEB0E4XFH3KAJFR3Z595E.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400478",
+          "display_name": "Ghent University Academic Bibliography (Ghent University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I32597200",
+          "host_organization_name": "Ghent University",
+          "host_organization_lineage": [
+            "https://openalex.org/I32597200"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "ISSN: 2169-3536",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:03faf36516064aa6895ae6e7fad1e1b8",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/03faf36516064aa6895ae6e7fad1e1b8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "IEEE Access, Vol 12, Pp 55491-55505 (2024)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1109/access.2024.3390229",
+      "doi": "https://doi.org/10.1109/access.2024.3390229",
+      "is_oa": true,
+      "landing_page_url": "http://dx.doi.org/10.1109/access.2024.3390229",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+      "source": {
+        "id": "https://openalex.org/S2485537415",
+        "display_name": "IEEE Access",
+        "issn_l": "2169-3536",
+        "issn": [
+          "2169-3536"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-100",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Access",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.651199996471405,
+        "id": "https://metadata.un.org/sdg/9",
+        "display_name": "Industry, innovation and infrastructure"
+      },
+      {
+        "score": 0.48510000109672546,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "score": 0.6600000262260437,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G1464064545",
+        "display_name": null,
+        "funder_award_id": "3G042220",
+        "funder_id": "https://openalex.org/F4320321730",
+        "funder_display_name": "Fonds Wetenschappelijk Onderzoek"
+      },
+      {
+        "id": "https://openalex.org/G2747886959",
+        "display_name": "Fair, Effective, and Sustainable Talent Management using Conditional Network Embedding",
+        "funder_award_id": "963924",
+        "funder_id": "https://openalex.org/F4320338335",
+        "funder_display_name": "H2020 European Research Council"
+      },
+      {
+        "id": "https://openalex.org/G3207356259",
+        "display_name": null,
+        "funder_award_id": "2007–2013",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G393177772",
+        "display_name": null,
+        "funder_award_id": "FP7 2007-2013",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G434337789",
+        "display_name": null,
+        "funder_award_id": "HORIZON2020",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G483950878",
+        "display_name": "Exploring Data: Theoretical Foundations and Applications to Web, Multimedia, and Omics Data",
+        "funder_award_id": "G0F9816N",
+        "funder_id": "https://openalex.org/F4320321730",
+        "funder_display_name": "Fonds Wetenschappelijk Onderzoek"
+      },
+      {
+        "id": "https://openalex.org/G5702163051",
+        "display_name": null,
+        "funder_award_id": "FP7/2007",
+        "funder_id": "https://openalex.org/F4320320300",
+        "funder_display_name": "European Commission"
+      },
+      {
+        "id": "https://openalex.org/G6267644679",
+        "display_name": null,
+        "funder_award_id": "615517",
+        "funder_id": "https://openalex.org/F4320334678",
+        "funder_display_name": "European Research Council"
+      },
+      {
+        "id": "https://openalex.org/G7994696512",
+        "display_name": null,
+        "funder_award_id": "BOF20/IBF/117",
+        "funder_id": "https://openalex.org/F4320335227",
+        "funder_display_name": "Bijzonder Onderzoeksfonds UGent"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320320300",
+        "display_name": "European Commission",
+        "ror": "https://ror.org/00k4n6c32"
+      },
+      {
+        "id": "https://openalex.org/F4320321730",
+        "display_name": "Fonds Wetenschappelijk Onderzoek",
+        "ror": "https://ror.org/03qtxy027"
+      },
+      {
+        "id": "https://openalex.org/F4320322603",
+        "display_name": "Universiteit Gent",
+        "ror": "https://ror.org/00cv9y106"
+      },
+      {
+        "id": "https://openalex.org/F4320327336",
+        "display_name": "Vlaamse regering",
+        "ror": null
+      },
+      {
+        "id": "https://openalex.org/F4320334678",
+        "display_name": "European Research Council",
+        "ror": "https://ror.org/0472cxd90"
+      },
+      {
+        "id": "https://openalex.org/F4320335227",
+        "display_name": "Bijzonder Onderzoeksfonds UGent",
+        "ror": "https://ror.org/00cv9y106"
+      },
+      {
+        "id": "https://openalex.org/F4320338335",
+        "display_name": "H2020 European Research Council",
+        "ror": "https://ror.org/0472cxd90"
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4394896905.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4394896905.grobid-xml"
+    },
+    "referenced_works_count": 41,
+    "referenced_works": [
+      "https://openalex.org/W1432707385",
+      "https://openalex.org/W1570159982",
+      "https://openalex.org/W2003804278",
+      "https://openalex.org/W2086456706",
+      "https://openalex.org/W2153578526",
+      "https://openalex.org/W2158131535",
+      "https://openalex.org/W2417969024",
+      "https://openalex.org/W2601071158",
+      "https://openalex.org/W2704480242",
+      "https://openalex.org/W2743723926",
+      "https://openalex.org/W2744446984",
+      "https://openalex.org/W2748058847",
+      "https://openalex.org/W2765780436",
+      "https://openalex.org/W2769076196",
+      "https://openalex.org/W2787991113",
+      "https://openalex.org/W2804302783",
+      "https://openalex.org/W2889526258",
+      "https://openalex.org/W2895694115",
+      "https://openalex.org/W2909540978",
+      "https://openalex.org/W2911965419",
+      "https://openalex.org/W2918675056",
+      "https://openalex.org/W2945357717",
+      "https://openalex.org/W2950541523",
+      "https://openalex.org/W2970641574",
+      "https://openalex.org/W2998677531",
+      "https://openalex.org/W3008301325",
+      "https://openalex.org/W3011595896",
+      "https://openalex.org/W3021068736",
+      "https://openalex.org/W3091993229",
+      "https://openalex.org/W3103006639",
+      "https://openalex.org/W3160810656",
+      "https://openalex.org/W3172548541",
+      "https://openalex.org/W3182641134",
+      "https://openalex.org/W4200503933",
+      "https://openalex.org/W4285707636",
+      "https://openalex.org/W4286971776",
+      "https://openalex.org/W4300482433",
+      "https://openalex.org/W4376608362",
+      "https://openalex.org/W4386385376",
+      "https://openalex.org/W4386730222",
+      "https://openalex.org/W4394925050"
+    ],
+    "related_works": [
+      "https://openalex.org/W2264067234",
+      "https://openalex.org/W3124243301",
+      "https://openalex.org/W1571502335",
+      "https://openalex.org/W1589409554",
+      "https://openalex.org/W2759038785",
+      "https://openalex.org/W2172232600",
+      "https://openalex.org/W3123876860",
+      "https://openalex.org/W3124172198",
+      "https://openalex.org/W2046181650",
+      "https://openalex.org/W2142633247"
+    ],
+    "abstract_inverted_index": {
+      "Recommender": [
+        0
+      ],
+      "systems": [
+        1
+      ],
+      "often": [
+        2
+      ],
+      "facecongestion,": [
+        3
+      ],
+      "characterized": [
+        4
+      ],
+      "by": [
+        5
+      ],
+      "an": [
+        6,
+        72
+      ],
+      "uneven": [
+        7
+      ],
+      "distribution": [
+        8
+      ],
+      "in": [
+        9,
+        19,
+        24,
+        43,
+        93,
+        155
+      ],
+      "the": [
+        10,
+        64,
+        158
+      ],
+      "frequency": [
+        11
+      ],
+      "of": [
+        12,
+        17,
+        45,
+        82,
+        153
+      ],
+      "item": [
+        13
+      ],
+      "recommendations.": [
+        14
+      ],
+      "The": [
+        15,
+        120
+      ],
+      "presence": [
+        16
+      ],
+      "congestion": [
+        18,
+        65
+      ],
+      "recommendations": [
+        20
+      ],
+      "is": [
+        21,
+        69
+      ],
+      "especially": [
+        22
+      ],
+      "problematic": [
+        23
+      ],
+      "domains": [
+        25
+      ],
+      "where": [
+        26
+      ],
+      "users": [
+        27
+      ],
+      "or": [
+        28
+      ],
+      "items": [
+        29
+      ],
+      "have": [
+        30
+      ],
+      "limited": [
+        31
+      ],
+      "availability.": [
+        32
+      ],
+      "For": [
+        33
+      ],
+      "example,": [
+        34
+      ],
+      "recommending": [
+        35
+      ],
+      "one": [
+        36
+      ],
+      "vacancy": [
+        37
+      ],
+      "to": [
+        38,
+        58,
+        70,
+        76,
+        107,
+        157
+      ],
+      "many": [
+        39
+      ],
+      "job": [
+        40,
+        46,
+        49,
+        59,
+        85,
+        90,
+        117
+      ],
+      "seekers": [
+        41,
+        47
+      ],
+      "results": [
+        42,
+        122
+      ],
+      "frustration": [
+        44
+      ],
+      "and": [
+        48,
+        133,
+        136,
+        141
+      ],
+      "market": [
+        50,
+        118
+      ],
+      "inefficiency.": [
+        51
+      ],
+      "We": [
+        52,
+        110
+      ],
+      "propose": [
+        53,
+        100
+      ],
+      "a": [
+        54,
+        78,
+        89,
+        94,
+        101
+      ],
+      "novel": [
+        55
+      ],
+      "in-processing": [
+        56
+      ],
+      "approach": [
+        57,
+        68,
+        113
+      ],
+      "recommendation": [
+        60,
+        91
+      ],
+      "calledReCon,": [
+        61
+      ],
+      "accounting": [
+        62
+      ],
+      "for": [
+        63,
+        150
+      ],
+      "problem.": [
+        66,
+        97
+      ],
+      "Our": [
+        67
+      ],
+      "use": [
+        71
+      ],
+      "optimal": [
+        73,
+        149
+      ],
+      "transport": [
+        74
+      ],
+      "component": [
+        75
+      ],
+      "ensure": [
+        77
+      ],
+      "more": [
+        79
+      ],
+      "equal": [
+        80
+      ],
+      "spread": [
+        81
+      ],
+      "vacancies": [
+        83
+      ],
+      "over": [
+        84
+      ],
+      "seekers,": [
+        86
+      ],
+      "combined": [
+        87
+      ],
+      "with": [
+        88
+      ],
+      "model": [
+        92
+      ],
+      "multi-objective": [
+        95
+      ],
+      "optimization": [
+        96
+      ],
+      "Moreover,": [
+        98
+      ],
+      "we": [
+        99
+      ],
+      "scalable": [
+        102
+      ],
+      "solution": [
+        103
+      ],
+      "so": [
+        104
+      ],
+      "thatReConis": [
+        105
+      ],
+      "applicable": [
+        106
+      ],
+      "large-scale": [
+        108
+      ],
+      "datasets.": [
+        109,
+        119
+      ],
+      "evaluated": [
+        111
+      ],
+      "our": [
+        112
+      ],
+      "on": [
+        114,
+        127
+      ],
+      "several": [
+        115
+      ],
+      "real-world": [
+        116
+      ],
+      "evaluation": [
+        121
+      ],
+      "show": [
+        123
+      ],
+      "thatReConhas": [
+        124
+      ],
+      "good": [
+        125
+      ],
+      "performance": [
+        126
+      ],
+      "both": [
+        128
+      ],
+      "congestion-related": [
+        129
+      ],
+      "(e.g.,": [
+        130,
+        138
+      ],
+      "Congestion,": [
+        131
+      ],
+      "Coverage,": [
+        132
+      ],
+      "Gini": [
+        134
+      ],
+      "Index)": [
+        135
+      ],
+      "desirability": [
+        137
+      ],
+      "NDCG,": [
+        139
+      ],
+      "Recall,": [
+        140
+      ],
+      "Hit": [
+        142
+      ],
+      "Rate)": [
+        143
+      ],
+      "measures.": [
+        144
+      ],
+      "In": [
+        145
+      ],
+      "most": [
+        146
+      ],
+      "cases,ReConis": [
+        147
+      ],
+      "Pareto": [
+        148
+      ],
+      "some": [
+        151
+      ],
+      "selections": [
+        152
+      ],
+      "hyper-parameters": [
+        154
+      ],
+      "comparison": [
+        156
+      ],
+      "baselines.": [
+        159
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-10-16T09:59:22.235173",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "doi": "10.1016/j.ejor.2014.10.038",
+    "title": "Workforce planning incorporating skills: State of the art",
+    "local_pdf_path": "C:\\Users\\shiqing peng\\Desktop\\orgsci\\outputs\\academic_search_20261020\\papers\\2015_Workforce_planning_incorporating_skills_State_of_the_art_ffb59d1052b3.pdf",
+    "pages": 40,
+    "sha256": "08aba43211a20a6c0526a209c27252fccda6801678d2746f9de0d66ca90f5495",
+    "pdf_verification_status": "parser_validated",
+    "paper_identity_status": "matched",
+    "version": "KU Leuven KBI_1411 working paper; not the 16-page journal layout",
+    "scope": "Opening title/authors; PDF pp.14-15 and 19-21; working-paper version retained.",
+    "checked_at": "2026-10-20T00:56:05.562256Z"
+  },
+  {
+    "doi": "10.1007/s11573-022-01090-z",
+    "title": "Workforce planning in production with flexible or budgeted employee training and volatile demand",
+    "local_pdf_path": "C:\\Users\\shiqing peng\\Desktop\\orgsci\\outputs\\academic_search_20261020\\papers\\2022_Workforce_planning_in_production_with_flexible_or_budgeted_employee_training_and_238f9c9ff17b.pdf",
+    "pages": 33,
+    "sha256": "ae744863a787ae05c3bd878873208563ab5ae1001c323674afd4486847243d5f",
+    "pdf_verification_status": "parser_validated",
+    "paper_identity_status": "matched",
+    "version": "Published journal version with one EconStor cover page",
+    "scope": "PDF pp.1-2 identity; pp.10-11 methods, journal pp.1101-1102; 600 scenarios are not employees.",
+    "checked_at": "2026-10-20T00:56:05.562256Z"
+  }
+]

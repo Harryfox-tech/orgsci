@@ -1,0 +1,59 @@
+{
+  "packaged_on": "2026-10-22",
+  "evidence_as_of": "2026-10-20",
+  "scope": "Peng Shiqing, weekly task Topic 1: rule grounding and prerequisite data",
+  "not_simulation_results": true,
+  "manifest_excludes_itself": true,
+  "files": [
+    {
+      "path": "00_阅读与交接说明.txt",
+      "bytes": 1716,
+      "sha256": "59113c6b3aca4861fc0033641f6111f1d385f7750e3c457eb786c5da2a49fde8"
+    },
+    {
+      "path": "01_本周任务直接回应.md",
+      "bytes": 12400,
+      "sha256": "f274e9a38b390df868089c00d381c1d6647dbe088013d6f7b134df7fdbddac28"
+    },
+    {
+      "path": "01_本周任务直接回应.pdf",
+      "bytes": 320608,
+      "sha256": "3b9d9bab8553bde65c5884bcb924e5ae5897b8568af211054df2580341a1d10e"
+    },
+    {
+      "path": "02_规则与文献核验附件.md",
+      "bytes": 11106,
+      "sha256": "452638d3bf813d1fa938178d037f63de3b734edbc4db83d7d1882b939b0431f2"
+    },
+    {
+      "path": "02_规则与文献核验附件.pdf",
+      "bytes": 279007,
+      "sha256": "0cc26527cf863c2f00ee7b76074f49efcb2838df147aca75c3be7466dc5d2925"
+    },
+    {
+      "path": "03_前置数据/onet30_three_roles_skills.csv",
+      "bytes": 19043,
+      "sha256": "e0d715c55b43e6a4e949c5ae18c29aa4c9e2cc715f787fe50c4a2d7f2de2df1d"
+    },
+    {
+      "path": "03_前置数据/source_metadata.json",
+      "bytes": 1036,
+      "sha256": "f272d54255a8c4da14e71668677a2d378dd80004af88ce8b9ff5ef1052d3a231"
+    },
+    {
+      "path": "03_前置数据/数据说明.md",
+      "bytes": 2927,
+      "sha256": "7d8ae8a6c9883be76baa236a1a4c6ff03e86708881f21902d631659e8aeed0a1"
+    },
+    {
+      "path": "04_任务原文/本周Task.docx",
+      "bytes": 16187,
+      "sha256": "7600723c82c025a1dbb76ebad0d968ed96f42c9dee5c9ddbf9dae22090623d03"
+    },
+    {
+      "path": "05_交接话术.txt",
+      "bytes": 599,
+      "sha256": "4b7c12e776a32ae8b313dfd63808f67361ab82edadefe7038e7516d8b94b4743"
+    }
+  ]
+}

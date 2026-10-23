@@ -1,0 +1,939 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.1093/qje/qjag017",
+    "checked_at": "2026-10-20T01:28:13.194712Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W7140116027",
+    "doi": "https://doi.org/10.1093/qje/qjag017",
+    "title": "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs",
+    "display_name": "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs",
+    "publication_year": 2026,
+    "publication_date": "2026-03-21",
+    "ids": {
+      "openalex": "https://openalex.org/W7140116027",
+      "doi": "https://doi.org/10.1093/qje/qjag017"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1093/qje/qjag017",
+      "doi": "https://doi.org/10.1093/qje/qjag017",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/qje/qjag017",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S203860005",
+        "display_name": "The Quarterly Journal of Economics",
+        "issn_l": "0033-5533",
+        "issn": [
+          "0033-5533",
+          "1531-4650"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "ft50",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Quarterly Journal of Economics",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1093/qje/qjag017",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": null,
+          "display_name": "Virginia Minni",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I40347166",
+            "display_name": "University of Chicago",
+            "ror": "https://ror.org/024mw5h28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I40347166"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Virginia Minni",
+        "raw_affiliation_strings": [
+          "University of Chicago Booth School of Business ,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Chicago Booth School of Business ,",
+            "institution_ids": [
+              "https://openalex.org/I40347166"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I40347166"
+    ],
+    "apc_list": {
+      "value": 7619,
+      "currency": "USD",
+      "value_usd": 7619
+    },
+    "apc_paid": {
+      "value": 7619,
+      "currency": "USD",
+      "value_usd": 7619
+    },
+    "fwci": 7.0769,
+    "has_fulltext": false,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.94719961,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 89,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "141",
+      "issue": "3",
+      "first_page": "1871",
+      "last_page": "1920"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "score": 0.382099986076355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10208",
+        "display_name": "Labor market dynamics and wage inequality",
+        "score": 0.382099986076355,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.15449999272823334,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10128",
+        "display_name": "Global trade and economics",
+        "score": 0.04830000177025795,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2000",
+          "display_name": "General Economics, Econometrics and Finance"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/managerial-effectiveness",
+        "display_name": "management effectiveness",
+        "score": 0.5260000228881836
+      },
+      {
+        "id": "https://openalex.org/keywords/internal-labor-markets",
+        "display_name": "internal labor markets",
+        "score": 0.5820000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/lateral-transfer",
+        "display_name": "lateral transfer",
+        "score": 0.5740000009536743
+      },
+      {
+        "id": "https://openalex.org/keywords/vertical-transfer",
+        "display_name": "vertical transfer",
+        "score": 0.9919999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/career-development",
+        "display_name": "career development",
+        "score": 0.9200000166893005
+      },
+      {
+        "id": "https://openalex.org/keywords/labor-productivity",
+        "display_name": "labor productivity",
+        "score": 0.8709999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/firm-performance",
+        "display_name": "firm performance",
+        "score": 0.6420000195503235
+      },
+      {
+        "id": "https://openalex.org/keywords/multinational-corporations",
+        "display_name": "multinational corporations",
+        "score": 0.5899999737739563
+      },
+      {
+        "id": "https://openalex.org/keywords/personnel-records",
+        "display_name": "personnel records",
+        "score": 0.7160000205039978
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.7141000032424927
+      },
+      {
+        "id": "https://openalex.org/C153083717",
+        "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+        "display_name": "Leverage (statistics)",
+        "level": 2,
+        "score": 0.6772000193595886
+      },
+      {
+        "id": "https://openalex.org/C158016649",
+        "wikidata": "https://www.wikidata.org/wiki/Q161726",
+        "display_name": "Multinational corporation",
+        "level": 2,
+        "score": 0.6747999787330627
+      },
+      {
+        "id": "https://openalex.org/C165064840",
+        "wikidata": "https://www.wikidata.org/wiki/Q1321061",
+        "display_name": "Matching (statistics)",
+        "level": 2,
+        "score": 0.5916000008583069
+      },
+      {
+        "id": "https://openalex.org/C204983608",
+        "wikidata": "https://www.wikidata.org/wiki/Q2111958",
+        "display_name": "Productivity",
+        "level": 2,
+        "score": 0.5751000046730042
+      },
+      {
+        "id": "https://openalex.org/C145236788",
+        "wikidata": "https://www.wikidata.org/wiki/Q28161",
+        "display_name": "Labour economics",
+        "level": 1,
+        "score": 0.5059000253677368
+      },
+      {
+        "id": "https://openalex.org/C98147612",
+        "wikidata": "https://www.wikidata.org/wiki/Q215599",
+        "display_name": "Promotion (chess)",
+        "level": 3,
+        "score": 0.44179999828338623
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.42289999127388
+      },
+      {
+        "id": "https://openalex.org/C2777605291",
+        "wikidata": "https://www.wikidata.org/wiki/Q376644",
+        "display_name": "Invisible hand",
+        "level": 2,
+        "score": 0.35910001397132874
+      },
+      {
+        "id": "https://openalex.org/C46934059",
+        "wikidata": "https://www.wikidata.org/wiki/Q61515",
+        "display_name": "Outsourcing",
+        "level": 2,
+        "score": 0.3393999934196472
+      },
+      {
+        "id": "https://openalex.org/C2776943663",
+        "wikidata": "https://www.wikidata.org/wiki/Q165687",
+        "display_name": "Human capital",
+        "level": 2,
+        "score": 0.3384000062942505
+      },
+      {
+        "id": "https://openalex.org/C2909356555",
+        "wikidata": "https://www.wikidata.org/wiki/Q587972",
+        "display_name": "Part-time employment",
+        "level": 3,
+        "score": 0.3303000032901764
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.3127000033855438
+      },
+      {
+        "id": "https://openalex.org/C40700",
+        "wikidata": "https://www.wikidata.org/wiki/Q1411783",
+        "display_name": "Industrial organization",
+        "level": 1,
+        "score": 0.3077999949455261
+      },
+      {
+        "id": "https://openalex.org/C39549134",
+        "wikidata": "https://www.wikidata.org/wiki/Q133080",
+        "display_name": "Public relations",
+        "level": 1,
+        "score": 0.305400013923645
+      },
+      {
+        "id": "https://openalex.org/C2780259602",
+        "wikidata": "https://www.wikidata.org/wiki/Q642905",
+        "display_name": "Helping hand",
+        "level": 2,
+        "score": 0.2840999960899353
+      },
+      {
+        "id": "https://openalex.org/C202372285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Human resource management",
+        "level": 2,
+        "score": 0.2624000012874603
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1093/qje/qjag017",
+        "doi": "https://doi.org/10.1093/qje/qjag017",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1093/qje/qjag017",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S203860005",
+          "display_name": "The Quarterly Journal of Economics",
+          "issn_l": "0033-5533",
+          "issn": [
+            "0033-5533",
+            "1531-4650"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "ft50",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Quarterly Journal of Economics",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1093/qje/qjag017",
+      "doi": "https://doi.org/10.1093/qje/qjag017",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1093/qje/qjag017",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S203860005",
+        "display_name": "The Quarterly Journal of Economics",
+        "issn_l": "0033-5533",
+        "issn": [
+          "0033-5533",
+          "1531-4650"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "ft50",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310311648",
+        "host_organization_name": "Oxford University Press",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311648",
+          "https://openalex.org/P4310311647"
+        ],
+        "host_organization_lineage_names": [
+          "Oxford University Press",
+          "University of Oxford"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The Quarterly Journal of Economics",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth",
+        "score": 1.0
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth",
+        "score": 0.6783247590065002
+      }
+    ],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G4682516157",
+        "display_name": null,
+        "funder_award_id": "90561",
+        "funder_id": "https://openalex.org/F4320312710",
+        "funder_display_name": "London School of Economics and Political Science"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F2155154077",
+        "display_name": "Suntory and Toyota International Centres for Economics and Related Disciplines",
+        "ror": "https://ror.org/052vnhv24"
+      },
+      {
+        "id": "https://openalex.org/F4320312710",
+        "display_name": "London School of Economics and Political Science",
+        "ror": "https://ror.org/0090zs177"
+      },
+      {
+        "id": "https://openalex.org/F4320334630",
+        "display_name": "Economic and Social Research Council",
+        "ror": "https://ror.org/03n0ht308"
+      }
+    ],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 59,
+    "referenced_works": [
+      "https://openalex.org/W1485535210",
+      "https://openalex.org/W1500617753",
+      "https://openalex.org/W1677595927",
+      "https://openalex.org/W1884571572",
+      "https://openalex.org/W1966338782",
+      "https://openalex.org/W1990535218",
+      "https://openalex.org/W2010143351",
+      "https://openalex.org/W2015930340",
+      "https://openalex.org/W2029189742",
+      "https://openalex.org/W2049387462",
+      "https://openalex.org/W2050904362",
+      "https://openalex.org/W2056621649",
+      "https://openalex.org/W2073232297",
+      "https://openalex.org/W2085042242",
+      "https://openalex.org/W2088885840",
+      "https://openalex.org/W2104318064",
+      "https://openalex.org/W2124405421",
+      "https://openalex.org/W2137752108",
+      "https://openalex.org/W2141295263",
+      "https://openalex.org/W2155453909",
+      "https://openalex.org/W2161800660",
+      "https://openalex.org/W2323231065",
+      "https://openalex.org/W2601808389",
+      "https://openalex.org/W2611356021",
+      "https://openalex.org/W2622430428",
+      "https://openalex.org/W2753335427",
+      "https://openalex.org/W2762975052",
+      "https://openalex.org/W2889658425",
+      "https://openalex.org/W2945117982",
+      "https://openalex.org/W2974391059",
+      "https://openalex.org/W3014036974",
+      "https://openalex.org/W3021359247",
+      "https://openalex.org/W3022954220",
+      "https://openalex.org/W3082153786",
+      "https://openalex.org/W3112066496",
+      "https://openalex.org/W3121680671",
+      "https://openalex.org/W3122276354",
+      "https://openalex.org/W3122467925",
+      "https://openalex.org/W3122519252",
+      "https://openalex.org/W3124124240",
+      "https://openalex.org/W3140082355",
+      "https://openalex.org/W3179447624",
+      "https://openalex.org/W3187465686",
+      "https://openalex.org/W4256624181",
+      "https://openalex.org/W4283781715",
+      "https://openalex.org/W4285132590",
+      "https://openalex.org/W4304141593",
+      "https://openalex.org/W4367674331",
+      "https://openalex.org/W4382721316",
+      "https://openalex.org/W4386594736",
+      "https://openalex.org/W4388020790",
+      "https://openalex.org/W4398238299",
+      "https://openalex.org/W4399389739",
+      "https://openalex.org/W4400422542",
+      "https://openalex.org/W4411014645",
+      "https://openalex.org/W7125413930",
+      "https://openalex.org/W7126269175",
+      "https://openalex.org/W7127095439",
+      "https://openalex.org/W7140116027"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Abstract": [
+        0
+      ],
+      "Why": [
+        1
+      ],
+      "do": [
+        2
+      ],
+      "managers": [
+        3,
+        17,
+        45,
+        55,
+        70,
+        77,
+        110
+      ],
+      "matter": [
+        4
+      ],
+      "for": [
+        5
+      ],
+      "firm": [
+        6,
+        25,
+        84
+      ],
+      "performance?": [
+        7
+      ],
+      "This": [
+        8
+      ],
+      "article": [
+        9
+      ],
+      "provides": [
+        10
+      ],
+      "evidence": [
+        11
+      ],
+      "of": [
+        12,
+        16,
+        29,
+        59,
+        69,
+        109,
+        125
+      ],
+      "the": [
+        13,
+        24,
+        27,
+        67,
+        83,
+        106,
+        123,
+        130,
+        134
+      ],
+      "critical": [
+        14
+      ],
+      "role": [
+        15
+      ],
+      "in": [
+        18,
+        49,
+        96,
+        122
+      ],
+      "matching": [
+        19
+      ],
+      "workers": [
+        20,
+        42,
+        79,
+        127
+      ],
+      "to": [
+        21,
+        80,
+        115,
+        119
+      ],
+      "jobs": [
+        22
+      ],
+      "within": [
+        23,
+        82
+      ],
+      "using": [
+        26
+      ],
+      "universe": [
+        28
+      ],
+      "personnel": [
+        30
+      ],
+      "records": [
+        31
+      ],
+      "from": [
+        32
+      ],
+      "a": [
+        33
+      ],
+      "large": [
+        34,
+        92
+      ],
+      "multinational": [
+        35
+      ],
+      "firm.": [
+        36,
+        135
+      ],
+      "The": [
+        37
+      ],
+      "data": [
+        38
+      ],
+      "cover": [
+        39
+      ],
+      "200,000": [
+        40
+      ],
+      "white-collar": [
+        41
+      ],
+      "and": [
+        43,
+        61,
+        87,
+        90,
+        93,
+        100
+      ],
+      "30,000": [
+        44
+      ],
+      "over": [
+        46
+      ],
+      "11": [
+        47
+      ],
+      "years": [
+        48
+      ],
+      "100": [
+        50
+      ],
+      "countries.": [
+        51
+      ],
+      "I": [
+        52,
+        73
+      ],
+      "identify": [
+        53
+      ],
+      "good": [
+        54,
+        76
+      ],
+      "by": [
+        56,
+        66
+      ],
+      "their": [
+        57
+      ],
+      "speed": [
+        58
+      ],
+      "promotion": [
+        60
+      ],
+      "leverage": [
+        62
+      ],
+      "exogenous": [
+        63
+      ],
+      "variation": [
+        64
+      ],
+      "induced": [
+        65
+      ],
+      "rotation": [
+        68
+      ],
+      "across": [
+        71
+      ],
+      "teams.": [
+        72
+      ],
+      "find": [
+        74
+      ],
+      "that": [
+        75,
+        105,
+        128
+      ],
+      "cause": [
+        78
+      ],
+      "reallocate": [
+        81
+      ],
+      "through": [
+        85
+      ],
+      "lateral": [
+        86
+      ],
+      "vertical": [
+        88
+      ],
+      "transfers": [
+        89
+      ],
+      "generate": [
+        91
+      ],
+      "persistent": [
+        94
+      ],
+      "gains": [
+        95
+      ],
+      "workers’": [
+        97,
+        112
+      ],
+      "career": [
+        98
+      ],
+      "progression": [
+        99
+      ],
+      "productivity.": [
+        101
+      ],
+      "My": [
+        102
+      ],
+      "results": [
+        103
+      ],
+      "imply": [
+        104
+      ],
+      "visible": [
+        107
+      ],
+      "hands": [
+        108
+      ],
+      "match": [
+        111
+      ],
+      "specific": [
+        113
+      ],
+      "skills": [
+        114
+      ],
+      "specialized": [
+        116
+      ],
+      "jobs,": [
+        117
+      ],
+      "leading": [
+        118
+      ],
+      "an": [
+        120
+      ],
+      "improvement": [
+        121
+      ],
+      "productivity": [
+        124
+      ],
+      "existing": [
+        126
+      ],
+      "outlasts": [
+        129
+      ],
+      "managers’": [
+        131
+      ],
+      "time": [
+        132
+      ],
+      "at": [
+        133
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

@@ -1,0 +1,2710 @@
+{
+  "results": [
+    {
+      "title": "Demand-Aware Career Path Recommendations: A Reinforcement Learning Approach",
+      "authors": [
+        "Marios Kokkodis",
+        "Panagiotis G. Ipeirotis"
+      ],
+      "year": 2021,
+      "doi": "10.1287/mnsc.2020.3727",
+      "venue": "Management Science",
+      "volume": "67",
+      "issue": "7",
+      "pages": "4362-4383",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2021,
+          7
+        ]
+      ],
+      "abstract": " A skill’s value depends on dynamic market conditions. To remain marketable, contractors need to keep reskilling themselves continuously. But choosing new skills to learn is an inherently hard task: Contractors have very little information about current and future market conditions, which often results in poor learning choices. Recommendation frameworks could reduce uncertainty in learning choices. However, conventional approaches would likely be inefficient; they would model previous (often poor) observed contractor learning behaviors to provide future career path recommendations while ignoring current market trends. This work proposes a framework that combines reinforcement learning, Bayesian inference, and gradient boosting to provide recommendations on how contractors should behave when choosing new skills to learn. Compared with standard recommender systems, this framework does not learn from previous (often poor) behaviors to make future recommendations. Instead, it relies on a Markov decision process to operate on a graph of feasible actions and dynamically recommend profitable career paths. The framework uses market information to identify current trends and project future wages. Based on this information, it recommends feasible, relevant actions that a contractor can take to learn new, in-demand skills. Evaluation of the framework on 1.73 million job applications from an online labor market shows that its implementation could increase (1) the marketplace’s revenue by up to 6%, (2) contractors’ wages by 22%, and (3) the diversity of new skill acquisitions by 47%. A comparison with alternative recommender systems highlights the limitations of approaches that make recommendations based on previously observed learning behaviors.  This paper was accepted by Chris Forman, information systems. ",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "green",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://ipeirotis.org/wp-content/uploads/2020/06/mnsc.2020.3727.pdf",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "author_website"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:20.955387Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:21.750991Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2020.3727",
+            "checked_at": "2026-10-20T01:25:21.750991Z",
+            "evidence_type": "source_metadata"
+          },
+          {
+            "platform": "author_website",
+            "source_url": "https://ipeirotis.org/wp-content/uploads/2020/06/mnsc.2020.3727.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "author_website",
+            "source_url": "https://ipeirotis.org/wp-content/uploads/2020/06/mnsc.2020.3727.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: published PDF parsed on web; Algorithm 1, sections 5.1 and 6.2 checked; not locally downloaded"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "author_website",
+            "source_url": "https://ipeirotis.org/wp-content/uploads/2020/06/mnsc.2020.3727.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1287/mnsc.2020.3727",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.2139/ssrn.3514287",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "acceptedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://ipeirotis.org/wp-content/uploads/2020/06/mnsc.2020.3727.pdf",
+      "reading_scope": "A*: published PDF parsed on web; Algorithm 1, sections 5.1 and 6.2 checked; not locally downloaded",
+      "source_indices": [
+        0
+      ]
+    },
+    {
+      "title": "Stable Matching on the Job? Theory and Evidence on Internal Talent Markets",
+      "authors": [
+        "Bo Cowgill",
+        "Jonathan M. V. Davis",
+        "B. Pablo Montagnes",
+        "Patryk Perkowski"
+      ],
+      "year": 2025,
+      "doi": "10.1287/mnsc.2023.01373",
+      "venue": "Management Science",
+      "volume": "71",
+      "issue": "3",
+      "pages": "2508-2526",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2025,
+          3
+        ]
+      ],
+      "abstract": " A principal often needs to match agents to perform coordinated tasks, but agents can quit or slack off if they dislike their match. We study two prevalent approaches for matching within organizations: centralized assignment by firm leaders and self-organization through market-like mechanisms. We provide a formal model of the strengths and weaknesses of both methods under different settings, incentives, and production technologies. The model highlights trade-offs between match-specific productivity and job satisfaction. We then measure these trade-offs with data from a large organization’s internal talent market. Firm-dictated matches are 33% more valuable than randomly assigned matches within job categories (using the firm’s preferred metric of quality). By contrast, preference-based matches (using deferred acceptance) are only 5% better than random but are ranked (on average) about 38 percentiles higher by the workforce. The self-organized match is positively assortative and helps workers grow new skills; the firm’s preferred match is negatively assortative and harvests existing expertise.  This paper was accepted by Joshua Gans, business strategy.  Funding: This work was supported by the Ewing Marion Kauffman Foundation (Emerging Scholar Award).  Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2023.01373 . ",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:22.410125Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:23.078911Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:25:23.078911Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.01373",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: official abstract; IZA 2024 working-paper entry exists but full formal-model review not completed"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1287/mnsc.2023.01373",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2023.01373",
+      "reading_scope": "B: official abstract; IZA 2024 working-paper entry exists but full formal-model review not completed",
+      "source_indices": [
+        1
+      ]
+    },
+    {
+      "title": "Algorithmic Recommendation Tools and Experiential Learning in Clinical Care",
+      "authors": [
+        "Shirish Sundaresan",
+        "Isin Guler"
+      ],
+      "year": 2025,
+      "doi": "10.1287/orsc.2022.16738",
+      "venue": "Organization Science",
+      "volume": "36",
+      "issue": "5",
+      "pages": "1786-1802",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2025,
+          9
+        ]
+      ],
+      "abstract": "This study examines the relationship between the adoption of algorithmic recommendation tools and experiential learning. We argue that the adoption of an algorithmic recommendation tool will harm experiential learning in organizations by limiting knowledge retention and retrieval. We further argue that the adverse relationship between algorithmic tool adoption and experiential learning will be stronger in organizations operating in low-task-difficulty environments than those in high-task-difficulty ones because organizational members in such organizations are likely to rely more on algorithmic recommendations, experiencing higher skill erosion. In addition, the relationship will be stronger in organizations facing low task variety than in those with high task variety, as these organizations are likely to have more rigid routines and in turn experience higher routine disruption after adopting an algorithmic tool. We utilize data on the adoption of an algorithmic tool called a clinical decision support system (CDSS) in a sample of emergency departments in California and utilize a fixed-effects panel regression with control function to test our arguments. We find that the relationship between cumulative experience and mortality becomes significantly weaker after CDSS adoption, suggesting flatter learning curves. We also find evidence that the effect is moderated by task difficulty and task variety.\n                  Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2022.16738 .",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "green",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:23.748784Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:24.520384Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:25:24.520384Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2022.16738",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: open HTML abstract, introduction and discussion checked"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1287/orsc.2022.16738",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.17615/y22h-8g78",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": null
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2022.16738",
+      "reading_scope": "A*: open HTML abstract, introduction and discussion checked",
+      "source_indices": [
+        2
+      ]
+    },
+    {
+      "title": "A skills‐matching perspective on talent management: Developing strategic agility",
+      "authors": [
+        "Stefan Jooss",
+        "David G. Collings",
+        "John McMackin",
+        "Michael Dickmann"
+      ],
+      "year": 2024,
+      "doi": "10.1002/hrm.22192",
+      "venue": "Human Resource Management",
+      "volume": "63",
+      "issue": "1",
+      "pages": "141-157",
+      "publication_type": "journal-article",
+      "published_online": [
+        [
+          2023,
+          8,
+          23
+        ]
+      ],
+      "published_print": [
+        [
+          2024,
+          1
+        ]
+      ],
+      "abstract": "AbstractDespite two decades of evolution as an area of research and practice, talent management faces ongoing criticism for being overly static in its approach, offering little in terms of enabling strategic agility. This is problematic as organizations increasingly rely on strategic agility to manage their dynamic business operations. Drawing on matching theory and adopting an agility lens, we explore the link between talent management and strategic agility. Through a qualitative research design, encompassing 34 interviews in 15 organizations, we explicate a skills‐matching perspective on talent management, including initial and dynamic skills‐matching in external and internal labor markets. Through this process, organizations can build a set of dynamic capabilities, underlying two meta‐capabilities, strategic sensitivity and resource fluidity, which enable strategic agility. In doing so, we portray skills‐matching as an illustration of a processual view on talent management and create a model of developing strategic agility through skills‐matching, responsive to external and internal demands.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "hybrid",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.155252Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.932759Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.932759Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:25:25.932759Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.22192",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: abstract and sections 4-5 checked; qualitative study, not a randomized feedback intervention"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1002/hrm.22192",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hrm.22192",
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://orcid.org/0000-0003-1252-7080>,",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "acceptedVersion"
+        },
+        {
+          "landing_page_url": "https://dspace.lib.cranfield.ac.uk/bitstreams/940b6881-77e6-4ea2-b9f2-9a80f458c38c/download",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.22192",
+      "reading_scope": "A*: abstract and sections 4-5 checked; qualitative study, not a randomized feedback intervention",
+      "source_indices": [
+        3
+      ]
+    },
+    {
+      "title": "On the Move: The Impact of Internal Mobility and Internal Comobility on Unit- and Organization-Level Outcomes",
+      "authors": [
+        "Caitlin Ray",
+        "Anthony J. Nyberg",
+        "Mark A. Maltarich",
+        "Greg Reilly"
+      ],
+      "year": 2026,
+      "doi": "10.5465/amj.2023.0311",
+      "venue": "Academy of Management Journal",
+      "volume": "69",
+      "issue": "1",
+      "pages": "76-98",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2026,
+          2
+        ]
+      ],
+      "abstract": "Internal mobility is commonly used to reallocate talent within organizations. Despite its prevalence and potential implications for organizational performance, most prior work has focused on the individual-level outcomes associated with internal mobility. That is, there has been relatively limited theoretical and empirical attention to the mechanisms that connect internal mobility to unit- and organization-level outcomes, making it difficult to predict when or why internal mobility is beneficial to organizations. To address this oversight, we draw from human and social capital literatures to build theory to predict when and why internal mobility will have unit-level implications. We test this by examining a period of growth in a Fortune 500 company and evaluate gains and losses associated with moving employees within firms, including distinguishing between two types of internal movers—those who come from different units in the organization (solo movers) and those who come from the same unit in the organization (comobile movers). In doing so, we contribute to both internal mobility and strategic human capital resource literatures and provide actionable insights regarding when to source internal movers, and where from.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:26.579298Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:27.379086Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:27.379086Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:25:27.379086Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://journals.aom.org/doi/10.5465/amj.2023.0311",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: publisher abstract"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.5465/amj.2023.0311",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://journals.aom.org/doi/10.5465/amj.2023.0311",
+      "reading_scope": "B: publisher abstract",
+      "source_indices": [
+        4
+      ]
+    },
+    {
+      "title": "Leveraging Learning Collectives: How Novice Outsiders Break into an Occupation",
+      "authors": [
+        "Ece Kaynak"
+      ],
+      "year": 2024,
+      "doi": "10.1287/orsc.2020.14214",
+      "venue": "Organization Science",
+      "volume": "35",
+      "issue": "3",
+      "pages": "948-973",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2024,
+          5
+        ]
+      ],
+      "abstract": " Existing research depicts occupational learning as predominantly happening through formal education, situated learning, or a combination of the two. How career switchers might develop occupational skills outside of these established learning pathways is understudied. This paper examines how novice outsiders break into a skilled occupation by looking at the case of aspiring software developers attending coding bootcamps. Drawing on 17 months of fieldwork in the San Francisco Bay area, I find that bootcamps did not resemble either schools or workplaces, the two institutions that facilitate occupational learning. Instead, bootcamps scaffolded learning collectives—groups composed of peers and near peers who learn collaboratively and purposefully to reach a shared goal. Within learning collectives, aspirants progressed from novice outsiders to hirable software developers, despite limited access to proximate experts to learn from or legitimate peripheral participation opportunities. Three scaffoldings facilitated learning at bootcamps. First, peer team structures turned what is normally a solitary activity—writing code—into a collaborative endeavor and facilitated peer-to-peer knowledge exchange. Second, near-peer role structures engaged recent graduates in teaching and mentorship relationships with novices so that aspirants could access knowledge quickly and easily. Third, bootcamps encouraged aspirants to self-learn by reaching out to the expertise of the broader occupational community. This third scaffolding prepared aspirants for learning beyond the bootcamp curriculum and socialized them for an occupation with high learning demands. The outcome of this process was that novices pursuing an alternative mode of occupational entry developed both occupational skills and new self-conceptions as software developers.  Funding: This work was supported by a grant from Stanford Cyber Initiative. ",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.021671Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.680062Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:25:28.680062Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2020.14214",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: publisher abstract"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1287/orsc.2020.14214",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://openaccess.city.ac.uk/view/creators_id/ece=2Ekaynak.html>",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "acceptedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2020.14214",
+      "reading_scope": "B: publisher abstract",
+      "source_indices": [
+        5
+      ]
+    },
+    {
+      "title": "Inverted Apprenticeship: How Senior Occupational Members Develop Practical Expertise and Preserve Their Position When New Technologies Arrive",
+      "authors": [
+        "Matthew Beane",
+        "Callen Anthony"
+      ],
+      "year": 2024,
+      "doi": "10.1287/orsc.2023.1688",
+      "venue": "Organization Science",
+      "volume": "35",
+      "issue": "2",
+      "pages": "405-431",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2024,
+          3
+        ]
+      ],
+      "abstract": "New technologies create a dilemma for senior members of occupations. Traditionally, practical expertise and position are considered correlates, yet when new technologies arrive, they may be knocked out of alignment. This means that senior members must develop new expertise lest their position be threatened. However, because position often signifies expertise, developing new practical expertise may be challenging. Indeed, senior members face strong pressures not to appear to nor actually devote time to comprehensive formal training as they are booked with complex problems using prior methods, they are responsible for the learning of junior members, and they have passed early career training windows. Through comparative ethnographic field studies of urological surgery and investment banking, we show that “inverted apprenticeships,” defined as configured struggle and restructured interactions with junior members that allow senior members to develop practical expertise with new technologies while maintaining their position, resolve this dilemma. We identify four pathways that senior experts took to structure these inverted apprenticeships, including seeking, stalling, leveraging, and confronting. We uncover the conditions of each pathway and trace their consequences. Although these pathways allowed senior members to enhance or preserve their position, they generated widely varying practical expertise with the new technology. Furthermore, the majority of these pathways undermined the learning of those most junior, who were supposed to be developing expertise through their interactions with seniors.Funding: This work was supported by the Strategic Management Society [Grant SRF-2015DP-0063] and the Social Science and Humanities Research Council of Canada [Grant 752-2014-0378].",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:29.275859Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:30.052702Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:25:30.052702Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2023.1688",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: publisher abstract"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1287/orsc.2023.1688",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://pubsonline.informs.org/doi/10.1287/orsc.2023.1688",
+      "reading_scope": "B: publisher abstract",
+      "source_indices": [
+        6
+      ]
+    },
+    {
+      "title": "How do beliefs and preferences over jobs affect enrollment in vocational training: Experimental evidence from India",
+      "authors": [
+        "Apurav Yash Bhatiya",
+        "Bhaskar Chakravorty",
+        "Clément Imbert",
+        "Roland Rathelot"
+      ],
+      "year": 2026,
+      "doi": "10.1016/j.euroecorev.2025.105238",
+      "venue": "European Economic Review",
+      "volume": "184",
+      "issue": null,
+      "pages": "105238",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2026,
+          4
+        ]
+      ],
+      "abstract": "We survey young job seekers in rural India to understand the determinants of enrollment in a government training program with guaranteed placement into urban jobs. Respondents are over-optimistic: they expect jobs that pay more and are closer to home than actual placement opportunities. We implement an RCT and provide them with objective information on the distribution of placement salaries or job locations. The intervention successfully corrects subjects’ beliefs, which affects their decision to enroll in the program. By revealed preferences, our estimates suggest that job seekers need to be paid 50% more to work outside their home state.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "hybrid",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://wrap.warwick.ac.uk/id/eprint/195797/1/1-s2.0-S0014292125002880-main.pdf",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:30.711160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:31.500059Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:31.500059Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:31.500059Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:25:31.500059Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: primary-source results and conclusion checked via indexed publisher text; repository PDF available"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://research.birmingham.ac.uk/en/publications/34a4f18a-60b3-453a-8c7d-83d4a524dd4f",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+          "pdf_url": "https://wrap.warwick.ac.uk/id/eprint/195797/1/1-s2.0-S0014292125002880-main.pdf",
+          "is_oa": true,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://doi.org/10.1016/j.euroecorev.2025.105238",
+      "reading_scope": "A*: primary-source results and conclusion checked via indexed publisher text; repository PDF available",
+      "source_indices": [
+        7
+      ]
+    },
+    {
+      "title": "How Matching Creates Value: Cogs and Wheels for Human Capital Resources Research",
+      "authors": [
+        "Ingo Weller",
+        "Christina B. Hymer",
+        "Anthony J. Nyberg",
+        "Julia Ebert"
+      ],
+      "year": 2019,
+      "doi": "10.5465/annals.2016.0117",
+      "venue": "Academy of Management Annals",
+      "volume": "13",
+      "issue": "1",
+      "pages": "188-214",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2019,
+          1
+        ]
+      ],
+      "abstract": "Using selection- and adaptation-based logic, we develop a dynamic matching model to describe how employees are matched with positions to enhance human capital-based value creation. Matching, defined as the process by which individuals are dynamically aligned with organizations and the situations (roles, jobs, tasks, etc.) within them, has historically been examined in silos across a broad range of literatures. Consequently, we know little about how seemingly diverse HR activities, such as recruitment, job design, training, promotions, and terminations, might inform each other through the common lens of matching. Emanating from our review, we integrate relevant literatures to develop a comprehensive matching model (termed the “dynamic matching lifecycle model”). Our model extends prior, more static conceptualizations of matching (like attraction, selection, attrition, or ASA) to include four stages: creation, development, reconfiguration, and termination—based on two broad mechanisms—selection and adaptation. Furthermore, we describe how matching contributes to individual and organizational value creation. By evoking human capital theories, we explain how people and organizations engage in matching across the four stages of the model to create human capital-based value. Our model shows that information and information distribution, organization design, and complementarities play important roles in ensuring successful matching. Promising future research directions are discussed.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:08.204133Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:09.187520Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:09.187520Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:28:09.187520Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://journals.aom.org/doi/abs/10.5465/annals.2016.0117",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: publisher abstract; complete theoretical model not assessed"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.5465/annals.2016.0117",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://journals.aom.org/doi/abs/10.5465/annals.2016.0117",
+      "reading_scope": "B: publisher abstract; complete theoretical model not assessed",
+      "source_indices": [
+        8
+      ]
+    },
+    {
+      "title": "Providing Advice to Jobseekers at Low Cost: An Experimental Study on Online Advice",
+      "authors": [
+        "Michèle Belot",
+        "Philipp Kircher",
+        "Paul Muller"
+      ],
+      "year": 2019,
+      "doi": "10.1093/restud/rdy059",
+      "venue": "The Review of Economic Studies",
+      "volume": "86",
+      "issue": "4",
+      "pages": "1411-1447",
+      "publication_type": "journal-article",
+      "published_online": [
+        [
+          2018,
+          10,
+          5
+        ]
+      ],
+      "published_print": [
+        [
+          2019,
+          7,
+          1
+        ]
+      ],
+      "abstract": "Abstract\n                  We develop and evaluate experimentally a novel tool that redesigns the job search process by providing tailored advice at low cost. We invited jobseekers to our computer facilities for twelve consecutive weekly sessions to search for real jobs on our web interface. For one-half, instead of relying on their own search criteria, we use readily available labour market data to display relevant alternative occupations and associated jobs. The data indicate that this broadens the set of jobs they consider and increases their job interviews especially for participants who otherwise search narrowly and have been unemployed for a few months.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "hybrid",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://academic.oup.com/restud/article-pdf/86/4/1411/28883098/rdy059.pdf",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:09.916130Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:10.677949Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:10.677949Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/restud/rdy059",
+            "checked_at": "2026-10-20T01:28:10.677949Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://academic.oup.com/restud/article/86/4/1411/5115940",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: abstract and introduction checked; occupational search advice rather than skill-production treatment"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1093/restud/rdy059",
+          "pdf_url": "https://academic.oup.com/restud/article-pdf/86/4/1411/28883098/rdy059.pdf",
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://research.vu.nl/en/publications/a32c0801-403a-4692-9923-5dceb28c6e4a",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://hdl.handle.net/1814/60670",
+          "pdf_url": "https://cadmus.eui.eu/bitstream/1814/60670/2/Providing_Advice_to_Jobseekers.pdf",
+          "is_oa": true,
+          "version": "submittedVersion"
+        },
+        {
+          "landing_page_url": "http://hdl.handle.net/10.1093/restud/rdy059",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://www.research.ed.ac.uk/files/114007980/BelotEtalTRES2018ProvidingAdviceToJobseekers.pdf",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://research.vu.nl/en/publications/a32c0801-403a-4692-9923-5dceb28c6e4a",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://academic.oup.com/restud/article/86/4/1411/5115940",
+      "reading_scope": "A*: abstract and introduction checked; occupational search advice rather than skill-production treatment",
+      "source_indices": [
+        9
+      ]
+    },
+    {
+      "title": "A Cobweb Model of the Supply and Starting Salary of New Engineers",
+      "authors": [
+        "Richard B. Freeman"
+      ],
+      "year": 1976,
+      "doi": "10.1177/001979397602900204",
+      "venue": "ILR Review",
+      "volume": "29",
+      "issue": "2",
+      "pages": "236-248",
+      "publication_type": "journal-article",
+      "published_online": [
+        [
+          1976,
+          1,
+          1
+        ]
+      ],
+      "published_print": [
+        [
+          1976,
+          1
+        ]
+      ],
+      "abstract": "Analyzes the condition of the engineering market in the United States from 1948 to 1972. Changes in the engineering market; Information on cobweb models of engineering manpower; Computation of the salary of engineers. (Abstract copyright EBSCO.)",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "closed",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.278582Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.923920Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.923920Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:28:11.923920Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://journals.sagepub.com/doi/abs/10.1177/001979397602900204",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "C: 1976 bibliographic page only; cobweb discussion checked separately in author 2005 paper"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1177/001979397602900204",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.2307/2522143",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://ilr.sagepub.com/content/29/2/236.abstract",
+          "pdf_url": null,
+          "is_oa": false,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://journals.sagepub.com/doi/abs/10.1177/001979397602900204",
+      "reading_scope": "C: 1976 bibliographic page only; cobweb discussion checked separately in author 2005 paper",
+      "source_indices": [
+        10
+      ]
+    },
+    {
+      "title": "Making the Invisible Hand Visible: Managers and the Allocation of Workers to Jobs",
+      "authors": [
+        "Virginia Minni"
+      ],
+      "year": 2026,
+      "doi": "10.1093/qje/qjag017",
+      "venue": "The Quarterly Journal of Economics",
+      "volume": "141",
+      "issue": "3",
+      "pages": "1871-1920",
+      "publication_type": "journal-article",
+      "published_online": [
+        [
+          2026,
+          3,
+          23
+        ]
+      ],
+      "published_print": [
+        [
+          2026,
+          7,
+          11
+        ]
+      ],
+      "abstract": "Abstract\n                  Why do managers matter for firm performance? This article provides evidence of the critical role of managers in matching workers to jobs within the firm using the universe of personnel records from a large multinational firm. The data cover 200,000 white-collar workers and 30,000 managers over 11 years in 100 countries. I identify good managers by their speed of promotion and leverage exogenous variation induced by the rotation of managers across teams. I find that good managers cause workers to reallocate within the firm through lateral and vertical transfers and generate large and persistent gains in workers’ career progression and productivity. My results imply that the visible hands of managers match workers’ specific skills to specialized jobs, leading to an improvement in the productivity of existing workers that outlasts the managers’ time at the firm.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "hybrid",
+      "full_text_status": "no_open_pdf",
+      "pdf_url": null,
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "publisher"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:12.389886Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:13.194712Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/qje/qjag017",
+            "checked_at": "2026-10-20T01:28:13.194712Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "publisher",
+            "source_url": "https://academic.oup.com/qje/article/141/3/1871/8537773",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: abstract, introduction and conclusion checked; not a skill-guidance RCT"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1093/qje/qjag017",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "publishedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://academic.oup.com/qje/article/141/3/1871/8537773",
+      "reading_scope": "A*: abstract, introduction and conclusion checked; not a skill-guidance RCT",
+      "source_indices": [
+        11
+      ]
+    },
+    {
+      "title": "ReCon: Reducing Congestion in Job Recommendation using Optimal Transport",
+      "authors": [
+        "Yoosof Mashayekhi",
+        "Bo Kang",
+        "Jefrey Lijffijt",
+        "Tijl De Bie"
+      ],
+      "year": 2023,
+      "doi": "10.1145/3604915.3608817",
+      "venue": "Proceedings of the 17th ACM Conference on Recommender Systems",
+      "volume": null,
+      "issue": null,
+      "pages": "696-701",
+      "publication_type": "proceedings-article",
+      "published_online": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ],
+      "published_print": [
+        [
+          2023,
+          9,
+          14
+        ]
+      ],
+      "abstract": "Recommender systems may suffer from congestion, meaning that there is an unequal distribution of the items in how often they are recommended. Some items may be recommended much more than others. Recommenders are increasingly used in domains where items have limited availability, such as the job market, where congestion is especially problematic: Recommending a vacancy—for which typically only one person will be hired—to a large number of job seekers may lead to frustration for job seekers, as they may be applying for jobs where they are not hired. This may also leave vacancies unfilled and result in job market inefficiency.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "hybrid",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3604915.3608817",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "university_repository"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:53.820037Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:54.504474Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:54.504474Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:54.504474Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3604915.3608817",
+            "checked_at": "2026-10-20T01:29:54.504474Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "university_repository",
+            "source_url": "https://biblio.ugent.be/publication/01HBRHT17WDBN3P9KEABD0XEJ6",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B: official repository abstract and version entries; author code README checked, not run"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1145/3604915.3608817",
+          "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3604915.3608817",
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://biblio.ugent.be/publication/01HBRHT17WDBN3P9KEABD0XEJ6",
+          "pdf_url": "https://biblio.ugent.be/publication/01HBRHT17WDBN3P9KEABD0XEJ6/file/01HDDS29WS7JZ5MVE92GVVB5P3.pdf",
+          "is_oa": true,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://biblio.ugent.be/publication/01HBRHT17WDBN3P9KEABD0XEJ6",
+      "reading_scope": "B: official repository abstract and version entries; author code README checked, not run",
+      "source_indices": [
+        12
+      ]
+    },
+    {
+      "title": "Scalable Job Recommendation With Lower Congestion Using Optimal Transport",
+      "authors": [
+        "Yoosof Mashayekhi",
+        "Bo Kang",
+        "Jefrey Lijffijt",
+        "Tijl De Bie"
+      ],
+      "year": 2024,
+      "doi": "10.1109/ACCESS.2024.3390229",
+      "venue": "IEEE Access",
+      "volume": "12",
+      "issue": null,
+      "pages": "55491-55505",
+      "publication_type": "journal-article",
+      "published_online": null,
+      "published_print": [
+        [
+          2024
+        ]
+      ],
+      "abstract": "Recommender systems often facecongestion, characterized by an uneven distribution in the frequency of item recommendations. The presence of congestion in recommendations is especially problematic in domains where users or items have limited availability. For example, recommending one vacancy to many job seekers results in frustration of job seekers and job market inefficiency. We propose a novel in-processing approach to job recommendation calledReCon, accounting for the congestion problem. Our approach is to use an optimal transport component to ensure a more equal spread of vacancies over job seekers, combined with a job recommendation model in a multi-objective optimization problem. Moreover, we propose a scalable solution so thatReConis applicable to large-scale datasets. We evaluated our approach on several real-world job market datasets. The evaluation results show thatReConhas good performance on both congestion-related (e.g., Congestion, Coverage, and Gini Index) and desirability (e.g., NDCG, Recall, and Hit Rate) measures. In most cases,ReConis Pareto optimal for some selections of hyper-parameters in comparison to the baselines.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "gold",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "author_repository"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.174721Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.808501Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.808501Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.808501Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/ACCESS.2024.3390229",
+            "checked_at": "2026-10-20T01:29:55.808501Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "author_repository",
+            "source_url": "https://github.com/aida-ugent/ReCon",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "B/C: author README confirms follow-up publication and code association; full paper not audited"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "http://dx.doi.org/10.1109/access.2024.3390229",
+          "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10504265.pdf",
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "https://biblio.ugent.be/publication/01HVR2H0T42RR3HPW71N84HZP8",
+          "pdf_url": "https://biblio.ugent.be/publication/01HVR2H0T42RR3HPW71N84HZP8/file/01HYWVEB0E4XFH3KAJFR3Z595E.pdf",
+          "is_oa": true,
+          "version": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://doaj.org/article/03faf36516064aa6895ae6e7fad1e1b8",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": "submittedVersion"
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://github.com/aida-ugent/ReCon",
+      "reading_scope": "B/C: author README confirms follow-up publication and code association; full paper not audited",
+      "source_indices": [
+        13
+      ]
+    },
+    {
+      "title": "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness",
+      "authors": [
+        "Seamus Somerstep",
+        "Ya'acov Ritov",
+        "Yuekai Sun"
+      ],
+      "year": 2024,
+      "doi": "10.1145/3630106.3658929",
+      "venue": "The 2024 ACM Conference on Fairness Accountability and Transparency",
+      "volume": null,
+      "issue": null,
+      "pages": "616-630",
+      "publication_type": "proceedings-article",
+      "published_online": [
+        [
+          2024,
+          6,
+          5
+        ]
+      ],
+      "published_print": [
+        [
+          2024,
+          6,
+          3
+        ]
+      ],
+      "abstract": "In many prediction problems, the predictive model affects the distribution of the prediction target. This phenomenon is known as performativity and is often caused by the behavior of individuals with vested interests in the outcome of the predictive model. Although performativity is generally problematic because it manifests as distribution shifts, we develop algorithmic fairness practices that leverage performativity to achieve stronger group fairness guarantees in social classification problems (compared to what is achievable in non-performative settings). In particular, we leverage the policymaker’s ability to steer the population to remedy inequities in the long term. A crucial benefit of this approach is that it is possible to resolve the incompatibilities between conflicting group fairness definitions.",
+      "jel_codes": [],
+      "study_type": null,
+      "population": null,
+      "geography": null,
+      "sample_size": null,
+      "open_access_status": "gold",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://facctconference.org/static/papers24/facct24-44.pdf",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "source_platforms": [
+        "crossref",
+        "openalex",
+        "official_conference"
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.084160Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "abstract": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.897846Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.897846Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "openalex",
+            "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3630106.3658929",
+            "checked_at": "2026-10-20T01:25:32.897846Z",
+            "evidence_type": "source_metadata"
+          },
+          {
+            "platform": "official_conference",
+            "source_url": "https://facctconference.org/static/papers24/facct24-44.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "official_conference",
+            "source_url": "https://facctconference.org/static/papers24/facct24-44.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "reading_scope": [
+          {
+            "platform": "official_conference",
+            "source_url": "https://facctconference.org/static/papers24/facct24-44.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text",
+            "note": "A*: formal paper section 2, Example 2.1 and section 2.1 checked on web"
+          }
+        ]
+      },
+      "fetched_at": "2026-10-20",
+      "candidate_locations": [
+        {
+          "landing_page_url": "https://doi.org/10.1145/3630106.3658929",
+          "pdf_url": "https://dl.acm.org/doi/pdf/10.1145/3630106.3658929",
+          "is_oa": true,
+          "version": "publishedVersion"
+        },
+        {
+          "landing_page_url": "http://arxiv.org/abs/2405.20447",
+          "pdf_url": "https://arxiv.org/pdf/2405.20447",
+          "is_oa": true,
+          "version": "submittedVersion"
+        },
+        {
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2405.20447",
+          "pdf_url": null,
+          "is_oa": true,
+          "version": null
+        }
+      ],
+      "missing_fields": {
+        "jel_codes": "Not inferred from metadata; consult the screened source assessment.",
+        "study_type": "Not inferred from metadata; consult the screened source assessment.",
+        "population": "Not inferred from metadata; consult the screened source assessment.",
+        "geography": "Not inferred from metadata; consult the screened source assessment.",
+        "sample_size": "Not inferred from metadata; consult the screened source assessment."
+      },
+      "primary_source_url": "https://facctconference.org/static/papers24/facct24-44.pdf",
+      "reading_scope": "A*: formal paper section 2, Example 2.1 and section 2.1 checked on web",
+      "source_indices": [
+        14
+      ]
+    },
+    {
+      "title": "A Job I Like or a Job I Can Get: Designing Job Recommender Systems Using Field Experiments",
+      "authors": [
+        "Guillaume Bied",
+        "Philippe Caillou",
+        "Bruno Crépon",
+        "Christophe Gaillac",
+        "Elia Pérennes",
+        "Michèle Sebag"
+      ],
+      "year": 2026,
+      "arxiv_id": "2603.21699v1",
+      "venue": "arXiv",
+      "publication_type": "preprint",
+      "publication_status": "preprint",
+      "primary_source_url": "https://arxiv.org/abs/2603.21699",
+      "source_platforms": [
+        "arxiv"
+      ],
+      "full_text_status": "unknown",
+      "pdf_url": null,
+      "reading_scope": "A*: arXiv v1 HTML, abstract and section 2.7; known HTML text access is recorded independently of the PDF-status enum",
+      "doi": null,
+      "fetched_at": "2026-10-20",
+      "abstract": null,
+      "jel_codes": [],
+      "study_type": null,
+      "sample_size": null,
+      "population": null,
+      "geography": null,
+      "open_access_status": "unknown",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "field_sources": {
+        "title": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "year": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2603.21699",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ]
+      },
+      "missing_fields": {
+        "doi": "Not extracted; no value inferred from topic or access.",
+        "abstract": "Not extracted; no value inferred from topic or access.",
+        "jel_codes": "Not extracted; no value inferred from topic or access.",
+        "study_type": "Not extracted; no value inferred from topic or access.",
+        "sample_size": "Not extracted; no value inferred from topic or access.",
+        "population": "Not extracted; no value inferred from topic or access.",
+        "geography": "Not extracted; no value inferred from topic or access."
+      },
+      "source_indices": [
+        15
+      ],
+      "arxiv_versions": [
+        {
+          "source_index": 15,
+          "arxiv_id": "2603.21699v1",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "title": "Learning the Distribution Map in Reverse Causal Performative Prediction",
+      "authors": [
+        "Daniele Bracale",
+        "Subha Maity",
+        "Moulinath Banerjee",
+        "Yuekai Sun"
+      ],
+      "year": 2024,
+      "arxiv_id": "2405.15172v1",
+      "venue": "arXiv",
+      "publication_type": "preprint",
+      "publication_status": "preprint-version-reviewed",
+      "primary_source_url": "https://arxiv.org/abs/2405.15172",
+      "source_platforms": [
+        "arxiv"
+      ],
+      "full_text_status": "unknown",
+      "pdf_url": null,
+      "reading_scope": "A*: arXiv v1 HTML section 2 and Example 2.2; latest journal publication status not inferred",
+      "doi": null,
+      "fetched_at": "2026-10-20",
+      "abstract": null,
+      "jel_codes": [],
+      "study_type": null,
+      "sample_size": null,
+      "population": null,
+      "geography": null,
+      "open_access_status": "unknown",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "field_sources": {
+        "title": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "year": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2405.15172",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ]
+      },
+      "missing_fields": {
+        "doi": "Not extracted; no value inferred from topic or access.",
+        "abstract": "Not extracted; no value inferred from topic or access.",
+        "jel_codes": "Not extracted; no value inferred from topic or access.",
+        "study_type": "Not extracted; no value inferred from topic or access.",
+        "sample_size": "Not extracted; no value inferred from topic or access.",
+        "population": "Not extracted; no value inferred from topic or access.",
+        "geography": "Not extracted; no value inferred from topic or access."
+      },
+      "source_indices": [
+        16
+      ],
+      "arxiv_versions": [
+        {
+          "source_index": 16,
+          "arxiv_id": "2405.15172v1",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "title": "The Geometry of Learning Under AI Delegation",
+      "authors": [
+        "Lingxiao Huang",
+        "Nisheeth K. Vishnoi"
+      ],
+      "year": 2026,
+      "venue": "Cowles Foundation Discussion Paper 2499",
+      "arxiv_id": null,
+      "publication_type": "working-paper",
+      "publication_status": "working-paper",
+      "primary_source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+      "source_platforms": [
+        "cowles_yale"
+      ],
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+      "reading_scope": "A*: abstract, model overview and conclusions checked in official working paper; not locally downloaded",
+      "doi": null,
+      "fetched_at": "2026-10-20",
+      "abstract": null,
+      "jel_codes": [],
+      "study_type": null,
+      "sample_size": null,
+      "population": null,
+      "geography": null,
+      "open_access_status": "unknown",
+      "download_status": "not_requested",
+      "pdf_verification_status": "unverified",
+      "paper_identity_status": "unverified",
+      "field_sources": {
+        "title": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "year": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "full_text_status": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "open_access_status": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ],
+        "pdf_url": [
+          {
+            "platform": "cowles_yale",
+            "source_url": "https://cowles.yale.edu/sites/default/files/2026-03/d2499.pdf",
+            "checked_at": "2026-10-20T01:34:27.534568Z",
+            "evidence_type": "page_text"
+          }
+        ]
+      },
+      "missing_fields": {
+        "doi": "Not extracted; no value inferred from topic or access.",
+        "abstract": "Not extracted; no value inferred from topic or access.",
+        "jel_codes": "Not extracted; no value inferred from topic or access.",
+        "study_type": "Not extracted; no value inferred from topic or access.",
+        "sample_size": "Not extracted; no value inferred from topic or access.",
+        "population": "Not extracted; no value inferred from topic or access.",
+        "geography": "Not extracted; no value inferred from topic or access."
+      },
+      "source_indices": [
+        17
+      ]
+    }
+  ],
+  "groups": [],
+  "possible_duplicates": [],
+  "conflicts": [],
+  "summary": {
+    "input_records": 18,
+    "output_records": 18,
+    "duplicate_groups": 0,
+    "merged_records": 0,
+    "possible_duplicates": 0,
+    "conflicts": 0
+  }
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "query": "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness",
+    "url": "https://api.crossref.org/works?query.title=Algorithmic+Fairness+in+Performative+Policy+Learning%3A+Escaping+the+Impossibility+of+Group+Fairness&rows=4",
+    "checked_at": "2026-10-20T01:25:18.154957Z",
+    "exact_doi": "10.1145/3630106.3658929",
+    "candidates": [
+      {
+        "title": [
+          "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness"
+        ],
+        "doi": "10.1145/3630106.3658929"
+      },
+      {
+        "title": [
+          "Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+        ],
+        "doi": "10.1007/s13347-022-00584-6"
+      },
+      {
+        "title": [
+          "Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+        ],
+        "doi": "10.2139/ssrn.3883649"
+      },
+      {
+        "title": [
+          "Correction to: Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+        ],
+        "doi": "10.1007/s13347-023-00611-0"
+      }
+    ]
+  },
+  {
+    "query": "Learning the Distribution Map in Reverse Causal Performative Prediction",
+    "url": "https://api.crossref.org/works?query.title=Learning+the+Distribution+Map+in+Reverse+Causal+Performative+Prediction&rows=4",
+    "checked_at": "2026-10-20T01:25:19.392675Z",
+    "exact_doi": null,
+    "candidates": [
+      {
+        "title": [
+          "Learning Market Equilibria Preserving Statistical Privacy Using Performative Prediction"
+        ],
+        "doi": "10.1109/tac.2025.3566920"
+      },
+      {
+        "title": [
+          "Learning, prediction and causal Bayes nets"
+        ],
+        "doi": "10.1016/s1364-6613(02)00009-8"
+      },
+      {
+        "title": [
+          "Conceptual modeling of causal map: Object oriented causal map"
+        ],
+        "doi": "10.1016/j.eswa.2010.06.073"
+      },
+      {
+        "title": [
+          "Distributionally Robust Performative Prediction"
+        ],
+        "doi": "10.52202/079017-1746"
+      }
+    ]
+  },
+  {
+    "query": "Providing Advice to Jobseekers at Low Cost: An Experimental Study on Online Advice",
+    "url": "https://api.crossref.org/works?query.title=Providing+Advice+to+Jobseekers+at+Low+Cost%3A+An+Experimental+Study+on+Online+Advice&rows=4",
+    "checked_at": "2026-10-20T01:25:20.298510Z",
+    "exact_doi": null,
+    "candidates": []
+  }
+]

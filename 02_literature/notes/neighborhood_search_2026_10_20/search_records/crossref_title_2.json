@@ -1,0 +1,9 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works?query.title=Providing+Advice+to+Jobseekers+at+Low+Cost%3A+An+Experimental+Study+on+Online+Advice&rows=4",
+    "checked_at": "2026-10-20T01:25:20.298510Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "data": {}
+}

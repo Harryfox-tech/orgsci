@@ -1,0 +1,1059 @@
+{
+  "request": {
+    "url": "https://api.openalex.org/works/https://doi.org/10.5465/amj.2023.0311",
+    "checked_at": "2026-10-20T01:25:27.379086Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4412928165",
+    "doi": "https://doi.org/10.5465/amj.2023.0311",
+    "title": "On the Move: The Impact of Internal Mobility and Internal Comobility on Unit- and Organization-Level Outcomes",
+    "display_name": "On the Move: The Impact of Internal Mobility and Internal Comobility on Unit- and Organization-Level Outcomes",
+    "publication_year": 2025,
+    "publication_date": "2025-08-04",
+    "ids": {
+      "openalex": "https://openalex.org/W4412928165",
+      "doi": "https://doi.org/10.5465/amj.2023.0311"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.5465/amj.2023.0311",
+      "doi": "https://doi.org/10.5465/amj.2023.0311",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.5465/amj.2023.0311",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S117778295",
+        "display_name": "Academy of Management Journal",
+        "issn_l": "0001-4273",
+        "issn": [
+          "0001-4273",
+          "1948-0989"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-1-star",
+          "ft50",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "utd24",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310316266",
+        "host_organization_name": "Academy of Management",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310316266"
+        ],
+        "host_organization_lineage_names": [
+          "Academy of Management"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Academy of Management Journal",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5063426471",
+          "display_name": "Caitlin Ray",
+          "orcid": "https://orcid.org/0000-0002-3045-2396",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3045-2396"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I205783295",
+            "display_name": "Cornell University",
+            "ror": "https://ror.org/05bnh6r87",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I205783295"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Caitlin Ray",
+        "raw_affiliation_strings": [
+          "Cornell University"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Cornell University",
+            "institution_ids": [
+              "https://openalex.org/I205783295"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5018114028",
+          "display_name": "Anthony J. Nyberg",
+          "orcid": "https://orcid.org/0000-0002-6653-5126",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6653-5126"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I155781252",
+            "display_name": "University of South Carolina",
+            "ror": "https://ror.org/02b6qw903",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I155781252"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Anthony J. Nyberg",
+        "raw_affiliation_strings": [
+          "University of South Carolina"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6653-5126",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of South Carolina",
+            "institution_ids": [
+              "https://openalex.org/I155781252"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5084553943",
+          "display_name": "Mark A. Maltarich",
+          "orcid": "https://orcid.org/0000-0002-5545-3301",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5545-3301"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I155781252",
+            "display_name": "University of South Carolina",
+            "ror": "https://ror.org/02b6qw903",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I155781252"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mark A. Maltarich",
+        "raw_affiliation_strings": [
+          "University of South Carolina"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of South Carolina",
+            "institution_ids": [
+              "https://openalex.org/I155781252"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5039403254",
+          "display_name": "Greg Reilly",
+          "orcid": "https://orcid.org/0000-0001-5194-9740",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5194-9740"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I140172145",
+            "display_name": "University of Connecticut",
+            "ror": "https://ror.org/02der9h97",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I140172145"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Greg Reilly",
+        "raw_affiliation_strings": [
+          "University of Connecticut"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Connecticut",
+            "institution_ids": [
+              "https://openalex.org/I140172145"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 1.2823,
+    "has_fulltext": false,
+    "cited_by_count": 1,
+    "citation_normalized_percentile": {
+      "value": 0.83735052,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": {
+      "min": 93,
+      "max": 96
+    },
+    "biblio": {
+      "volume": "69",
+      "issue": "1",
+      "first_page": "76",
+      "last_page": "98"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T12843",
+      "display_name": "Human Resource and Talent Management",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.9932000041007996,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.001500000013038516,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10006",
+        "display_name": "Job Satisfaction and Organizational Behavior",
+        "score": 0.0007999999797903001,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/internal-mobility",
+        "display_name": "internal mobility",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/human-capital",
+        "display_name": "human capital",
+        "score": 0.6430000066757202
+      },
+      {
+        "id": "https://openalex.org/keywords/social-capital",
+        "display_name": "social capital",
+        "score": 0.9629999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-performance",
+        "display_name": "organizational performance",
+        "score": 0.8519999980926514
+      },
+      {
+        "id": "https://openalex.org/keywords/strategic-human-capital",
+        "display_name": "strategic human capital",
+        "score": 0.5360000133514404
+      },
+      {
+        "id": "https://openalex.org/keywords/job-transfer",
+        "display_name": "employee transfer",
+        "score": 0.5899999737739563
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-growth",
+        "display_name": "organizational growth",
+        "score": 0.4819999933242798
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C122637931",
+        "wikidata": "https://www.wikidata.org/wiki/Q118084",
+        "display_name": "Unit (ring theory)",
+        "level": 2,
+        "score": 0.5466211438179016
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.46868541836738586
+      },
+      {
+        "id": "https://openalex.org/C21547014",
+        "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+        "display_name": "Operations management",
+        "level": 1,
+        "score": 0.43026798963546753
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.4003351330757141
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3220897912979126
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.18428835272789001
+      },
+      {
+        "id": "https://openalex.org/C145420912",
+        "wikidata": "https://www.wikidata.org/wiki/Q853077",
+        "display_name": "Mathematics education",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.5465/amj.2023.0311",
+        "doi": "https://doi.org/10.5465/amj.2023.0311",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5465/amj.2023.0311",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S117778295",
+          "display_name": "Academy of Management Journal",
+          "issn_l": "0001-4273",
+          "issn": [
+            "0001-4273",
+            "1948-0989"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-1-star",
+            "ft50",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "utd24",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310316266",
+          "host_organization_name": "Academy of Management",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316266"
+          ],
+          "host_organization_lineage_names": [
+            "Academy of Management"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Academy of Management Journal",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": null,
+    "sustainable_development_goals": [
+      {
+        "score": 0.48510000109672546,
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 109,
+    "referenced_works": [
+      "https://openalex.org/W1524826946",
+      "https://openalex.org/W1607003182",
+      "https://openalex.org/W1759668209",
+      "https://openalex.org/W1892934997",
+      "https://openalex.org/W1954584856",
+      "https://openalex.org/W1966526368",
+      "https://openalex.org/W1966644285",
+      "https://openalex.org/W1967400042",
+      "https://openalex.org/W1984958540",
+      "https://openalex.org/W1991859259",
+      "https://openalex.org/W1993164540",
+      "https://openalex.org/W1994108876",
+      "https://openalex.org/W1994560140",
+      "https://openalex.org/W1997626026",
+      "https://openalex.org/W1998122290",
+      "https://openalex.org/W2000399889",
+      "https://openalex.org/W2002157733",
+      "https://openalex.org/W2005702808",
+      "https://openalex.org/W2011159042",
+      "https://openalex.org/W2012525758",
+      "https://openalex.org/W2015073246",
+      "https://openalex.org/W2015152577",
+      "https://openalex.org/W2016213419",
+      "https://openalex.org/W2024812403",
+      "https://openalex.org/W2025838266",
+      "https://openalex.org/W2027468736",
+      "https://openalex.org/W2036002592",
+      "https://openalex.org/W2041425382",
+      "https://openalex.org/W2045467352",
+      "https://openalex.org/W2049873060",
+      "https://openalex.org/W2050273383",
+      "https://openalex.org/W2051286323",
+      "https://openalex.org/W2055800040",
+      "https://openalex.org/W2057892852",
+      "https://openalex.org/W2061518704",
+      "https://openalex.org/W2063055323",
+      "https://openalex.org/W2065373252",
+      "https://openalex.org/W2065647662",
+      "https://openalex.org/W2072519171",
+      "https://openalex.org/W2078749862",
+      "https://openalex.org/W2080477975",
+      "https://openalex.org/W2085353424",
+      "https://openalex.org/W2094902704",
+      "https://openalex.org/W2095672342",
+      "https://openalex.org/W2098175952",
+      "https://openalex.org/W2098249754",
+      "https://openalex.org/W2098277369",
+      "https://openalex.org/W2100320021",
+      "https://openalex.org/W2100922849",
+      "https://openalex.org/W2104021674",
+      "https://openalex.org/W2106997448",
+      "https://openalex.org/W2107640840",
+      "https://openalex.org/W2108155894",
+      "https://openalex.org/W2108795964",
+      "https://openalex.org/W2109466081",
+      "https://openalex.org/W2117173126",
+      "https://openalex.org/W2120260080",
+      "https://openalex.org/W2141960526",
+      "https://openalex.org/W2146038986",
+      "https://openalex.org/W2146713452",
+      "https://openalex.org/W2147243858",
+      "https://openalex.org/W2149032669",
+      "https://openalex.org/W2149570223",
+      "https://openalex.org/W2157995238",
+      "https://openalex.org/W2160772712",
+      "https://openalex.org/W2161345121",
+      "https://openalex.org/W2162949058",
+      "https://openalex.org/W2163465511",
+      "https://openalex.org/W2164497524",
+      "https://openalex.org/W2168709143",
+      "https://openalex.org/W2172224956",
+      "https://openalex.org/W2255676802",
+      "https://openalex.org/W2325770775",
+      "https://openalex.org/W2329506796",
+      "https://openalex.org/W2478325087",
+      "https://openalex.org/W2489616192",
+      "https://openalex.org/W2503312136",
+      "https://openalex.org/W2519100606",
+      "https://openalex.org/W2581748621",
+      "https://openalex.org/W2731564633",
+      "https://openalex.org/W2742527422",
+      "https://openalex.org/W2763949344",
+      "https://openalex.org/W2771274926",
+      "https://openalex.org/W2799526247",
+      "https://openalex.org/W2900801941",
+      "https://openalex.org/W2911987465",
+      "https://openalex.org/W2935832803",
+      "https://openalex.org/W2943568871",
+      "https://openalex.org/W2988806615",
+      "https://openalex.org/W2995066262",
+      "https://openalex.org/W2999220338",
+      "https://openalex.org/W3011212669",
+      "https://openalex.org/W3013310300",
+      "https://openalex.org/W3016424323",
+      "https://openalex.org/W3021373294",
+      "https://openalex.org/W3029061199",
+      "https://openalex.org/W3033200481",
+      "https://openalex.org/W3035368609",
+      "https://openalex.org/W3039779057",
+      "https://openalex.org/W3092930736",
+      "https://openalex.org/W3104297544",
+      "https://openalex.org/W3197003265",
+      "https://openalex.org/W3199995837",
+      "https://openalex.org/W4200228784",
+      "https://openalex.org/W4225272271",
+      "https://openalex.org/W4310490472",
+      "https://openalex.org/W4318705134",
+      "https://openalex.org/W4385067881",
+      "https://openalex.org/W4391971892"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W611386996",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W4220667126",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W3006817050",
+      "https://openalex.org/W4401768695",
+      "https://openalex.org/W57911776",
+      "https://openalex.org/W1996137866"
+    ],
+    "abstract_inverted_index": {
+      "Internal": [
+        0
+      ],
+      "mobility": [
+        1,
+        49,
+        64,
+        90,
+        159
+      ],
+      "is": [
+        2,
+        65
+      ],
+      "commonly": [
+        3
+      ],
+      "used": [
+        4
+      ],
+      "to": [
+        5,
+        43,
+        50,
+        58,
+        67,
+        81,
+        84,
+        156,
+        172
+      ],
+      "reallocate": [
+        6
+      ],
+      "talent": [
+        7
+      ],
+      "within": [
+        8,
+        118
+      ],
+      "organizations.": [
+        9,
+        68
+      ],
+      "Despite": [
+        10
+      ],
+      "its": [
+        11
+      ],
+      "prevalence": [
+        12
+      ],
+      "and": [
+        13,
+        40,
+        52,
+        77,
+        87,
+        109,
+        112,
+        138,
+        160,
+        166,
+        176
+      ],
+      "potential": [
+        14
+      ],
+      "implications": [
+        15
+      ],
+      "for": [
+        16
+      ],
+      "organizational": [
+        17
+      ],
+      "performance,": [
+        18
+      ],
+      "most": [
+        19
+      ],
+      "prior": [
+        20
+      ],
+      "work": [
+        21
+      ],
+      "has": [
+        22,
+        35
+      ],
+      "focused": [
+        23
+      ],
+      "on": [
+        24
+      ],
+      "the": [
+        25,
+        44,
+        134,
+        143,
+        147
+      ],
+      "individual-level": [
+        26
+      ],
+      "outcomes": [
+        27
+      ],
+      "associated": [
+        28,
+        114
+      ],
+      "with": [
+        29,
+        115
+      ],
+      "internal": [
+        30,
+        48,
+        63,
+        89,
+        126,
+        158,
+        174
+      ],
+      "mobility.": [
+        31
+      ],
+      "That": [
+        32
+      ],
+      "is,": [
+        33
+      ],
+      "there": [
+        34
+      ],
+      "been": [
+        36
+      ],
+      "relatively": [
+        37
+      ],
+      "limited": [
+        38
+      ],
+      "theoretical": [
+        39
+      ],
+      "empirical": [
+        41
+      ],
+      "attention": [
+        42
+      ],
+      "mechanisms": [
+        45
+      ],
+      "that": [
+        46
+      ],
+      "connect": [
+        47
+      ],
+      "unit-": [
+        51
+      ],
+      "organization-level": [
+        53
+      ],
+      "outcomes,": [
+        54
+      ],
+      "making": [
+        55
+      ],
+      "it": [
+        56
+      ],
+      "difficult": [
+        57
+      ],
+      "predict": [
+        59,
+        85
+      ],
+      "when": [
+        60,
+        86,
+        171
+      ],
+      "or": [
+        61
+      ],
+      "why": [
+        62,
+        88
+      ],
+      "beneficial": [
+        66
+      ],
+      "To": [
+        69
+      ],
+      "address": [
+        70
+      ],
+      "this": [
+        71,
+        97
+      ],
+      "oversight,": [
+        72
+      ],
+      "we": [
+        73,
+        154
+      ],
+      "draw": [
+        74
+      ],
+      "from": [
+        75,
+        130,
+        142
+      ],
+      "human": [
+        76,
+        162
+      ],
+      "social": [
+        78
+      ],
+      "capital": [
+        79,
+        163
+      ],
+      "literatures": [
+        80,
+        165
+      ],
+      "build": [
+        82
+      ],
+      "theory": [
+        83
+      ],
+      "will": [
+        91
+      ],
+      "have": [
+        92
+      ],
+      "unit-level": [
+        93
+      ],
+      "implications.": [
+        94
+      ],
+      "We": [
+        95
+      ],
+      "test": [
+        96
+      ],
+      "by": [
+        98
+      ],
+      "examining": [
+        99
+      ],
+      "a": [
+        100,
+        105
+      ],
+      "period": [
+        101
+      ],
+      "of": [
+        102,
+        125
+      ],
+      "growth": [
+        103
+      ],
+      "in": [
+        104,
+        133,
+        146
+      ],
+      "Fortune": [
+        106
+      ],
+      "500": [
+        107
+      ],
+      "company": [
+        108
+      ],
+      "evaluate": [
+        110
+      ],
+      "gains": [
+        111
+      ],
+      "losses": [
+        113
+      ],
+      "moving": [
+        116
+      ],
+      "employees": [
+        117
+      ],
+      "firms,": [
+        119
+      ],
+      "including": [
+        120
+      ],
+      "distinguishing": [
+        121
+      ],
+      "between": [
+        122
+      ],
+      "two": [
+        123
+      ],
+      "types": [
+        124
+      ],
+      "movers—those": [
+        127
+      ],
+      "who": [
+        128,
+        140
+      ],
+      "come": [
+        129,
+        141
+      ],
+      "different": [
+        131
+      ],
+      "units": [
+        132
+      ],
+      "organization": [
+        135,
+        148
+      ],
+      "(solo": [
+        136
+      ],
+      "movers)": [
+        137
+      ],
+      "those": [
+        139
+      ],
+      "same": [
+        144
+      ],
+      "unit": [
+        145
+      ],
+      "(comobile": [
+        149
+      ],
+      "movers).": [
+        150
+      ],
+      "In": [
+        151
+      ],
+      "doing": [
+        152
+      ],
+      "so,": [
+        153
+      ],
+      "contribute": [
+        155
+      ],
+      "both": [
+        157
+      ],
+      "strategic": [
+        161
+      ],
+      "resource": [
+        164
+      ],
+      "provide": [
+        167
+      ],
+      "actionable": [
+        168
+      ],
+      "insights": [
+        169
+      ],
+      "regarding": [
+        170
+      ],
+      "source": [
+        173
+      ],
+      "movers,": [
+        175
+      ],
+      "where": [
+        177
+      ],
+      "from.": [
+        178
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

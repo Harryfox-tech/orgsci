@@ -1,0 +1,2984 @@
+{
+  "request": {
+    "url": "https://api.crossref.org/works?query.title=Algorithmic+Fairness+in+Performative+Policy+Learning%3A+Escaping+the+Impossibility+of+Group+Fairness&rows=4",
+    "checked_at": "2026-10-20T01:25:18.154957Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work-list",
+    "message-version": "1.0.0",
+    "message": {
+      "facets": {},
+      "total-results": 3553282,
+      "items": [
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                30
+              ]
+            ],
+            "date-time": "2026-06-30T06:39:33Z",
+            "timestamp": 1782801573829,
+            "version": "3.54.5"
+          },
+          "publisher-location": "New York, NY, USA",
+          "reference-count": 65,
+          "publisher": "ACM",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2024,
+                    6,
+                    3
+                  ]
+                ],
+                "date-time": "2024-06-03T00:00:00Z",
+                "timestamp": 1717372800000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+            }
+          ],
+          "funder": [
+            {
+              "DOI": "10.13039/501100006374",
+              "name": "National Science Foundation",
+              "doi-asserted-by": "publisher",
+              "award": [
+                "2027737, 2113373"
+              ],
+              "award-info": [
+                {
+                  "award-number": [
+                    "2027737, 2113373"
+                  ]
+                }
+              ],
+              "id": [
+                {
+                  "id": "10.13039/501100006374",
+                  "id-type": "DOI",
+                  "asserted-by": "publisher"
+                }
+              ]
+            }
+          ],
+          "content-domain": {
+            "domain": [
+              "dl.acm.org"
+            ],
+            "crossmark-restriction": true
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                3
+              ]
+            ]
+          },
+          "DOI": "10.1145/3630106.3658929",
+          "type": "proceedings-article",
+          "created": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                5
+              ]
+            ],
+            "date-time": "2024-06-05T09:14:21Z",
+            "timestamp": 1717578861000
+          },
+          "page": "616-630",
+          "update-policy": "https://doi.org/10.1145/crossmark-policy",
+          "source": "Crossref",
+          "is-referenced-by-count": 6,
+          "title": [
+            "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness"
+          ],
+          "prefix": "10.1145",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0009-0003-9290-0849",
+              "authenticated-orcid": false,
+              "given": "Seamus",
+              "family": "Somerstep",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Department of Statistics, University of Michigan, United States of America"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0000-0002-6046-8479",
+              "authenticated-orcid": false,
+              "given": "Ya'acov",
+              "family": "Ritov",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Department of Statistics, University of Michigan, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "ORCID": "https://orcid.org/0009-0004-5657-2283",
+              "authenticated-orcid": false,
+              "given": "Yuekai",
+              "family": "Sun",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Department of Statistics, University of Michigan, USA"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "320",
+          "published-online": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                5
+              ]
+            ]
+          },
+          "reference": [
+            {
+              "key": "e_1_3_2_1_1_1",
+              "volume-title": "Proceedings of the 35th International Conference on Machine Learning. PMLR, 60–69",
+              "author": "Agarwal Alekh",
+              "year": "2018",
+              "unstructured": "Alekh Agarwal, Alina Beygelzimer, Miroslav Dudik, John Langford, and Hanna Wallach. 2018. A Reductions Approach to Fair Classification. In Proceedings of the 35th International Conference on Machine Learning. PMLR, 60–69."
+            },
+            {
+              "key": "e_1_3_2_1_2_1",
+              "volume-title": "The Theory of Discrimination. Labor Economics vol 4",
+              "author": "Arrow Kenneth",
+              "year": "1971",
+              "unstructured": "Kenneth Arrow. 1971. The Theory of Discrimination. Labor Economics vol 4 (1971)."
+            },
+            {
+              "key": "e_1_3_2_1_3_1",
+              "volume-title": "Fairness in Criminal Justice Risk Assessments: The State of the Art. arXiv:1703.09207 [stat] (March",
+              "author": "Berk Richard",
+              "year": "2017",
+              "unstructured": "Richard Berk, Hoda Heidari, Shahin Jabbari, Michael Kearns, and Aaron Roth. 2017. Fairness in Criminal Justice Risk Assessments: The State of the Art. arXiv:1703.09207 [stat] (March 2017). arxiv:1703.09207 [stat]"
+            },
+            {
+              "key": "e_1_3_2_1_4_1",
+              "volume-title": "Boyd and Lieven Vandenberghe",
+              "author": "P.",
+              "year": "2004",
+              "unstructured": "Stephen P. Boyd and Lieven Vandenberghe. 2004. Convex Optimization. Cambridge University Press, Cambridge, UK ; New York."
+            },
+            {
+              "key": "e_1_3_2_1_5_1",
+              "volume-title": "International Conference on Artificial Intelligence and Statistics.",
+              "author": "Brown Gavin",
+              "year": "2022",
+              "unstructured": "Gavin Brown, Shlomi Hod, and Iden Kalemaj. 2022. Performative Prediction in a Stateful World. In International Conference on Artificial Intelligence and Statistics."
+            },
+            {
+              "key": "e_1_3_2_1_6_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Ran Canetti Aloni Cohen Nishanth Dikkala Govind Ramnarayan Sarah Scheffler and Adam Smith. 2019. From Soft Classifiers to Hard Decisions: How fair can we be?arxiv:1810.02003 [cs.LG]",
+              "DOI": "10.1145/3287560.3287561"
+            },
+            {
+              "key": "e_1_3_2_1_7_1",
+              "unstructured": "Ben Casselman and Dana Goldstein. 2015. The New Science of Sentencing. https://www.themarshallproject.org/2015/08/04/the-new-science-of-sentencing."
+            },
+            {
+              "key": "e_1_3_2_1_8_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287586"
+            },
+            {
+              "key": "e_1_3_2_1_9_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1089/big.2016.0047"
+            },
+            {
+              "key": "e_1_3_2_1_10_1",
+              "volume-title": "Will Affirmative-Action Policies Eliminate Negative Stereotypes?The American Economic Review 83, 5",
+              "author": "Coate Stephen",
+              "year": "1993",
+              "unstructured": "Stephen Coate and Glenn C. Loury. 1993. Will Affirmative-Action Policies Eliminate Negative Stereotypes?The American Economic Review 83, 5 (1993), 1220–1240. jstor:2117558"
+            },
+            {
+              "key": "e_1_3_2_1_11_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.3386/w23811"
+            },
+            {
+              "key": "e_1_3_2_1_12_1",
+              "unstructured": "Kate Crawford. 2017. The Trouble with Bias."
+            },
+            {
+              "key": "e_1_3_2_1_13_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3351095.3372878"
+            },
+            {
+              "key": "e_1_3_2_1_14_1",
+              "volume-title": "Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women",
+              "author": "Dastin Jeffrey",
+              "year": "2018",
+              "unstructured": "Jeffrey Dastin. 2018. Amazon Scraps Secret AI Recruiting Tool That Showed Bias against Women. Reuters (Oct. 2018)."
+            },
+            {
+              "key": "e_1_3_2_1_15_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1177/20539517211044808"
+            },
+            {
+              "key": "e_1_3_2_1_16_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1161/CIRCULATIONAHA.115.001593"
+            },
+            {
+              "key": "e_1_3_2_1_17_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3351095.3372847"
+            },
+            {
+              "key": "e_1_3_2_1_18_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3593013.3594006"
+            },
+            {
+              "key": "e_1_3_2_1_19_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3593013.3594006"
+            },
+            {
+              "key": "e_1_3_2_1_20_1",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Hanming Fang and Andrea Moro. 2011. Chapter 5 - Theories of Statistical Discrimination and Affirmative Action: A Survey. Handbook of Social Economics Vol. 1. North-Holland 133–200. https://doi.org/10.1016/B978-0-444-53187-2.00005-X",
+              "DOI": "10.1016/B978-0-444-53187-2.00005-X"
+            },
+            {
+              "key": "e_1_3_2_1_21_1",
+              "volume-title": "Affirmative Action in Winner-Take-All Markets. The Journal of Economic Inequality",
+              "author": "Fryar G.",
+              "year": "2005",
+              "unstructured": "Roland G. Fryar and Glenn C. Loury. 2005. Affirmative Action in Winner-Take-All Markets. The Journal of Economic Inequality (2005)."
+            },
+            {
+              "key": "e_1_3_2_1_22_1",
+              "volume-title": "Journal of Political Economy",
+              "author": "Fryar G.",
+              "year": "2013",
+              "unstructured": "Roland G. Fryar and Glenn C. Loury. 2013. Valuing Diversity. Journal of Political Economy (2013)."
+            },
+            {
+              "key": "e_1_3_2_1_23_1",
+              "unstructured": "Roland G. Fryar Glenn C. Loury and Tolga Yuret. 2008. An Economic Analysis of Color-Blind Affirmative Action. The Journal of Law Economics and Organization. (2008)."
+            },
+            {
+              "key": "e_1_3_2_1_24_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/s13347-022-00584-6"
+            },
+            {
+              "key": "e_1_3_2_1_25_1",
+              "volume-title": "Beyond Impossibility: Balancing Sufficiency, Separation and Accuracy. arxiv:2205.12327 [cs.LG]",
+              "author": "Gultchin Limor",
+              "year": "2022",
+              "unstructured": "Limor Gultchin, Vincent Cohen-Addad, Sophie Giffard-Roisin, Varun Kanade, and Frederik Mallmann-Trenn. 2022. Beyond Impossibility: Balancing Sufficiency, Separation and Accuracy. arxiv:2205.12327 [cs.LG]"
+            },
+            {
+              "key": "e_1_3_2_1_26_1",
+              "volume-title": "Performative Power. arXiv:2203.17232 [cs, econ] (March",
+              "author": "Hardt Moritz",
+              "year": "2022",
+              "unstructured": "Moritz Hardt, Meena Jagadeesan, and Celestine Mendler-Dünner. 2022. Performative Power. arXiv:2203.17232 [cs, econ] (March 2022). arxiv:2203.17232 [cs, econ]"
+            },
+            {
+              "key": "e_1_3_2_1_27_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/2840728.2840730"
+            },
+            {
+              "key": "e_1_3_2_1_28_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.5555/3157382.3157469"
+            },
+            {
+              "key": "e_1_3_2_1_29_1",
+              "volume-title": "Proceedings of the 36th International Conference on Machine Learning. PMLR, 2692–2701",
+              "author": "Heidari Hoda",
+              "year": "2019",
+              "unstructured": "Hoda Heidari, Vedant Nanda, and Krishna Gummadi. 2019. On the Long-term Impact of Algorithmic Decision Policies: Effort Unfairness and Feature Segregation through Social Learning. In Proceedings of the 36th International Conference on Machine Learning. PMLR, 2692–2701."
+            },
+            {
+              "key": "e_1_3_2_1_30_1",
+              "volume-title": "A Tale of Two Shifts: Causal Strategic Classification. https://arxiv.org/pdf/2302.06280.pdf",
+              "author": "Horowitz Guy",
+              "year": "2023",
+              "unstructured": "Guy Horowitz and Nir Rosenfeld. 2023. A Tale of Two Shifts: Causal Strategic Classification. https://arxiv.org/pdf/2302.06280.pdf (2023)."
+            },
+            {
+              "key": "e_1_3_2_1_31_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287597"
+            },
+            {
+              "key": "e_1_3_2_1_32_1",
+              "volume-title": "Proceedings of the 38th International Conference on Machine Learning. PMLR, 4641–4650",
+              "author": "Izzo Zachary",
+              "year": "2021",
+              "unstructured": "Zachary Izzo, Lexing Ying, and James Zou. 2021. How to Learn When Data Reacts to Your Model: Performative Gradient Descent. In Proceedings of the 38th International Conference on Machine Learning. PMLR, 4641–4650."
+            },
+            {
+              "key": "e_1_3_2_1_33_1",
+              "volume-title": "Supply-Side Equilibria in Recommender Systems. In Thirty-Seventh Conference on Neural Information Processing Systems.",
+              "author": "Jagadeesan Meena",
+              "year": "2023",
+              "unstructured": "Meena Jagadeesan, Nikhil Garg, and Jacob Steinhardt. 2023. Supply-Side Equilibria in Recommender Systems. In Thirty-Seventh Conference on Neural Information Processing Systems."
+            },
+            {
+              "key": "e_1_3_2_1_34_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287578"
+            },
+            {
+              "key": "e_1_3_2_1_35_1",
+              "unstructured": "Michael P. Kim and Juan C. Perdomo. 2023. Making Decisions under Outcome Performativity. arxiv:2210.01745 [cs stat]"
+            },
+            {
+              "key": "e_1_3_2_1_36_1",
+              "volume-title": "Proceedings of the 8th Conference on Innovations in Theoretical Computer Science (ITCS)",
+              "author": "Kleinberg Jon",
+              "year": "2016",
+              "unstructured": "Jon Kleinberg, Sendhil Mullainathan, and Manish Raghavan. 2016. Inherent Trade-Offs in the Fair Determination of Risk Scores. In Proceedings of the 8th Conference on Innovations in Theoretical Computer Science (ITCS). Berkeley, CA. arxiv:1609.05807"
+            },
+            {
+              "key": "e_1_3_2_1_37_1",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Claire Lazar Reich and Suhas Vijaykumar. 2021. A Possibility in Algorithmic Fairness: Can Calibration and Equal Error Rates Be Reconciled?Schloss Dagstuhl – Leibniz-Zentrum für Informatik. https://doi.org/10.4230/LIPICS.FORC.2021.4",
+              "DOI": "10.4230/LIPICS.FORC.2021.4"
+            },
+            {
+              "key": "e_1_3_2_1_38_1",
+              "volume-title": "Proceedings of the 38th International Conference on Machine Learning. PMLR, 6243–6253",
+              "author": "Levanon Sagi",
+              "year": "2021",
+              "unstructured": "Sagi Levanon and Nir Rosenfeld. 2021. Strategic Classification Made Practical. In Proceedings of the 38th International Conference on Machine Learning. PMLR, 6243–6253."
+            },
+            {
+              "key": "e_1_3_2_1_39_1",
+              "volume-title": "Delayed Impact of Fair Machine Learning. arXiv:1803.04383 [cs, stat] (March",
+              "author": "Liu T.",
+              "year": "2018",
+              "unstructured": "Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, and Moritz Hardt. 2018. Delayed Impact of Fair Machine Learning. arXiv:1803.04383 [cs, stat] (March 2018). arxiv:1803.04383 [cs, stat]"
+            },
+            {
+              "key": "e_1_3_2_1_40_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3351095.3372861"
+            },
+            {
+              "key": "e_1_3_2_1_41_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.5555/3524938.3525528"
+            },
+            {
+              "key": "e_1_3_2_1_42_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.4324/9780203056615"
+            },
+            {
+              "key": "e_1_3_2_1_43_1",
+              "volume-title": "Learning Adversarially Fair and Transferable Representations. arXiv:1802.06309 [cs, stat] (Feb",
+              "author": "Madras David",
+              "year": "2018",
+              "unstructured": "David Madras, Elliot Creager, Toniann Pitassi, and Richard Zemel. 2018. Learning Adversarially Fair and Transferable Representations. arXiv:1802.06309 [cs, stat] (Feb. 2018). arxiv:1802.06309 [cs, stat]"
+            },
+            {
+              "key": "e_1_3_2_1_44_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Andreas Maurer. 2016. A vector-contraction inequality for Rademacher complexities. arxiv:1605.00251 [cs.LG]",
+              "DOI": "10.1007/978-3-319-46379-7_1"
+            },
+            {
+              "key": "e_1_3_2_1_45_1",
+              "unstructured": "Celestine Mendler-Dünner Frances Ding and Yixin Wang. 2022. Anticipating Performativity by Predicting from Predictions. In Advances in Neural Information Processing Systems."
+            },
+            {
+              "key": "e_1_3_2_1_46_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.5555/3495724.3496138"
+            },
+            {
+              "key": "e_1_3_2_1_47_1",
+              "volume-title": "Strategic Classification Is Causal Modeling in Disguise. arXiv:1910.10362 [cs, stat] (Feb",
+              "author": "Miller John",
+              "year": "2020",
+              "unstructured": "John Miller, Smitha Milli, and Moritz Hardt. 2020. Strategic Classification Is Causal Modeling in Disguise. arXiv:1910.10362 [cs, stat] (Feb. 2020). arxiv:1910.10362 [cs, stat]"
+            },
+            {
+              "key": "e_1_3_2_1_48_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287576"
+            },
+            {
+              "key": "e_1_3_2_1_49_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0047-2727(01)00121-9"
+            },
+            {
+              "key": "e_1_3_2_1_50_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0022-0531(03)00165-0"
+            },
+            {
+              "key": "e_1_3_2_1_51_1",
+              "unstructured": "Kirtan Padh Diego Antognini Emma Lejal Glaude Boi Faltings and Claudiu Musat. 2021. Addressing Fairness in Classification with a Model-Agnostic Multi-Objective Algorithm. arxiv:2009.04441 [cs.LG]"
+            },
+            {
+              "key": "e_1_3_2_1_52_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/S0169-7161(06)26005-X"
+            },
+            {
+              "key": "e_1_3_2_1_53_1",
+              "volume-title": "Performative Prediction. In Proceedings of the 37th International Conference on Machine Learning. PMLR, 7599–7609",
+              "author": "Perdomo Juan",
+              "year": "2020",
+              "unstructured": "Juan Perdomo, Tijana Zrnic, Celestine Mendler-Dünner, and Moritz Hardt. 2020. Performative Prediction. In Proceedings of the 37th International Conference on Machine Learning. PMLR, 7599–7609."
+            },
+            {
+              "key": "e_1_3_2_1_54_1",
+              "unstructured": "Case-Kevin Petrasic Benjamin Saul James Greig and Katherine Lamberth. 2017. Algorithms and Bias: What Lenders Need to Know. White & Case LLP."
+            },
+            {
+              "key": "e_1_3_2_1_55_1",
+              "volume-title": "The Statistical Theory of Racism and Sexism. The American Economic Review",
+              "author": "Phelps Edmund",
+              "year": "1972",
+              "unstructured": "Edmund Phelps. 1972. The Statistical Theory of Racism and Sexism. The American Economic Review (1972)."
+            },
+            {
+              "key": "e_1_3_2_1_56_1",
+              "volume-title": "Advances in Neural Information Processing Systems, I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett (Eds.). Vol. 30. Curran Associates",
+              "author": "Pleiss Geoff",
+              "year": "2017",
+              "unstructured": "Geoff Pleiss, Manish Raghavan, Felix Wu, Jon Kleinberg, and Kilian Q Weinberger. 2017. On Fairness and Calibration. In Advances in Neural Information Processing Systems, I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett (Eds.). Vol. 30. Curran Associates, Inc.https://proceedings.neurips.cc/paper_files/paper/2017/file/b8b9c74ac526fffbeb2d39ab038d1cd7-Paper.pdf"
+            },
+            {
+              "key": "e_1_3_2_1_57_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3587930"
+            },
+            {
+              "key": "e_1_3_2_1_58_1",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Miriam Rateike Isabel Valera and Patrick Forré. 2023. Designing Long-term Group Fair Policies in Dynamical Systems. arxiv:2311.12447 [cs.AI]",
+              "DOI": "10.1145/3630106.3658538"
+            },
+            {
+              "key": "e_1_3_2_1_59_1",
+              "volume-title": "Predictive Policing: Using Machine Learning to Detect Patterns of Crime. Wired (Aug.",
+              "author": "Rudin Cynthia",
+              "year": "2013",
+              "unstructured": "Cynthia Rudin. 2013. Predictive Policing: Using Machine Learning to Detect Patterns of Crime. Wired (Aug. 2013)."
+            },
+            {
+              "key": "e_1_3_2_1_60_1",
+              "volume-title": "Causal Strategic Linear Regression. In International Conference on Machine Learning.",
+              "author": "Shavit Yonadav",
+              "year": "2020",
+              "unstructured": "Yonadav Shavit, Benjamin Edelman, and Brian Axelrod. 2020. Causal Strategic Linear Regression. In International Conference on Machine Learning."
+            },
+            {
+              "key": "e_1_3_2_1_61_1",
+              "volume-title": "Learning in Reverse Causal Strategic Environments with Ramifications on Two Sided Markets. In NeurIPS 2023 Workshop on Algorithmic Fairness through the Lens of Time (AFT2023)",
+              "author": "Somerstep Seamus",
+              "year": "2023",
+              "unstructured": "Seamus Somerstep, Yuekai Sun, and Ya’acov Ritov. 2023. Learning in Reverse Causal Strategic Environments with Ramifications on Two Sided Markets. In NeurIPS 2023 Workshop on Algorithmic Fairness through the Lens of Time (AFT2023)."
+            },
+            {
+              "key": "e_1_3_2_1_62_1",
+              "volume-title": "The Twelfth International Conference on Learning Representations. https://openreview.net/forum?id=vEfmVS5ywF",
+              "author": "Somerstep Seamus",
+              "year": "2024",
+              "unstructured": "Seamus Somerstep, Yuekai Sun, and Yaacov Ritov. 2024. Learning in reverse causal strategic environments with ramifications on two sided markets. In The Twelfth International Conference on Learning Representations. https://openreview.net/forum?id=vEfmVS5ywF"
+            },
+            {
+              "key": "e_1_3_2_1_63_1",
+              "volume-title": "Long-Term Fairness with Unknown Dynamics. In Thirty-Seventh Conference on Neural Information Processing Systems.",
+              "author": "Yin Tongxin",
+              "year": "2023",
+              "unstructured": "Tongxin Yin, Reilly Raab, Mingyan Liu, and Yang Liu. 2023. Long-Term Fairness with Unknown Dynamics. In Thirty-Seventh Conference on Neural Information Processing Systems."
+            },
+            {
+              "key": "e_1_3_2_1_64_1",
+              "unstructured": "Sebastian Zezulka and Konstantin Genin. 2023. Performativity and Prospective Fairness. arxiv:2310.08349 [cs.CY]"
+            },
+            {
+              "key": "e_1_3_2_1_65_1",
+              "volume-title": "Proceedings of the 39th International Conference on Machine Learning(Proceedings of Machine Learning Research, Vol. 162)",
+              "author": "Zhang Xueru",
+              "year": "2022",
+              "unstructured": "Xueru Zhang, Mohammad Mahdi Khalili, Kun Jin, Parinaz Naghizadeh, and Mingyan Liu. 2022. Fairness Interventions as (Dis)Incentives for Strategic Manipulation. In Proceedings of the 39th International Conference on Machine Learning(Proceedings of Machine Learning Research, Vol. 162), Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato (Eds.). PMLR, 26239–26264. https://proceedings.mlr.press/v162/zhang22l.html"
+            }
+          ],
+          "event": {
+            "name": "FAccT '24: The 2024 ACM Conference on Fairness, Accountability, and Transparency",
+            "location": "Rio de Janeiro Brazil",
+            "acronym": "FAccT '24"
+          },
+          "container-title": [
+            "The 2024 ACM Conference on Fairness Accountability and Transparency"
+          ],
+          "link": [
+            {
+              "URL": "https://dl.acm.org/doi/10.1145/3630106.3658929",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://dl.acm.org/doi/pdf/10.1145/3630106.3658929",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2025,
+                8,
+                22
+              ]
+            ],
+            "date-time": "2025-08-22T17:33:27Z",
+            "timestamp": 1755884007000
+          },
+          "score": 78.676476,
+          "resource": {
+            "primary": {
+              "URL": "https://dl.acm.org/doi/10.1145/3630106.3658929"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                3
+              ]
+            ]
+          },
+          "references-count": 65,
+          "alternative-id": [
+            "10.1145/3630106.3658929",
+            "10.1145/3630106"
+          ],
+          "URL": "https://doi.org/10.1145/3630106.3658929",
+          "published": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                3
+              ]
+            ]
+          },
+          "assertion": [
+            {
+              "value": "2024-06-05",
+              "order": 3,
+              "name": "published",
+              "label": "Published",
+              "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+              }
+            }
+          ]
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                30
+              ]
+            ],
+            "date-time": "2026-09-30T20:47:52Z",
+            "timestamp": 1790801272308,
+            "version": "4.1.0"
+          },
+          "reference-count": 126,
+          "publisher": "Springer Science and Business Media LLC",
+          "issue": "4",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2022,
+                    10,
+                    8
+                  ]
+                ],
+                "date-time": "2022-10-08T00:00:00Z",
+                "timestamp": 1665187200000
+              },
+              "content-version": "tdm",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0"
+            },
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2022,
+                    10,
+                    8
+                  ]
+                ],
+                "date-time": "2022-10-08T00:00:00Z",
+                "timestamp": 1665187200000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0"
+            }
+          ],
+          "content-domain": {
+            "domain": [
+              "link.springer.com"
+            ],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Philos. Technol."
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                12
+              ]
+            ]
+          },
+          "abstract": "<jats:title>Abstract</jats:title><jats:p>Efforts to promote equitable public policy with algorithms appear to be fundamentally constrained by the “impossibility of fairness” (an incompatibility between mathematical definitions of fairness). This technical limitation raises a central question about algorithmic fairness: How can computer scientists and policymakers support equitable policy reforms with algorithms? In this article, I argue that promoting justice with algorithms requires reforming the methodology of algorithmic fairness. First, I diagnose the problems of the current methodology for algorithmic fairness, which I call “formal algorithmic fairness.” Because formal algorithmic fairness restricts analysis to isolated decision-making procedures, it leads to the impossibility of fairness and to models that exacerbate oppression despite appearing “fair.” Second, I draw on theories of substantive equality from law and philosophy to propose an alternative methodology, which I call “substantive algorithmic fairness.” Because substantive algorithmic fairness takes a more expansive scope of analysis, it enables an escape from the impossibility of fairness and provides a rigorous guide for alleviating injustice with algorithms. In sum, substantive algorithmic fairness presents a new direction for algorithmic fairness: away from formal mathematical models of “fair” decision-making and toward substantive evaluations of whether and how algorithms can promote justice in practice.</jats:p>",
+          "DOI": "10.1007/s13347-022-00584-6",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                8
+              ]
+            ],
+            "date-time": "2022-10-08T11:03:37Z",
+            "timestamp": 1665227017000
+          },
+          "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+          "source": "Crossref",
+          "is-referenced-by-count": 62,
+          "title": [
+            "Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+          ],
+          "prefix": "10.1007",
+          "volume": "35",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-0332-4110",
+              "authenticated-orcid": false,
+              "given": "Ben",
+              "family": "Green",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "297",
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                8
+              ]
+            ]
+          },
+          "reference": [
+            {
+              "key": "584_CR1",
+              "unstructured": "115th United States Congress. (2017). S.1593 - Pretrial Integrity and Safety Act of 2017. https://www.congress.gov/bill/115th-congress/senate-bill/1593. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR2",
+              "unstructured": "116th United States Congress. (2019). H.R.2231 - Algorithmic Accountability Act of 2019. https://www.congress.gov/bill/116th-congress/house-bill/2231. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR3",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Abebe, R., Barocas, S., Kleinberg, J., Levy, K., Raghavan, M., & Robinson, D. G. (2020). Roles for computing in social change. Proceedings of the ACM Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3351095.3372871",
+              "DOI": "10.1145/3351095.3372871"
+            },
+            {
+              "key": "584_CR4",
+              "unstructured": "Albright, A. (2019). If you give a judge a risk score: evidence from Kentucky bail decisions. https://thelittledataset.com/about_files/albright_judge_score.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR5",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Anderson, E. S. (1999). What is the point of equality? Ethics, 109(2), 287–337. https://doi.org/10.1086/233897",
+              "DOI": "10.1086/233897"
+            },
+            {
+              "key": "584_CR6",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.2307/j.ctvc775n0",
+              "volume-title": "Private government: how employers rule our lives (and why we don’t talk about it)",
+              "author": "E Anderson",
+              "year": "2017",
+              "unstructured": "Anderson, E. (2017). Private government: how employers rule our lives (and why we don’t talk about it). Princeton University Press."
+            },
+            {
+              "key": "584_CR7",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Anderson, E. (2009). Toward a non-ideal, relational methodology for political philosophy: comments on Schwartzman's Challenging Liberalism. Hypatia, 24(4), 130–145. www.jstor.org/stable/20618184",
+              "DOI": "10.1111/j.1527-2001.2009.01062.x"
+            },
+            {
+              "key": "584_CR8",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Angwin, J., & Larson, J. (2016). Bias in criminal risk scores is mathematically inevitable, researchers say. ProPublica. https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say. Accessed 4 Oct 2022",
+              "DOI": "10.1201/9781003278290-38"
+            },
+            {
+              "key": "584_CR9",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias. ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing. Accessed 4 Oct 2022",
+              "DOI": "10.1201/9781003278290-37"
+            },
+            {
+              "key": "584_CR10",
+              "unstructured": "Arneson, R. (2013). Egalitarianism. The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/egalitarianism/. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR11",
+              "unstructured": "Arnold Ventures. (2019). Statement of principles on pretrial justice and use of pretrial risk assessment. https://craftmediabucket.s3.amazonaws.com/uploads/Arnold-Ventures-Statement-of-Principles-on-Pretrial-Justice.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR12",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Asad, M. (2019). Prefigurative design as a method for research justice. Proceedings of the ACM on Human-Computer Interaction, 3(CSCW). https://doi.org/10.1145/3359302",
+              "DOI": "10.1145/3359302"
+            },
+            {
+              "key": "584_CR13",
+              "unstructured": "Barabas, C., Virza, M., Dinakar, K., Ito, J., & Zittrain, J. (2018). Interventions over predictions: reframing the ethical debate for actuarial risk assessment. Proceedings of the 1st Conference on Fairness, Accountability and Transparency. https://proceedings.mlr.press/v81/barabas18a.html"
+            },
+            {
+              "key": "584_CR14",
+              "unstructured": "Baradaran, S. (2011). Restoring the presumption of innocence. Ohio State Law Journal, 72, 723–776. http://hdl.handle.net/1811/71454"
+            },
+            {
+              "key": "584_CR15",
+              "unstructured": "Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and machine learning. fairmlbook.org."
+            },
+            {
+              "key": "584_CR16",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Berk, R., Heidari, H., Jabbari, S., Kearns, M., & Roth, A. (2018). Fairness in criminal justice risk assessments: the state of the art. Sociological Methods & Research, 1-42. https://doi.org/10.1177/0049124118782533",
+              "DOI": "10.1177/0049124118782533"
+            },
+            {
+              "key": "584_CR17",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1515/9781400847815",
+              "volume-title": "The crooked timber of humanity",
+              "author": "I Berlin",
+              "year": "2013",
+              "unstructured": "Berlin, I. (2013). The crooked timber of humanity. Princeton University Press."
+            },
+            {
+              "key": "584_CR18",
+              "unstructured": "Binns, R. (2018). Fairness in machine learning: lessons from political philosophy. Proceedings of the 1st Conference on Fairness, Accountability and Transparency. http://proceedings.mlr.press/v81/binns18a.html"
+            },
+            {
+              "key": "584_CR19",
+              "unstructured": "Booker, C. (2019). Booker, Wyden, Clarke Introduce Bill Requiring Companies To Target Bias In Corporate Algorithms. https://www.booker.senate.gov/news/press/booker-wyden-clarke-introduce-bill-requiring-companies-to-target-bias-in-corporate-algorithms. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR20",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7551/mitpress/11022.001.0001",
+              "volume-title": "Artificial unintelligence: how computers misunderstand the world",
+              "author": "M Broussard",
+              "year": "2018",
+              "unstructured": "Broussard, M. (2018). Artificial unintelligence: how computers misunderstand the world. MIT Press."
+            },
+            {
+              "key": "584_CR21",
+              "unstructured": "Brown, S. (2020). Data accountability and transparency Act of 2020. https://www.banking.senate.gov/imo/media/doc/Brown%20-%20DATA%202020%20Discussion%20Draft.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR22",
+              "unstructured": "Bui, M. L., & Noble, S. U. (2020). We’re missing a moral framework of justice in artificial intelligence: on the limits, failings, and ethics of fairness. In M. D. Dubber, F. Pasquale, & S. Das (Eds.), The Oxford handbook of ethics of AI. Oxford University Press."
+            },
+            {
+              "key": "584_CR23",
+              "unstructured": "Butler, P. (2017). Chokehold: policing black men. The New Press."
+            },
+            {
+              "key": "584_CR24",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Chouldechova, A. (2017). Fair prediction with disparate impact: a study of bias in recidivism prediction instruments. Big Data, 5(2), 153–163. https://doi.org/10.1089/big.2016.0047",
+              "DOI": "10.1089/big.2016.0047"
+            },
+            {
+              "key": "584_CR25",
+              "unstructured": "Chouldechova, A., Benavides-Prado, D., Fialko, O., & Vaithianathan, R. (2018). A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions. Proceedings of the 1st Conference on Fairness, Accountability and Transparency. https://proceedings.mlr.press/v81/chouldechova18a.html"
+            },
+            {
+              "key": "584_CR26",
+              "volume-title": "Black feminist thought: knowledge, consciousness, and the politics of empowerment",
+              "author": "PH Collins",
+              "year": "2000",
+              "unstructured": "Collins, P. H. (2000). Black feminist thought: knowledge, consciousness, and the politics of empowerment. Routledge."
+            },
+            {
+              "key": "584_CR27",
+              "unstructured": "Cooper, A., & Smith, E. L. (2011). Homicide trends in the United States, 1980–2008. U.S. Department of Justice, Bureau of Justice Statistics. https://www.bjs.gov/content/pub/pdf/htus8008.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR28",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. https://doi.org/10.1145/3097983.3098095",
+              "DOI": "10.1145/3097983.3098095"
+            },
+            {
+              "key": "584_CR29",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7551/mitpress/12255.001.0001",
+              "volume-title": "Design justice: community-led practices to build the worlds we need",
+              "author": "S Costanza-Chock",
+              "year": "2020",
+              "unstructured": "Costanza-Chock, S. (2020). Design justice: community-led practices to build the worlds we need. MIT Press."
+            },
+            {
+              "key": "584_CR30",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Crenshaw, K. W. (1988). Race, reform, and retrenchment: transformation and legitimation in antidiscrimination law. Harvard Law Review, 101(7), 1331–1387. https://doi.org/10.2307/1341398",
+              "DOI": "10.2307/1341398"
+            },
+            {
+              "key": "584_CR31",
+              "unstructured": "Crenshaw, K. (1989). Demarginalizing the intersection of race and sex: a black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics. University of Chicago Legal Forum, 1989(1), 139–167. https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/"
+            },
+            {
+              "key": "584_CR32",
+              "unstructured": "Crespo, A. M. (2015). Systemic facts: toward institutional awareness in criminal courts. Harvard Law Review, 129, 2049–2117. https://harvardlawreview.org/2016/06/systemic-facts-toward-institutional-awareness-in-criminal-courts/"
+            },
+            {
+              "key": "584_CR33",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7551/mitpress/11805.001.0001",
+              "volume-title": "Data feminism",
+              "author": "C D’Ignazio",
+              "year": "2020",
+              "unstructured": "D’Ignazio, C., & Klein, L. F. (2020). Data feminism. MIT Press."
+            },
+            {
+              "key": "584_CR34",
+              "unstructured": "DataSF. (2018). Keeping moms and babies in nutrition program. https://datasf.org/showcase/datascience/keeping-moms-and-babies-in-nutrition-program/. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR35",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Davis, J. L., Williams, A., & Yang, M. W. (2021). Algorithmic reparation. Big Data & Society, 8(2). https://doi.org/10.1177/20539517211044808",
+              "DOI": "10.1177/20539517211044808"
+            },
+            {
+              "key": "584_CR36",
+              "unstructured": "Davis, A. Y. (2003). Are prisons obsolete? Seven Stories Press."
+            },
+            {
+              "key": "584_CR37",
+              "unstructured": "Denvir, D. (2015). The key ingredient in stop-and-frisk reform: open data. Bloomberg. https://www.bloomberg.com/news/articles/2015-08-24/the-missing-ingredient-in-stop-and-frisk-reform-open-data. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR38",
+              "unstructured": "Dewey, J. (1938). Logic: the theory of inquiry. Henry Holt and Company."
+            },
+            {
+              "issue": "3",
+              "key": "584_CR39",
+              "doi-asserted-by": "publisher",
+              "first-page": "1063",
+              "DOI": "10.1086/701354",
+              "volume": "127",
+              "author": "R Diamond",
+              "year": "2019",
+              "unstructured": "Diamond, R., & McQuade, T. (2019). Who wants affordable housing in their backyard? An equilibrium analysis of low-income property development. Journal of Political Economy, 127(3), 1063–1117. https://doi.org/10.1086/701354",
+              "journal-title": "Journal of Political Economy"
+            },
+            {
+              "key": "584_CR40",
+              "unstructured": "Dieterich, W., Mendoza, C., & Brennan, T. (2016). COMPAS risk scales: demonstrating accuracy equity and predictive parity. Northpointe Inc. Research Department. https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "issue": "2",
+              "key": "584_CR41",
+              "doi-asserted-by": "publisher",
+              "first-page": "201",
+              "DOI": "10.1257/aer.20161503",
+              "volume": "108",
+              "author": "W Dobbie",
+              "year": "2018",
+              "unstructured": "Dobbie, W., Goldin, J., & Yang, C. S. (2018). The effects of pretrial detention on conviction, future crime, and employment: evidence from randomly assigned judges. American Economic Review, 108(2), 201–240. https://doi.org/10.1257/aer.20161503",
+              "journal-title": "American Economic Review"
+            },
+            {
+              "key": "584_CR42",
+              "unstructured": "Doctorow, C. (2016). Algorithmic risk-assessment: hiding racism behind \"empirical\" black boxes. Boing Boing. https://boingboing.net/2016/05/24/algorithmic-risk-assessment-h.html. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR43",
+              "unstructured": "EdBuild. (2019). $23 Billion. https://edbuild.org/content/23-billion/full-report.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR44",
+              "unstructured": "Eubanks, V. (2018). Automating inequality: how high-tech tools profile, police, and punish the poor. St. Martin’s Press"
+            },
+            {
+              "key": "584_CR45",
+              "unstructured": "European Commission. (2021). Proposal for a regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificial-intelligence. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR46",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7208/chicago/9780226526331.001.0001",
+              "volume-title": "Ghosts in the schoolyard: racism and school closings on Chicago's South Side",
+              "author": "EL Ewing",
+              "year": "2018",
+              "unstructured": "Ewing, E. L. (2018). Ghosts in the schoolyard: racism and school closings on Chicago’s South Side. University of Chicago Press."
+            },
+            {
+              "key": "584_CR47",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Feldman, M., Friedler, S. A., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2015). Certifying and removing disparate impact. Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. https://doi.org/10.1145/2783258.2783311",
+              "DOI": "10.1145/2783258.2783311"
+            },
+            {
+              "key": "584_CR48",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1093/acprof:oso/9780199812141.001.0001",
+              "volume-title": "Bottlenecks: a new theory of equal opportunity",
+              "author": "J Fishkin",
+              "year": "2014",
+              "unstructured": "Fishkin, J. (2014). Bottlenecks: a new theory of equal opportunity. Oxford University Press."
+            },
+            {
+              "key": "584_CR49",
+              "unstructured": "Flores, A. W., Bechtel, K., & Lowenkamp, C. T. (2016). False positives, false negatives, and false analyses: a rejoinder to “Machine bias: there’s software used across the country to predict future criminals. And it’s biased against blacks.” Federal Probation, 80, 38–46. https://www.uscourts.gov/federal-probation-journal/2016/09/false-positives-false-negatives-and-false-analyses-rejoinder"
+            },
+            {
+              "issue": "4",
+              "key": "584_CR50",
+              "doi-asserted-by": "publisher",
+              "first-page": "136",
+              "DOI": "10.1145/3433949",
+              "volume": "64",
+              "author": "SA Friedler",
+              "year": "2021",
+              "unstructured": "Friedler, S. A., Scheidegger, C., & Venkatasubramanian, S. (2021). The (im)possibility of fairness: different value systems require different mechanisms for fair decision making. Communications of the ACM, 64(4), 136–143. https://doi.org/10.1145/3433949",
+              "journal-title": "Communications of the ACM"
+            },
+            {
+              "key": "584_CR51",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Gallie, W. B. (1955). Essentially contested concepts. Proceedings of the Aristotelian Society, 56, 167–198. https://www.jstor.org/stable/4544562",
+              "DOI": "10.1093/aristotelian/56.1.167"
+            },
+            {
+              "issue": "7",
+              "key": "584_CR52",
+              "doi-asserted-by": "publisher",
+              "first-page": "882",
+              "DOI": "10.1080/1369118X.2019.1593484",
+              "volume": "22",
+              "author": "SP Gangadharan",
+              "year": "2019",
+              "unstructured": "Gangadharan, S. P., & Niklas, J. (2019). Decentering technology in discourse on discrimination. Information, Communication & Society, 22(7), 882–899. https://doi.org/10.1080/1369118X.2019.1593484",
+              "journal-title": "Information, Communication & Society"
+            },
+            {
+              "key": "584_CR53",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Goel, S., Rao, J. M., & Shroff, R. (2016). Precinct or prejudice? Understanding racial disparities in New York City’s stop-and-frisk policy. The Annals of Applied Statistics, 10(1), 365–394. https://doi.org/10.1214/15-AOAS897",
+              "DOI": "10.1214/15-AOAS897"
+            },
+            {
+              "key": "584_CR54",
+              "unstructured": "Gong, A. (2016). Ethics for powerful algorithms (1 of 4). Medium."
+            },
+            {
+              "key": "584_CR55",
+              "unstructured": "Gorz, A. (1967). Strategy for labor. Beacon Press."
+            },
+            {
+              "key": "584_CR56",
+              "unstructured": "Gosepath, S. (2021). Equality. The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/equality/. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR57",
+              "unstructured": "Government of Canada. (2021). Directive on automated decision-making. https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR58",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Graeff, E. (2020). The responsibility to not design and the need for citizen professionalism. Tech Otherwise. https://techotherwise.pubpub.org/pub/vizamy14. Accessed 4 Oct 2022",
+              "DOI": "10.21428/93b2c832.c8387014"
+            },
+            {
+              "key": "584_CR59",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7551/mitpress/11555.001.0001",
+              "volume-title": "The smart enough city: putting technology in its place to reclaim our urban future",
+              "author": "B Green",
+              "year": "2019",
+              "unstructured": "Green, B. (2019). The smart enough city: putting technology in its place to reclaim our urban future. MIT Press."
+            },
+            {
+              "key": "584_CR60",
+              "unstructured": "Green, B. (2018). Putting the J(ustice) in FAT. Berkman Klein Center Collection - Medium. https://medium.com/berkman-klein-center/putting-the-j-ustice-in-fat-28da2b8eae6d. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR61",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Green, B. (2020). The false promise of risk assessments: epistemic reform and the limits of fairness. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3351095.3372869",
+              "DOI": "10.1145/3351095.3372869"
+            },
+            {
+              "key": "584_CR62",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Green, B., & Chen, Y. (2019). Disparate interactions: an algorithm-in-the-loop analysis of fairness in risk assessments. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3287560.3287563",
+              "DOI": "10.1145/3287560.3287563"
+            },
+            {
+              "key": "584_CR63",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Green, B., & Chen, Y. (2021). Algorithmic risk assessments can alter human decision-making processes in high-stakes government contexts. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW2). https://doi.org/10.1145/3479562",
+              "DOI": "10.1145/3479562"
+            },
+            {
+              "key": "584_CR64",
+              "unstructured": "Green, B., & Hu, L. (2018). The myth in the methodology: towards a recontextualization of fairness in machine learning. Machine Learning: The Debates workshop at the 35th International Conference on Machine Learning. https://www.benzevgreen.com/18-icmldebates/"
+            },
+            {
+              "key": "584_CR65",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Green, B., & Viljoen, S. (2020). Algorithmic realism: expanding the boundaries of algorithmic thought. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3351095.3372840",
+              "DOI": "10.1145/3351095.3372840"
+            },
+            {
+              "key": "584_CR66",
+              "volume-title": "Is science multicultural?: postcolonialisms, feminisms, and epistemologies",
+              "author": "S Harding",
+              "year": "1998",
+              "unstructured": "Harding, S. (1998). Is science multicultural?: postcolonialisms, feminisms, and epistemologies. Indiana University Press."
+            },
+            {
+              "key": "584_CR67",
+              "unstructured": "Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. 30th Conference on Neural Information Processing Systems. https://papers.nips.cc/paper/2016/hash/9d2682367c3935defcb1f9e247a97c0d-Abstract.html"
+            },
+            {
+              "key": "584_CR68",
+              "unstructured": "Hellman, D. (2020). Measuring algorithmic fairness. Virginia Law Review, 106(4), 811–866. https://www.virginialawreview.org/articles/measuring-algorithmic-fairness/"
+            },
+            {
+              "key": "584_CR69",
+              "unstructured": "Herring, T. (2020). Releasing people pretrial doesn’t harm public safety. Prison Policy Initiative. https://www.prisonpolicy.org/blog/2020/11/17/pretrial-releases/. Accessed 4 Oct 2022"
+            },
+            {
+              "issue": "7",
+              "key": "584_CR70",
+              "doi-asserted-by": "publisher",
+              "first-page": "900",
+              "DOI": "10.1080/1369118X.2019.1573912",
+              "volume": "22",
+              "author": "AL Hoffmann",
+              "year": "2019",
+              "unstructured": "Hoffmann, A. L. (2019). Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse. Information, Communication & Society, 22(7), 900–915. https://doi.org/10.1080/1369118X.2019.1573912",
+              "journal-title": "Information, Communication & Society"
+            },
+            {
+              "key": "584_CR71",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Jacobs, A. Z., & Wallach, H. (2021). Measurement and fairness. Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, 375–385. https://doi.org/10.1145/3442188.3445901",
+              "DOI": "10.1145/3442188.3445901"
+            },
+            {
+              "key": "584_CR72",
+              "unstructured": "Johnston, R. (2022). New algorithm to expunge 500,000 criminal records in Utah. StateScoop. https://statescoop.com/utah-record-expunge-algorithm-code-for-america/. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR73",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7312/kahn18424",
+              "volume-title": "Race on the brain: what implicit bias gets wrong about the struggle for racial justice",
+              "author": "J Kahn",
+              "year": "2017",
+              "unstructured": "Kahn, J. (2017). Race on the brain: what implicit bias gets wrong about the struggle for racial justice. Columbia University Press."
+            },
+            {
+              "key": "584_CR74",
+              "doi-asserted-by": "publisher",
+              "first-page": "169",
+              "DOI": "10.1038/d41586-020-02003-2",
+              "volume": "583",
+              "author": "P Kalluri",
+              "year": "2020",
+              "unstructured": "Kalluri, P. (2020). Don’t ask if artificial intelligence is good or fair, ask how it shifts power. Nature, 583, 169. https://doi.org/10.1038/d41586-020-02003-2",
+              "journal-title": "Nature"
+            },
+            {
+              "key": "584_CR75",
+              "doi-asserted-by": "publisher",
+              "first-page": "113",
+              "DOI": "10.1093/jla/laz001",
+              "volume": "10",
+              "author": "J Kleinberg",
+              "year": "2019",
+              "unstructured": "Kleinberg, J., Ludwig, J., Mullainathan, S., & Sunstein, C. R. (2019). Discrimination in the age of algorithms. Journal of Legal Analysis, 10, 113–174. https://doi.org/10.1093/jla/laz001",
+              "journal-title": "Journal of Legal Analysis"
+            },
+            {
+              "key": "584_CR76",
+              "unstructured": "Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). Inherent trade-offs in the fair determination of risk scores. arXiv. https://arxiv.org/abs/1609.05807. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR77",
+              "unstructured": "Koepke, J. L., & Robinson, D. G. (2018). Danger ahead: risk assessment and the future of bail reform. Washington Law Review, 93, 1725–1807. https://digitalcommons.law.uw.edu/wlr/vol93/iss4/4/"
+            },
+            {
+              "key": "584_CR78",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Lakkaraju, H., Aguiar, E., Shan, C., Miller, D., Bhanpuri, N., Ghani, R., et al. (2015). A machine learning framework to identify students at risk of adverse academic outcomes. Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. https://doi.org/10.1145/2783258.2788620",
+              "DOI": "10.1145/2783258.2788620"
+            },
+            {
+              "key": "584_CR79",
+              "unstructured": "Larson, J., Mattu, S., Kirchner, L., & Angwin, J. (2016). How we analyzed the COMPAS recidivism algorithm. ProPublica. https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR80",
+              "unstructured": "Le, V. (2021). The Automated Decisions Systems Accountability Act (AB 13) explained. The Greenlining Institute. https://greenlining.org/blog-category/2021/automated-decisions-accountability-act-ab-13/. Accessed 4 Oct 2022"
+            },
+            {
+              "issue": "4",
+              "key": "584_CR81",
+              "doi-asserted-by": "publisher",
+              "first-page": "529",
+              "DOI": "10.1007/s43681-021-00067-y",
+              "volume": "1",
+              "author": "MSA Lee",
+              "year": "2021",
+              "unstructured": "Lee, M. S. A., Floridi, L., & Singh, J. (2021). Formalising trade-offs beyond algorithmic fairness: lessons from ethical philosophy and welfare economics. AI and Ethics, 1(4), 529–544. https://doi.org/10.1007/s43681-021-00067-y",
+              "journal-title": "AI and Ethics"
+            },
+            {
+              "key": "584_CR82",
+              "unstructured": "Lehmann, N. (2021). Can affirmative action survive? The New Yorker. https://www.newyorker.com/magazine/2021/08/02/can-affirmative-action-survive. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR83",
+              "unstructured": "Leonhardt, D. (2020). A progressive problem. The New York Times. https://www.nytimes.com/2020/11/18/briefing/immunity-dolly-parton-chuck-grassley.html. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR84",
+              "unstructured": "Lewis, T., Gangadharan, S. P., Saba, M., & Petty, T. (2018). Digital defense playbook: community power tools for reclaiming data. Our Data Bodies. https://www.odbproject.org/wp-content/uploads/2019/03/ODB_DDP_HighRes_Single.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR85",
+              "unstructured": "Ligett, K. (2021). FAccT 2021 Keynote: In Praise of Flawed Mathematical Models. https://www.youtube.com/watch?v=gZrZwF3XDBw. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR86",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Lochner, L., & Moretti, E. (2004). The effect of education on crime: evidence from prison inmates, arrests, and self-reports. American Economic Review, 94(1), 155–189. https://www.jstor.org/stable/3592774",
+              "DOI": "10.1257/000282804322970751"
+            },
+            {
+              "key": "584_CR87",
+              "unstructured": "MacKinnon, C. A. (2011). Substantive equality: a perspective. Minnesota Law Review, 96, 1. https://scholarship.law.umn.edu/mlr/383/"
+            },
+            {
+              "issue": "2",
+              "key": "584_CR88",
+              "doi-asserted-by": "publisher",
+              "first-page": "380",
+              "DOI": "10.1080/24694452.2017.1365583",
+              "volume": "108",
+              "author": "MM Maharawal",
+              "year": "2018",
+              "unstructured": "Maharawal, M. M., & McElroy, E. (2018). The Anti-Eviction Mapping Project: counter mapping and oral history toward Bay Area housing justice. Annals of the American Association of Geographers, 108(2), 380–389. https://doi.org/10.1080/24694452.2017.1365583",
+              "journal-title": "Annals of the American Association of Geographers"
+            },
+            {
+              "key": "584_CR89",
+              "unstructured": "Mayson, S. G. (2019). Bias in, bias out. Yale Law Journal, 128(8), 2218–2300. https://www.yalelawjournal.org/article/bias-in-bias-out"
+            },
+            {
+              "issue": "2",
+              "key": "584_CR90",
+              "doi-asserted-by": "publisher",
+              "first-page": "205395171879686",
+              "DOI": "10.1177/2053951718796862",
+              "volume": "5",
+              "author": "A Meng",
+              "year": "2018",
+              "unstructured": "Meng, A., & DiSalvo, C. (2018). Grassroots resource mobilization through counter-data action. Big Data & Society, 5(2), 2053951718796862. https://doi.org/10.1177/2053951718796862",
+              "journal-title": "Big Data & Society"
+            },
+            {
+              "key": "584_CR91",
+              "unstructured": "Merriam-Webster. (2021). Methodology. https://www.merriam-webster.com/dictionary/methodology. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR92",
+              "unstructured": "Miller, A. P. (2018). Want less-biased decisions? Use algorithms. Harvard Business Review. https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR93",
+              "volume-title": "Making all the difference: inclusion, exclusion, and American law",
+              "author": "M Minow",
+              "year": "1991",
+              "unstructured": "Minow, M. (1991). Making all the difference: inclusion, exclusion, and American law. Cornell University Press."
+            },
+            {
+              "key": "584_CR94",
+              "doi-asserted-by": "publisher",
+              "first-page": "167",
+              "DOI": "10.1162/ajle_a_00019",
+              "volume": "1",
+              "author": "M Minow",
+              "year": "2021",
+              "unstructured": "Minow, M. (2021). Equality vs. equity. American Journal of Law and Equality, 1, 167–193. https://doi.org/10.1162/ajle_a_00019",
+              "journal-title": "American Journal of Law and Equality"
+            },
+            {
+              "key": "584_CR95",
+              "unstructured": "Morozov, E. (2014). To save everything, click here: the folly of technological solutionism. PublicAffairs."
+            },
+            {
+              "key": "584_CR96",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Muhammad, K. G. (2011). The condemnation of blackness: race, crime, and the making of modern urban America. Harvard University Press.",
+              "DOI": "10.2307/j.ctvjsf4fx"
+            },
+            {
+              "key": "584_CR97",
+              "unstructured": "Murakawa, N. (2014). The First Civil Right: How Liberals Built Prison America. Oxford University Press."
+            },
+            {
+              "key": "584_CR98",
+              "unstructured": "New Jersey Courts. (2017). One Year Criminal Justice Reform Report to the Governor and the Legislature. https://www.njcourts.gov/courts/assets/criminal/2017cjrannual.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR99",
+              "unstructured": "O’Neil, C. (2016). ProPublica report: recidivism risk models are racist. mathbabe. https://mathbabe.org/2016/05/24/propublica-report-recidivism-risk-models-are-racist/. Accessed 4 Oct 2022"
+            },
+            {
+              "issue": "6464",
+              "key": "584_CR100",
+              "doi-asserted-by": "publisher",
+              "first-page": "447",
+              "DOI": "10.1126/science.aax2342",
+              "volume": "366",
+              "author": "Z Obermeyer",
+              "year": "2019",
+              "unstructured": "Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). Dissecting racial bias in an algorithm used to manage the health of populations. Science, 366(6464), 447–453. https://doi.org/10.1126/science.aax2342",
+              "journal-title": "Science"
+            },
+            {
+              "key": "584_CR101",
+              "unstructured": "Ochigame, R., Barabas, C., Dinakar, K., Virza, M., & Ito, J. (2018). Beyond legitimation: rethinking fairness, interpretability, and accuracy in machine learning. Machine Learning: The Debates workshop at the 35th International Conference on Machine Learning."
+            },
+            {
+              "key": "584_CR102",
+              "unstructured": "Ochigame, R. (2020). The long history of algorithmic fairness. Phenomenal World. https://phenomenalworld.org/analysis/long-history-algorithmic-fairness. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR103",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Passi, S., & Barocas, S. (2019). Problem formulation and fairness. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3287560.3287567",
+              "DOI": "10.1145/3287560.3287567"
+            },
+            {
+              "key": "584_CR104",
+              "unstructured": "Porrino, C. S. (2017). Attorney General Law Enforcement Directive 2016-6 v3.0: Modification of Directive Establishing Interim Policies, Practices, and Procedures to Implement Criminal Justice Reform Pursuant to P.L. 2015, c. 31. https://www.nj.gov/lps/dcj/agguide/directives/ag-directive-2016-6_v3-0.pdf. Accesded 4 Oct 2022"
+            },
+            {
+              "key": "584_CR105",
+              "unstructured": "Powles, J., & Nissenbaum, H. (2018). The seductive diversion of ‘solving’ bias in artificial intelligence. OneZero. https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR106",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Raji, I. D., & Buolamwini, J. (2019). Actionable auditing: investigating the impact of publicly naming biased performance results of commercial AI products. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society. https://doi.org/10.1145/3306618.3314244",
+              "DOI": "10.1145/3306618.3314244"
+            },
+            {
+              "issue": "1",
+              "key": "584_CR107",
+              "doi-asserted-by": "publisher",
+              "first-page": "21",
+              "DOI": "10.1007/s12552-014-9134-1",
+              "volume": "7",
+              "author": "R Rothstein",
+              "year": "2015",
+              "unstructured": "Rothstein, R. (2015). The racial achievement gap, segregated schools, and segregated neighborhoods: a constitutional insult. Race and Social Problems, 7(1), 21–30. https://doi.org/10.1007/s12552-014-9134-1",
+              "journal-title": "Race and Social Problems"
+            },
+            {
+              "issue": "2",
+              "key": "584_CR108",
+              "doi-asserted-by": "publisher",
+              "first-page": "224",
+              "DOI": "10.2105/AJPH.2004.037705",
+              "volume": "95",
+              "author": "RJ Sampson",
+              "year": "2005",
+              "unstructured": "Sampson, R. J., Morenoff, J. D., & Raudenbush, S. (2005). Social anatomy of racial and ethnic disparities in violence. American Journal of Public Health, 95(2), 224–232. https://doi.org/10.2105/AJPH.2004.037705",
+              "journal-title": "American Journal of Public Health"
+            },
+            {
+              "key": "584_CR109",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Selbst, A. D., boyd, d., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. Proceedings of the Conference on Fairness, Accountability, and Transparency. https://doi.org/10.1145/3287560.3287598",
+              "DOI": "10.1145/3287560.3287598"
+            },
+            {
+              "key": "584_CR110",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.7208/chicago/9780226924267.001.0001",
+              "volume-title": "Stuck in place: urban neighborhoods and the end of progress toward racial equality",
+              "author": "P Sharkey",
+              "year": "2013",
+              "unstructured": "Sharkey, P. (2013). Stuck in place: urban neighborhoods and the end of progress toward racial equality. University of Chicago Press."
+            },
+            {
+              "key": "584_CR111",
+              "unstructured": "Smith, E., & Reeves, R. V. (2020). SAT math scores mirror and maintain racial inequity. Brookings. https://www.brookings.edu/blog/up-front/2020/12/01/sat-math-scores-mirror-and-maintain-racial-inequity/. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR112",
+              "unstructured": "Stevenson, M. T. (2018). Assessing risk assessment in action. Minnesota Law Review, 103, 303–384. https://scholarship.law.umn.edu/mlr/58/"
+            },
+            {
+              "key": "584_CR113",
+              "unstructured": "Stop LAPD Spying Coalition. (2018). Before the bullet hits the body: dismantling predictive policing in Los Angeles. https://stoplapdspying.org/wp-content/uploads/2018/05/Before-the-Bullet-Hits-the-Body-May-8-2018.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR114",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Sunstein, C. R. (2019). Algorithms, correcting biases. Social Research, 86(2), 499–511. https://muse.jhu.edu/article/732187",
+              "DOI": "10.1353/sor.2019.0024"
+            },
+            {
+              "key": "584_CR115",
+              "unstructured": "United States Supreme Court. (1987). United States v. Salerno. 481 U.S. 739."
+            },
+            {
+              "key": "584_CR116",
+              "unstructured": "The Leadership Conference on Civil and Human Rights. (2018). The use of pretrial “risk assessment” instruments: a shared statement of civil rights concerns. http://civilrightsdocs.info/pdf/criminal-justice/Pretrial-Risk-Assessment-Full.pdf. Accessed 4 Oct 2022"
+            },
+            {
+              "key": "584_CR117",
+              "volume-title": "Twitter and tear gas: the power and fragility of networked protest",
+              "author": "Z Tufekci",
+              "year": "2018",
+              "unstructured": "Tufekci, Z. (2018). Twitter and tear gas: the power and fragility of networked protest. Yale University Press."
+            },
+            {
+              "issue": "2",
+              "key": "584_CR118",
+              "doi-asserted-by": "publisher",
+              "first-page": "301",
+              "DOI": "10.1257/pol.20170490",
+              "volume": "11",
+              "author": "C Tuttle",
+              "year": "2019",
+              "unstructured": "Tuttle, C. (2019). Snapping back: food stamp bans and criminal recidivism. American Economic Journal: Economic Policy, 11(2), 301–327. https://doi.org/10.1257/pol.20170490",
+              "journal-title": "American Economic Journal: Economic Policy"
+            },
+            {
+              "key": "584_CR119",
+              "volume-title": "The Left Alternative",
+              "author": "RM Unger",
+              "year": "2005",
+              "unstructured": "Unger, R. M. (2005). The Left Alternative. Verso."
+            },
+            {
+              "key": "584_CR120",
+              "doi-asserted-by": "crossref",
+              "unstructured": "Wachter, S., Mittelstadt, B., & Russell, C. (2021). Bias preservation in machine learning: the legality of fairness metrics under EU Non-Discrimination Law. West Virginia Law Review, 123(3), 735–390. https://researchrepository.wvu.edu/wvlr/vol123/iss3/4/",
+              "DOI": "10.2139/ssrn.3792772"
+            },
+            {
+              "key": "584_CR121",
+              "doi-asserted-by": "publisher",
+              "unstructured": "West, S. M. (2020). Redistribution and rekognition. Catalyst: Feminism, Theory, Technoscience, 6(2). https://doi.org/10.28968/cftt.v6i2.33043",
+              "DOI": "10.28968/cftt.v6i2.33043"
+            },
+            {
+              "issue": "2",
+              "key": "584_CR122",
+              "doi-asserted-by": "publisher",
+              "first-page": "225",
+              "DOI": "10.1007/s13347-019-00355-w",
+              "volume": "33",
+              "author": "P-H Wong",
+              "year": "2020",
+              "unstructured": "Wong, P.-H. (2020). 2020/06/01). Democratizing algorithmic fairness. Philosophy & Technology, 33(2), 225–244. https://doi.org/10.1007/s13347-019-00355-w",
+              "journal-title": "Democratizing algorithmic fairness. Philosophy & Technology"
+            },
+            {
+              "key": "584_CR123",
+              "volume-title": "Envisioning Real Utopias",
+              "author": "EO Wright",
+              "year": "2010",
+              "unstructured": "Wright, E. O. (2010). Envisioning Real Utopias. Verso."
+            },
+            {
+              "key": "584_CR124",
+              "unstructured": "Yang, C. S. (2017). Toward an optimal bail system. New York University Law Review, 92(5), 1399–1493. https://www.nyulawreview.org/issues/volume-92-number-5/toward-an-optimal-bail-system/"
+            },
+            {
+              "key": "584_CR125",
+              "doi-asserted-by": "publisher",
+              "unstructured": "Ye, T., Johnson, R., Fu, S., Copeny, J., Donnelly, B., Freeman, A., et al. (2019). Using machine learning to help vulnerable tenants in New York City. Proceedings of the ACM SIGCAS Conference on Computing and Sustainable Societies. https://doi.org/10.1145/3314344.3332484",
+              "DOI": "10.1145/3314344.3332484"
+            },
+            {
+              "key": "584_CR126",
+              "volume-title": "Justice and the politics of difference",
+              "author": "IM Young",
+              "year": "1990",
+              "unstructured": "Young, I. M. (1990). Justice and the politics of difference. Princeton University Press."
+            }
+          ],
+          "updated-by": [
+            {
+              "DOI": "10.1007/s13347-023-00611-0",
+              "type": "correction",
+              "label": "Correction",
+              "source": "publisher",
+              "updated": {
+                "date-parts": [
+                  [
+                    2023,
+                    2,
+                    23
+                  ]
+                ],
+                "date-time": "2023-02-23T00:00:00Z",
+                "timestamp": 1677110400000
+              }
+            },
+            {
+              "DOI": "10.1007/s13347-022-00593-5",
+              "type": "correction",
+              "label": "Correction",
+              "source": "publisher",
+              "updated": {
+                "date-parts": [
+                  [
+                    2022,
+                    11,
+                    7
+                  ]
+                ],
+                "date-time": "2022-11-07T00:00:00Z",
+                "timestamp": 1667779200000
+              }
+            }
+          ],
+          "container-title": [
+            "Philosophy &amp; Technology"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s13347-022-00584-6.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/article/10.1007/s13347-022-00584-6/fulltext.html",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s13347-022-00584-6.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                23
+              ]
+            ],
+            "date-time": "2023-02-23T06:54:50Z",
+            "timestamp": 1677135290000
+          },
+          "score": 55.18034,
+          "resource": {
+            "primary": {
+              "URL": "https://link.springer.com/10.1007/s13347-022-00584-6"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                8
+              ]
+            ]
+          },
+          "references-count": 126,
+          "journal-issue": {
+            "issue": "4",
+            "published-print": {
+              "date-parts": [
+                [
+                  2022,
+                  12
+                ]
+              ]
+            }
+          },
+          "alternative-id": [
+            "584"
+          ],
+          "URL": "https://doi.org/10.1007/s13347-022-00584-6",
+          "relation": {
+            "correction": [
+              {
+                "id-type": "doi",
+                "id": "10.1007/s13347-023-00611-0",
+                "asserted-by": "object"
+              },
+              {
+                "id-type": "doi",
+                "id": "10.1007/s13347-022-00593-5",
+                "asserted-by": "object"
+              }
+            ]
+          },
+          "ISSN": [
+            "2210-5433",
+            "2210-5441"
+          ],
+          "issn-type": [
+            {
+              "value": "2210-5433",
+              "type": "print"
+            },
+            {
+              "value": "2210-5441",
+              "type": "electronic"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                8
+              ]
+            ]
+          },
+          "assertion": [
+            {
+              "value": "25 April 2022",
+              "order": 1,
+              "name": "received",
+              "label": "Received",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "21 September 2022",
+              "order": 2,
+              "name": "accepted",
+              "label": "Accepted",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "8 October 2022",
+              "order": 3,
+              "name": "first_online",
+              "label": "First Online",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "23 February 2023",
+              "order": 4,
+              "name": "change_date",
+              "label": "Change Date",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "Correction",
+              "order": 5,
+              "name": "change_type",
+              "label": "Change Type",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "A Correction to this paper has been published:",
+              "order": 6,
+              "name": "change_details",
+              "label": "Change Details",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "https://doi.org/10.1007/s13347-023-00611-0",
+              "URL": "https://doi.org/10.1007/s13347-023-00611-0",
+              "order": 7,
+              "name": "change_details",
+              "label": "Change Details",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "7 November 2022",
+              "order": 8,
+              "name": "change_date",
+              "label": "Change Date",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "Correction",
+              "order": 9,
+              "name": "change_type",
+              "label": "Change Type",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "A Correction to this paper has been published:",
+              "order": 10,
+              "name": "change_details",
+              "label": "Change Details",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "value": "https://doi.org/10.1007/s13347-022-00593-5",
+              "URL": "https://doi.org/10.1007/s13347-022-00593-5",
+              "order": 11,
+              "name": "change_details",
+              "label": "Change Details",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            },
+            {
+              "order": 1,
+              "name": "Ethics",
+              "group": {
+                "name": "EthicsHeading",
+                "label": "Declarations"
+              }
+            },
+            {
+              "value": "The author declares no competing interests.",
+              "order": 2,
+              "name": "Ethics",
+              "group": {
+                "name": "EthicsHeading",
+                "label": "Conflict of Interest"
+              }
+            }
+          ],
+          "article-number": "90"
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                14
+              ]
+            ],
+            "date-time": "2026-08-14T11:29:54Z",
+            "timestamp": 1786706994894,
+            "version": "build-2736575974"
+          },
+          "posted": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "group-title": "SSRN",
+          "reference-count": 105,
+          "publisher": "Elsevier BV",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "abstract": "<jats:p>Efforts to promote equitable public policy with algorithms appear to be fundamentally constrained by the “impossibility of fairness” (an incompatibility between mathematical definitions of fairness). This technical limitation raises a central question about algorithmic fairness: How can computer scientists and policymakers support equitable policy reforms with algorithms? In this article, I argue that promoting justice with algorithms requires reforming the methodology of algorithmic fairness. First, I diagnose the problems of the current methodology for algorithmic fairness, which I call “formal algorithmic fairness.” Because formal algorithmic fairness restricts analysis to isolated decision-making procedures, it leads to the impossibility of fairness and to models that exacerbate oppression despite appearing “fair.” Second, I draw on theories of substantive equality from law and philosophy to propose an alternative methodology, which I call “substantive algorithmic fairness.” Because substantive algorithmic fairness takes a more expansive scope of analysis, it enables an escape from the impossibility of fairness and provides a rigorous guide for alleviating injustice with algorithms. In sum, substantive algorithmic fairness presents a new direction for algorithmic fairness: away from formal mathematical models of “fair” decision-making and toward substantive evaluations of whether and how algorithms can promote justice in practice.</jats:p>",
+          "DOI": "10.2139/ssrn.3883649",
+          "type": "posted-content",
+          "created": {
+            "date-parts": [
+              [
+                2021,
+                7,
+                12
+              ]
+            ],
+            "date-time": "2021-07-12T23:05:12Z",
+            "timestamp": 1626131112000
+          },
+          "source": "Crossref",
+          "is-referenced-by-count": 11,
+          "title": [
+            "Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+          ],
+          "prefix": "10.2139",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-0332-4110",
+              "authenticated-orcid": true,
+              "given": "Ben",
+              "family": "Green",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "78",
+          "reference": [
+            {
+              "key": "ref1",
+              "year": "2017",
+              "journal-title": "Pretrial Integrity and Safety Act of"
+            },
+            {
+              "key": "ref2",
+              "article-title": "Roles for computing in social change",
+              "volume": "33728",
+              "author": "R Abebe",
+              "year": "2020",
+              "journal-title": "Proceedings of the ACM Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref3",
+              "author": "A Albright",
+              "year": "2019",
+              "journal-title": "If you give a judge a risk score: evidence from Kentucky bail decisions"
+            },
+            {
+              "issue": "2",
+              "key": "ref4",
+              "doi-asserted-by": "crossref",
+              "first-page": "287",
+              "DOI": "10.1086/233897",
+              "article-title": "What is the point of equality?",
+              "volume": "109",
+              "author": "E S Anderson",
+              "year": "1999",
+              "journal-title": "Ethics"
+            },
+            {
+              "key": "ref5",
+              "author": "E Anderson",
+              "year": "2017",
+              "journal-title": "Private government: how employers rule our lives (and why we don't talk about it)"
+            },
+            {
+              "issue": "4",
+              "key": "ref6",
+              "doi-asserted-by": "crossref",
+              "first-page": "130",
+              "DOI": "10.1111/j.1527-2001.2009.01062.x",
+              "article-title": "Toward a non-ideal, relational methodology for political philosophy: comments on Schwartzman's Challenging Liberalism",
+              "volume": "24",
+              "author": "E Anderson",
+              "year": "2009",
+              "journal-title": "Hypatia"
+            },
+            {
+              "key": "ref7",
+              "author": "J Angwin",
+              "year": "2016",
+              "journal-title": "le/ bias-in-crimi nal-risk-scores-is-mathe matic allyinevi table-resea rchers-say"
+            },
+            {
+              "key": "ref8",
+              "article-title": "artic le/ machi ne-bias-risk-asses sments-in-crimi nal-sente ncing",
+              "author": "J Angwin",
+              "year": "2016",
+              "journal-title": "Machine bias. ProPublica"
+            },
+            {
+              "key": "ref9",
+              "volume": "4",
+              "author": "R Arneson",
+              "year": "2013",
+              "journal-title": "The Stanford Encyclopedia of Philosophy"
+            },
+            {
+              "key": "ref10",
+              "author": "Arnold Ventures",
+              "year": "2019",
+              "journal-title": "Statement of principles on pretrial justice and use of pretrial risk assessment"
+            },
+            {
+              "key": "ref11",
+              "article-title": "Prefigurative design as a method for research justice",
+              "author": "M Asad",
+              "year": "2019",
+              "journal-title": "Proceedings of the ACM on Human-Computer Interaction"
+            },
+            {
+              "key": "ref12",
+              "article-title": "Interventions over predictions: reframing the ethical debate for actuarial risk assessment",
+              "volume": "28",
+              "author": "C Barabas",
+              "year": "2018",
+              "journal-title": "Proceedings of the 1st Conference on Fairness, Accountability and Transparency"
+            },
+            {
+              "key": "ref13",
+              "first-page": "723",
+              "article-title": "Restoring the presumption of innocence",
+              "volume": "72",
+              "author": "S Baradaran",
+              "year": "2011",
+              "journal-title": "Ohio State Law Journal"
+            },
+            {
+              "key": "ref14",
+              "author": "S Barocas",
+              "year": "2019",
+              "journal-title": "Fairness and machine learning"
+            },
+            {
+              "key": "ref15",
+              "article-title": "Fairness in criminal justice risk assessments: the state of the art",
+              "author": "R Berk",
+              "year": "2018",
+              "journal-title": "Sociological Methods & Research"
+            },
+            {
+              "key": "ref16",
+              "article-title": "Fairness in machine learning: lessons from political philosophy",
+              "author": "I Berlin",
+              "year": "2013",
+              "journal-title": "Clarke Introduce Bill Requiring Companies To Target Bias In Corporate Algorithms"
+            },
+            {
+              "key": "ref17",
+              "article-title": "Artificial unintelligence: how computers misunderstand the world",
+              "author": "M Broussard",
+              "year": "2018",
+              "journal-title": "20DATA% 202020% 20Dis cussi on% 20Dra ft"
+            },
+            {
+              "key": "ref18",
+              "article-title": "We're missing a moral framework of justice in artificial intelligence: on the limits, failings, and ethics of fairness",
+              "author": "M L Bui",
+              "year": "2020",
+              "journal-title": "The Oxford handbook of ethics of AI"
+            },
+            {
+              "issue": "2",
+              "key": "ref19",
+              "doi-asserted-by": "crossref",
+              "first-page": "153",
+              "DOI": "10.1089/big.2016.0047",
+              "article-title": "Fair prediction with disparate impact: a study of bias in recidivism prediction instruments",
+              "volume": "5",
+              "author": "P Butler",
+              "year": "2017",
+              "journal-title": "Big Data"
+            },
+            {
+              "key": "ref20",
+              "article-title": "A case study of algorithm-assisted decision making in child maltreatment hotline screening decisions",
+              "author": "A Chouldechova",
+              "year": "2018",
+              "journal-title": "Proceedings of the 1st Conference on Fairness, Accountability and Transparency"
+            },
+            {
+              "key": "ref21",
+              "author": "P H Collins",
+              "year": "2000",
+              "journal-title": "Black feminist thought: knowledge, consciousness, and the politics of empowerment"
+            },
+            {
+              "key": "ref22",
+              "author": "A Cooper",
+              "year": "1980",
+              "journal-title": "Homicide trends in the United States"
+            },
+            {
+              "key": "ref23",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3097983.3098095",
+              "article-title": "Algorithmic decision making and the cost of fairness",
+              "author": "S Corbett-Davies",
+              "year": "2017",
+              "journal-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+            },
+            {
+              "issue": "7",
+              "key": "ref24",
+              "article-title": "Race, reform, and retrenchment: transformation and legitimation in antidiscrimination law",
+              "volume": "101",
+              "author": "S Costanza-Chock",
+              "year": "1988",
+              "journal-title": "Harvard Law Review"
+            },
+            {
+              "key": "ref25",
+              "first-page": "139",
+              "author": "K Crenshaw",
+              "year": "1989",
+              "journal-title": "Demarginalizing the intersection of race and sex: a black feminist critique of antidiscrimination doctrine, feminist theory and antiracist politics"
+            },
+            {
+              "key": "ref26",
+              "first-page": "2049",
+              "article-title": "Systemic facts: toward institutional awareness in criminal courts",
+              "volume": "129",
+              "author": "A M Crespo",
+              "year": "2015",
+              "journal-title": "Harvard Law Review"
+            },
+            {
+              "key": "ref27",
+              "article-title": "Keeping moms and babies in nutrition program",
+              "author": "C D'ignazio",
+              "year": "2018",
+              "journal-title": "DataSF"
+            },
+            {
+              "issue": "2",
+              "key": "ref28",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1177/20539517211044808",
+              "article-title": "Algorithmic reparation",
+              "volume": "8",
+              "author": "J L Davis",
+              "year": "2021",
+              "journal-title": "Big Data & Society"
+            },
+            {
+              "key": "ref29",
+              "author": "A Y Davis",
+              "year": "2003",
+              "journal-title": "Are prisons obsolete?"
+            },
+            {
+              "key": "ref30",
+              "author": "D Denvir",
+              "year": "2015",
+              "journal-title": "the-missi ng-ingre dient-in-stop-and-frisk-reform-opendata"
+            },
+            {
+              "key": "ref31",
+              "author": "J Dewey",
+              "year": "1938",
+              "journal-title": "Logic: the theory of inquiry"
+            },
+            {
+              "issue": "3",
+              "key": "ref32",
+              "doi-asserted-by": "crossref",
+              "first-page": "1063",
+              "DOI": "10.1086/701354",
+              "article-title": "Who wants affordable housing in their backyard? An equilibrium analysis of low-income property development",
+              "volume": "127",
+              "author": "R Diamond",
+              "year": "2019",
+              "journal-title": "Journal of Political Economy"
+            },
+            {
+              "key": "ref33",
+              "author": "W Dieterich",
+              "year": "2016",
+              "journal-title": "COMPAS risk scales: demonstrating accuracy equity and predictive parity"
+            },
+            {
+              "issue": "2",
+              "key": "ref34",
+              "doi-asserted-by": "crossref",
+              "first-page": "201",
+              "DOI": "10.1257/aer.20161503",
+              "article-title": "The effects of pretrial detention on conviction, future crime, and employment: evidence from randomly assigned judges",
+              "volume": "108",
+              "author": "W Dobbie",
+              "year": "2018",
+              "journal-title": "American Economic Review"
+            },
+            {
+              "key": "ref35",
+              "author": "C Doctorow",
+              "year": "2016",
+              "journal-title": "Algorithmic risk-assessment: hiding racism behind \"empirical\" black boxes. Boing Boing"
+            },
+            {
+              "key": "ref36",
+              "article-title": "sal-regul ation-laying-down-harmo nised-rules-artifi cial-intel ligen ce-artifi cial-intel ligen ce",
+              "author": "V Eubanks",
+              "year": "2018",
+              "journal-title": "Automating inequality: how high-tech tools profile, police, and punish the poor"
+            },
+            {
+              "key": "ref37",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.7208/chicago/9780226526331.001.0001",
+              "author": "E L Ewing",
+              "year": "2018",
+              "journal-title": "Ghosts in the schoolyard: racism and school closings on Chicago's South Side"
+            },
+            {
+              "key": "ref38",
+              "article-title": "Certifying and removing disparate impact",
+              "author": "M Feldman",
+              "year": "2015",
+              "journal-title": "Proceedings of the 21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+            },
+            {
+              "key": "ref39",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1093/acprof:oso/9780199812141.001.0001",
+              "author": "J Fishkin",
+              "year": "2014",
+              "journal-title": "Bottlenecks: a new theory of equal opportunity"
+            },
+            {
+              "key": "ref40",
+              "first-page": "38",
+              "article-title": "False positives, false negatives, and false analyses: a rejoinder to \"Machine bias: there's software used across the country to predict future criminals. And it's biased against blacks",
+              "volume": "80",
+              "author": "A W Flores",
+              "year": "2016",
+              "journal-title": "Federal Probation"
+            },
+            {
+              "issue": "4",
+              "key": "ref41",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3433949",
+              "article-title": "The (im)possibility of fairness: different value systems require different mechanisms for fair decision making",
+              "volume": "64",
+              "author": "S A Friedler",
+              "year": "2021",
+              "journal-title": "Communications of the ACM"
+            },
+            {
+              "key": "ref42",
+              "doi-asserted-by": "crossref",
+              "first-page": "167",
+              "DOI": "10.1093/aristotelian/56.1.167",
+              "article-title": "Essentially contested concepts",
+              "volume": "56",
+              "author": "W B Gallie",
+              "year": "1955",
+              "journal-title": "Proceedings of the Aristotelian Society"
+            },
+            {
+              "key": "ref43",
+              "volume": "22",
+              "author": "S P Gangadharan",
+              "year": "2019",
+              "journal-title": "Decentering technology in discourse on discrimination. Information"
+            },
+            {
+              "issue": "1",
+              "key": "ref44",
+              "doi-asserted-by": "crossref",
+              "first-page": "365",
+              "DOI": "10.1214/15-AOAS897",
+              "article-title": "Precinct or prejudice? Understanding racial disparities in New York City's stop-and-frisk policy",
+              "volume": "10",
+              "author": "S Goel",
+              "year": "2016",
+              "journal-title": "The Annals of Applied Statistics"
+            },
+            {
+              "key": "ref45",
+              "article-title": "Directive on automated decision-making",
+              "author": "A Gong",
+              "year": "1967",
+              "journal-title": "Ethics for powerful algorithms (1 of 4)"
+            },
+            {
+              "key": "ref46",
+              "author": "E Graeff",
+              "year": "2020",
+              "journal-title": "The responsibility to not design and the need for citizen professionalism"
+            },
+            {
+              "key": "ref47",
+              "article-title": "The smart enough city: putting technology in its place to reclaim our urban future",
+              "author": "B Green",
+              "year": "2018",
+              "journal-title": "Berkman Klein Center Collection -Medium"
+            },
+            {
+              "key": "ref48",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3351095.3372869",
+              "article-title": "The false promise of risk assessments: epistemic reform and the limits of fairness",
+              "volume": "33728",
+              "author": "B Green",
+              "year": "2020",
+              "journal-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref49",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3287560.3287563",
+              "article-title": "Disparate interactions: an algorithm-in-the-loop analysis of fairness in risk assessments",
+              "author": "B Green",
+              "year": "2019",
+              "journal-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "issue": "CSCW2",
+              "key": "ref50",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3479562",
+              "article-title": "Algorithmic risk assessments can alter human decision-making processes in high-stakes government contexts",
+              "author": "B Green",
+              "year": "2021",
+              "journal-title": "Proceedings of the ACM on Human-Computer Interaction"
+            },
+            {
+              "key": "ref51",
+              "article-title": "The myth in the methodology: towards a recontextualization of fairness in machine learning",
+              "author": "B Green",
+              "year": "2018",
+              "journal-title": "Machine Learning: The Debates workshop at the 35th International Conference on Machine Learning"
+            },
+            {
+              "key": "ref52",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3351095.3372840",
+              "article-title": "Algorithmic realism: expanding the boundaries of algorithmic thought",
+              "volume": "33728",
+              "author": "B Green",
+              "year": "2020",
+              "journal-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref53",
+              "author": "S Harding",
+              "year": "1998",
+              "journal-title": "Is science multicultural?: postcolonialisms, feminisms, and epistemologies"
+            },
+            {
+              "key": "ref54",
+              "article-title": "Equality of opportunity in supervised learning",
+              "author": "M Hardt",
+              "year": "2016",
+              "journal-title": "30th Conference on Neural Information Processing Systems"
+            },
+            {
+              "issue": "4",
+              "key": "ref55",
+              "first-page": "811",
+              "article-title": "Measuring algorithmic fairness",
+              "volume": "106",
+              "author": "D Hellman",
+              "year": "2020",
+              "journal-title": "Virginia Law Review"
+            },
+            {
+              "key": "ref56",
+              "article-title": "Releasing people pretrial doesn't harm public safety",
+              "volume": "4",
+              "author": "T Herring",
+              "year": "2020",
+              "journal-title": "Prison Policy Initiative"
+            },
+            {
+              "issue": "7",
+              "key": "ref57",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1080/1369118X.2019.1573912",
+              "article-title": "Where fairness fails: data, algorithms, and the limits of antidiscrimination discourse",
+              "volume": "22",
+              "author": "A L Hoffmann",
+              "year": "2019",
+              "journal-title": "Information, Communication & Society"
+            },
+            {
+              "key": "ref58",
+              "doi-asserted-by": "crossref",
+              "first-page": "375",
+              "DOI": "10.1145/3442188.3445901",
+              "article-title": "Measurement and fairness",
+              "author": "A Z Jacobs",
+              "year": "2021",
+              "journal-title": "Proceedings of the ACM Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref59",
+              "volume": "4",
+              "author": "R Johnston",
+              "year": "2022",
+              "journal-title": "New algorithm to expunge 500,000 criminal records in Utah"
+            },
+            {
+              "key": "ref60",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.7312/kahn18424",
+              "author": "J Kahn",
+              "year": "2017",
+              "journal-title": "Race on the brain: what implicit bias gets wrong about the struggle for racial justice"
+            },
+            {
+              "key": "ref61",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1038/d41586-020-02003-2",
+              "article-title": "Don't ask if artificial intelligence is good or fair, ask how it shifts power",
+              "volume": "583",
+              "author": "P Kalluri",
+              "year": "2020",
+              "journal-title": "Nature"
+            },
+            {
+              "key": "ref62",
+              "doi-asserted-by": "crossref",
+              "first-page": "113",
+              "DOI": "10.1093/jla/laz001",
+              "article-title": "Discrimination in the age of algorithms",
+              "volume": "10",
+              "author": "J Kleinberg",
+              "year": "2019",
+              "journal-title": "Journal of Legal Analysis"
+            },
+            {
+              "key": "ref63",
+              "author": "J Kleinberg",
+              "year": "2016",
+              "journal-title": "Inherent trade-offs in the fair determination of risk scores"
+            },
+            {
+              "key": "ref64",
+              "first-page": "1725",
+              "article-title": "A machine learning framework to identify students at risk of adverse academic outcomes",
+              "volume": "93",
+              "author": "J L Koepke",
+              "year": "2015",
+              "journal-title": "Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+            },
+            {
+              "key": "ref65",
+              "author": "J Larson",
+              "year": "2016",
+              "journal-title": "How we analyzed the COMPAS recidivism algorithm"
+            },
+            {
+              "key": "ref66",
+              "author": "V Le",
+              "year": "2021",
+              "journal-title": "The Automated Decisions Systems Accountability Act (AB 13) explained. The Greenlining Institute"
+            },
+            {
+              "issue": "4",
+              "key": "ref67",
+              "doi-asserted-by": "crossref",
+              "first-page": "529",
+              "DOI": "10.1007/s43681-021-00067-y",
+              "article-title": "Formalising trade-offs beyond algorithmic fairness: lessons from ethical philosophy and welfare economics",
+              "volume": "1",
+              "author": "M S A Lee",
+              "year": "2021",
+              "journal-title": "AI and Ethics"
+            },
+            {
+              "key": "ref68",
+              "article-title": "Can affirmative action survive?",
+              "author": "N Lehmann",
+              "year": "2021",
+              "journal-title": "The New Yorker"
+            },
+            {
+              "key": "ref69",
+              "author": "D Leonhardt",
+              "year": "2020",
+              "journal-title": "A progressive problem. The New York Times"
+            },
+            {
+              "key": "ref70",
+              "article-title": "Digital defense playbook: community power tools for reclaiming data",
+              "author": "T Lewis",
+              "year": "2018",
+              "journal-title": "Our Data Bodies"
+            },
+            {
+              "key": "ref71",
+              "article-title": "FAccT 2021 Keynote",
+              "author": "K Ligett",
+              "year": "2021",
+              "journal-title": "Praise of Flawed Mathematical Models"
+            },
+            {
+              "issue": "1",
+              "key": "ref72",
+              "doi-asserted-by": "crossref",
+              "first-page": "155",
+              "DOI": "10.1257/000282804322970751",
+              "article-title": "The effect of education on crime: evidence from prison inmates, arrests, and self-reports",
+              "volume": "94",
+              "author": "L Lochner",
+              "year": "2004",
+              "journal-title": "American Economic Review"
+            },
+            {
+              "issue": "2",
+              "key": "ref73",
+              "article-title": "The Anti-Eviction Mapping Project: counter mapping and oral history toward Bay Area housing justice",
+              "volume": "96",
+              "author": "C A Mackinnon",
+              "year": "2011",
+              "journal-title": "Annals of the American Association of Geographers"
+            },
+            {
+              "issue": "8",
+              "key": "ref74",
+              "first-page": "2218",
+              "article-title": "Bias in, bias out",
+              "volume": "128",
+              "author": "S G Mayson",
+              "year": "2019",
+              "journal-title": "Yale Law Journal"
+            },
+            {
+              "issue": "2",
+              "key": "ref75",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1177/2053951718796862",
+              "article-title": "Grassroots resource mobilization through counter-data action",
+              "volume": "5",
+              "author": "A Meng",
+              "year": "2018",
+              "journal-title": "Big Data & Society"
+            },
+            {
+              "key": "ref76",
+              "author": "Merriam-Webster",
+              "year": "2021",
+              "journal-title": "Methodology"
+            },
+            {
+              "key": "ref77",
+              "article-title": "want-less-biased-decis ions-use-algor ithms",
+              "author": "A P Miller",
+              "year": "2018",
+              "journal-title": "Harvard Business Review"
+            },
+            {
+              "key": "ref78",
+              "author": "M Minow",
+              "year": "1991",
+              "journal-title": "Making all the difference: inclusion, exclusion, and American law"
+            },
+            {
+              "key": "ref79",
+              "doi-asserted-by": "crossref",
+              "first-page": "167",
+              "DOI": "10.1162/ajle_a_00019",
+              "article-title": "Equality vs. equity",
+              "volume": "1",
+              "author": "M Minow",
+              "year": "2021",
+              "journal-title": "American Journal of Law and Equality"
+            },
+            {
+              "key": "ref80",
+              "author": "E Morozov",
+              "year": "2014",
+              "journal-title": "To save everything, click here: the folly of technological solutionism"
+            },
+            {
+              "key": "ref81",
+              "author": "K G Muhammad",
+              "year": "2011",
+              "journal-title": "The condemnation of blackness: race, crime, and the making of modern urban America"
+            },
+            {
+              "key": "ref82",
+              "author": "N Murakawa",
+              "year": "2014",
+              "journal-title": "ProPublica report: recidivism risk models are racist. mathbabe"
+            },
+            {
+              "issue": "6464",
+              "key": "ref83",
+              "doi-asserted-by": "crossref",
+              "first-page": "447",
+              "DOI": "10.1126/science.aax2342",
+              "article-title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+              "volume": "366",
+              "author": "Z Obermeyer",
+              "year": "2019",
+              "journal-title": "Science"
+            },
+            {
+              "key": "ref84",
+              "article-title": "Beyond legitimation: rethinking fairness, interpretability, and accuracy in machine learning",
+              "author": "R Ochigame",
+              "year": "2018",
+              "journal-title": "Machine Learning: The Debates workshop at the 35th International Conference on Machine Learning"
+            },
+            {
+              "key": "ref85",
+              "article-title": "The long history of algorithmic fairness",
+              "author": "R Ochigame",
+              "year": "2020",
+              "journal-title": "Phenomenal World"
+            },
+            {
+              "key": "ref86",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3287560.3287567",
+              "article-title": "Problem formulation and fairness",
+              "author": "S Passi",
+              "year": "2019",
+              "journal-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref87",
+              "article-title": "Attorney General Law Enforcement Directive",
+              "author": "C S Porrino",
+              "year": "1963",
+              "journal-title": "Modification of Directive Establishing Interim Policies, Practices, and Procedures to Implement Criminal Justice Reform Pursuant to P.L. 2015, c. 31"
+            },
+            {
+              "key": "ref88",
+              "author": "J Powles",
+              "year": "2018",
+              "journal-title": "the-seduc tive-diver sion-of-solvi ng-bias-in-artif icial-intel ligen ce-890df 5e5ef 53"
+            },
+            {
+              "key": "ref89",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3306618.3314244",
+              "article-title": "Actionable auditing: investigating the impact of publicly naming biased performance results of commercial AI products",
+              "volume": "33142",
+              "author": "I D Raji",
+              "year": "2019",
+              "journal-title": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society"
+            },
+            {
+              "issue": "1",
+              "key": "ref90",
+              "doi-asserted-by": "crossref",
+              "first-page": "21",
+              "DOI": "10.1007/s12552-014-9134-1",
+              "article-title": "The racial achievement gap, segregated schools, and segregated neighborhoods: a constitutional insult",
+              "volume": "7",
+              "author": "R Rothstein",
+              "year": "2015",
+              "journal-title": "Race and Social Problems"
+            },
+            {
+              "issue": "2",
+              "key": "ref91",
+              "doi-asserted-by": "crossref",
+              "first-page": "224",
+              "DOI": "10.2105/AJPH.2004.037705",
+              "article-title": "Social anatomy of racial and ethnic disparities in violence",
+              "volume": "95",
+              "author": "R J Sampson",
+              "year": "2005",
+              "journal-title": "American Journal of Public Health"
+            },
+            {
+              "key": "ref92",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3287560.3287598",
+              "article-title": "Fairness and abstraction in sociotechnical systems",
+              "author": "A D Selbst",
+              "year": "2019",
+              "journal-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency"
+            },
+            {
+              "key": "ref93",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.7208/chicago/9780226924267.001.0001",
+              "author": "P Sharkey",
+              "year": "2013",
+              "journal-title": "Stuck in place: urban neighborhoods and the end of progress toward racial equality"
+            },
+            {
+              "key": "ref94",
+              "author": "E Smith",
+              "year": "2020",
+              "journal-title": "SAT math scores mirror and maintain racial inequity. Brookings"
+            },
+            {
+              "key": "ref95",
+              "first-page": "303",
+              "article-title": "Assessing risk assessment in action",
+              "volume": "103",
+              "author": "M T Stevenson",
+              "year": "2018",
+              "journal-title": "Before the bullet hits the body: dismantling predictive policing in Los Angeles"
+            },
+            {
+              "issue": "2",
+              "key": "ref96",
+              "doi-asserted-by": "crossref",
+              "first-page": "499",
+              "DOI": "10.1353/sor.2019.0024",
+              "article-title": "Algorithms, correcting biases",
+              "volume": "86",
+              "author": "C R Sunstein",
+              "year": "2019",
+              "journal-title": "Social Research"
+            },
+            {
+              "key": "ref97",
+              "year": "1987",
+              "journal-title": "The use of pretrial \"risk assessment\" instruments: a shared statement of civil rights concerns"
+            },
+            {
+              "issue": "2",
+              "key": "ref98",
+              "article-title": "Twitter and tear gas: the power and fragility of networked protest",
+              "volume": "11",
+              "author": "Z Tufekci",
+              "year": "2018",
+              "journal-title": "American Economic Journal: Economic Policy"
+            },
+            {
+              "key": "ref99",
+              "author": "R M Unger",
+              "year": "2005",
+              "journal-title": "The Left Alternative"
+            },
+            {
+              "key": "ref100",
+              "first-page": "735",
+              "article-title": "Bias preservation in machine learning: the legality of fairness metrics under EU Non-Discrimination Law",
+              "volume": "123",
+              "author": "S Wachter",
+              "year": "2020",
+              "journal-title": "Redistribution and rekognition. Catalyst: Feminism, Theory"
+            },
+            {
+              "issue": "2",
+              "key": "ref101",
+              "doi-asserted-by": "crossref",
+              "first-page": "225",
+              "DOI": "10.1007/s13347-019-00355-w",
+              "article-title": "Democratizing algorithmic fairness",
+              "volume": "33",
+              "author": "P.-H Wong",
+              "year": "2020",
+              "journal-title": "Philosophy & Technology"
+            },
+            {
+              "key": "ref102",
+              "author": "E O Wright",
+              "year": "2010",
+              "journal-title": "Envisioning Real Utopias"
+            },
+            {
+              "key": "ref103",
+              "first-page": "1399",
+              "volume": "92",
+              "author": "C S Yang",
+              "year": "2017",
+              "journal-title": "Toward an optimal bail system"
+            },
+            {
+              "key": "ref104",
+              "doi-asserted-by": "crossref",
+              "DOI": "10.1145/3314344.3332484",
+              "article-title": "Using machine learning to help vulnerable tenants",
+              "volume": "33324",
+              "author": "T Ye",
+              "year": "2019",
+              "journal-title": "Proceedings of the ACM SIGCAS Conference on Computing and Sustainable Societies"
+            },
+            {
+              "key": "ref105",
+              "author": "I M Young",
+              "year": "1990",
+              "journal-title": "Publisher's Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                14
+              ]
+            ],
+            "date-time": "2026-08-14T10:42:39Z",
+            "timestamp": 1786704159000
+          },
+          "score": 54.72089,
+          "resource": {
+            "primary": {
+              "URL": "https://www.ssrn.com/abstract=3883649"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "references-count": 105,
+          "URL": "https://doi.org/10.2139/ssrn.3883649",
+          "published": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "subtype": "preprint"
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2025,
+                12,
+                31
+              ]
+            ],
+            "date-time": "2025-12-31T01:00:57Z",
+            "timestamp": 1767142857038,
+            "version": "build-2238731810"
+          },
+          "update-to": [
+            {
+              "DOI": "10.1007/s13347-022-00584-6",
+              "type": "correction",
+              "label": "Correction",
+              "source": "publisher",
+              "updated": {
+                "date-parts": [
+                  [
+                    2023,
+                    2,
+                    23
+                  ]
+                ],
+                "date-time": "2023-02-23T00:00:00Z",
+                "timestamp": 1677110400000
+              }
+            }
+          ],
+          "reference-count": 0,
+          "publisher": "Springer Science and Business Media LLC",
+          "issue": "1",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2023,
+                    2,
+                    23
+                  ]
+                ],
+                "date-time": "2023-02-23T00:00:00Z",
+                "timestamp": 1677110400000
+              },
+              "content-version": "tdm",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0"
+            },
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2023,
+                    2,
+                    23
+                  ]
+                ],
+                "date-time": "2023-02-23T00:00:00Z",
+                "timestamp": 1677110400000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://creativecommons.org/licenses/by/4.0"
+            }
+          ],
+          "content-domain": {
+            "domain": [
+              "link.springer.com"
+            ],
+            "crossmark-restriction": false
+          },
+          "short-container-title": [
+            "Philos. Technol."
+          ],
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                3
+              ]
+            ]
+          },
+          "DOI": "10.1007/s13347-023-00611-0",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                23
+              ]
+            ],
+            "date-time": "2023-02-23T01:27:36Z",
+            "timestamp": 1677115656000
+          },
+          "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+          "source": "Crossref",
+          "is-referenced-by-count": 0,
+          "title": [
+            "Correction to: Escaping the Impossibility of Fairness: From Formal to Substantive Algorithmic Fairness"
+          ],
+          "prefix": "10.1007",
+          "volume": "36",
+          "author": [
+            {
+              "ORCID": "https://orcid.org/0000-0002-0332-4110",
+              "authenticated-orcid": false,
+              "given": "Ben",
+              "family": "Green",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "297",
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                23
+              ]
+            ]
+          },
+          "container-title": [
+            "Philosophy &amp; Technology"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s13347-023-00611-0.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/article/10.1007/s13347-023-00611-0/fulltext.html",
+              "content-type": "text/html",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://link.springer.com/content/pdf/10.1007/s13347-023-00611-0.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                25
+              ]
+            ],
+            "date-time": "2023-03-25T04:28:50Z",
+            "timestamp": 1679718530000
+          },
+          "score": 51.66096,
+          "resource": {
+            "primary": {
+              "URL": "https://link.springer.com/10.1007/s13347-023-00611-0"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                23
+              ]
+            ]
+          },
+          "references-count": 0,
+          "journal-issue": {
+            "issue": "1",
+            "published-print": {
+              "date-parts": [
+                [
+                  2023,
+                  3
+                ]
+              ]
+            }
+          },
+          "alternative-id": [
+            "611"
+          ],
+          "URL": "https://doi.org/10.1007/s13347-023-00611-0",
+          "ISSN": [
+            "2210-5433",
+            "2210-5441"
+          ],
+          "issn-type": [
+            {
+              "value": "2210-5433",
+              "type": "print"
+            },
+            {
+              "value": "2210-5441",
+              "type": "electronic"
+            }
+          ],
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                23
+              ]
+            ]
+          },
+          "assertion": [
+            {
+              "value": "23 February 2023",
+              "order": 1,
+              "name": "first_online",
+              "label": "First Online",
+              "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+              }
+            }
+          ],
+          "article-number": "11"
+        }
+      ],
+      "items-per-page": 4,
+      "query": {
+        "start-index": 0,
+        "search-terms": null
+      }
+    }
+  }
+}

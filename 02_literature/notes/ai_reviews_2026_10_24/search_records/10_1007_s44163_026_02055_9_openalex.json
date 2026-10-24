@@ -1,0 +1,1240 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9",
+    "checked_at": "2026-10-24T02:10:11.376148Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W7204110143",
+    "doi": "https://doi.org/10.1007/s44163-026-02055-9",
+    "title": "Artificial intelligence and the reconfiguration of competency management systems in organizations",
+    "display_name": "Artificial intelligence and the reconfiguration of competency management systems in organizations",
+    "publication_year": 2026,
+    "publication_date": "2026-08-24",
+    "ids": {
+      "openalex": "https://openalex.org/W7204110143",
+      "doi": "https://doi.org/10.1007/s44163-026-02055-9"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s44163-026-02055-9",
+      "doi": "https://doi.org/10.1007/s44163-026-02055-9",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44163-026-02055-9",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210220416",
+        "display_name": "Discover Artificial Intelligence",
+        "issn_l": "2731-0809",
+        "issn": [
+          "2731-0809"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Discover Artificial Intelligence",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5116537933",
+          "display_name": "Maryann Osadebamwen Asemota",
+          "orcid": "https://orcid.org/0000-0002-9618-4056",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9618-4056"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I118501908",
+            "display_name": "National Research University Higher School of Economics",
+            "ror": "https://ror.org/055f7t516",
+            "country_code": "RU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I118501908"
+            ]
+          }
+        ],
+        "countries": [
+          "RU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Maryann Osadebamwen Asemota",
+        "raw_affiliation_strings": [
+          "National Research University Higher School of Economics, Moscow, Russian Federation"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "National Research University Higher School of Economics, Moscow, Russian Federation",
+            "institution_ids": [
+              "https://openalex.org/I118501908"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5116537933"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I118501908"
+    ],
+    "apc_list": {
+      "value": 1590,
+      "currency": "USD",
+      "value_usd": 1590
+    },
+    "apc_paid": {
+      "value": 1590,
+      "currency": "USD",
+      "value_usd": 1590
+    },
+    "fwci": 0.0,
+    "has_fulltext": true,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.66880923,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "6",
+      "issue": "1",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 0.8589000105857849,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.8589000105857849,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12802",
+        "display_name": "Competency Development and Evaluation",
+        "score": 0.13099999725818634,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.007499999832361937,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "artificial intelligence",
+        "score": 0.7919999957084656
+      },
+      {
+        "id": "https://openalex.org/keywords/competence-management",
+        "display_name": "competence management",
+        "score": 0.9900000095367432
+      },
+      {
+        "id": "https://openalex.org/keywords/human-resource-management",
+        "display_name": "human resource management",
+        "score": 0.7940000295639038
+      },
+      {
+        "id": "https://openalex.org/keywords/human-ai-complementarity",
+        "display_name": "human-AI complementarity",
+        "score": 0.7879999876022339
+      },
+      {
+        "id": "https://openalex.org/keywords/learning-agility",
+        "display_name": "learning agility",
+        "score": 0.7429999709129333
+      },
+      {
+        "id": "https://openalex.org/keywords/governance-capacity",
+        "display_name": "governance capacity",
+        "score": 0.9120000004768372
+      },
+      {
+        "id": "https://openalex.org/keywords/psychological-readiness",
+        "display_name": "psychological readiness",
+        "score": 0.7990000247955322
+      },
+      {
+        "id": "https://openalex.org/keywords/human-capital-theory",
+        "display_name": "human capital theory",
+        "score": 0.6779999732971191
+      },
+      {
+        "id": "https://openalex.org/keywords/resource-based-view",
+        "display_name": "resource-based view",
+        "score": 0.9940000176429749
+      },
+      {
+        "id": "https://openalex.org/keywords/dynamic-capabilities",
+        "display_name": "dynamic capabilities",
+        "score": 0.996999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/sociotechnical-systems",
+        "display_name": "socio-technical systems",
+        "score": 0.8500000238418579
+      },
+      {
+        "id": "https://openalex.org/keywords/workforce-development",
+        "display_name": "workforce development",
+        "score": 0.7799999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-readiness",
+        "display_name": "employee readiness",
+        "score": 0.5590000152587891
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.664900004863739
+      },
+      {
+        "id": "https://openalex.org/C202372285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Human resource management",
+        "level": 2,
+        "score": 0.5286999940872192
+      },
+      {
+        "id": "https://openalex.org/C2778139618",
+        "wikidata": "https://www.wikidata.org/wiki/Q13440398",
+        "display_name": "Workforce",
+        "level": 2,
+        "score": 0.4683000147342682
+      },
+      {
+        "id": "https://openalex.org/C39389867",
+        "wikidata": "https://www.wikidata.org/wiki/Q380767",
+        "display_name": "Corporate governance",
+        "level": 2,
+        "score": 0.46480000019073486
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.4146000146865845
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.412200003862381
+      },
+      {
+        "id": "https://openalex.org/C107645774",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467169",
+        "display_name": "Human resources",
+        "level": 2,
+        "score": 0.40790000557899475
+      },
+      {
+        "id": "https://openalex.org/C2776943663",
+        "wikidata": "https://www.wikidata.org/wiki/Q165687",
+        "display_name": "Human capital",
+        "level": 2,
+        "score": 0.3707999885082245
+      },
+      {
+        "id": "https://openalex.org/C2780451532",
+        "wikidata": "https://www.wikidata.org/wiki/Q759676",
+        "display_name": "Task (project management)",
+        "level": 2,
+        "score": 0.36469998955726624
+      },
+      {
+        "id": "https://openalex.org/C189708586",
+        "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+        "display_name": "Systematic review",
+        "level": 3,
+        "score": 0.35350000858306885
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.3467000126838684
+      },
+      {
+        "id": "https://openalex.org/C2993505719",
+        "wikidata": "https://www.wikidata.org/wiki/Q165687",
+        "display_name": "Human capital theory",
+        "level": 3,
+        "score": 0.3407000005245209
+      },
+      {
+        "id": "https://openalex.org/C2779968149",
+        "wikidata": "https://www.wikidata.org/wiki/Q8034851",
+        "display_name": "Workforce development",
+        "level": 3,
+        "score": 0.3167000114917755
+      },
+      {
+        "id": "https://openalex.org/C169735623",
+        "wikidata": "https://www.wikidata.org/wiki/Q1430172",
+        "display_name": "Organizational learning",
+        "level": 2,
+        "score": 0.3158999979496002
+      },
+      {
+        "id": "https://openalex.org/C155663085",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Workforce planning",
+        "level": 3,
+        "score": 0.3109999895095825
+      },
+      {
+        "id": "https://openalex.org/C157170001",
+        "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+        "display_name": "Applications of artificial intelligence",
+        "level": 2,
+        "score": 0.30869999527931213
+      },
+      {
+        "id": "https://openalex.org/C18762648",
+        "wikidata": "https://www.wikidata.org/wiki/Q42213",
+        "display_name": "Work (physics)",
+        "level": 2,
+        "score": 0.3059000074863434
+      },
+      {
+        "id": "https://openalex.org/C105409693",
+        "wikidata": "https://www.wikidata.org/wiki/Q5937824",
+        "display_name": "Human intelligence",
+        "level": 2,
+        "score": 0.3034999966621399
+      },
+      {
+        "id": "https://openalex.org/C12532035",
+        "wikidata": "https://www.wikidata.org/wiki/Q1399956",
+        "display_name": "Performance management",
+        "level": 2,
+        "score": 0.30059999227523804
+      },
+      {
+        "id": "https://openalex.org/C135302770",
+        "wikidata": "https://www.wikidata.org/wiki/Q629132",
+        "display_name": "Work systems",
+        "level": 3,
+        "score": 0.29179999232292175
+      },
+      {
+        "id": "https://openalex.org/C196879817",
+        "wikidata": "https://www.wikidata.org/wiki/Q872685",
+        "display_name": "Data governance",
+        "level": 4,
+        "score": 0.28760001063346863
+      },
+      {
+        "id": "https://openalex.org/C206345919",
+        "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+        "display_name": "Resource (disambiguation)",
+        "level": 2,
+        "score": 0.2842000126838684
+      },
+      {
+        "id": "https://openalex.org/C2780504989",
+        "wikidata": "https://www.wikidata.org/wiki/Q2742037",
+        "display_name": "Dynamic capabilities",
+        "level": 2,
+        "score": 0.27970001101493835
+      },
+      {
+        "id": "https://openalex.org/C39214371",
+        "wikidata": "https://www.wikidata.org/wiki/Q19483216",
+        "display_name": "Organizational behavior",
+        "level": 2,
+        "score": 0.2639999985694885
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.2635999917984009
+      },
+      {
+        "id": "https://openalex.org/C27415008",
+        "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+        "display_name": "Psychological intervention",
+        "level": 2,
+        "score": 0.26260000467300415
+      },
+      {
+        "id": "https://openalex.org/C119701452",
+        "wikidata": "https://www.wikidata.org/wiki/Q5165881",
+        "display_name": "Control reconfiguration",
+        "level": 2,
+        "score": 0.25929999351501465
+      },
+      {
+        "id": "https://openalex.org/C174107131",
+        "wikidata": "https://www.wikidata.org/wiki/Q191591",
+        "display_name": "Emotional intelligence",
+        "level": 2,
+        "score": 0.25450000166893005
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1007/s44163-026-02055-9",
+        "doi": "https://doi.org/10.1007/s44163-026-02055-9",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s44163-026-02055-9",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210220416",
+          "display_name": "Discover Artificial Intelligence",
+          "issn_l": "2731-0809",
+          "issn": [
+            "2731-0809"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Discover Artificial Intelligence",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:32d377d7e08a4745a5d9478808a90be8",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/32d377d7e08a4745a5d9478808a90be8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Discover Artificial Intelligence, Vol 6, Iss 1 (2026)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/s44163-026-02055-9",
+      "doi": "https://doi.org/10.1007/s44163-026-02055-9",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44163-026-02055-9",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210220416",
+        "display_name": "Discover Artificial Intelligence",
+        "issn_l": "2731-0809",
+        "issn": [
+          "2731-0809"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Discover Artificial Intelligence",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "display_name": "Systematic Review",
+        "id": "https://openalex.org/study-designs/systematic-review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7204110143.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7204110143.grobid-xml"
+    },
+    "referenced_works_count": 54,
+    "referenced_works": [
+      "https://openalex.org/W2057568301",
+      "https://openalex.org/W2078931815",
+      "https://openalex.org/W2086103456",
+      "https://openalex.org/W2135298789",
+      "https://openalex.org/W2613303232",
+      "https://openalex.org/W2935180853",
+      "https://openalex.org/W2942544067",
+      "https://openalex.org/W2946257199",
+      "https://openalex.org/W2970544222",
+      "https://openalex.org/W3006075961",
+      "https://openalex.org/W3022435755",
+      "https://openalex.org/W3036286111",
+      "https://openalex.org/W3045595302",
+      "https://openalex.org/W3097763105",
+      "https://openalex.org/W3110651550",
+      "https://openalex.org/W3122269520",
+      "https://openalex.org/W3137169772",
+      "https://openalex.org/W3144307509",
+      "https://openalex.org/W3162588808",
+      "https://openalex.org/W3173865241",
+      "https://openalex.org/W3180594873",
+      "https://openalex.org/W3201024510",
+      "https://openalex.org/W3217219798",
+      "https://openalex.org/W4210671039",
+      "https://openalex.org/W4225273749",
+      "https://openalex.org/W4225540707",
+      "https://openalex.org/W4282835222",
+      "https://openalex.org/W4292014379",
+      "https://openalex.org/W4293229829",
+      "https://openalex.org/W4300089475",
+      "https://openalex.org/W4313242364",
+      "https://openalex.org/W4321506460",
+      "https://openalex.org/W4353050783",
+      "https://openalex.org/W4361001584",
+      "https://openalex.org/W4365816013",
+      "https://openalex.org/W4376116789",
+      "https://openalex.org/W4378009112",
+      "https://openalex.org/W4380224583",
+      "https://openalex.org/W4380634101",
+      "https://openalex.org/W4386990920",
+      "https://openalex.org/W4387060075",
+      "https://openalex.org/W4387794313",
+      "https://openalex.org/W4390283299",
+      "https://openalex.org/W4392481930",
+      "https://openalex.org/W4399746685",
+      "https://openalex.org/W4399760879",
+      "https://openalex.org/W4400429096",
+      "https://openalex.org/W4404457957",
+      "https://openalex.org/W4406815225",
+      "https://openalex.org/W4412956867",
+      "https://openalex.org/W4413216144",
+      "https://openalex.org/W4416385036",
+      "https://openalex.org/W7083002092",
+      "https://openalex.org/W7117409015"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Artificial": [
+        0
+      ],
+      "intelligence": [
+        1
+      ],
+      "(AI)": [
+        2
+      ],
+      "is": [
+        3,
+        32
+      ],
+      "reshaping": [
+        4
+      ],
+      "work": [
+        5,
+        207
+      ],
+      "and": [
+        6,
+        22,
+        57,
+        83,
+        112,
+        125,
+        145,
+        161,
+        174,
+        191,
+        209
+      ],
+      "human": [
+        7
+      ],
+      "resource": [
+        8
+      ],
+      "management,": [
+        9
+      ],
+      "yet": [
+        10
+      ],
+      "existing": [
+        11
+      ],
+      "reviews": [
+        12
+      ],
+      "largely": [
+        13
+      ],
+      "treat": [
+        14
+      ],
+      "competencies": [
+        15
+      ],
+      "as": [
+        16,
+        187
+      ],
+      "secondary": [
+        17
+      ],
+      "outcomes": [
+        18
+      ],
+      "of": [
+        19,
+        27,
+        69
+      ],
+      "AI": [
+        20
+      ],
+      "adoption": [
+        21
+      ],
+      "offer": [
+        23
+      ],
+      "limited": [
+        24
+      ],
+      "theory-driven": [
+        25
+      ],
+      "integration": [
+        26
+      ],
+      "how": [
+        28,
+        42,
+        50
+      ],
+      "competency": [
+        29,
+        43,
+        55,
+        104,
+        185,
+        200
+      ],
+      "management": [
+        30,
+        44,
+        186
+      ],
+      "itself": [
+        31
+      ],
+      "transforming.": [
+        33
+      ],
+      "This": [
+        34
+      ],
+      "study": [
+        35,
+        75,
+        178
+      ],
+      "addresses": [
+        36
+      ],
+      "that": [
+        37,
+        102,
+        115,
+        131,
+        183
+      ],
+      "gap": [
+        38
+      ],
+      "by": [
+        39
+      ],
+      "systematically": [
+        40
+      ],
+      "examining": [
+        41
+      ],
+      "has": [
+        45
+      ],
+      "evolved": [
+        46
+      ],
+      "in": [
+        47
+      ],
+      "AI-enabled": [
+        48,
+        206
+      ],
+      "contexts,": [
+        49
+      ],
+      "dominant": [
+        51
+      ],
+      "theories": [
+        52,
+        60
+      ],
+      "explain": [
+        53
+      ],
+      "AI-driven": [
+        54
+      ],
+      "change,": [
+        56
+      ],
+      "where": [
+        58
+      ],
+      "those": [
+        59
+      ],
+      "require": [
+        61
+      ],
+      "extension.": [
+        62
+      ],
+      "Using": [
+        63
+      ],
+      "a": [
+        64,
+        180,
+        188
+      ],
+      "PRISMA": [
+        65
+      ],
+      "2020-guided": [
+        66
+      ],
+      "systematic": [
+        67
+      ],
+      "review": [
+        68
+      ],
+      "187": [
+        70
+      ],
+      "Scopus-indexed": [
+        71
+      ],
+      "journal": [
+        72
+      ],
+      "articles,": [
+        73
+      ],
+      "this": [
+        74
+      ],
+      "combines": [
+        76
+      ],
+      "bibliometric": [
+        77
+      ],
+      "mapping": [
+        78
+      ],
+      "(keyword": [
+        79
+      ],
+      "co-occurrence,": [
+        80
+      ],
+      "temporal": [
+        81
+      ],
+      "overlay,": [
+        82
+      ],
+      "bibliographic": [
+        84
+      ],
+      "coupling)": [
+        85
+      ],
+      "with": [
+        86,
+        95,
+        205
+      ],
+      "directed": [
+        87
+      ],
+      "qualitative": [
+        88
+      ],
+      "content": [
+        89
+      ],
+      "analysis": [
+        90,
+        129
+      ],
+      "to": [
+        91,
+        165
+      ],
+      "link": [
+        92
+      ],
+      "research": [
+        93
+      ],
+      "fronts": [
+        94
+      ],
+      "underlying": [
+        96
+      ],
+      "theoretical": [
+        97
+      ],
+      "mechanisms.": [
+        98
+      ],
+      "The": [
+        99,
+        128,
+        177
+      ],
+      "findings": [
+        100
+      ],
+      "show": [
+        101
+      ],
+      "AI-related": [
+        103
+      ],
+      "change": [
+        105
+      ],
+      "extends": [
+        106
+      ],
+      "beyond": [
+        107
+      ],
+      "technical": [
+        108,
+        117
+      ],
+      "skills": [
+        109
+      ],
+      "toward": [
+        110
+      ],
+      "hybrid": [
+        111
+      ],
+      "portfolio-based": [
+        113
+      ],
+      "configurations": [
+        114
+      ],
+      "integrate": [
+        116
+      ],
+      "understanding,": [
+        118
+      ],
+      "managerial": [
+        119
+      ],
+      "judgment,": [
+        120
+      ],
+      "learning": [
+        121
+      ],
+      "agility,": [
+        122
+      ],
+      "governance": [
+        123,
+        211
+      ],
+      "capabilities,": [
+        124
+      ],
+      "psychological": [
+        126
+      ],
+      "readiness.": [
+        127,
+        176
+      ],
+      "demonstrates": [
+        130
+      ],
+      "no": [
+        132
+      ],
+      "single": [
+        133
+      ],
+      "framework": [
+        134
+      ],
+      "sufficiently": [
+        135
+      ],
+      "explains": [
+        136
+      ],
+      "these": [
+        137
+      ],
+      "shifts.": [
+        138
+      ],
+      "Human": [
+        139
+      ],
+      "Capital": [
+        140
+      ],
+      "Theory,": [
+        141
+      ],
+      "the": [
+        142
+      ],
+      "Resource-Based": [
+        143
+      ],
+      "View,": [
+        144
+      ],
+      "Dynamic": [
+        146
+      ],
+      "Capabilities": [
+        147
+      ],
+      "each": [
+        148
+      ],
+      "illuminate": [
+        149
+      ],
+      "partial": [
+        150
+      ],
+      "mechanisms,": [
+        151
+      ],
+      "while": [
+        152
+      ],
+      "complementary": [
+        153
+      ],
+      "perspectives": [
+        154
+      ],
+      "from": [
+        155
+      ],
+      "HRD,": [
+        156
+      ],
+      "socio-technical": [
+        157,
+        192
+      ],
+      "systems,": [
+        158,
+        208
+      ],
+      "organizational": [
+        159
+      ],
+      "economics,": [
+        160
+      ],
+      "psychology": [
+        162
+      ],
+      "are": [
+        163
+      ],
+      "needed": [
+        164
+      ],
+      "account": [
+        166
+      ],
+      "for": [
+        167,
+        197
+      ],
+      "task": [
+        168
+      ],
+      "contingency,": [
+        169
+      ],
+      "human-AI": [
+        170
+      ],
+      "complementarity,": [
+        171
+      ],
+      "structural": [
+        172
+      ],
+      "redesign,": [
+        173
+      ],
+      "employee": [
+        175
+      ],
+      "contributes": [
+        179
+      ],
+      "theory": [
+        181
+      ],
+      "synthesis": [
+        182
+      ],
+      "re-conceptualizes": [
+        184
+      ],
+      "dynamic,": [
+        189
+      ],
+      "multi-level,": [
+        190
+      ],
+      "system.": [
+        193
+      ],
+      "It": [
+        194
+      ],
+      "offers": [
+        195
+      ],
+      "implications": [
+        196
+      ],
+      "designing": [
+        198
+      ],
+      "adaptive": [
+        199
+      ],
+      "architectures,": [
+        201
+      ],
+      "aligning": [
+        202
+      ],
+      "HRD": [
+        203
+      ],
+      "interventions": [
+        204
+      ],
+      "embedding": [
+        210
+      ],
+      "capabilities": [
+        212
+      ],
+      "within": [
+        213
+      ],
+      "workforce": [
+        214
+      ],
+      "development": [
+        215
+      ],
+      "strategies.": [
+        216
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-09-26T08:19:03.415552",
+    "created_date": "2026-08-25T00:00:00"
+  }
+}

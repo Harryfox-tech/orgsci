@@ -1,0 +1,1059 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639",
+    "checked_at": "2026-10-24T02:10:22.699187Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4414465432",
+    "doi": "https://doi.org/10.1080/01443410.2025.2553639",
+    "title": "How does artificial intelligence compare to human feedback? A meta-analysis of performance, feedback perception, and learning dispositions",
+    "display_name": "How does artificial intelligence compare to human feedback? A meta-analysis of performance, feedback perception, and learning dispositions",
+    "publication_year": 2025,
+    "publication_date": "2025-09-24",
+    "ids": {
+      "openalex": "https://openalex.org/W4414465432",
+      "doi": "https://doi.org/10.1080/01443410.2025.2553639"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/01443410.2025.2553639",
+      "doi": "https://doi.org/10.1080/01443410.2025.2553639",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/01443410.2025.2553639",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S43525819",
+        "display_name": "Educational Psychology",
+        "issn_l": "0144-3410",
+        "issn": [
+          "0144-3410",
+          "1469-5820"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "erih-plus",
+          "jufo-2",
+          "ki-jl-2",
+          "norway-2",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Educational Psychology",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639?needAccess=true",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5029483339",
+          "display_name": "Rogers Kaliisa",
+          "orcid": "https://orcid.org/0000-0001-6528-8517",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-6528-8517"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I184942183",
+            "display_name": "University of Oslo",
+            "ror": "https://ror.org/01xtthb56",
+            "country_code": "NO",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I184942183"
+            ]
+          }
+        ],
+        "countries": [
+          "NO"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Rogers Kaliisa",
+        "raw_affiliation_strings": [
+          "Department of Education, University of Oslo"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-6528-8517",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Education, University of Oslo",
+            "institution_ids": [
+              "https://openalex.org/I184942183"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5084730893",
+          "display_name": "Kamila Misiejuk",
+          "orcid": "https://orcid.org/0000-0003-0761-8703",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0761-8703"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4432739",
+            "display_name": "University of Bergen",
+            "ror": "https://ror.org/03zga2b32",
+            "country_code": "NO",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4432739"
+            ]
+          }
+        ],
+        "countries": [
+          "NO"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kamila Misiejuk",
+        "raw_affiliation_strings": [
+          "Centre for the Science of Learning & Technology (SLATE), University of Bergen"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0761-8703",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Centre for the Science of Learning & Technology (SLATE), University of Bergen",
+            "institution_ids": [
+              "https://openalex.org/I4432739"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5035103260",
+          "display_name": "Sonsoles López‐Pernas",
+          "orcid": "https://orcid.org/0000-0002-9621-1392",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9621-1392"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I175532246",
+            "display_name": "University of Eastern Finland",
+            "ror": "https://ror.org/00cyydd11",
+            "country_code": "FI",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I175532246"
+            ]
+          }
+        ],
+        "countries": [
+          "FI"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sonsoles López-Pernas",
+        "raw_affiliation_strings": [
+          "School of Computing, University of Eastern Finland"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-9621-1392",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Computing, University of Eastern Finland",
+            "institution_ids": [
+              "https://openalex.org/I175532246"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5051595913",
+          "display_name": "Mohammed Saqr",
+          "orcid": "https://orcid.org/0000-0001-5881-3109",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5881-3109"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I175532246",
+            "display_name": "University of Eastern Finland",
+            "ror": "https://ror.org/00cyydd11",
+            "country_code": "FI",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I175532246"
+            ]
+          }
+        ],
+        "countries": [
+          "FI"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mohammed Saqr",
+        "raw_affiliation_strings": [
+          "School of Computing, University of Eastern Finland"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-5881-3109",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Computing, University of Eastern Finland",
+            "institution_ids": [
+              "https://openalex.org/I175532246"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5029483339"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I184942183"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 12.8968,
+    "has_fulltext": true,
+    "cited_by_count": 32,
+    "citation_normalized_percentile": {
+      "value": 0.9893859,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 97,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "46",
+      "issue": "1",
+      "first_page": "80",
+      "last_page": "111"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T10959",
+      "display_name": "Student Assessment and Feedback",
+      "score": 0.6582000255584717,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T10959",
+        "display_name": "Student Assessment and Feedback",
+        "score": 0.6582000255584717,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3304",
+          "display_name": "Education"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 0.21480000019073486,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11902",
+        "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+        "score": 0.09030000120401382,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/ai-feedback",
+        "display_name": "AI-generated feedback",
+        "score": 0.8949999809265137
+      },
+      {
+        "id": "https://openalex.org/keywords/human-feedback",
+        "display_name": "human feedback",
+        "score": 0.8820000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/feedback-perception",
+        "display_name": "feedback perception",
+        "score": 0.5149999856948853
+      },
+      {
+        "id": "https://openalex.org/keywords/learning-performance",
+        "display_name": "learning performance",
+        "score": 0.8980000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/learning-dispositions",
+        "display_name": "learning dispositions",
+        "score": 0.7749999761581421
+      },
+      {
+        "id": "https://openalex.org/keywords/hybrid-feedback",
+        "display_name": "hybrid feedback",
+        "score": 0.722000002861023
+      },
+      {
+        "id": "https://openalex.org/keywords/student-learning",
+        "display_name": "student learning",
+        "score": 0.47200000286102295
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.7954000234603882
+      },
+      {
+        "id": "https://openalex.org/C180747234",
+        "wikidata": "https://www.wikidata.org/wiki/Q23373",
+        "display_name": "Cognitive psychology",
+        "level": 1,
+        "score": 0.445499986410141
+      },
+      {
+        "id": "https://openalex.org/C105409693",
+        "wikidata": "https://www.wikidata.org/wiki/Q5937824",
+        "display_name": "Human intelligence",
+        "level": 2,
+        "score": 0.36640000343322754
+      },
+      {
+        "id": "https://openalex.org/C145420912",
+        "wikidata": "https://www.wikidata.org/wiki/Q853077",
+        "display_name": "Mathematics education",
+        "level": 1,
+        "score": 0.3508000075817108
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.34709998965263367
+      },
+      {
+        "id": "https://openalex.org/C188147891",
+        "wikidata": "https://www.wikidata.org/wiki/Q147638",
+        "display_name": "Cognitive science",
+        "level": 1,
+        "score": 0.3431999981403351
+      },
+      {
+        "id": "https://openalex.org/C2986817661",
+        "wikidata": "https://www.wikidata.org/wiki/Q185698",
+        "display_name": "Research methodology",
+        "level": 3,
+        "score": 0.3416000008583069
+      },
+      {
+        "id": "https://openalex.org/C169900460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+        "display_name": "Cognition",
+        "level": 2,
+        "score": 0.3176000118255615
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.314300000667572
+      },
+      {
+        "id": "https://openalex.org/C2777938197",
+        "wikidata": "https://www.wikidata.org/wiki/Q7834022",
+        "display_name": "Transfer of training",
+        "level": 2,
+        "score": 0.2939999997615814
+      },
+      {
+        "id": "https://openalex.org/C88610354",
+        "wikidata": "https://www.wikidata.org/wiki/Q1813494",
+        "display_name": "Teaching method",
+        "level": 2,
+        "score": 0.2897000014781952
+      },
+      {
+        "id": "https://openalex.org/C11012388",
+        "wikidata": "https://www.wikidata.org/wiki/Q170658",
+        "display_name": "Creativity",
+        "level": 2,
+        "score": 0.2712000012397766
+      },
+      {
+        "id": "https://openalex.org/C120912362",
+        "wikidata": "https://www.wikidata.org/wiki/Q136822",
+        "display_name": "Higher education",
+        "level": 2,
+        "score": 0.2703999876976013
+      },
+      {
+        "id": "https://openalex.org/C150681269",
+        "wikidata": "https://www.wikidata.org/wiki/Q2380771",
+        "display_name": "Cognitive style",
+        "level": 3,
+        "score": 0.2676999866962433
+      },
+      {
+        "id": "https://openalex.org/C37228920",
+        "wikidata": "https://www.wikidata.org/wiki/Q1307600",
+        "display_name": "Experiential learning",
+        "level": 2,
+        "score": 0.25450000166893005
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1080/01443410.2025.2553639",
+        "doi": "https://doi.org/10.1080/01443410.2025.2553639",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/01443410.2025.2553639",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639?needAccess=true",
+        "source": {
+          "id": "https://openalex.org/S43525819",
+          "display_name": "Educational Psychology",
+          "issn_l": "0144-3410",
+          "issn": [
+            "0144-3410",
+            "1469-5820"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "erih-plus",
+            "jufo-2",
+            "ki-jl-2",
+            "norway-2",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Educational Psychology",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1080/01443410.2025.2553639",
+      "doi": "https://doi.org/10.1080/01443410.2025.2553639",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/01443410.2025.2553639",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S43525819",
+        "display_name": "Educational Psychology",
+        "issn_l": "0144-3410",
+        "issn": [
+          "0144-3410",
+          "1469-5820"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "erih-plus",
+          "jufo-2",
+          "ki-jl-2",
+          "norway-2",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Educational Psychology",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/4",
+        "score": 0.9235000014305115,
+        "display_name": "Quality education"
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      },
+      {
+        "id": "https://openalex.org/study-designs/meta-analysis",
+        "display_name": "Meta-Analysis"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4414465432.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4414465432.grobid-xml"
+    },
+    "referenced_works_count": 69,
+    "referenced_works": [
+      "https://openalex.org/W1004033754",
+      "https://openalex.org/W1784175517",
+      "https://openalex.org/W1854833362",
+      "https://openalex.org/W1964435302",
+      "https://openalex.org/W1970442646",
+      "https://openalex.org/W1981188819",
+      "https://openalex.org/W1998263416",
+      "https://openalex.org/W2026844293",
+      "https://openalex.org/W2030441548",
+      "https://openalex.org/W2033585778",
+      "https://openalex.org/W2040679392",
+      "https://openalex.org/W2041295009",
+      "https://openalex.org/W2095907159",
+      "https://openalex.org/W2104657845",
+      "https://openalex.org/W2126930838",
+      "https://openalex.org/W2139168999",
+      "https://openalex.org/W2149830599",
+      "https://openalex.org/W2149915933",
+      "https://openalex.org/W2511117069",
+      "https://openalex.org/W2523258810",
+      "https://openalex.org/W2560140854",
+      "https://openalex.org/W2585493186",
+      "https://openalex.org/W2588631593",
+      "https://openalex.org/W2799928688",
+      "https://openalex.org/W2909245158",
+      "https://openalex.org/W2949785454",
+      "https://openalex.org/W2968909591",
+      "https://openalex.org/W2990390600",
+      "https://openalex.org/W2990872438",
+      "https://openalex.org/W3002947507",
+      "https://openalex.org/W3007731556",
+      "https://openalex.org/W3024117512",
+      "https://openalex.org/W3029636270",
+      "https://openalex.org/W3033984276",
+      "https://openalex.org/W3087936928",
+      "https://openalex.org/W3094264786",
+      "https://openalex.org/W3108833100",
+      "https://openalex.org/W3118615836",
+      "https://openalex.org/W3171148899",
+      "https://openalex.org/W3189169916",
+      "https://openalex.org/W3195589482",
+      "https://openalex.org/W3213078970",
+      "https://openalex.org/W3216898476",
+      "https://openalex.org/W4205362798",
+      "https://openalex.org/W4225252923",
+      "https://openalex.org/W4226023014",
+      "https://openalex.org/W4254963836",
+      "https://openalex.org/W4281687378",
+      "https://openalex.org/W4284960063",
+      "https://openalex.org/W4285495910",
+      "https://openalex.org/W4288084873",
+      "https://openalex.org/W4295406797",
+      "https://openalex.org/W4297183894",
+      "https://openalex.org/W4311464090",
+      "https://openalex.org/W4316657447",
+      "https://openalex.org/W4319430513",
+      "https://openalex.org/W4321598914",
+      "https://openalex.org/W4323655724",
+      "https://openalex.org/W4366597599",
+      "https://openalex.org/W4367844578",
+      "https://openalex.org/W4380789891",
+      "https://openalex.org/W4385432913",
+      "https://openalex.org/W4386253646",
+      "https://openalex.org/W4387954002",
+      "https://openalex.org/W4389003282",
+      "https://openalex.org/W4389210056",
+      "https://openalex.org/W4390545757",
+      "https://openalex.org/W4393132022",
+      "https://openalex.org/W4407842356"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "exploratory": [
+        1
+      ],
+      "meta-analysis": [
+        2,
+        80
+      ],
+      "synthesises": [
+        3
+      ],
+      "current": [
+        4
+      ],
+      "research": [
+        5
+      ],
+      "on": [
+        6,
+        20,
+        83
+      ],
+      "the": [
+        7,
+        29,
+        86,
+        135,
+        141
+      ],
+      "effectiveness": [
+        8
+      ],
+      "of": [
+        9,
+        26,
+        88,
+        137,
+        147
+      ],
+      "Artificial": [
+        10
+      ],
+      "Intelligence": [
+        11
+      ],
+      "(AI)-generated": [
+        12
+      ],
+      "feedback": [
+        13,
+        44,
+        70,
+        108
+      ],
+      "compared": [
+        14
+      ],
+      "to": [
+        15
+      ],
+      "traditional": [
+        16
+      ],
+      "human-provided": [
+        17,
+        49
+      ],
+      "feedback.": [
+        18,
+        50,
+        77,
+        149
+      ],
+      "Drawing": [
+        19
+      ],
+      "41": [
+        21
+      ],
+      "studies": [
+        22,
+        84
+      ],
+      "involving": [
+        23
+      ],
+      "a": [
+        24,
+        112,
+        131
+      ],
+      "total": [
+        25
+      ],
+      "4813": [
+        27
+      ],
+      "students,": [
+        28
+      ],
+      "findings": [
+        30
+      ],
+      "reveal": [
+        31
+      ],
+      "no": [
+        32
+      ],
+      "statistically": [
+        33,
+        58,
+        116
+      ],
+      "significant": [
+        34
+      ],
+      "differences": [
+        35,
+        106
+      ],
+      "in": [
+        36,
+        85,
+        107
+      ],
+      "learning": [
+        37
+      ],
+      "performance": [
+        38
+      ],
+      "between": [
+        39
+      ],
+      "students": [
+        40
+      ],
+      "who": [
+        41,
+        47
+      ],
+      "received": [
+        42,
+        48
+      ],
+      "AI-generated": [
+        43
+      ],
+      "and": [
+        45,
+        57,
+        90,
+        110,
+        115,
+        144
+      ],
+      "those": [
+        46
+      ],
+      "The": [
+        51,
+        102,
+        127
+      ],
+      "pooled": [
+        52
+      ],
+      "effect": [
+        53,
+        118
+      ],
+      "size": [
+        54,
+        119
+      ],
+      "was": [
+        55
+      ],
+      "small": [
+        56
+      ],
+      "insignificant": [
+        59,
+        117
+      ],
+      "(Hedge’s": [
+        60,
+        120
+      ],
+      "g": [
+        61,
+        121
+      ],
+      "=": [
+        62,
+        100,
+        122
+      ],
+      "0.25,": [
+        63
+      ],
+      "CI": [
+        64,
+        124
+      ],
+      "[−0.11;": [
+        65
+      ],
+      "0.60]),": [
+        66
+      ],
+      "indicating": [
+        67
+      ],
+      "that": [
+        68
+      ],
+      "AI": [
+        69,
+        138
+      ],
+      "is": [
+        71
+      ],
+      "potentially": [
+        72
+      ],
+      "as": [
+        73,
+        75
+      ],
+      "effective": [
+        74
+      ],
+      "human": [
+        76,
+        148
+      ],
+      "A": [
+        78
+      ],
+      "separate": [
+        79
+      ],
+      "focusing": [
+        81
+      ],
+      "exclusively": [
+        82
+      ],
+      "domain": [
+        87
+      ],
+      "language": [
+        89
+      ],
+      "writing": [
+        91
+      ],
+      "confirmed": [
+        92
+      ],
+      "similar": [
+        93
+      ],
+      "findings,": [
+        94
+      ],
+      "with": [
+        95
+      ],
+      "high": [
+        96
+      ],
+      "heterogeneity": [
+        97
+      ],
+      "persisting": [
+        98
+      ],
+      "(I2": [
+        99
+      ],
+      "95%).": [
+        101
+      ],
+      "study": [
+        103,
+        128
+      ],
+      "further": [
+        104
+      ],
+      "explored": [
+        105
+      ],
+      "perception": [
+        109
+      ],
+      "found": [
+        111
+      ],
+      "small,": [
+        113
+      ],
+      "negative,": [
+        114
+      ],
+      "−0.20,": [
+        123
+      ],
+      "[−0.67;": [
+        125
+      ],
+      "0.27]).": [
+        126
+      ],
+      "advocates": [
+        129
+      ],
+      "for": [
+        130
+      ],
+      "hybrid": [
+        132
+      ],
+      "approach,": [
+        133
+      ],
+      "leveraging": [
+        134
+      ],
+      "scalability": [
+        136
+      ],
+      "while": [
+        139
+      ],
+      "retaining": [
+        140
+      ],
+      "deep,": [
+        142
+      ],
+      "empathetic,": [
+        143
+      ],
+      "contextual": [
+        145
+      ],
+      "features": [
+        146
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 28
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-14T16:39:01.820549",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

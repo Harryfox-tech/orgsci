@@ -1,0 +1,804 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+    "checked_at": "2026-10-24T02:10:17.919953Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            18
+          ]
+        ],
+        "date-time": "2026-10-18T13:52:17Z",
+        "timestamp": 1792331537549,
+        "version": "4.4.0"
+      },
+      "reference-count": 55,
+      "publisher": "Elsevier BV",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2024-11-01T00:00:00Z",
+            "timestamp": 1730419200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2024-11-01T00:00:00Z",
+            "timestamp": 1730419200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                11
+              ]
+            ],
+            "date-time": "2024-09-11T00:00:00Z",
+            "timestamp": 1726012800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "International Journal of Information Management Data Insights"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jjimei.2024.100288",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            9,
+            14
+          ]
+        ],
+        "date-time": "2024-09-14T23:25:55Z",
+        "timestamp": 1726356355000
+      },
+      "page": "100288",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 56,
+      "title": [
+        "Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review"
+      ],
+      "prefix": "10.1016",
+      "volume": "4",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-5471-0526",
+          "authenticated-orcid": false,
+          "given": "Natalia",
+          "family": "Tusquellas",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ramon",
+          "family": "Palau",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Raúl",
+          "family": "Santiago",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0001",
+          "doi-asserted-by": "crossref",
+          "first-page": "612",
+          "DOI": "10.3390/math11030612",
+          "article-title": "Application of artificial intelligence for better investment in human capital",
+          "volume": "11",
+          "author": "Ammer",
+          "year": "2023",
+          "journal-title": "Mathematics"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0002",
+          "doi-asserted-by": "crossref",
+          "first-page": "841",
+          "DOI": "10.1007/s10676-021-09619-6",
+          "article-title": "The ethical use of artificial intelligence in human resource management: a decision-making framework",
+          "volume": "23",
+          "author": "Bankins",
+          "year": "2021",
+          "journal-title": "Ethics and Information Technology"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0003",
+          "series-title": "International encyclopedia of the social & behavioral sciences",
+          "first-page": "89",
+          "author": "Beddoe",
+          "year": "2015"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0004",
+          "series-title": "The talent management handbook: creating organizational excellence by identifying, developing & promoting your best people",
+          "author": "Berger",
+          "year": "2010"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0005",
+          "first-page": "1",
+          "article-title": "Research on an artificial intelligence-based professional ability evaluation system from the perspective of industry-education integration",
+          "volume": "8",
+          "author": "Bian",
+          "year": "2022",
+          "journal-title": "Scientific Programming"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0006",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1145/3577204",
+          "article-title": "Deep reinforcement learning framework with formal verification",
+          "volume": "35",
+          "author": "Boudi",
+          "year": "2023",
+          "journal-title": "Formal Aspects of Computing"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0007",
+          "doi-asserted-by": "crossref",
+          "first-page": "163",
+          "DOI": "10.1108/EJTD-03-2023-0045",
+          "article-title": "Automation, artificial intelligence and future skills needs: an Irish perspective",
+          "volume": "47",
+          "author": "Bukartaite",
+          "year": "2023",
+          "journal-title": "European Journal of Training and Development"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0008",
+          "doi-asserted-by": "crossref",
+          "first-page": "729",
+          "DOI": "10.1111/1748-8583.12433",
+          "article-title": "Can HR adapt to the paradoxes of artificial intelligence?",
+          "volume": "32",
+          "author": "Charlwood",
+          "year": "2022",
+          "journal-title": "Human Resource Management Journal"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0009",
+          "doi-asserted-by": "crossref",
+          "first-page": "2007",
+          "DOI": "10.1007/s13132-022-00985-0",
+          "article-title": "Artificial intelligence-virtual trainer: Innovative didactics aimed at personalized training needs",
+          "volume": "14",
+          "author": "Chen",
+          "year": "2023",
+          "journal-title": "Journal of the Knowledge Economy"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0010",
+          "article-title": "Indispensable skills for human employees in the age of robots and AI",
+          "volume": "11",
+          "author": "Chuang",
+          "year": "2022",
+          "journal-title": "European Journal of Training and Development"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0011",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1111/j.1468-2419.2012.00410.x",
+          "article-title": "Continuing professional development",
+          "volume": "16",
+          "author": "Collin",
+          "year": "2012",
+          "journal-title": "International Journal of Training and Development"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0012",
+          "doi-asserted-by": "crossref",
+          "first-page": "731",
+          "DOI": "10.24136/oc.2023.022",
+          "article-title": "The impact of artificial intelligence (AI) on employees’ skills and well-being in global labor markets: A systematic review",
+          "volume": "14",
+          "author": "Cramarenco",
+          "year": "2023",
+          "journal-title": "Oeconomia Copernicana"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0013",
+          "series-title": "Qualitative dissertation methodology: A guide for research design and methods",
+          "author": "Durdella",
+          "year": "2018"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0014",
+          "first-page": "726",
+          "article-title": "Artificial intelligence applied to the personnel selection process",
+          "volume": "8",
+          "author": "Fajardo Vargas",
+          "year": "2023",
+          "journal-title": "Polo del Conocimiento: Revista científico – Profesional"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3390/jrfm16010031",
+          "article-title": "Artificial intelligence-driven talent management system: Exploring the risks and options for constructing a theoretical foundation",
+          "volume": "16",
+          "author": "Faqihi",
+          "year": "2023",
+          "journal-title": "Journal of Risk and Financial Management"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0016",
+          "unstructured": "J. Ford, N. Harding, & D.S. Russell, Talent management and development. An overview of current theory and practice. NHS, Yorkshire and the Humber, 2010. https://orca.cardiff.ac.uk/id/eprint/87115/1/talentmanagementanddevelopmentanoverviewofcurrenttheoryandpractice.pdf."
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0017",
+          "doi-asserted-by": "crossref",
+          "first-page": "e14694",
+          "DOI": "10.1016/j.heliyon.2023.e14694",
+          "article-title": "Artificial intelligence applied to potential assessment and talent identification in an organisational context",
+          "volume": "9",
+          "author": "França",
+          "year": "2023",
+          "journal-title": "Heliyon"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0018",
+          "doi-asserted-by": "crossref",
+          "first-page": "457",
+          "DOI": "10.1080/09585192.2019.1642645",
+          "article-title": "Talent management: context matters",
+          "volume": "31",
+          "author": "Gallardo-Gallardo",
+          "year": "2020",
+          "journal-title": "International Journal of Human Resource Management."
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0019",
+          "doi-asserted-by": "crossref",
+          "first-page": "641",
+          "DOI": "10.1108/PR-03-2024-0284",
+          "article-title": "Learning and development in highly dynamic VUCA contexts: a new framework for the L&D function",
+          "volume": "53",
+          "author": "Garavan",
+          "year": "2024",
+          "journal-title": "Personnel Review"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0020",
+          "unstructured": "J.P. Goetz, M.D. Lecompte, Etnografía y diseño cualitativo en investigación educativa, 1st edition, Morata, Madrid, 1988."
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0021",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fpsyg.2021.768440",
+          "article-title": "How smart technology affects the well-being and supportive learning performance of logistics employees?",
+          "volume": "12",
+          "author": "Jiang",
+          "year": "2022",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0022",
+          "doi-asserted-by": "crossref",
+          "first-page": "40",
+          "DOI": "10.1108/JTF-02-2020-0013",
+          "article-title": "The benefits of eHRM and AI for talent acquisition",
+          "volume": "7",
+          "author": "Johnson",
+          "year": "2021",
+          "journal-title": "Journal of Tourism Futures"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0023",
+          "doi-asserted-by": "crossref",
+          "first-page": "168",
+          "DOI": "10.1108/IJM-04-2021-0216",
+          "article-title": "Human resource developments with the touch of artificial intelligence: a scale development study",
+          "volume": "43",
+          "author": "Kambur",
+          "year": "2022",
+          "journal-title": "International Journal of Manpower."
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0024",
+          "doi-asserted-by": "crossref",
+          "first-page": "701",
+          "DOI": "10.17762/ijritcc.v11i8s.7672",
+          "article-title": "HR functions productivity boost by using AI",
+          "volume": "11",
+          "author": "Kaushik",
+          "year": "2023",
+          "journal-title": "International Journal on Recent and Innovation Trends in Computing and Communication"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0025",
+          "series-title": "New perspectives on human resource management",
+          "first-page": "109",
+          "article-title": "Corporate training strategies: the vital component",
+          "author": "Keep",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0026",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fpsyg.2022.895997",
+          "article-title": "Should I trust the artificial intelligence to recruit? Recruiters’ perceptions and behavior when faced with algorithm-based recommendation systems during resume screening",
+          "volume": "13",
+          "author": "Lacroux",
+          "year": "2022",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0027",
+          "doi-asserted-by": "crossref",
+          "first-page": "6119",
+          "DOI": "10.3390/app13106119",
+          "article-title": "Enhancing skills demand understanding through job Ad segmentation using NLP and clustering techniques",
+          "volume": "13",
+          "author": "Lukauskas",
+          "year": "2023",
+          "journal-title": "Applied Sciences"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0028",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.18662/po/13.4/513",
+          "article-title": "Training delivery methods implemented by American companies: Opportunities and challenges in context of knowledge society",
+          "volume": "13",
+          "author": "Lytovchenko",
+          "year": "2022",
+          "journal-title": "Postmodern Openings"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0029",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.1108/IJM-03-2021-0173",
+          "article-title": "Impact of artificial intelligence on employees working in industry 4.0 led organizations",
+          "volume": "43",
+          "author": "Malik",
+          "year": "2022",
+          "journal-title": "International Journal of Manpower"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0030",
+          "series-title": "A proposal for the Dartmouth summer research project on artificial intelligence",
+          "first-page": "1",
+          "author": "McCarthy",
+          "year": "1995"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0031",
+          "doi-asserted-by": "crossref",
+          "first-page": "29",
+          "DOI": "10.58496/MJBD/2021/006",
+          "article-title": "Artificial neural networks advantages and disadvantages",
+          "author": "Mijwel",
+          "year": "2021",
+          "journal-title": "Mesopotamian Journal of Big Data"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0032",
+          "series-title": "Qualitative data analysis",
+          "author": "Miles",
+          "year": "1984"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0033",
+          "doi-asserted-by": "crossref",
+          "first-page": "66",
+          "DOI": "10.57019/jmv.1168056",
+          "article-title": "Metaverse: A potential virtual-physical ecosystem for innovative blended education and training",
+          "volume": "3",
+          "author": "Mitra",
+          "year": "2023",
+          "journal-title": "Journal of Metaverse"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0034",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.28945/5078",
+          "article-title": "The impact of artificial intelligence on workers’ skills: Upskilling and reskilling in organisations",
+          "volume": "26",
+          "author": "Morandini",
+          "year": "2023",
+          "journal-title": "Informing Science"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.17323/2587-814X.2022.2.21.35",
+          "article-title": "The development of a model for a personalized learning path using machine learning methods",
+          "volume": "16",
+          "author": "Morozevich",
+          "year": "2022",
+          "journal-title": "Bus Informatics"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0036",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1108/ICT-10-2019-0097",
+          "article-title": "Introducing artificial intelligence into a human resources function",
+          "volume": "52",
+          "author": "Niehueser",
+          "year": "2020",
+          "journal-title": "Industrial and Commercial Train"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0037",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1108/00197850210429129",
+          "article-title": "Corporate universities vs higher education institutions",
+          "volume": "34",
+          "author": "Nixon",
+          "year": "2002",
+          "journal-title": "Industrial and Commercial Train"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0038",
+          "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "volume": "18",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "The BMJ"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0039",
+          "doi-asserted-by": "crossref",
+          "first-page": "01",
+          "DOI": "10.17762/ijritcc.v11i3s.6149",
+          "article-title": "Potential of artificial intelligence in boosting employee retention in the human resource industry",
+          "volume": "11",
+          "author": "Paigude",
+          "year": "2023",
+          "journal-title": "International Journal on Recent and Innovation Trends in Computing and Communication"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0040",
+          "first-page": "577",
+          "article-title": "Explorando habilidades requeridas para la industria 4.0: Un enfoque orientado al trabajador",
+          "volume": "37",
+          "author": "Peña-Jimenez",
+          "year": "2021",
+          "journal-title": "Annals of Psychology"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0041",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.3390/info14020085",
+          "article-title": "Investigating the influence of artificial intelligence on business value in the digital era of strategy: A literature review",
+          "volume": "14",
+          "author": "Perifanis",
+          "year": "2023",
+          "journal-title": "Information"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0042",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fpsyg.2022.1014434",
+          "article-title": "Integrating artificial intelligence into a talent management model to increase the work engagement and performance of enterprises",
+          "volume": "13",
+          "author": "Rožman",
+          "year": "2022",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0043",
+          "series-title": "Corporate education: A practical guide to effective corporate learning",
+          "author": "Ryan",
+          "year": "2010"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0044",
+          "first-page": "590",
+          "article-title": "Role of artificial intelligence in corporate training and development-A conceptual paper",
+          "volume": "10",
+          "author": "Sabale",
+          "year": "2022",
+          "journal-title": "International J. of Intell. Syst. and Applications in Engineering"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0045",
+          "series-title": "Learning and development for managers: Perspectives from research and practice",
+          "author": "Sadler-Smith",
+          "year": "2009"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0046",
+          "doi-asserted-by": "crossref",
+          "first-page": "173",
+          "DOI": "10.21632/irjbs.13.2.173-188",
+          "article-title": "Artificial intelligence for a better employee engagement",
+          "volume": "13",
+          "author": "Sari",
+          "year": "2020",
+          "journal-title": "International Research Journal of Business Studies"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0047",
+          "doi-asserted-by": "crossref",
+          "first-page": "4035",
+          "DOI": "10.3390/su12104035",
+          "article-title": "Influences of the industry 4.0 revolution on the human capital development and consumer behavior: A systematic review",
+          "volume": "12",
+          "author": "Sima",
+          "year": "2020",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0048",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.7160/eriesj.2013.060305",
+          "article-title": "Employee learning and development in organisations",
+          "volume": "6",
+          "author": "Vnoučková",
+          "year": "2013",
+          "journal-title": "Journal on Efficiency and Responsibility in Education and Science"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0049",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jjimei.2021.100047",
+          "article-title": "Artificial intelligence in tactical human resource management: A systematic literature review",
+          "volume": "1",
+          "author": "Votto",
+          "year": "2021",
+          "journal-title": "International Journal of Information Management Data Insights"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0050",
+          "first-page": "95",
+          "article-title": "Improving employee performance through corporate education",
+          "volume": "13",
+          "author": "Wash",
+          "year": "2023",
+          "journal-title": "Journal of Business and Educational Leadership"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0051",
+          "doi-asserted-by": "crossref",
+          "first-page": "2592",
+          "DOI": "10.1080/09585192.2021.1886149",
+          "article-title": "Digitalised talent management and automated talent decisions: the implications for HR professionals",
+          "volume": "32",
+          "author": "Wiblen",
+          "year": "2021",
+          "journal-title": "International Journal of Human Resource Management"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0052",
+          "doi-asserted-by": "crossref",
+          "first-page": "381",
+          "DOI": "10.17762/ijritcc.v11i8s.7218",
+          "article-title": "Harnessing artificial intelligence to empower HR processes and drive enhanced efficiency in the workplace to boost productivity",
+          "volume": "11",
+          "author": "Yadav",
+          "year": "2023",
+          "journal-title": "International Journal on Recent and Innovation Trends in Computing and Communication"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0053",
+          "first-page": "20",
+          "article-title": "A study of artificial intelligence and its role in human resource management",
+          "volume": "6",
+          "author": "Yawalkar",
+          "year": "2019",
+          "journal-title": "International Journal of Research and Analytical Reviews"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0054",
+          "first-page": "1",
+          "article-title": "Multi-dimensional post competency evaluation model in human resource management under the background of artificial intelligence",
+          "volume": "2022",
+          "author": "Zhang",
+          "year": "2022",
+          "journal-title": "Mathematical Problems in Engineering"
+        },
+        {
+          "key": "10.1016/j.jjimei.2024.100288_bib0055",
+          "series-title": "Artificial neural networks, methods in molecular biology",
+          "first-page": "14",
+          "article-title": "Overview of artificial neural networks",
+          "author": "Zou",
+          "year": "2008"
+        }
+      ],
+      "container-title": [
+        "International Journal of Information Management Data Insights"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2667096824000776?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2667096824000776?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            3
+          ]
+        ],
+        "date-time": "2024-11-03T03:42:48Z",
+        "timestamp": 1730605368000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2667096824000776"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "references-count": 55,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              11
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S2667096824000776"
+      ],
+      "URL": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "relation": {},
+      "ISSN": [
+        "2667-0968"
+      ],
+      "issn-type": [
+        {
+          "value": "2667-0968",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            11
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "International Journal of Information Management Data Insights",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jjimei.2024.100288",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "100288"
+    }
+  }
+}

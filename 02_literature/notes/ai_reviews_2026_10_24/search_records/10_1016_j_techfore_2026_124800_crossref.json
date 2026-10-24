@@ -1,0 +1,2583 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+    "checked_at": "2026-10-24T02:10:09.115345Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            25
+          ]
+        ],
+        "date-time": "2026-08-25T01:01:45Z",
+        "timestamp": 1787619705100,
+        "version": "build-2736575974"
+      },
+      "reference-count": 236,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                6,
+                24
+              ]
+            ],
+            "date-time": "2026-06-24T00:00:00Z",
+            "timestamp": 1782259200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100018996",
+          "name": "HEAL-Link",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/100018996",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100021534",
+          "name": "University of Piraeus Research Centre",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100021534",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Technological Forecasting and Social Change"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.techfore.2026.124800",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            27
+          ]
+        ],
+        "date-time": "2026-06-27T07:20:38Z",
+        "timestamp": 1782544838000
+      },
+      "page": "124800",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "special_numbering": "C",
+      "title": [
+        "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions"
+      ],
+      "prefix": "10.1016",
+      "volume": "231",
+      "author": [
+        {
+          "given": "Thomas K.",
+          "family": "Dasaklis",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Panagiotis G.",
+          "family": "Giannopoulos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Dimitris",
+          "family": "Koutras",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9238-6796",
+          "authenticated-orcid": false,
+          "given": "Vangelis",
+          "family": "Malamas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Panos T.",
+          "family": "Chountalas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b1",
+          "doi-asserted-by": "crossref",
+          "first-page": "487",
+          "DOI": "10.1016/j.bushor.2024.03.003",
+          "article-title": "A framework of diversity, equity, and inclusion safeguards for chatbots",
+          "volume": "67",
+          "author": "Abdelhalim",
+          "year": "2024",
+          "journal-title": "Bus. Horiz."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b2",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-025-99119-0",
+          "article-title": "Integrating generative AI and machine learning classifiers for solving heterogenous MCGDM: A case of employee churn prediction",
+          "volume": "15",
+          "author": "Abu-Faty",
+          "year": "2025",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b3",
+          "doi-asserted-by": "crossref",
+          "first-page": "1338",
+          "DOI": "10.1177/10596011241238792",
+          "article-title": "Sustainable employability: Sustainable employability in the age of generative artificial intelligence",
+          "volume": "49",
+          "author": "Adiasto",
+          "year": "2024",
+          "journal-title": "Group Organ. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b4",
+          "article-title": "Optimizing employee roles in the era of generative AI: A multi-criteria decision-making analysis of co-creation dynamics",
+          "volume": "11",
+          "author": "Agarwal",
+          "year": "2025",
+          "journal-title": "Cogent Soc. Sci."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b5",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.orgdyn.2024.101029",
+          "article-title": "How to use generative AI as a human resource management assistant",
+          "volume": "53",
+          "author": "Aguinis",
+          "year": "2024",
+          "journal-title": "Organ. Dyn."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b6",
+          "doi-asserted-by": "crossref",
+          "first-page": "109388",
+          "DOI": "10.1109/ACCESS.2024.3435670",
+          "article-title": "Online recruitment fraud (ORF) detection using deep learning approaches",
+          "volume": "12",
+          "author": "Akram",
+          "year": "2024",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b7",
+          "doi-asserted-by": "crossref",
+          "first-page": "781",
+          "DOI": "10.3390/systems13090781",
+          "article-title": "Industry-driven model-based systems engineering (MBSE) workforce competencies—An AI-based competency extraction framework",
+          "volume": "13",
+          "author": "Akundi",
+          "year": "2025",
+          "journal-title": "Systems"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b8",
+          "doi-asserted-by": "crossref",
+          "first-page": "2114",
+          "DOI": "10.3390/app16042114",
+          "article-title": "Skillchain DX: A policy framework for AI-driven talent mapping and blockchain-based credential validation in dubai government",
+          "volume": "16",
+          "author": "Al-Jaziri",
+          "year": "2026",
+          "journal-title": "Appl. Sci."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b9",
+          "doi-asserted-by": "crossref",
+          "first-page": "867",
+          "DOI": "10.5267/j.ijdns.2025.11.011",
+          "article-title": "Integration of generative artificial intelligence and human resource practices",
+          "volume": "10",
+          "author": "Al-Maaitah",
+          "year": "2026",
+          "journal-title": "Int. J. Data Netw. Sci."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1166",
+          "DOI": "10.3390/su16031166",
+          "article-title": "Enhancing work productivity through generative artificial intelligence: A comprehensive literature review",
+          "volume": "16",
+          "author": "Al Naqbi",
+          "year": "2024",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b11",
+          "first-page": "1",
+          "article-title": "Digital leadership in the age of generative AI: A systematic literature review using thematic analysis",
+          "author": "Albannai",
+          "year": "2025",
+          "journal-title": "Glob. Knowl. Mem. Commun."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b12",
+          "article-title": "Exploring the influence, implications and challenges of integrating generative artificial intelligence into organizational learning and development",
+          "author": "Alhusban",
+          "year": "2025",
+          "journal-title": "Compét. Rev."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b13",
+          "doi-asserted-by": "crossref",
+          "first-page": "494",
+          "DOI": "10.1080/15236803.2024.2370455",
+          "article-title": "Leveraging ChatGPT in public sector human resource management education",
+          "volume": "30",
+          "author": "Allgood",
+          "year": "2024",
+          "journal-title": "J. Public Aff. Educ."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.techfore.2026.124800_b14",
+          "first-page": "255",
+          "article-title": "AI-driven textual feedback analysis in E-training using enhanced roberta",
+          "volume": "16",
+          "author": "Alotaibi",
+          "year": "2025",
+          "journal-title": "Int. J. Adv. Comput. Sci. Appl."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b15",
+          "doi-asserted-by": "crossref",
+          "first-page": "4271",
+          "DOI": "10.11591/ijai.v14.i5.pp4271-4278",
+          "article-title": "AI-driven hyper-personalization and transfer learning for precision recruitment",
+          "volume": "14",
+          "author": "Alqudah",
+          "year": "2025",
+          "journal-title": "IAES Int. J. Artif. Intell."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b16",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ssci.2026.107141",
+          "article-title": "VibrationLLM: Enabling personalized risk management for hand-arm vibration exposure in construction",
+          "volume": "197",
+          "author": "Altheimer",
+          "year": "2026",
+          "journal-title": "Saf. Sci."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b17",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.3390/electronics15010217",
+          "article-title": "Developing an AI assistant for knowledge management and workforce training in state DOTs",
+          "volume": "15",
+          "author": "Amaram",
+          "year": "2026",
+          "journal-title": "Electronics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b18",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/pnasnexus/pgaf089",
+          "article-title": "Measuring gender and racial biases in large language models: Intersectional evidence from automated resume evaluation",
+          "volume": "4",
+          "author": "An",
+          "year": "2025",
+          "journal-title": "PNAS Nexus"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b19",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.orgdyn.2024.101032",
+          "article-title": "Ethical considerations of generative AI-enabled human resource management",
+          "volume": "53",
+          "author": "Andrieux",
+          "year": "2024",
+          "journal-title": "Organ. Dyn."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b20",
+          "series-title": "Proceedings of the 28th Pan-Hellenic Conference on Progress in Computing and Informatics",
+          "first-page": "269",
+          "article-title": "The integration of artificial intelligence, big data, and iot in e-recruitment and selection: a systematic review",
+          "author": "Antoniadis",
+          "year": "2024"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b21",
+          "article-title": "Regulatory and ethical considerations on artificial intelligence for occupational medicine",
+          "volume": "115",
+          "author": "Baldassarre",
+          "year": "2024",
+          "journal-title": "Med. Lav."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b22",
+          "first-page": "547",
+          "article-title": "‘I don’t need professional development; I want institutional development’: legitimising marginalised epistemic capital that disrupts generative AI discourse",
+          "volume": "51",
+          "author": "Bannister",
+          "year": "2025",
+          "journal-title": "Prof. Dev. Educ."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b23",
+          "doi-asserted-by": "crossref",
+          "first-page": "1486",
+          "DOI": "10.1109/TLT.2024.3386095",
+          "article-title": "Chatgpt for learning HCI techniques: A case study on interviews for personas",
+          "volume": "17",
+          "author": "Barambones",
+          "year": "2024",
+          "journal-title": "IEEE Trans. Learn. Technol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b24",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jik.2025.100780",
+          "article-title": "Large language models for competence-based HRM: A case study in the aerospace industry",
+          "volume": "10",
+          "author": "Barba",
+          "year": "2025",
+          "journal-title": "J. Innov. Knowl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b25",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.inffus.2026.104241",
+          "article-title": "Security and privacy in LLMs: A comprehensive survey of threats and mitigation strategies",
+          "volume": "132",
+          "author": "Berini",
+          "year": "2026",
+          "journal-title": "Inf. Fusion"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b26",
+          "doi-asserted-by": "crossref",
+          "first-page": "388",
+          "DOI": "10.2478/orga-2025-0024",
+          "article-title": "Use of chatbots in human resource management for more efficient knowledge sharing – systematic literature review",
+          "volume": "58",
+          "author": "Bernik",
+          "year": "2025",
+          "journal-title": "Organizacija"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b27",
+          "doi-asserted-by": "crossref",
+          "first-page": "794",
+          "DOI": "10.3390/electronics14040794",
+          "article-title": "Resume2vec: Transforming applicant tracking systems with intelligent resume embeddings for precise candidate matching",
+          "volume": "14",
+          "author": "Bevara",
+          "year": "2025",
+          "journal-title": "Electron. (Switz.)"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b28",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1080/12460125.2025.2599912",
+          "article-title": "Sociodemographic biases in employment decision-making by large language models: experimental evidence from ChatGPT simulations",
+          "volume": "34",
+          "author": "Bilon",
+          "year": "2025",
+          "journal-title": "J. Decis. Syst."
+        },
+        {
+          "issue": "2–131",
+          "key": "10.1016/j.techfore.2026.124800_b29",
+          "first-page": "53",
+          "article-title": "Improving information theory of context-aware phrase embeddings in HR domain",
+          "volume": "5",
+          "author": "Bocharova",
+          "year": "2024",
+          "journal-title": "East.-Eur. J. Enterp. Technol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b30",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1038/s41598-023-43436-9",
+          "article-title": "Comparing ChatGPT and GPT-4 performance in USmle soft skill assessments",
+          "volume": "13",
+          "author": "Brin",
+          "year": "2023",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b31",
+          "series-title": "The Oxford Handbook of Evidence-Based Management",
+          "first-page": "112",
+          "article-title": "Systematic review and evidence synthesis as a practice and scholarship tool",
+          "author": "Briner",
+          "year": "2012"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b32",
+          "doi-asserted-by": "crossref",
+          "first-page": "606",
+          "DOI": "10.1111/1748-8583.12524",
+          "article-title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+          "volume": "33",
+          "author": "Budhwar",
+          "year": "2023",
+          "journal-title": "Hum. Resour. Manag. J."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b33",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1002/hrm.70023",
+          "article-title": "Star advantage: Employee value creation and capture in the age of artificial intelligence",
+          "volume": "65",
+          "author": "Call",
+          "year": "2026",
+          "journal-title": "Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.jclinepi.2018.08.019",
+          "article-title": "Lack of transparency in reporting narrative synthesis of quantitative data: A methodological assessment of systematic reviews",
+          "volume": "105",
+          "author": "Campbell",
+          "year": "2019",
+          "journal-title": "J. Clin. Epidemiol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b35",
+          "doi-asserted-by": "crossref",
+          "first-page": "235",
+          "DOI": "10.1002/hrm.70025",
+          "article-title": "Can legal and professional personnel selection principles be met with machine learning (artificial intelligence)?",
+          "volume": "65",
+          "author": "Campion",
+          "year": "2026",
+          "journal-title": "Hum. Resour. Manag."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b36",
+          "article-title": "A review of text analysis in human resource management research: Methodological diversity, constructs identified, and validation best practices",
+          "volume": "35",
+          "author": "Campion",
+          "year": "2025",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b37",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/ijsa.12491",
+          "article-title": "Chatgpt, can you take my job interview? Examining artificial intelligence cheating in the asynchronous video interview",
+          "volume": "33",
+          "author": "Canagasuriam",
+          "year": "2025",
+          "journal-title": "Int. J. Sel. Assess."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.techfore.2026.124800_b38",
+          "doi-asserted-by": "crossref",
+          "first-page": "4309",
+          "DOI": "10.18494/SAM5937",
+          "article-title": "Employee work behavior monitoring using multimodal large language models",
+          "volume": "37",
+          "author": "Chen",
+          "year": "2025",
+          "journal-title": "Sensors Mater."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b39",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compind.2025.104399",
+          "article-title": "Personalized safety training for construction workers: A large language model-driven multi-agent framework integrated with knowledge graph reasoning",
+          "volume": "174",
+          "author": "Chen",
+          "year": "2026",
+          "journal-title": "Comput. Ind."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b40",
+          "article-title": "A NLP analysis of digital demand for healthcare jobs in China",
+          "volume": "15",
+          "author": "Chen",
+          "year": "2025",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "issue": "n/a",
+          "key": "10.1016/j.techfore.2026.124800_b41",
+          "article-title": "Human capital disclosure and labor market outcomes: Evidence from regulation S-k",
+          "volume": "n/a",
+          "author": "Choi",
+          "year": "2026",
+          "journal-title": "J. Account. Res."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b42",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.mex.2025.103775",
+          "article-title": "Resume data extract and job recruitment chatbot features for AI-based resume screening & analytics",
+          "volume": "16",
+          "author": "Chong",
+          "year": "2026",
+          "journal-title": "MethodsX"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1680",
+          "DOI": "10.1111/1467-8551.12824",
+          "article-title": "Generative artificial intelligence in business: Towards a strategic human resource management framework",
+          "volume": "35",
+          "author": "Chowdhury",
+          "year": "2024",
+          "journal-title": "Br. J. Manag."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b44",
+          "first-page": "2270",
+          "article-title": "Bridging the IT skill gap with industry demands: An AI-driven text mining approach to job market trends using large language model",
+          "volume": "103",
+          "author": "Chumwatana",
+          "year": "2025",
+          "journal-title": "J. Theor. Appl. Inf. Technol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b45",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.eswa.2025.130068",
+          "article-title": "Bridging the safety-specific language model gap: Domain-adaptive pretraining of transformer-based models across several industrial sectors for occupational safety applications",
+          "volume": "299",
+          "author": "Danish",
+          "year": "2026",
+          "journal-title": "Expert Syst. Appl."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b46",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1145/3701188",
+          "article-title": "Conversate: Supporting reflective learning in interview practice through interactive simulation and dialogic feedback",
+          "volume": "9",
+          "author": "Daryanto",
+          "year": "2025",
+          "journal-title": "Proc. ACM Hum.-Comput. Interact."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b47",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.3390/logistics8010030",
+          "article-title": "Exploring the implementation challenges of the electronic freight transport information (eFTI) regulation: An empirical perspective from Greece",
+          "volume": "8",
+          "author": "Dasaklis",
+          "year": "2024",
+          "journal-title": "Logistics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b48",
+          "doi-asserted-by": "crossref",
+          "first-page": "2439",
+          "DOI": "10.3390/su14042439",
+          "article-title": "A systematic literature review of blockchain-enabled supply chain traceability implementations",
+          "volume": "14",
+          "author": "Dasaklis",
+          "year": "2022",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b49",
+          "article-title": "Using generative pre-trained transformer-4 (GPT-4), ffmpeg, and microsoft azure to aid in creating a text-to-video generation tool to improve safety shares and incident descriptions in the mining industry",
+          "author": "de Almeida",
+          "year": "2025",
+          "journal-title": "Min. Met. Explor."
+        },
+        {
+          "issue": "18",
+          "key": "10.1016/j.techfore.2026.124800_b50",
+          "doi-asserted-by": "crossref",
+          "first-page": "3352",
+          "DOI": "10.3390/buildings15183352",
+          "article-title": "Exploring a multimodal conversational agent for construction site safety: A low-code approach to hazard detection and compliance assessment",
+          "volume": "15",
+          "author": "de Marco",
+          "year": "2025",
+          "journal-title": "Buildings"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.techfore.2026.124800_b51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1553",
+          "DOI": "10.1016/j.jsurg.2024.07.023",
+          "article-title": "Bias perpetuates bias: Chatgpt learns gender inequities in academic surgery promotions",
+          "volume": "81",
+          "author": "Desai",
+          "year": "2024",
+          "journal-title": "J. Surg. Educ."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b52",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1007/s40745-024-00524-5",
+          "article-title": "Applying BERT-based NLP for automated resume screening and candidate ranking",
+          "volume": "12",
+          "author": "Deshmukh",
+          "year": "2025",
+          "journal-title": "Ann. Data Sci."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b53",
+          "doi-asserted-by": "crossref",
+          "first-page": "953",
+          "DOI": "10.11591/ijai.v15.i1.pp953-961",
+          "article-title": "Scalable resume screening using large language model meta AI version 3",
+          "volume": "15",
+          "author": "Deshmukh",
+          "year": "2026",
+          "journal-title": "IAES Int. J. Artif. Intell."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b54",
+          "article-title": "Faking on personality assessments in high-stakes settings: A critical review",
+          "volume": "65",
+          "author": "Dunlop",
+          "year": "2025",
+          "journal-title": "Curr. Opin. Psychol."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b55",
+          "doi-asserted-by": "crossref",
+          "first-page": "2746",
+          "DOI": "10.1186/s12889-025-24130-z",
+          "article-title": "Sex differences in work-related accidents extracted from free text in spanish using natural language processing",
+          "volume": "25",
+          "author": "Dunstan",
+          "year": "2025",
+          "journal-title": "BMC Public Health"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b56",
+          "doi-asserted-by": "crossref",
+          "first-page": "523",
+          "DOI": "10.1007/s11192-009-0146-3",
+          "article-title": "Software survey: VOSviewer, a computer program for bibliometric mapping",
+          "volume": "84",
+          "author": "van Eck",
+          "year": "2010",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b57",
+          "article-title": "Enhancing E-recruitment recommendations through text summarization techniques",
+          "volume": "16",
+          "author": "El-Deeb",
+          "year": "2025",
+          "journal-title": "Inf. (Switz.)"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b58",
+          "article-title": "Effective or ineffective? Using ChatGPT for staffing in the hospitality industry",
+          "volume": "36",
+          "author": "Elmohandes",
+          "year": "2024",
+          "journal-title": "Eur. J. Tour. Res."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b59",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1111/j.1365-2648.2007.04569.x",
+          "article-title": "The qualitative content analysis process",
+          "volume": "62",
+          "author": "Elo",
+          "year": "2008",
+          "journal-title": "J. Adv. Nurs."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b60",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/feduc.2024.1366434",
+          "article-title": "Prompt engineering as a new 21st century skill",
+          "volume": "9",
+          "author": "Federiakin",
+          "year": "2024",
+          "journal-title": "Front. Educ."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.techfore.2026.124800_b61",
+          "article-title": "Privacy-preserving techniques in generative AI and large language models: A narrative review",
+          "volume": "15",
+          "author": "Feretzakis",
+          "year": "2024",
+          "journal-title": "Inf. (Switz.)"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b62",
+          "first-page": "109",
+          "article-title": "Explore, identify, and align: utilizing generative ai as a career coach",
+          "volume": "35",
+          "author": "Flink",
+          "year": "2025",
+          "journal-title": "Mark. Educ. Rev."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b63",
+          "article-title": "Graph neural networks for candidate-job matching: An inductive learning approach",
+          "author": "Frazzetto",
+          "year": "2025",
+          "journal-title": "Data Sci. Eng."
+        },
+        {
+          "issue": "7 July",
+          "key": "10.1016/j.techfore.2026.124800_b64",
+          "article-title": "Perceived warmth and competence predict callback rates in meta-analyzed North American labor market experiments",
+          "volume": "19",
+          "author": "Gallo",
+          "year": "2024",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b65",
+          "first-page": "881",
+          "article-title": "Application of LLM agents in recruitment: A novel framework for automated resume screening",
+          "volume": "32",
+          "author": "Gan",
+          "year": "2024",
+          "journal-title": "J. Inf. Process."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b66",
+          "first-page": "940",
+          "article-title": "Chatgpt as a rising force: Can AI bridge information gaps in occupational risk prevention?",
+          "volume": "82",
+          "author": "García-Rudolph",
+          "year": "2025",
+          "journal-title": "Work"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b67",
+          "doi-asserted-by": "crossref",
+          "first-page": "1590",
+          "DOI": "10.1108/IJPPM-08-2020-0427",
+          "article-title": "A review of machine learning applications in human resource management",
+          "volume": "71",
+          "author": "Garg",
+          "year": "2022",
+          "journal-title": "Int. J. Prod. Perform. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b68",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s10515-023-00409-6",
+          "article-title": "Can AI serve as a substitute for human subjects in software engineering research?",
+          "volume": "31",
+          "author": "Gerosa",
+          "year": "2024",
+          "journal-title": "Autom. Softw. Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b69",
+          "doi-asserted-by": "crossref",
+          "first-page": "16",
+          "DOI": "10.47738/jads.v7i1.970",
+          "article-title": "Assessing large language models for zero-shot dynamic question generation and automated leadership competency assessment",
+          "volume": "7",
+          "author": "Ghebatha",
+          "year": "2026",
+          "journal-title": "J. Appl. Data Sci."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b70",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1057/s41599-025-04596-3",
+          "article-title": "Professional demand analysis for teaching Chinese to speakers of other languages: A text mining approach on internet recruitment platforms",
+          "volume": "12",
+          "author": "Guo",
+          "year": "2025",
+          "journal-title": "Humanit. Soc. Sci. Commun."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b71",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1002/cae.22800",
+          "article-title": "Genie-on-demand: A custom AI chatbot for enhancing learning performance, self-efficacy, and technology acceptance in occupational health and safety for engineering education",
+          "volume": "32",
+          "author": "Hakim",
+          "year": "2024",
+          "journal-title": "Comput. Appl. Eng. Educ."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b72",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pone.0323265",
+          "article-title": "Early detection of occupational stress: Enhancing workplace safety with machine learning and large language models",
+          "volume": "20",
+          "author": "Hasan",
+          "year": "2025",
+          "journal-title": "PLOS ONE"
+        },
+        {
+          "issue": "23",
+          "key": "10.1016/j.techfore.2026.124800_b73",
+          "first-page": "10146",
+          "article-title": "AI-powered resume screening system for smart hiring: Leveraging NLP and large language models for efficient and fair recruitment",
+          "volume": "103",
+          "author": "Hepzibah",
+          "year": "2025",
+          "journal-title": "J. Theor. Appl. Inf. Technol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b74",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.neucom.2025.131269",
+          "article-title": "Context-dependent neuro-symbolic AI through self-supervised learning with large language models",
+          "volume": "654",
+          "author": "Honda",
+          "year": "2025",
+          "journal-title": "Neurocomputing"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b75",
+          "doi-asserted-by": "crossref",
+          "first-page": "15778",
+          "DOI": "10.1109/ACCESS.2026.3658575",
+          "article-title": "When LLM meets fuzzy-TOPSIS for personnel selection through automated profile analysis",
+          "volume": "14",
+          "author": "Hoque",
+          "year": "2026",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b76",
+          "doi-asserted-by": "crossref",
+          "first-page": "2349",
+          "DOI": "10.1109/TEM.2026.3667890",
+          "article-title": "Demand for long-term-oriented human capital as a strategic response to innovation aspiration gaps: An analysis of online job postings by firms",
+          "volume": "73",
+          "author": "Huang",
+          "year": "2026",
+          "journal-title": "IEEE Trans. Eng. Manage."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b77",
+          "doi-asserted-by": "crossref",
+          "first-page": "668",
+          "DOI": "10.3390/systems13080668",
+          "article-title": "Development of an automotive electronics internship assistance system using a fine-tuned llama 3 large language model",
+          "volume": "13",
+          "author": "Huang",
+          "year": "2025",
+          "journal-title": "Systems"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b78",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.autcon.2024.105315",
+          "article-title": "Conversational AI-based VR system to improve construction safety training of migrant workers",
+          "volume": "160",
+          "author": "Hussain",
+          "year": "2024",
+          "journal-title": "Autom. Constr."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.techfore.2026.124800_b79",
+          "first-page": "933",
+          "article-title": "An approach based on named entity recognition and semantic analysis for recruitment efficiency and optimization",
+          "volume": "16",
+          "author": "Ifakir",
+          "year": "2025",
+          "journal-title": "Int. J. Adv. Comput. Sci. Appl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b80",
+          "doi-asserted-by": "crossref",
+          "first-page": "203897",
+          "DOI": "10.1109/ACCESS.2025.3637886",
+          "article-title": "Enhancing surgical skill assessment through soft and hard data fusion using Dempster–Shafer theory and large language models",
+          "volume": "13",
+          "author": "Iranfar",
+          "year": "2025",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b81",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cmpb.2025.108686",
+          "article-title": "Natural language processing and soft data for motor skill assessment: A case study in surgical training simulations",
+          "volume": "264",
+          "author": "Iranfar",
+          "year": "2025",
+          "journal-title": "Comput. Methods Programs Biomed."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b82",
+          "doi-asserted-by": "crossref",
+          "first-page": "824",
+          "DOI": "10.3390/info16100824",
+          "article-title": "A real-time advisory tool for supporting the use of helmets in construction sites",
+          "volume": "16",
+          "author": "Işıkdağ",
+          "year": "2025",
+          "journal-title": "Information"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b83",
+          "article-title": "Hyper-personalized employment in urban hubs: Multimodal fusion architectures for personality-based job matching",
+          "author": "Jain",
+          "year": "2024",
+          "journal-title": "Neural Comput. Appl."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b84",
+          "article-title": "ChatGPT-4o can serve as the second rater for data extraction in systematic reviews",
+          "volume": "20",
+          "author": "Jensen",
+          "year": "2025",
+          "journal-title": "PLOS ONE"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.techfore.2026.124800_b85",
+          "doi-asserted-by": "crossref",
+          "first-page": "1929",
+          "DOI": "10.1080/09585192.2025.2544972",
+          "article-title": "Leverage generative AI for human resource management: Integrated risk analysis approach",
+          "volume": "36",
+          "author": "Jiang",
+          "year": "2025",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b86",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.simpa.2025.100772",
+          "article-title": "ESCOX: A tool for skill and occupation extraction using LLMs from unstructured text",
+          "volume": "25",
+          "author": "Kavargyris",
+          "year": "2025",
+          "journal-title": "Softw. Impacts"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b87",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.5334/dsj-2023-022",
+          "article-title": "Assessment of personal values for data-driven human resource management",
+          "volume": "22",
+          "author": "Kimura",
+          "year": "2023",
+          "journal-title": "Data Sci. J."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b88",
+          "doi-asserted-by": "crossref",
+          "first-page": "1183",
+          "DOI": "10.24136/oc.3109",
+          "article-title": "Enterprise generative artificial intelligence technologies, internet of things and blockchain-based fintech management, and digital twin industrial metaverse in the cognitive algorithmic economy",
+          "volume": "15",
+          "author": "Kliestik",
+          "year": "2024",
+          "journal-title": "Oeconomia Copernicana"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b89",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1080/12460125.2026.2655313",
+          "article-title": "Generative AI tool evaluating employees’ self-reflection and performance metrics for supporting managers in 1:1 interviews",
+          "volume": "35",
+          "author": "Koppel",
+          "year": "2026",
+          "journal-title": "J. Decis. Syst."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b90",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1108/CEMJ-02-2023-0091",
+          "article-title": "Generative artificial intelligence as a new context for management theories: analysis of ChatGPT",
+          "volume": "31",
+          "author": "Korzynski",
+          "year": "2023",
+          "journal-title": "Central Eur. Manag. J."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b91",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s43621-025-01484-3",
+          "article-title": "The role of generative AI in improving the sustainability and efficiency of HR recruitment process",
+          "volume": "6",
+          "author": "Koteczki",
+          "year": "2025",
+          "journal-title": "Discov. Sustain."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b92",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1109/MC.2025.3559245",
+          "article-title": "Redefining human resource practices with AI agents and agentic AI: Automated compliance and enhanced productivity",
+          "volume": "58",
+          "author": "Kshetri",
+          "year": "2025",
+          "journal-title": "Computer"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b93",
+          "first-page": "479",
+          "article-title": "AI-induced occupational health assessment",
+          "volume": "330",
+          "author": "Langezaal",
+          "year": "2025",
+          "journal-title": "Stud. Health Technol. Inform."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b94",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/su17041689",
+          "article-title": "Analysis of factors affecting job satisfaction for sustainable workforce development: Insights from IT industry employee reviews",
+          "volume": "17",
+          "author": "Lee",
+          "year": "2025",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b95",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1108/JOCM-07-2024-0424",
+          "article-title": "Generative artificial intelligence and organizational learning: A systematic literature review",
+          "volume": "39",
+          "author": "Lenart",
+          "year": "2025",
+          "journal-title": "J. Organ. Chang. Manag."
+        },
+        {
+          "issue": "15",
+          "key": "10.1016/j.techfore.2026.124800_b96",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.heliyon.2025.e44048",
+          "article-title": "ChatGPT in human resource management: A systematic review of influential factors, processes, and outcomes",
+          "volume": "11",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Heliyon"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b97",
+          "first-page": "2",
+          "article-title": "Autoclc: Towards automated assessment and feedback on closed-loop communication in team-based healthcare simulation training",
+          "volume": "7",
+          "author": "Li",
+          "year": "2026",
+          "journal-title": "ACM Trans. Comput. Heal."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b98",
+          "doi-asserted-by": "crossref",
+          "first-page": "2550",
+          "DOI": "10.1111/bjet.13594",
+          "article-title": "Generative AI-supported progressive prompting for professional training: Effects on learning achievement, critical thinking, and cognitive load",
+          "volume": "56",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Br. J. Educ. Technol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b99",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.knosys.2025.113302",
+          "article-title": "LLM4jobs: Unsupervised occupation extraction and standardization leveraging large language models",
+          "volume": "316",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Knowl.-Based Syst."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b100",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2024.123951",
+          "article-title": "How does human-AI interaction affect employees’ workplace procrastination?",
+          "volume": "212",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Technol. Forecast. Soc. Change"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b101",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/ijsa.12516",
+          "article-title": "Effects of applicants’ use of generative AI in personnel selection: Towards a more nuanced view?",
+          "volume": "33",
+          "author": "Lievens",
+          "year": "2025",
+          "journal-title": "Int. J. Sel. Assess."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b102",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1007/s42524-025-4082-6",
+          "article-title": "The ethical security of large language models: A systematic review",
+          "volume": "12",
+          "author": "Liu",
+          "year": "2025",
+          "journal-title": "Front. Eng. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b103",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2025.124092",
+          "article-title": "How and when digital transformation intensity influences employees’ safety-related helping behaviors",
+          "volume": "215",
+          "author": "Lu",
+          "year": "2025",
+          "journal-title": "Technol. Forecast. Soc. Change"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b104",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ijhm.2024.103753",
+          "article-title": "Investigating OTA employees’ double-edged perceptions of ChatGPT: The moderating role of organizational support",
+          "volume": "120",
+          "author": "Lu",
+          "year": "2024",
+          "journal-title": "Int. J. Hosp. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b105",
+          "doi-asserted-by": "crossref",
+          "first-page": "1279",
+          "DOI": "10.1109/TLT.2024.3369690",
+          "article-title": "Supporting teachers’ professional development with generative AI: The effects on higher order thinking and self-efficacy",
+          "volume": "17",
+          "author": "Lu",
+          "year": "2024",
+          "journal-title": "IEEE Trans. Learn. Technol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b106",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2024.123801",
+          "article-title": "How AI use in organizations contributes to employee competitive advantage: The moderating role of perceived organization support",
+          "volume": "209",
+          "author": "Ma",
+          "year": "2024",
+          "journal-title": "Technol. Forecast. Soc. Change"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.techfore.2026.124800_b107",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/buildings14113642",
+          "article-title": "Integrating generative artificial intelligence and problem-based learning into the digitization in construction curriculum",
+          "volume": "14",
+          "author": "Maalek",
+          "year": "2024",
+          "journal-title": "Buildings"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b108",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.1108/IJM-03-2021-0173",
+          "article-title": "Impact of artificial intelligence on employees working in industry 4.0 led organizations",
+          "volume": "43",
+          "author": "Malik",
+          "year": "2022",
+          "journal-title": "Int. J. Manpow."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b109",
+          "doi-asserted-by": "crossref",
+          "first-page": "1377",
+          "DOI": "10.3390/ai5030066",
+          "article-title": "Optimizing curriculum vitae concordance: A comparative examination of classical machine learning algorithms and large language model architectures",
+          "volume": "5",
+          "author": "Maree",
+          "year": "2024",
+          "journal-title": "AI (Switz.)"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b110",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.amjsurg.2024.115816",
+          "article-title": "Artificial intelligence: Reducing inconsistency in the surgical residency application review process",
+          "volume": "238",
+          "author": "Markow",
+          "year": "2024",
+          "journal-title": "Am. J. Surg."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b111",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.technovation.2025.103254",
+          "article-title": "Artificial intelligence and the reconfiguration of NPD teams: Adaptability and skill differentiation in sustainable product innovation",
+          "volume": "145",
+          "author": "Marzi",
+          "year": "2025",
+          "journal-title": "Technovation"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b112",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s10758-025-09915-w",
+          "article-title": "Generative AI in action: Acceptance and use among higher education staff pre- and post-training",
+          "author": "Møgelvang",
+          "year": "2025",
+          "journal-title": "Technol. Knowl. Learn."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.techfore.2026.124800_b113",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1371/journal.pmed.1000097",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement",
+          "volume": "6",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "PLoS Med."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b114",
+          "doi-asserted-by": "crossref",
+          "first-page": "143",
+          "DOI": "10.1186/s12874-018-0611-x",
+          "article-title": "Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach",
+          "volume": "18",
+          "author": "Munn",
+          "year": "2018",
+          "journal-title": "BMC Med. Res. Methodol."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b115",
+          "first-page": "1",
+          "article-title": "Antecedents of sustainable generative AI use among HEIs employees: examining net benefits through the lens of IS success and innovativeness",
+          "author": "Mutahar",
+          "year": "2025",
+          "journal-title": "J. Organ. Chang. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b116",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s44282-025-00175-8",
+          "article-title": "Potential benefits and challenges of artificial intelligence in human resource management in public institutions",
+          "volume": "3",
+          "author": "Mwita",
+          "year": "2025",
+          "journal-title": "Discov. Glob. Soc."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b117",
+          "doi-asserted-by": "crossref",
+          "first-page": "1013",
+          "DOI": "10.1007/s00146-022-01469-0",
+          "article-title": "A machine learning approach to detecting fraudulent job types",
+          "volume": "38",
+          "author": "Naudé",
+          "year": "2023",
+          "journal-title": "AI Soc."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b118",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2024.123510",
+          "article-title": "High involvement work system and organizational and employee resilience: Impact of digitalisation in crisis situations",
+          "volume": "205",
+          "author": "Nguyen",
+          "year": "2024",
+          "journal-title": "Technol. Forecast. Soc. Change"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b119",
+          "article-title": "AI-enhanced interview simulation in the metaverse: Transforming professional skills training through VR and generative conversational AI",
+          "volume": "8",
+          "author": "Nofal",
+          "year": "2025",
+          "journal-title": "Comput. Educ.: Artif. Intell."
+        },
+        {
+          "issue": "6654",
+          "key": "10.1016/j.techfore.2026.124800_b120",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1126/science.adh2586",
+          "article-title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+          "volume": "381",
+          "author": "Noy",
+          "year": "2023",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b121",
+          "first-page": "2677",
+          "article-title": "A brave new world of human resources research: Navigating Perils and identifying grand challenges of the GenAI revolution",
+          "volume": "51",
+          "author": "Nyberg",
+          "year": "2025",
+          "journal-title": "J. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b122",
+          "article-title": "Usability of large language models for building construction safety risk assessment",
+          "author": "Oral",
+          "year": "2025",
+          "journal-title": "Eng. Constr. Archit. Manag."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b123",
+          "first-page": "1",
+          "article-title": "Genai in hotel operations: Chatgpt adoption among front-office employees",
+          "author": "Parvez",
+          "year": "2025",
+          "journal-title": "Curr. Issues Tour."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b124",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.1108/JWAM-06-2023-0057",
+          "article-title": "The library of babel: assessing the powers of artificial intelligence in knowledge synthesis, learning and development and coaching",
+          "volume": "16",
+          "author": "Passmore",
+          "year": "2024",
+          "journal-title": "J. Work-Appl. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b125",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1007/s41666-024-00180-7",
+          "article-title": "Non-technical skills for urology trainees: A double-blinded study of ChatGPT4 AI benchmarking against consultant interaction",
+          "volume": "9",
+          "author": "Pears",
+          "year": "2025",
+          "journal-title": "J. Heal. Inform. Res."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b126",
+          "article-title": "Implementing generative pretrained transformer models for text recognition tasks in safety data sheets",
+          "volume": "70",
+          "author": "Pekel",
+          "year": "2026",
+          "journal-title": "Ann. Work. Expo. Health"
+        },
+        {
+          "issue": "14",
+          "key": "10.1016/j.techfore.2026.124800_b127",
+          "article-title": "Explainable use of foundation models for job hiring",
+          "volume": "14",
+          "author": "Pendyala",
+          "year": "2025",
+          "journal-title": "Electron. (Switz.)"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b128",
+          "doi-asserted-by": "crossref",
+          "first-page": "111064",
+          "DOI": "10.1109/ACCESS.2025.3583324",
+          "article-title": "Deep learning-driven labor education and skill assessment: A big data approach for optimizing workforce development and industrial relations",
+          "volume": "13",
+          "author": "Peng",
+          "year": "2025",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b129",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.paid.2024.112840",
+          "article-title": "Hacking the perfect score on high-stakes personality assessments with generative AI",
+          "volume": "231",
+          "author": "Phillips",
+          "year": "2024",
+          "journal-title": "Pers. Individ. Differ."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b130",
+          "series-title": "Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications",
+          "doi-asserted-by": "crossref",
+          "first-page": "313",
+          "DOI": "10.1007/978-981-99-9836-4_24",
+          "article-title": "Assessing the ethical implications of artificial intelligence (AI) and machine learning (ML) on job displacement through automation: A critical analysis of their impact on society",
+          "author": "Plikas",
+          "year": "2024"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b131",
+          "doi-asserted-by": "crossref",
+          "first-page": "767",
+          "DOI": "10.23939/mmc2025.03.767",
+          "article-title": "Mathematical modeling of multi-label classification of job descriptions using transformer-based neural networks",
+          "volume": "12",
+          "author": "Podolchak",
+          "year": "2025",
+          "journal-title": "Math. Model. Comput."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b132",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/data9060074",
+          "article-title": "CVs classification using neural network approaches combined with BERT and gensim: CVs of moroccan engineering students",
+          "volume": "9",
+          "author": "Qostal",
+          "year": "2024",
+          "journal-title": "Data"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b133",
+          "doi-asserted-by": "crossref",
+          "first-page": "174",
+          "DOI": "10.1108/PR-02-2024-0111",
+          "article-title": "Cyborging HRM theory: From evolution to revolution – the challenges and trajectories of AI for the future role of HRM",
+          "volume": "54",
+          "author": "Rabenu",
+          "year": "2025",
+          "journal-title": "Pers. Rev."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b134",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1108/DLO-04-2024-0101",
+          "article-title": "Generative artificial intelligence: Opportunities, challenges and future avenues for organizational learning",
+          "volume": "39",
+          "author": "Rahman",
+          "year": "2025",
+          "journal-title": "Dev. Learn. Organ."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b135",
+          "doi-asserted-by": "crossref",
+          "first-page": "26839",
+          "DOI": "10.1109/ACCESS.2024.3365742",
+          "article-title": "A review on large language models: Architectures, applications, taxonomies, open issues and challenges",
+          "volume": "12",
+          "author": "Raiaan",
+          "year": "2024",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b136",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.heliyon.2024.e27026",
+          "article-title": "Evaluating human resources management literacy: A performance analysis of ChatGPT and bard",
+          "volume": "10",
+          "author": "Raman",
+          "year": "2024",
+          "journal-title": "Heliyon"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b137",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.chb.2023.108003",
+          "article-title": "Learning experience assessment through players’ chat content in multiplayer online games",
+          "volume": "151",
+          "author": "Rezapour",
+          "year": "2024",
+          "journal-title": "Comput. Hum. Behav."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b138",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/ijsa.70056",
+          "article-title": "Candidate generative AI use in pre-hire employment assessments: Self-reported incidence and the impact of warnings",
+          "volume": "34",
+          "author": "Robie",
+          "year": "2026",
+          "journal-title": "Int. J. Sel. Assess."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b139",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.eswa.2025.127043",
+          "article-title": "CareerBERT: Matching resumes to ESCO jobs in a shared embedding space for generic job recommendations",
+          "volume": "275",
+          "author": "Rosenberger",
+          "year": "2025",
+          "journal-title": "Expert Syst. Appl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b140",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.7717/peerj-cs.3628",
+          "article-title": "Gender and positional biases in LLM-based hiring decisions: evidence from comparative CV/résumé evaluations",
+          "volume": "12",
+          "author": "Rozado",
+          "year": "2026",
+          "journal-title": "PeerJ Comput. Sci."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b141",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/jintelligence14040059",
+          "article-title": "Are we helping workers reskill for the future of work? Using AI to explore the alignment of online course offerings and job skill requirements",
+          "volume": "14",
+          "author": "Ruffin",
+          "year": "2026",
+          "journal-title": "J. Intell."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b142",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.autcon.2025.106207",
+          "article-title": "Personalized construction safety training system using conversational AI in virtual reality",
+          "volume": "175",
+          "author": "Sabir",
+          "year": "2025",
+          "journal-title": "Autom. Constr."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.techfore.2026.124800_b143",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.31893/multirev.2024136",
+          "article-title": "The ChatGPT and the future of HR: A critical review on the benefits and challenges of AI chatbots in human resource management",
+          "volume": "7",
+          "author": "Sakib",
+          "year": "2024",
+          "journal-title": "Multidiscip. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b144",
+          "article-title": "Social engineering attacks using technical job interviews: Real-life case analysis and AI-assisted mitigation proposals",
+          "volume": "17",
+          "author": "Sanguino",
+          "year": "2026",
+          "journal-title": "Inf. (Switz.)"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b145",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s42979-025-03787-8",
+          "article-title": "Automatic resume screening approach based on AI and ethereum blockchain for human resource management using gaaru",
+          "volume": "6",
+          "author": "Sareddy",
+          "year": "2025",
+          "journal-title": "SN Comput. Sci."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b146",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.chb.2025.108671",
+          "article-title": "How do we assess the trustworthiness of ai? Introducing the trustworthiness assessment model (TrAM)",
+          "volume": "170",
+          "author": "Schlicker",
+          "year": "2025",
+          "journal-title": "Comput. Hum. Behav."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b147",
+          "doi-asserted-by": "crossref",
+          "first-page": "613",
+          "DOI": "10.1108/ICS-10-2023-0199",
+          "article-title": "Bridging knowledge gap: the contribution of employees’ awareness of AI cyber risks comprehensive program to reducing emerging AI digital threats",
+          "volume": "32",
+          "author": "Schreiber",
+          "year": "2024",
+          "journal-title": "Inf. Comput. Secur."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b148",
+          "article-title": "ERG-AI: Enhancing occupational ergonomics with uncertainty-aware ML and LLM feedback",
+          "volume": "14",
+          "author": "Sen",
+          "year": "2024",
+          "journal-title": "Sci. Rep."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b149",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fdata.2025.1564521",
+          "article-title": "Toward more realistic career path prediction: evaluation and methods",
+          "volume": "8",
+          "author": "Senger",
+          "year": "2025",
+          "journal-title": "Front. Big Data"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b150",
+          "first-page": "124",
+          "article-title": "Capturing elusive technology: designing a course on ai for learning and development practitioners",
+          "volume": "16",
+          "author": "da Silva",
+          "year": "2025",
+          "journal-title": "Int. J. Des. Learn."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b151",
+          "doi-asserted-by": "crossref",
+          "first-page": "e348",
+          "DOI": "10.5435/JAAOS-D-24-00438",
+          "article-title": "Can artificial intelligence deceive residency committees? A randomized multicenter analysis of letters of recommendation",
+          "volume": "33",
+          "author": "Simister",
+          "year": "2025",
+          "journal-title": "J. Am. Acad. Orthop. Surg."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.techfore.2026.124800_b152",
+          "doi-asserted-by": "crossref",
+          "first-page": "3082",
+          "DOI": "10.3390/su17073082",
+          "article-title": "Integrating industry 4.0, circular economy, and green HRM: A framework for sustainable transformation",
+          "volume": "17",
+          "author": "Singh",
+          "year": "2025",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b153",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1108/SL-10-2024-0115",
+          "article-title": "Evaluating HRM practices for embracing the digital circular economy in Indian manufacturing firms: An analytical study",
+          "volume": "53",
+          "author": "Singh",
+          "year": "2025",
+          "journal-title": "Strategy Leadersh."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b154",
+          "series-title": "Sustainable Innovations and Digital Circular Economy",
+          "first-page": "129",
+          "article-title": "Creating sustainable workplace: Enhancing HRM strategies in the digital circular economy",
+          "author": "Singh",
+          "year": "2025"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.techfore.2026.124800_b155",
+          "doi-asserted-by": "crossref",
+          "first-page": "2841",
+          "DOI": "10.1007/s00146-025-02564-8",
+          "article-title": "Chatgpt is a gender bias echo-chamber in HR recruitment: an NLP analysis and framework to uncover the language roots of bias",
+          "volume": "41",
+          "author": "Sivakaminathan",
+          "year": "2026",
+          "journal-title": "AI Soc."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.techfore.2026.124800_b156",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.3390/fi15110363",
+          "article-title": "Generating synthetic resume data with large language models for enhanced job description classification",
+          "volume": "15",
+          "author": "Skondras",
+          "year": "2023",
+          "journal-title": "Futur. Internet"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b157",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/j.jbusres.2019.07.039",
+          "article-title": "Literature review as a research methodology: An overview and guidelines",
+          "volume": "104",
+          "author": "Snyder",
+          "year": "2019",
+          "journal-title": "J. Bus. Res."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b158",
+          "doi-asserted-by": "crossref",
+          "first-page": "30440",
+          "DOI": "10.48084/etasr.13651",
+          "article-title": "Genworkbalancenet: A hybrid generative AI-deep learning model for work-life balance-driven productivity prediction in IT workforces",
+          "volume": "15",
+          "author": "Swamy",
+          "year": "2025",
+          "journal-title": "Eng. Technol. Appl. Sci. Res."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b159",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.eswa.2024.125868",
+          "article-title": "Chatgpt vs human expertise in the context of IT recruitment",
+          "volume": "264",
+          "author": "Szandała",
+          "year": "2025",
+          "journal-title": "Expert Syst. Appl."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b160",
+          "first-page": "42",
+          "article-title": "Designing an AI career mentor for early career researchers",
+          "volume": "8",
+          "author": "Tan",
+          "year": "2024",
+          "journal-title": "CERN IdeaSquare J. Exp. Innov."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b161",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s10791-025-09502-8",
+          "article-title": "Fraud-BERT: Transformer based context aware online recruitment fraud detection",
+          "volume": "28",
+          "author": "Taneja",
+          "year": "2025",
+          "journal-title": "Discov. Comput."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b162",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12909-025-07241-4",
+          "article-title": "Is AI the future of evaluation in medical education? AI vs. human evaluation in objective structured clinical examination",
+          "volume": "25",
+          "author": "Tekin",
+          "year": "2025",
+          "journal-title": "BMC Med. Educ."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b163",
+          "doi-asserted-by": "crossref",
+          "first-page": "202",
+          "DOI": "10.1108/BPMJ-08-2022-0389",
+          "article-title": "A machine learning-based human resources recruitment system for business process management: Using LSA, BERT and SVM",
+          "volume": "29",
+          "author": "Tian",
+          "year": "2023",
+          "journal-title": "Bus. Process. Manag. J."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b164",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1007/s10044-025-01581-z",
+          "article-title": "Next-gen HR interview process parametric AI copilot design based on pretrained LLM and sentiment analysis deep learning models",
+          "volume": "28",
+          "author": "Tigani",
+          "year": "2025",
+          "journal-title": "Pattern Anal. Appl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b165",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.nepr.2024.104079",
+          "article-title": "Visual narratives in nursing education: A generative artificial intelligence approach",
+          "volume": "79",
+          "author": "Tran",
+          "year": "2024",
+          "journal-title": "Nurse Educ. Pract."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b166",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/frai.2026.1798519",
+          "article-title": "Mapping the use of large language models in hiring decisions: A scoping review",
+          "volume": "9",
+          "author": "Tripathi",
+          "year": "2026",
+          "journal-title": "Front. Artif. Intell."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b167",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compbiomed.2023.107794",
+          "article-title": "Evaluation of large language model performance on the Multi-Specialty Recruitment Assessment (MSRA) exam",
+          "volume": "168",
+          "author": "Tsoutsanis",
+          "year": "2024",
+          "journal-title": "Comput. Biol. Med."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.techfore.2026.124800_b168",
+          "doi-asserted-by": "crossref",
+          "first-page": "2293",
+          "DOI": "10.1038/s41562-024-02024-1",
+          "article-title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+          "volume": "8",
+          "author": "Vaccaro",
+          "year": "2024",
+          "journal-title": "Nat. Hum. Behav."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b169",
+          "first-page": "113",
+          "article-title": "Leveraging generative artificial intelligence (AI) for human resource management: The AI job description assignment",
+          "volume": "49",
+          "author": "Walker",
+          "year": "2025",
+          "journal-title": "J. Manag. Educ."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b170",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1155/2021/6206288",
+          "article-title": "A deep-learning-inspired person-job matching model based on sentence vectors and subject-term graphs",
+          "volume": "2021",
+          "author": "Wang",
+          "year": "2021",
+          "journal-title": "Complexity"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b171",
+          "article-title": "The application of deep learning model in recruitment decision",
+          "author": "Wang",
+          "year": "2022",
+          "journal-title": "Wirel. Commun. Mob. Comput."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b172",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.eswa.2023.122495",
+          "article-title": "Extracting section structure from resumes in Brazilian Portuguese",
+          "volume": "242",
+          "author": "Werner",
+          "year": "2024",
+          "journal-title": "Expert Syst. Appl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b173",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.infsof.2026.108040",
+          "article-title": "Towards bias-free recruitment: Adversarial contrastive tuning for LLM-based resume screening",
+          "volume": "193",
+          "author": "Wu",
+          "year": "2026",
+          "journal-title": "Inf. Softw. Technol."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.techfore.2026.124800_b174",
+          "first-page": "1020",
+          "article-title": "Intelligent platform for employee retention prediction",
+          "volume": "16",
+          "author": "Wyawahare",
+          "year": "2025",
+          "journal-title": "Int. J. Adv. Comput. Sci. Appl."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b175",
+          "first-page": "1",
+          "article-title": "When technical literacy backfires: Rethinking employee acceptance of generative AI via extended UTAUT",
+          "author": "Xin",
+          "year": "2025",
+          "journal-title": "Int. J. Hum.–Comput. Interact."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b176",
+          "first-page": "2022",
+          "article-title": "A comprehensive analysis of teacher’s professional identity in physical education undergraduates based on artificial intelligence",
+          "author": "Xu",
+          "year": "2022",
+          "journal-title": "Mob. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b177",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ipm.2026.104751",
+          "article-title": "Adaptive talent aligner: A large language model with dynamic hierarchical analysis and bias-corrective memory pool for personalized human resource management",
+          "volume": "63",
+          "author": "Xu",
+          "year": "2026",
+          "journal-title": "Inf. Process. Manage."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.techfore.2026.124800_b178",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s40747-025-01834-8",
+          "article-title": "Graph-based adaptive feature fusion neural network model for person-job fit",
+          "volume": "11",
+          "author": "Xue",
+          "year": "2025",
+          "journal-title": "Complex Intell. Syst."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.techfore.2026.124800_b179",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1111/1744-7941.70074",
+          "article-title": "The paradoxical effects of generative artificial intelligence induced stressors on employee adaptive performance. Evidence from China",
+          "volume": "64",
+          "author": "Yin",
+          "year": "2026",
+          "journal-title": "Asia Pac. J. Hum. Resour."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b180",
+          "doi-asserted-by": "crossref",
+          "first-page": "2600",
+          "DOI": "10.1109/TEM.2025.3578623",
+          "article-title": "How challenge stressors affect GenAI-Enabled employee innovation? Based on transactional theory of stress and coping model",
+          "volume": "72",
+          "author": "Yu",
+          "year": "2025",
+          "journal-title": "IEEE Trans. Eng. Manage."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b181",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.23939/mmc2026.01.033",
+          "article-title": "Intelligent automated system for parsing and ranking resumes",
+          "volume": "13",
+          "author": "Zahour",
+          "year": "2026",
+          "journal-title": "Math. Model. Comput."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b182",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.autcon.2025.106594",
+          "article-title": "Large language model-driven framework for inertial measurement unit-based worker activity recognition",
+          "volume": "180",
+          "author": "Zhang",
+          "year": "2025",
+          "journal-title": "Autom. Constr."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b183",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2025.124317",
+          "article-title": "Linkage mechanism of antecedents for employees’ continuous adoption of artificial intelligence virtual assistants",
+          "volume": "220",
+          "author": "Zhang",
+          "year": "2025",
+          "journal-title": "Technol. Forecast. Soc. Change"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.techfore.2026.124800_b184",
+          "doi-asserted-by": "crossref",
+          "first-page": "1769",
+          "DOI": "10.1109/TAFFC.2024.3374875",
+          "article-title": "Can large language models assess personality from asynchronous video interviews? A comprehensive evaluation of validity, reliability, fairness, and rating patterns",
+          "volume": "15",
+          "author": "Zhang",
+          "year": "2024",
+          "journal-title": "IEEE Trans. Affect. Comput."
+        },
+        {
+          "issue": "1 JANUARY",
+          "key": "10.1016/j.techfore.2026.124800_b185",
+          "article-title": "The influence of generative artificial intelligence usage on employees’ innovative job performance",
+          "volume": "21",
+          "author": "Zhang",
+          "year": "2026",
+          "journal-title": "Plos One"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.techfore.2026.124800_b186",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1007/s11704-025-40843-1",
+          "article-title": "Exploiting large language model with reinforcement learning for generative job recommendations",
+          "volume": "20",
+          "author": "Zheng",
+          "year": "2026",
+          "journal-title": "Front. Comput. Sci."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b187",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ipm.2025.104261",
+          "article-title": "Enhancing job recommendations with LLM-based resume completion: A behavior-denoised alignment approach",
+          "volume": "62",
+          "author": "Zhu",
+          "year": "2025",
+          "journal-title": "Inf. Process. Manage."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b188",
+          "series-title": "How large language models are designed to hallucinate",
+          "author": "Ackermann",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b189",
+          "series-title": "Agents of change: Self-evolving LLM agents for strategic planning",
+          "author": "Belle",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b190",
+          "series-title": "Can AI agents agree?",
+          "author": "Berdoz",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b191",
+          "series-title": "Design patterns for securing LLM agents against prompt injections",
+          "author": "Beurer-Kellner",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b192",
+          "series-title": "A mathematical framework for AI-human integration in work",
+          "author": "Celis",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b193",
+          "series-title": "Reinforcement pre-training",
+          "author": "Dong",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b194",
+          "series-title": "Conditional misalignment: Common interventions can hide emergent misalignment behind contextual triggers",
+          "author": "Dubiński",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b195",
+          "series-title": "The AI layoff trap",
+          "author": "Falk",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b196",
+          "series-title": "You are rejected! : An empirical study of large language models taking hiring evaluations",
+          "author": "Fu",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b197",
+          "series-title": "A systematic review of poisoning attacks against large language models",
+          "author": "Fendley",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b198",
+          "series-title": "Accumulating context changes the beliefs of language models",
+          "author": "Geng",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b199",
+          "series-title": "Do LLMs benefit from their own words?",
+          "author": "Huang",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b200",
+          "series-title": "A comment on ”The Illusion of Thinking”: Reframing the reasoning cliff as an agentic gap",
+          "author": "Khan",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b201",
+          "series-title": "LLMs position themselves as more rational than humans: Emergence of AI self-awareness measured through game theory",
+          "author": "Kim",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b202",
+          "series-title": "The LLM fallacy: Misattribution in AI-assisted cognitive workflows",
+          "author": "Kim",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b203",
+          "series-title": "Abstentionbench: Reasoning LLMs fail on unanswerable questions",
+          "author": "Kirichenko",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b204",
+          "series-title": "SHADE–arena: Evaluating sabotage and monitoring in LLM agents",
+          "author": "Kutasov",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b205",
+          "series-title": "LLMs get lost in multi-turn conversation",
+          "author": "Laban",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b206",
+          "article-title": "Agentic misalignment: How LLMs could be an insider threat",
+          "author": "Lynch",
+          "year": "2025",
+          "journal-title": "Anthropic Res."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b207",
+          "series-title": "Potemkin understanding in large language models",
+          "author": "Mancoridis",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b208",
+          "series-title": "Labor market impacts of AI: A new measure and early evidence",
+          "author": "Massenkoff",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b209",
+          "series-title": "Utility engineering: Analyzing and controlling emergent value systems in AIs",
+          "author": "Mazeika",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b210",
+          "article-title": "A neurosymbolic multi-agent system for explainable and traceable decision-making in organizational contexts",
+          "author": "Mertzani",
+          "year": "2025",
+          "journal-title": "SSRN Electron. J."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b211",
+          "series-title": "How much do language models memorize?",
+          "author": "Morris",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b212",
+          "series-title": "Agentmisalignment: Measuring the propensity for misaligned behaviour in LLM-based agents",
+          "author": "Naik",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b213",
+          "series-title": "Comment on the illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity",
+          "author": "Opus",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b214",
+          "series-title": "Knowing what you know is not enough: Large language model confidences don’t align with their actions",
+          "author": "Pal",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b215",
+          "series-title": "ReasonBENCH: Benchmarking the (in)stability of LLM reasoning",
+          "author": "Potamitis",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b216",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Restrepo, P., 2025. We Won’T Be Missed: Work and Growth in the AGI World. NBER Working Paper No. w34423, Available at: https://ssrn.com/abstract=5697172.",
+          "DOI": "10.2139/ssrn.5697172"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b217",
+          "series-title": "AI agents vs. Agentic AI: A conceptual taxonomy, applications and challenges",
+          "author": "Sapkota",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b218",
+          "series-title": "Future of work with AI agents: Auditing acgmentation potential across the U.S. workforce",
+          "author": "Shao",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b219",
+          "series-title": "Who’s in charge? Disempowerment patterns in real-world LLM usage",
+          "author": "Sharma",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b220",
+          "series-title": "How AI impacts skill formation",
+          "author": "Shen",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b221",
+          "series-title": "The illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity",
+          "author": "Shojaee",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b222",
+          "series-title": "The hallucination tax of reinforcement finetuning",
+          "author": "Song",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b223",
+          "series-title": "Poisoning attacks on LLMs require a near-constant number of poison samples",
+          "author": "Souly",
+          "year": "2025"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.techfore.2026.124800_b224",
+          "doi-asserted-by": "crossref",
+          "first-page": "3458",
+          "DOI": "10.28991/ESJ-2025-09-06-030",
+          "article-title": "Artificial intelligence in recruitment: A multivocal review of benefits, challenges, and strategies",
+          "volume": "9",
+          "author": "Trovão",
+          "year": "2025",
+          "journal-title": "Emerg. Sci. J."
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b225",
+          "series-title": "Attention is all you need",
+          "author": "Vaswani",
+          "year": "2023"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b226",
+          "series-title": "The Large Language Model (LLM) Paradox: Job Creation and Loss in the Age of Advanced AI",
+          "author": "Wang",
+          "year": "2023"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b227",
+          "series-title": "Persona features control emergent misalignment",
+          "author": "Wang",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b228",
+          "series-title": "How well does agent development reflect real-world work?",
+          "author": "Wang",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b229",
+          "series-title": "AI self-preferencing in algorithmic hiring: Empirical evidence and insights",
+          "author": "Xu",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b230",
+          "series-title": "The evolution of tool use in LLM agents: From single-tool call to multi-tool orchestration",
+          "author": "Xu",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b231",
+          "series-title": "Harnessing the power of LLMs in practice: A survey on ChatGPT and beyond",
+          "author": "Yang",
+          "year": "2023"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b232",
+          "series-title": "Neuro-symbolic artificial intelligence: Towards improving the reasoning abilities of large language models",
+          "author": "Yang",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b233",
+          "series-title": "UpBench: A dynamically evolving real-world labor-market agentic benchmark framework built for human-centric AI",
+          "author": "Yi",
+          "year": "2025"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b234",
+          "series-title": "The economics of digital intelligence capital: Endogenous depreciation and the structural jevons paradox",
+          "author": "Zhang",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b235",
+          "series-title": "Chain-of-thought hijacking",
+          "author": "Zhao",
+          "year": "2026"
+        },
+        {
+          "key": "10.1016/j.techfore.2026.124800_b236",
+          "series-title": "Self-adapting language models",
+          "author": "Zweiger",
+          "year": "2025"
+        }
+      ],
+      "container-title": [
+        "Technological Forecasting and Social Change"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0040162526002775?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0040162526002775?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            11
+          ]
+        ],
+        "date-time": "2026-08-11T19:32:32Z",
+        "timestamp": 1786476752000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0040162526002775"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "references-count": 236,
+      "alternative-id": [
+        "S0040162526002775"
+      ],
+      "URL": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "relation": {},
+      "ISSN": [
+        "0040-1625"
+      ],
+      "issn-type": [
+        {
+          "value": "0040-1625",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Technological Forecasting and Social Change",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.techfore.2026.124800",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2026 The Authors. Published by Elsevier Inc.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "124800"
+    }
+  }
+}

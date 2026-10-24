@@ -1,0 +1,1299 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-01488-6",
+    "checked_at": "2026-10-24T02:10:07.161851Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W7163567365",
+    "doi": "https://doi.org/10.1007/s44163-026-01488-6",
+    "title": "A systematic review and descriptive analysis of artificial intelligence applied to recruitment and personnel selection in the present and possible future",
+    "display_name": "A systematic review and descriptive analysis of artificial intelligence applied to recruitment and personnel selection in the present and possible future",
+    "publication_year": 2026,
+    "publication_date": "2026-06-04",
+    "ids": {
+      "openalex": "https://openalex.org/W7163567365",
+      "doi": "https://doi.org/10.1007/s44163-026-01488-6"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1007/s44163-026-01488-6",
+      "doi": "https://doi.org/10.1007/s44163-026-01488-6",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44163-026-01488-6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210220416",
+        "display_name": "Discover Artificial Intelligence",
+        "issn_l": "2731-0809",
+        "issn": [
+          "2731-0809"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Discover Artificial Intelligence",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1007/s44163-026-01488-6",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5047705470",
+          "display_name": "Antonio González Morales",
+          "orcid": "https://orcid.org/0000-0001-9829-2336",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9829-2336"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79238269",
+            "display_name": "Universidad de Sevilla",
+            "ror": "https://ror.org/03yxnpp24",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Antonio González-Morales",
+        "raw_affiliation_strings": [
+          "Department of Business Administration and Marketing, University of Seville, Seville, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Business Administration and Marketing, University of Seville, Seville, Spain",
+            "institution_ids": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5000316877",
+          "display_name": "María del Milagro Martín López",
+          "orcid": "https://orcid.org/0000-0001-7240-8652",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7240-8652"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79238269",
+            "display_name": "Universidad de Sevilla",
+            "ror": "https://ror.org/03yxnpp24",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "M. Milagro Martín-López",
+        "raw_affiliation_strings": [
+          "Department of Business Administration and Marketing, University of Seville, Seville, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Business Administration and Marketing, University of Seville, Seville, Spain",
+            "institution_ids": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5137896622",
+          "display_name": "Fernando Góngora-Larequi",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I79238269",
+            "display_name": "Universidad de Sevilla",
+            "ror": "https://ror.org/03yxnpp24",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Fernando Góngora-Larequi",
+        "raw_affiliation_strings": [
+          "Department of Business Administration and Marketing, University of Seville, Seville, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Business Administration and Marketing, University of Seville, Seville, Spain",
+            "institution_ids": [
+              "https://openalex.org/I79238269"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5047705470"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I79238269"
+    ],
+    "apc_list": {
+      "value": 1590,
+      "currency": "USD",
+      "value_usd": 1590
+    },
+    "apc_paid": {
+      "value": 1590,
+      "currency": "USD",
+      "value_usd": 1590
+    },
+    "fwci": 0.0,
+    "has_fulltext": false,
+    "cited_by_count": 0,
+    "citation_normalized_percentile": {
+      "value": 0.24768212,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": false
+    },
+    "cited_by_percentile_year": null,
+    "biblio": {
+      "volume": "6",
+      "issue": "1",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12415",
+        "display_name": "Employer Branding and e-HRM",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence-in-recruitment",
+        "display_name": "artificial intelligence in recruitment",
+        "score": 0.9480000138282776
+      },
+      {
+        "id": "https://openalex.org/keywords/personnel-selection",
+        "display_name": "personnel selection",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/human-resource-management",
+        "display_name": "human resource management",
+        "score": 0.9779999852180481
+      },
+      {
+        "id": "https://openalex.org/keywords/machine-learning",
+        "display_name": "machine learning",
+        "score": 0.890999972820282
+      },
+      {
+        "id": "https://openalex.org/keywords/natural-language-processing",
+        "display_name": "natural language processing",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/interview-analysis",
+        "display_name": "interview analysis",
+        "score": 0.9380000233650208
+      },
+      {
+        "id": "https://openalex.org/keywords/soft-skills-assessment",
+        "display_name": "soft skills assessment",
+        "score": 0.9639999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/resume-classification",
+        "display_name": "resume classification",
+        "score": 0.9629999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/chatbots",
+        "display_name": "chatbots",
+        "score": 0.5789999961853027
+      },
+      {
+        "id": "https://openalex.org/keywords/face-recognition",
+        "display_name": "face recognition",
+        "score": 0.9879999756813049
+      },
+      {
+        "id": "https://openalex.org/keywords/emotion-analysis",
+        "display_name": "emotion analysis",
+        "score": 0.9470000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/candidate-experience",
+        "display_name": "candidate experience",
+        "score": 0.5820000171661377
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-bias",
+        "display_name": "algorithmic bias",
+        "score": 0.7049999833106995
+      },
+      {
+        "id": "https://openalex.org/keywords/research-trends",
+        "display_name": "research trends",
+        "score": 0.5519999861717224
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.6265000104904175
+      },
+      {
+        "id": "https://openalex.org/C2777207495",
+        "wikidata": "https://www.wikidata.org/wiki/Q2072146",
+        "display_name": "Personnel selection",
+        "level": 2,
+        "score": 0.6227999925613403
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.492900013923645
+      },
+      {
+        "id": "https://openalex.org/C81917197",
+        "wikidata": "https://www.wikidata.org/wiki/Q628760",
+        "display_name": "Selection (genetic algorithm)",
+        "level": 2,
+        "score": 0.4609000086784363
+      },
+      {
+        "id": "https://openalex.org/C39896193",
+        "wikidata": "https://www.wikidata.org/wiki/Q380344",
+        "display_name": "Descriptive statistics",
+        "level": 2,
+        "score": 0.4392000138759613
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.4311000108718872
+      },
+      {
+        "id": "https://openalex.org/C115901376",
+        "wikidata": "https://www.wikidata.org/wiki/Q184199",
+        "display_name": "Automation",
+        "level": 2,
+        "score": 0.4284000098705292
+      },
+      {
+        "id": "https://openalex.org/C202372285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Human resource management",
+        "level": 2,
+        "score": 0.41819998621940613
+      },
+      {
+        "id": "https://openalex.org/C119857082",
+        "wikidata": "https://www.wikidata.org/wiki/Q2539",
+        "display_name": "Machine learning",
+        "level": 1,
+        "score": 0.3919999897480011
+      },
+      {
+        "id": "https://openalex.org/C107645774",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467169",
+        "display_name": "Human resources",
+        "level": 2,
+        "score": 0.3693999946117401
+      },
+      {
+        "id": "https://openalex.org/C58346731",
+        "wikidata": "https://www.wikidata.org/wiki/Q627339",
+        "display_name": "Job analysis",
+        "level": 3,
+        "score": 0.3571999967098236
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.33799999952316284
+      },
+      {
+        "id": "https://openalex.org/C83867959",
+        "wikidata": "https://www.wikidata.org/wiki/Q371467",
+        "display_name": "Scopus",
+        "level": 3,
+        "score": 0.32089999318122864
+      },
+      {
+        "id": "https://openalex.org/C105002631",
+        "wikidata": "https://www.wikidata.org/wiki/Q4833645",
+        "display_name": "Subject-matter expert",
+        "level": 3,
+        "score": 0.2766999900341034
+      },
+      {
+        "id": "https://openalex.org/C206345919",
+        "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+        "display_name": "Resource (disambiguation)",
+        "level": 2,
+        "score": 0.2687000036239624
+      },
+      {
+        "id": "https://openalex.org/C157170001",
+        "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+        "display_name": "Applications of artificial intelligence",
+        "level": 2,
+        "score": 0.2648000121116638
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.26420000195503235
+      },
+      {
+        "id": "https://openalex.org/C2777855551",
+        "wikidata": "https://www.wikidata.org/wiki/Q12310021",
+        "display_name": "Subject (documents)",
+        "level": 2,
+        "score": 0.26350000500679016
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.26260000467300415
+      },
+      {
+        "id": "https://openalex.org/C34413123",
+        "wikidata": "https://www.wikidata.org/wiki/Q170978",
+        "display_name": "Robotics",
+        "level": 3,
+        "score": 0.2549999952316284
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1007/s44163-026-01488-6",
+        "doi": "https://doi.org/10.1007/s44163-026-01488-6",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s44163-026-01488-6",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210220416",
+          "display_name": "Discover Artificial Intelligence",
+          "issn_l": "2731-0809",
+          "issn": [
+            "2731-0809"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Discover Artificial Intelligence",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:f0e62360aade4cc2bca83bb2557c1b92",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/f0e62360aade4cc2bca83bb2557c1b92",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Discover Artificial Intelligence, Vol 6, Iss 1 (2026)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1007/s44163-026-01488-6",
+      "doi": "https://doi.org/10.1007/s44163-026-01488-6",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44163-026-01488-6",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210220416",
+        "display_name": "Discover Artificial Intelligence",
+        "issn_l": "2731-0809",
+        "issn": [
+          "2731-0809"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1"
+        ],
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Discover Artificial Intelligence",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.48510000109672546
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "display_name": "Systematic Review",
+        "id": "https://openalex.org/study-designs/systematic-review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 39,
+    "referenced_works": [
+      "https://openalex.org/W1594633625",
+      "https://openalex.org/W2078698249",
+      "https://openalex.org/W2124395890",
+      "https://openalex.org/W2886599162",
+      "https://openalex.org/W3014109009",
+      "https://openalex.org/W3045036534",
+      "https://openalex.org/W3124536214",
+      "https://openalex.org/W3128853056",
+      "https://openalex.org/W3159426713",
+      "https://openalex.org/W3177420334",
+      "https://openalex.org/W3187546327",
+      "https://openalex.org/W3199424257",
+      "https://openalex.org/W4210364698",
+      "https://openalex.org/W4210819220",
+      "https://openalex.org/W4213428809",
+      "https://openalex.org/W4225973981",
+      "https://openalex.org/W4241980133",
+      "https://openalex.org/W4244488710",
+      "https://openalex.org/W4286634155",
+      "https://openalex.org/W4287218595",
+      "https://openalex.org/W4307109273",
+      "https://openalex.org/W4307910505",
+      "https://openalex.org/W4309544872",
+      "https://openalex.org/W4312931853",
+      "https://openalex.org/W4313417987",
+      "https://openalex.org/W4318316058",
+      "https://openalex.org/W4323925118",
+      "https://openalex.org/W4381161968",
+      "https://openalex.org/W4388131288",
+      "https://openalex.org/W4389037073",
+      "https://openalex.org/W4393930669",
+      "https://openalex.org/W4393934900",
+      "https://openalex.org/W4400056703",
+      "https://openalex.org/W4400693863",
+      "https://openalex.org/W4402380452",
+      "https://openalex.org/W4403167801",
+      "https://openalex.org/W4403290699",
+      "https://openalex.org/W4414514000",
+      "https://openalex.org/W7083192060"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "article": [
+        1
+      ],
+      "presents": [
+        2
+      ],
+      "a": [
+        3,
+        24,
+        29,
+        34,
+        51,
+        61,
+        239
+      ],
+      "systematic": [
+        4
+      ],
+      "review": [
+        5
+      ],
+      "and": [
+        6,
+        18,
+        60,
+        68,
+        80,
+        94,
+        107,
+        123,
+        149,
+        155,
+        158,
+        168,
+        177,
+        186,
+        193,
+        199,
+        208,
+        219,
+        230,
+        236,
+        246
+      ],
+      "descriptive": [
+        7,
+        45
+      ],
+      "analysis": [
+        8,
+        46
+      ],
+      "of": [
+        9,
+        12,
+        50,
+        87,
+        147,
+        153,
+        164,
+        226
+      ],
+      "the": [
+        10,
+        48,
+        69,
+        84,
+        88,
+        125,
+        221
+      ],
+      "use": [
+        11
+      ],
+      "artificial": [
+        13
+      ],
+      "intelligence": [
+        14
+      ],
+      "(AI)": [
+        15
+      ],
+      "in": [
+        16,
+        58,
+        133,
+        228
+      ],
+      "recruitment": [
+        17,
+        154,
+        229
+      ],
+      "personnel": [
+        19,
+        129,
+        231
+      ],
+      "selection.": [
+        20
+      ],
+      "The": [
+        21,
+        44,
+        72,
+        162,
+        224
+      ],
+      "study": [
+        22
+      ],
+      "adopts": [
+        23
+      ],
+      "cross-sectional": [
+        25
+      ],
+      "qualitative": [
+        26
+      ],
+      "design": [
+        27
+      ],
+      "with": [
+        28,
+        96,
+        214
+      ],
+      "deductive": [
+        30
+      ],
+      "approach,": [
+        31
+      ],
+      "based": [
+        32
+      ],
+      "on": [
+        33
+      ],
+      "Scopus": [
+        35
+      ],
+      "search": [
+        36
+      ],
+      "covering": [
+        37
+      ],
+      "publications": [
+        38
+      ],
+      "from": [
+        39,
+        66
+      ],
+      "2020": [
+        40
+      ],
+      "to": [
+        41,
+        205,
+        211
+      ],
+      "February": [
+        42
+      ],
+      "2025.": [
+        43
+      ],
+      "reveals": [
+        47
+      ],
+      "emergence": [
+        49
+      ],
+      "new": [
+        52
+      ],
+      "research": [
+        53
+      ],
+      "field,": [
+        54
+      ],
+      "showing": [
+        55
+      ],
+      "notable": [
+        56
+      ],
+      "growth": [
+        57
+      ],
+      "2024": [
+        59
+      ],
+      "landscape": [
+        62
+      ],
+      "dominated": [
+        63
+      ],
+      "by": [
+        64
+      ],
+      "output": [
+        65
+      ],
+      "India": [
+        67
+      ],
+      "United": [
+        70
+      ],
+      "States.": [
+        71
+      ],
+      "main": [
+        73
+      ],
+      "subject": [
+        74
+      ],
+      "areas": [
+        75
+      ],
+      "are": [
+        76,
+        111
+      ],
+      "business,": [
+        77
+      ],
+      "management,": [
+        78,
+        117
+      ],
+      "accounting,": [
+        79
+      ],
+      "computer": [
+        81
+      ],
+      "science,": [
+        82
+      ],
+      "reflecting": [
+        83
+      ],
+      "interdisciplinary": [
+        85
+      ],
+      "nature": [
+        86
+      ],
+      "topic.": [
+        89
+      ],
+      "Scientific": [
+        90
+      ],
+      "production": [
+        91
+      ],
+      "remains": [
+        92
+      ],
+      "nascent": [
+        93
+      ],
+      "dispersed,": [
+        95
+      ],
+      "no": [
+        97
+      ],
+      "prominent": [
+        98
+      ],
+      "institutions": [
+        99
+      ],
+      "or": [
+        100
+      ],
+      "authors.": [
+        101
+      ],
+      "AI": [
+        102,
+        131,
+        165,
+        189,
+        227
+      ],
+      "applications,": [
+        103
+      ],
+      "particularly": [
+        104
+      ],
+      "machine": [
+        105,
+        170
+      ],
+      "learning": [
+        106
+      ],
+      "natural": [
+        108
+      ],
+      "language": [
+        109
+      ],
+      "processing,": [
+        110
+      ],
+      "increasingly": [
+        112
+      ],
+      "integrated": [
+        113
+      ],
+      "into": [
+        114
+      ],
+      "human": [
+        115
+      ],
+      "resource": [
+        116
+      ],
+      "automating": [
+        118
+      ],
+      "repetitive": [
+        119
+      ],
+      "tasks,": [
+        120,
+        157
+      ],
+      "optimizing": [
+        121
+      ],
+      "decision-making,": [
+        122
+      ],
+      "enhancing": [
+        124
+      ],
+      "candidate": [
+        126,
+        137,
+        222
+      ],
+      "experience.": [
+        127,
+        223
+      ],
+      "Within": [
+        128
+      ],
+      "selection,": [
+        130
+      ],
+      "operates": [
+        132
+      ],
+      "several": [
+        134
+      ],
+      "domains,": [
+        135
+      ],
+      "including": [
+        136
+      ],
+      "pre-selection,": [
+        138
+      ],
+      "interview": [
+        139
+      ],
+      "analysis,": [
+        140
+      ],
+      "soft": [
+        141
+      ],
+      "skills": [
+        142
+      ],
+      "assessment,": [
+        143
+      ],
+      "résumé": [
+        144
+      ],
+      "classification,": [
+        145
+      ],
+      "prediction": [
+        146
+      ],
+      "success": [
+        148
+      ],
+      "job": [
+        150,
+        201
+      ],
+      "suitability,": [
+        151
+      ],
+      "automation": [
+        152
+      ],
+      "communication": [
+        156
+      ],
+      "personalized": [
+        159
+      ],
+      "profile": [
+        160
+      ],
+      "recommendations.": [
+        161
+      ],
+      "spectrum": [
+        163
+      ],
+      "includes": [
+        166
+      ],
+      "supervised": [
+        167
+      ],
+      "unsupervised": [
+        169
+      ],
+      "learning,": [
+        171
+      ],
+      "classification": [
+        172
+      ],
+      "algorithms,": [
+        173
+      ],
+      "neural": [
+        174
+      ],
+      "networks,": [
+        175
+      ],
+      "predictive": [
+        176,
+        194
+      ],
+      "recommendation": [
+        178
+      ],
+      "models,": [
+        179
+      ],
+      "Bayesian": [
+        180
+      ],
+      "methods,": [
+        181
+      ],
+      "generative": [
+        182
+      ],
+      "chatbots,": [
+        183
+      ],
+      "facial": [
+        184
+      ],
+      "recognition,": [
+        185
+      ],
+      "emotion": [
+        187
+      ],
+      "analysis.": [
+        188
+      ],
+      "approaches": [
+        190
+      ],
+      "encompass": [
+        191
+      ],
+      "analytical": [
+        192
+      ],
+      "methods": [
+        195,
+        204,
+        210
+      ],
+      "for": [
+        196
+      ],
+      "performance": [
+        197
+      ],
+      "evaluation": [
+        198
+      ],
+      "forecasting": [
+        200
+      ],
+      "suitability;": [
+        202
+      ],
+      "operational": [
+        203
+      ],
+      "automate": [
+        206
+      ],
+      "processes;": [
+        207
+      ],
+      "strategic": [
+        209
+      ],
+      "align": [
+        212
+      ],
+      "talent": [
+        213
+      ],
+      "organizational": [
+        215
+      ],
+      "goals,": [
+        216
+      ],
+      "improve": [
+        217
+      ],
+      "diversity,": [
+        218
+      ],
+      "personalize": [
+        220
+      ],
+      "integration": [
+        225
+      ],
+      "selection": [
+        232
+      ],
+      "enhances": [
+        233
+      ],
+      "efficiency,": [
+        234
+      ],
+      "objectivity,": [
+        235
+      ],
+      "agility,": [
+        237
+      ],
+      "offering": [
+        238
+      ],
+      "competitive": [
+        240
+      ],
+      "advantage": [
+        241
+      ],
+      "while": [
+        242
+      ],
+      "also": [
+        243
+      ],
+      "raising": [
+        244
+      ],
+      "ethical": [
+        245
+      ],
+      "bias-related": [
+        247
+      ],
+      "challenges.": [
+        248
+      ]
+    },
+    "counts_by_year": [],
+    "updated_date": "2026-10-12T09:40:04.860316",
+    "created_date": "2026-06-05T00:00:00"
+  }
+}

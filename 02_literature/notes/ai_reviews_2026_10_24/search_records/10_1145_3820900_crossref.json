@@ -1,0 +1,1077 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3820900",
+    "checked_at": "2026-10-24T02:10:20.230570Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ],
+        "date-time": "2026-09-23T03:42:38Z",
+        "timestamp": 1790134958998,
+        "version": "4.0.1"
+      },
+      "reference-count": 147,
+      "publisher": "Association for Computing Machinery (ACM)",
+      "content-domain": {
+        "domain": [
+          "dl.acm.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "ACM Trans. Interact. Intell. Syst."
+      ],
+      "abstract": "<jats:p>Personalised AI coaching systems are increasingly used across healthcare, education, workplace training, and sport to support behaviour change and skill development through adaptive interventions. Despite this growth, the field remains fragmented, with limited systematic understanding of how such systems are designed, implemented, and evaluated. This systematic mapping review examines how personalised AI coaching systems are conceptualised and developed, focusing on application domains, target users, AI techniques, personalisation strategies, and interface modalities. Peer-reviewed journal and conference papers in English were included if they described a coaching technology, employed AI-driven methods to select or generate coaching interventions, and implemented automatic or semi-automatic personalisation. Following PRISMA-ScR guidelines, a comprehensive search across ACM Digital Library, IEEE Xplore, PubMed, and Web of Science retrieved 2072 records, of which 42 met the inclusion criteria. Data were systematically extracted on domains, user populations, coaching scope, AI techniques for intervention selection and personalisation, user modelling, theoretical grounding, interface modalities, and evaluation methods. Quantitative charting and qualitative synthesis were used to map trends and identify gaps. Results indicate that most systems targeted lay users, predominantly in healthcare, with fewer studies in education and minimal presence in professional or workplace settings. The recent uptake of deep learning introduced greater methodological diversity and enabled expansion across application domains. Personalisation largely focused on individual-level adaptation, was seldom grounded in theory or expert input, and was less frequently evaluated than coaching outcomes, often without independent assessment. Most systems relied on graphical user interfaces, while robotic, virtual reality, and game-based interfaces remained rare. Future research should extend beyond health to underrepresented domains and user groups, advance hybrid AI approaches that balance interpretability and performance, and strengthen theory-grounded and ethically informed design. Improved reporting transparency, more rigorous evaluation of personalisation effects, and clearer pathways from research prototypes to real-world deployment are also needed.</jats:p>",
+      "DOI": "10.1145/3820900",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ],
+        "date-time": "2026-06-19T15:21:24Z",
+        "timestamp": 1781882484000
+      },
+      "update-policy": "https://doi.org/10.1145/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Personalised AI Coaching Technology: A Systematic Mapping Review"
+      ],
+      "prefix": "10.1145",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6099-675X",
+          "authenticated-orcid": false,
+          "given": "Jonathan",
+          "family": "Vitale",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Macquarie University - Australian Institute of Health Innovation, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2732-186X",
+          "authenticated-orcid": false,
+          "given": "Filippo",
+          "family": "Cenacchi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Macquarie University - Department of Computing, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7400-2584",
+          "authenticated-orcid": false,
+          "given": "Matthias",
+          "family": "Kraus",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Augsburg University - Human-Centered AI Lab, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5282-5467",
+          "authenticated-orcid": false,
+          "given": "Fidelia",
+          "family": "Orji",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dalhousie University, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7363-1511",
+          "authenticated-orcid": false,
+          "given": "Deborah",
+          "family": "Richards",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Macquarie University - Department of Computing, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6152-8034",
+          "authenticated-orcid": false,
+          "given": "Rita",
+          "family": "Orji",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Dalhousie University, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8434-9335",
+          "authenticated-orcid": false,
+          "given": "Cristina",
+          "family": "Conati",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of British Columbia - Department of Computer Science, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2638-4121",
+          "authenticated-orcid": false,
+          "given": "Shlomo",
+          "family": "Berkovsky",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Macquarie University - Australian Institute of Health Innovation, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "320",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_1_1_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11576-006-0098-7"
+        },
+        {
+          "key": "e_1_2_1_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/40789"
+        },
+        {
+          "key": "e_1_2_1_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jpm13060951"
+        },
+        {
+          "key": "e_1_2_1_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3699712"
+        },
+        {
+          "key": "e_1_2_1_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4236/ce.2023.145057"
+        },
+        {
+          "key": "e_1_2_1_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ichi.2013.13"
+        },
+        {
+          "key": "e_1_2_1_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/frai.2024.1441955"
+        },
+        {
+          "key": "e_1_2_1_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.30574/gscarr.2024.18.2.0062"
+        },
+        {
+          "key": "e_1_2_1_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/educon62633.2025.11016499"
+        },
+        {
+          "key": "e_1_2_1_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2190/23bc-me1w-v37u-5tmj"
+        },
+        {
+          "key": "e_1_2_1_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2783258.2789995"
+        },
+        {
+          "key": "e_1_2_1_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2209310.2209312"
+        },
+        {
+          "key": "e_1_2_1_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ijerph17165930"
+        },
+        {
+          "key": "e_1_2_1_14_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Bikram Pratim Bhuyan Amar Ramdane-Cherif Ravi Tomar and T. P. Singh. 2024. Neuro-symbolic artificial intelligence: a survey. Neural Computing and Applications 36 21 (June 2024) 12809–12844. doi:10.1007/s00521-024-09960-z.",
+          "DOI": "10.1007/s00521-024-09960-z"
+        },
+        {
+          "key": "e_1_2_1_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compedu.2021.104158"
+        },
+        {
+          "key": "e_1_2_1_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12525-023-00644-5"
+        },
+        {
+          "key": "e_1_2_1_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jwam-12-2024-0178"
+        },
+        {
+          "key": "e_1_2_1_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-540-72079-9"
+        },
+        {
+          "key": "e_1_2_1_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.mcpdig.2024.05.007"
+        },
+        {
+          "key": "e_1_2_1_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/tmms.1970.299942"
+        },
+        {
+          "key": "e_1_2_1_21_1",
+          "unstructured": "Ann Cavoukian et al. 2009. Privacy by design: the 7 foundational principles. Information and Privacy Commissioner of Ontario Canada."
+        },
+        {
+          "key": "e_1_2_1_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/access.2020.2988510"
+        },
+        {
+          "key": "e_1_2_1_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3637528.3671562"
+        },
+        {
+          "key": "e_1_2_1_24_1",
+          "article-title": "GUIDON",
+          "author": "Clancey William J.",
+          "year": "1983",
+          "unstructured": "William J. Clancey. 1983. GUIDON. Journal of Computer-Based Instruction.",
+          "journal-title": "Journal of Computer-Based Instruction."
+        },
+        {
+          "key": "e_1_2_1_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1468-2419.2012.00410.x"
+        },
+        {
+          "key": "e_1_2_1_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/bf01099821"
+        },
+        {
+          "key": "e_1_2_1_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521880903541620"
+        },
+        {
+          "key": "e_1_2_1_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12325-018-0765-2"
+        },
+        {
+          "key": "e_1_2_1_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5220/0006787702190226"
+        },
+        {
+          "key": "e_1_2_1_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-58226-4_9"
+        },
+        {
+          "key": "e_1_2_1_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2025.1530131"
+        },
+        {
+          "key": "e_1_2_1_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1055/s-0039-1688757"
+        },
+        {
+          "key": "e_1_2_1_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/20552076241233247"
+        },
+        {
+          "key": "e_1_2_1_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14198/jhse.2020.153.06"
+        },
+        {
+          "key": "e_1_2_1_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physio.2007.09.004"
+        },
+        {
+          "key": "e_1_2_1_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2930238.2930256"
+        },
+        {
+          "key": "e_1_2_1_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1155/ecc/2858931"
+        },
+        {
+          "key": "e_1_2_1_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/08839514.2021.2009222"
+        },
+        {
+          "key": "e_1_2_1_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1534484320982891"
+        },
+        {
+          "key": "e_1_2_1_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-81938-5_1"
+        },
+        {
+          "key": "e_1_2_1_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41746-020-00314-2"
+        },
+        {
+          "key": "e_1_2_1_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.20965/jaciii.2025.p0041"
+        },
+        {
+          "key": "e_1_2_1_43_1",
+          "unstructured": "Kilem L. Gwet. 2014. Handbook of Inter-Rater Reliability: The Definitive Guide to Measuring the Extent of Agreement among Raters. Advanced Analytics LLC."
+        },
+        {
+          "key": "e_1_2_1_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3233/sw-223228"
+        },
+        {
+          "key": "e_1_2_1_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/ijilt-07-2024-0160"
+        },
+        {
+          "key": "e_1_2_1_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jelekin.2014.10.003"
+        },
+        {
+          "key": "e_1_2_1_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/roman.2018.8525581"
+        },
+        {
+          "key": "e_1_2_1_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12369-023-01041-w"
+        },
+        {
+          "key": "e_1_2_1_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10447318.2022.2150691"
+        },
+        {
+          "key": "e_1_2_1_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0144929x.2020.1767207"
+        },
+        {
+          "key": "e_1_2_1_51_1",
+          "volume-title": "PACIS 2025 Proceedings.",
+          "author": "Hopman Katherine",
+          "year": "2025",
+          "unstructured": "Katherine Hopman and Deborah Richards. 2025. Understanding barriers and facilitators to delivering early digital mental health support following traumatic injury. PACIS 2025 Proceedings."
+        },
+        {
+          "key": "e_1_2_1_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0144929x.2025.2477757"
+        },
+        {
+          "key": "e_1_2_1_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2023.1170002"
+        },
+        {
+          "key": "e_1_2_1_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639-025-13379-x"
+        },
+        {
+          "key": "e_1_2_1_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11257-022-09348-5"
+        },
+        {
+          "key": "e_1_2_1_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2139/ssrn.3984892"
+        },
+        {
+          "key": "e_1_2_1_57_1",
+          "first-page": "100",
+          "article-title": "What is “coaching",
+          "volume": "6",
+          "author": "Ives Yossi",
+          "year": "2008",
+          "unstructured": "Yossi Ives. 2008. What is “coaching”? an exploration of conflicting paradigms. International Journal of Evidence Based Coaching and Mentoring, 6, 2, 100–113.",
+          "journal-title": "an exploration of conflicting paradigms. International Journal of Evidence Based Coaching and Mentoring"
+        },
+        {
+          "key": "e_1_2_1_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/cpt.966"
+        },
+        {
+          "key": "e_1_2_1_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/bf01126111"
+        },
+        {
+          "key": "e_1_2_1_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s43681-025-00814-5"
+        },
+        {
+          "key": "e_1_2_1_61_1",
+          "first-page": "47",
+          "article-title": "Animated pedagogical agents: face-to-face interaction in interactive learning environments",
+          "volume": "11",
+          "author": "Johnson W. Lewis",
+          "year": "2000",
+          "unstructured": "W. Lewis Johnson, Jeff W. Rickel, James C. Lester, et al. 2000. Animated pedagogical agents: face-to-face interaction in interactive learning environments. International Journal of Artificial Intelligence in Education, 11, 1, 47–78.",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "key": "e_1_2_1_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/23750472.2024.2449016"
+        },
+        {
+          "key": "e_1_2_1_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/13674580500200277"
+        },
+        {
+          "key": "e_1_2_1_64_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/rsm.2025.25"
+        },
+        {
+          "key": "e_1_2_1_65_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-79460-6_10"
+        },
+        {
+          "key": "e_1_2_1_66_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Rachel King et al. 2021. Factors that optimise the impact of continuing professional development in nursing: a rapid evidence review. Nurse Education Today 98 (Mar. 2021) 104652. doi:10.1016/j.nedt.2020.104652.",
+          "DOI": "10.1016/j.nedt.2020.104652"
+        },
+        {
+          "key": "e_1_2_1_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-68722-8_5"
+        },
+        {
+          "key": "e_1_2_1_68_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/a:1011187500863"
+        },
+        {
+          "key": "e_1_2_1_69_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/15360"
+        },
+        {
+          "key": "e_1_2_1_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/38525"
+        },
+        {
+          "key": "e_1_2_1_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jstpm-10-2020-0155"
+        },
+        {
+          "key": "e_1_2_1_72_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-981-33-4126-5_6"
+        },
+        {
+          "key": "e_1_2_1_73_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Sofoklis Kyriazakos et al. 2020. A novel virtual coaching system based on personalized clinical pathways for rehabilitation of older adults: requirements and implementation plan of the vCare project. Frontiers in Digital Health 2 (Oct. 2020) 546562. doi:10.3389/fdgth.2020.546562.",
+          "DOI": "10.3389/fdgth.2020.546562"
+        },
+        {
+          "key": "e_1_2_1_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ccis63231.2024.10932101"
+        },
+        {
+          "key": "e_1_2_1_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2529310"
+        },
+        {
+          "key": "e_1_2_1_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1504/ijtel.2025.145337"
+        },
+        {
+          "key": "e_1_2_1_77_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1061/(asce)cp.1943-5487.0000879"
+        },
+        {
+          "key": "e_1_2_1_78_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/51916"
+        },
+        {
+          "key": "e_1_2_1_79_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/jamia.1999.0060272"
+        },
+        {
+          "key": "e_1_2_1_80_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-319-59930-4_14"
+        },
+        {
+          "key": "e_1_2_1_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3708036.3708051"
+        },
+        {
+          "key": "e_1_2_1_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pdig.0000860"
+        },
+        {
+          "key": "e_1_2_1_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40779-020-00238-8"
+        },
+        {
+          "key": "e_1_2_1_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-025-86255-w"
+        },
+        {
+          "key": "e_1_2_1_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1162/desi_a_00364"
+        },
+        {
+          "key": "e_1_2_1_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-22356-3_16"
+        },
+        {
+          "key": "e_1_2_1_87_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/345124.345169"
+        },
+        {
+          "key": "e_1_2_1_88_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3366501"
+        },
+        {
+          "key": "e_1_2_1_89_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/jbhi.2019.2947243"
+        },
+        {
+          "key": "e_1_2_1_90_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1207/s1532690xci1902_02"
+        },
+        {
+          "key": "e_1_2_1_91_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3613905.3650767"
+        },
+        {
+          "key": "e_1_2_1_92_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3699761"
+        },
+        {
+          "key": "e_1_2_1_93_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521882.2010.502902"
+        },
+        {
+          "key": "e_1_2_1_94_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11257-014-9146-y"
+        },
+        {
+          "key": "e_1_2_1_95_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/nu15081950"
+        },
+        {
+          "key": "e_1_2_1_96_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Ozlem Ozmen Garibay et al. 2023. Six human-centered artificial intelligence grand challenges. International Journal of Human– Computer Interaction 39 3 (Jan. 2023) 391–437. doi:10.1080/10447318.2022.2153320.",
+          "DOI": "10.1080/10447318.2022.2153320"
+        },
+        {
+          "key": "e_1_2_1_97_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2020.545949"
+        },
+        {
+          "key": "e_1_2_1_98_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jwam-11-2024-0164"
+        },
+        {
+          "key": "e_1_2_1_99_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.34133/icomputing.0076"
+        },
+        {
+          "key": "e_1_2_1_100_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.infsof.2015.03.007"
+        },
+        {
+          "key": "e_1_2_1_101_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jmd-06-2024-0182"
+        },
+        {
+          "key": "e_1_2_1_102_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s43681-023-00258-9"
+        },
+        {
+          "key": "e_1_2_1_103_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/icicet59348.2024.10616312"
+        },
+        {
+          "key": "e_1_2_1_104_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/10147"
+        },
+        {
+          "key": "e_1_2_1_105_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/frvir.2024.1474053"
+        },
+        {
+          "key": "e_1_2_1_106_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.bjpt.2024.101083"
+        },
+        {
+          "key": "e_1_2_1_107_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/bjet.12863"
+        },
+        {
+          "key": "e_1_2_1_108_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/robotics12050120"
+        },
+        {
+          "key": "e_1_2_1_109_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijhcs.2022.102980"
+        },
+        {
+          "key": "e_1_2_1_110_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/tlt.2023.3326892"
+        },
+        {
+          "key": "e_1_2_1_111_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3610978.3640646"
+        },
+        {
+          "key": "e_1_2_1_112_1",
+          "volume-title": "ECIS 2025 Proceedings. Association for Information Systems.",
+          "author": "Salman Sana",
+          "year": "2025",
+          "unstructured": "Sana Salman and Deborah Richards. 2025. A one-stop health shop: exploring different conversational styles for behaviour change via multiple digital coaches. In ECIS 2025 Proceedings. Association for Information Systems."
+        },
+        {
+          "key": "e_1_2_1_113_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s44163-024-00129-0"
+        },
+        {
+          "key": "e_1_2_1_114_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521882.2021.2014542"
+        },
+        {
+          "key": "e_1_2_1_115_1",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Ben Singh et al. 2023. Systematic review and meta-analysis of the effectiveness of chatbots on lifestyle behaviours. NPJ Digital Medicine 6 1 (June 2023) 118. doi:10.1038/s41746-023-00856-1.",
+          "DOI": "10.1038/s41746-023-00856-1"
+        },
+        {
+          "key": "e_1_2_1_116_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-62520-6_70"
+        },
+        {
+          "key": "e_1_2_1_117_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/s0269888910000044"
+        },
+        {
+          "key": "e_1_2_1_118_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/bioengineering12080887"
+        },
+        {
+          "key": "e_1_2_1_119_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3712265"
+        },
+        {
+          "key": "e_1_2_1_120_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/hri61500.2025.10973807"
+        },
+        {
+          "key": "e_1_2_1_121_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-319-99978-4_2"
+        },
+        {
+          "key": "e_1_2_1_122_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/tbm/ibz043"
+        },
+        {
+          "key": "e_1_2_1_123_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/53592"
+        },
+        {
+          "key": "e_1_2_1_124_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3677525.3678652"
+        },
+        {
+          "key": "e_1_2_1_125_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-71707-9_30"
+        },
+        {
+          "key": "e_1_2_1_126_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/m18-0850"
+        },
+        {
+          "key": "e_1_2_1_127_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/12805"
+        },
+        {
+          "key": "e_1_2_1_128_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2020.545885"
+        },
+        {
+          "key": "e_1_2_1_129_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2020.567502"
+        },
+        {
+          "key": "e_1_2_1_130_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4324/9780429473036"
+        },
+        {
+          "key": "e_1_2_1_131_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/3-540-55606-0_58"
+        },
+        {
+          "key": "e_1_2_1_132_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-94959-3_1"
+        },
+        {
+          "key": "e_1_2_1_133_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3171221.3171269"
+        },
+        {
+          "key": "e_1_2_1_134_1",
+          "volume-title": "AAAI Spring Symposium Series.",
+          "author": "Vitale Jonathan",
+          "year": "2017",
+          "unstructured": "Jonathan Vitale, Meg Tonkin, Suman Ojha, Mary-Anne Williams, Xun Wang, and William Judge. 2017. Privacy by design in machine learning data collection: a user experience experimentation. In AAAI Spring Symposium Series."
+        },
+        {
+          "key": "e_1_2_1_135_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/siml61815.2024.10578255"
+        },
+        {
+          "key": "e_1_2_1_136_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3706598.3713852"
+        },
+        {
+          "key": "e_1_2_1_137_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12599-022-00757-9"
+        },
+        {
+          "key": "e_1_2_1_138_1",
+          "unstructured": "John Whitmore. 2010. Coaching for Performance: The Principles and Practice of Coaching and Leadership. (25th Anniversary Edition ed.). Hachette UK."
+        },
+        {
+          "key": "e_1_2_1_139_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/ijilt-02-2020-0022"
+        },
+        {
+          "key": "e_1_2_1_140_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-39179-8_5"
+        },
+        {
+          "key": "e_1_2_1_141_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/tpami.2010.230"
+        },
+        {
+          "key": "e_1_2_1_142_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2288-13-61"
+        },
+        {
+          "key": "e_1_2_1_143_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/bigdata55660.2022.10020334"
+        },
+        {
+          "key": "e_1_2_1_144_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.31219/osf.io/m7x5v_v2"
+        },
+        {
+          "key": "e_1_2_1_145_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/s0263574723001418"
+        },
+        {
+          "key": "e_1_2_1_146_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639-024-13111-1"
+        },
+        {
+          "key": "e_1_2_1_147_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2025.naacl-long.449"
+        }
+      ],
+      "container-title": [
+        "ACM Transactions on Interactive Intelligent Systems"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/3820900",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ],
+        "date-time": "2026-06-19T15:21:28Z",
+        "timestamp": 1781882488000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dl.acm.org/doi/10.1145/3820900"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ]
+      },
+      "references-count": 147,
+      "alternative-id": [
+        "10.1145/3820900"
+      ],
+      "URL": "https://doi.org/10.1145/3820900",
+      "relation": {},
+      "ISSN": [
+        "2160-6455",
+        "2160-6463"
+      ],
+      "issn-type": [
+        {
+          "value": "2160-6455",
+          "type": "print"
+        },
+        {
+          "value": "2160-6463",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-07-30",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-05-19",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-06-19",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "3820900"
+    }
+  }
+}

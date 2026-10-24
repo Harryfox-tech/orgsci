@@ -1,0 +1,316 @@
+[
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1002/hrm.70025",
+    "checked_at": "2026-10-24T02:10:16.495275Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.70025",
+    "checked_at": "2026-10-24T02:10:17.333048Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1002/job.2735",
+    "checked_at": "2026-10-24T02:10:13.259961Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735",
+    "checked_at": "2026-10-24T02:10:14.072400Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+    "checked_at": "2026-10-24T02:10:09.022194Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s10551-022-05049-6",
+    "checked_at": "2026-10-24T02:10:09.956884Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+    "checked_at": "2026-10-24T02:10:21.639203Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s10648-026-10166-z",
+    "checked_at": "2026-10-24T02:10:22.594954Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+    "checked_at": "2026-10-24T02:10:11.876467Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s11301-025-00580-y",
+    "checked_at": "2026-10-24T02:10:12.688811Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+    "checked_at": "2026-10-24T02:10:06.335347Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-01488-6",
+    "checked_at": "2026-10-24T02:10:07.161851Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+    "checked_at": "2026-10-24T02:10:10.593131Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9",
+    "checked_at": "2026-10-24T02:10:11.376148Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+    "checked_at": "2026-10-24T02:10:17.334060Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694",
+    "checked_at": "2026-10-24T02:10:18.131653Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+    "checked_at": "2026-10-24T02:10:13.408395Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.hrmr.2022.100924",
+    "checked_at": "2026-10-24T02:10:14.389357Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+    "checked_at": "2026-10-24T02:10:17.919953Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.jjimei.2024.100288",
+    "checked_at": "2026-10-24T02:10:18.701343Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+    "checked_at": "2026-10-24T02:10:09.115345Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.techfore.2026.124800",
+    "checked_at": "2026-10-24T02:10:10.055987Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+    "checked_at": "2026-10-24T02:10:21.907607Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639",
+    "checked_at": "2026-10-24T02:10:22.699187Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+    "checked_at": "2026-10-24T02:10:19.279589Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932",
+    "checked_at": "2026-10-24T02:10:19.939914Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+    "checked_at": "2026-10-24T02:10:15.968731Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1093/9780197809013.003.0018",
+    "checked_at": "2026-10-24T02:10:16.894665Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+    "checked_at": "2026-10-24T02:10:18.749541Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/JWAM-11-2024-0164",
+    "checked_at": "2026-10-24T02:10:19.601945Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+    "checked_at": "2026-10-24T02:10:10.593131Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716",
+    "checked_at": "2026-10-24T02:10:11.372050Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+    "checked_at": "2026-10-24T02:10:20.527460Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/PR-01-2024-0077",
+    "checked_at": "2026-10-24T02:10:21.348702Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/SAMAMJ-06-2026-0038",
+    "checked_at": "2026-10-24T02:10:06.334348Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+    "checked_at": "2026-10-24T02:14:52.472426Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/SAMAMJ-06-2026-0038",
+    "checked_at": "2026-10-24T02:10:07.113253Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+    "checked_at": "2026-10-24T02:10:14.529666Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744",
+    "checked_at": "2026-10-24T02:10:15.323860Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3820900",
+    "checked_at": "2026-10-24T02:10:20.230570Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1145/3820900",
+    "checked_at": "2026-10-24T02:10:21.038635Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1177/21582440251361746",
+    "checked_at": "2026-10-24T02:10:07.779127Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1177/21582440251361746",
+    "checked_at": "2026-10-24T02:10:08.568774Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+    "checked_at": "2026-10-24T02:10:07.726656Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.3389/frai.2026.1798519",
+    "checked_at": "2026-10-24T02:10:08.441486Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+    "checked_at": "2026-10-24T02:10:11.997677Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.4102/sajhrm.v24i0.3649",
+    "checked_at": "2026-10-24T02:10:12.827043Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+    "checked_at": "2026-10-24T02:10:14.969585Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2018.0174",
+    "checked_at": "2026-10-24T02:10:15.931494Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=artificial+intelligence+recruitment+systematic+review&filter=from_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-10-24&per-page=12",
+    "checked_at": "2026-10-24T02:10:02.256902Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=artificial+intelligence+talent+management+systematic+review&filter=from_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-10-24&per-page=12",
+    "checked_at": "2026-10-24T02:10:03.713018Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=artificial+intelligence+assessment+feedback+coaching+review&filter=from_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-10-24&per-page=12",
+    "checked_at": "2026-10-24T02:10:04.965756Z",
+    "http_status": 200
+  }
+]

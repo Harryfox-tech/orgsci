@@ -1,0 +1,948 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932",
+    "checked_at": "2026-10-24T02:10:19.939914Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W7134065018",
+    "doi": "https://doi.org/10.1080/17521882.2026.2640932",
+    "title": "Designing AI coaches: a scoping review",
+    "display_name": "Designing AI coaches: a scoping review",
+    "publication_year": 2026,
+    "publication_date": "2026-03-06",
+    "ids": {
+      "openalex": "https://openalex.org/W7134065018",
+      "doi": "https://doi.org/10.1080/17521882.2026.2640932"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1080/17521882.2026.2640932",
+      "doi": "https://doi.org/10.1080/17521882.2026.2640932",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/17521882.2026.2640932",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S4210188769",
+        "display_name": "Coaching An International Journal of Theory Research and Practice",
+        "issn_l": "1752-1890",
+        "issn": [
+          "1752-1890",
+          "1752-1882"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "jufo-1",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-2"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Coaching: An International Journal of Theory, Research and Practice",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932?needAccess=true",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5116312277",
+          "display_name": "Abongile Sipondo",
+          "orcid": "https://orcid.org/0000-0002-6523-1614",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6523-1614"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I26092322",
+            "display_name": "Stellenbosch University",
+            "ror": "https://ror.org/05bk57929",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Abongile Sipondo",
+        "raw_affiliation_strings": [
+          "Stellenbosch University Business School"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6523-1614",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Stellenbosch University Business School",
+            "institution_ids": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5067006463",
+          "display_name": "Nicky H. D. Terblanche",
+          "orcid": "https://orcid.org/0000-0002-6796-6008",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6796-6008"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I26092322",
+            "display_name": "Stellenbosch University",
+            "ror": "https://ror.org/05bk57929",
+            "country_code": "ZA",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ],
+        "countries": [
+          "ZA"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Nicky Terblanche",
+        "raw_affiliation_strings": [
+          "Stellenbosch University Business School"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-6796-6008",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Stellenbosch University Business School",
+            "institution_ids": [
+              "https://openalex.org/I26092322"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5116312277"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I26092322"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 11.4458,
+    "has_fulltext": true,
+    "cited_by_count": 2,
+    "citation_normalized_percentile": {
+      "value": 0.97736626,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 97
+    },
+    "biblio": {
+      "volume": "19",
+      "issue": "2",
+      "first_page": "292",
+      "last_page": "310"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.5800999999046326,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T11519",
+        "display_name": "Digital Mental Health Interventions",
+        "score": 0.5800999999046326,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13821",
+        "display_name": "Coaching Methods and Impact",
+        "score": 0.21459999680519104,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12753",
+        "display_name": "Psychology, Coaching, and Therapy",
+        "score": 0.0729999989271164,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/ai-coaching",
+        "display_name": "AI coaching",
+        "score": 0.8410000205039978
+      },
+      {
+        "id": "https://openalex.org/keywords/chatbots",
+        "display_name": "chatbots",
+        "score": 0.7919999957084656
+      },
+      {
+        "id": "https://openalex.org/keywords/generative-ai",
+        "display_name": "generative AI",
+        "score": 0.9269999861717224
+      },
+      {
+        "id": "https://openalex.org/keywords/large-language-models",
+        "display_name": "large language models",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/chatbot-design",
+        "display_name": "chatbot design",
+        "score": 0.9549999833106995
+      },
+      {
+        "id": "https://openalex.org/keywords/technology-adoption",
+        "display_name": "technology adoption",
+        "score": 0.8389999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/goal-setting",
+        "display_name": "goal setting",
+        "score": 0.7429999709129333
+      },
+      {
+        "id": "https://openalex.org/keywords/reflection",
+        "display_name": "reflection",
+        "score": 0.628000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/feedback",
+        "display_name": "feedback",
+        "score": 0.9610000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/user-engagement",
+        "display_name": "user engagement",
+        "score": 0.6899999976158142
+      },
+      {
+        "id": "https://openalex.org/keywords/usability",
+        "display_name": "usability",
+        "score": 0.6209999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/cultural-sensitivity",
+        "display_name": "cultural sensitivity",
+        "score": 0.7490000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/human-ai-interaction",
+        "display_name": "human-AI interaction",
+        "score": 0.5860000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/coaching-interventions",
+        "display_name": "coaching interventions",
+        "score": 0.3700000047683716
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779041454",
+        "wikidata": "https://www.wikidata.org/wiki/Q870780",
+        "display_name": "Chatbot",
+        "level": 2,
+        "score": 0.8104000091552734
+      },
+      {
+        "id": "https://openalex.org/C2779363792",
+        "wikidata": "https://www.wikidata.org/wiki/Q1104185",
+        "display_name": "Coaching",
+        "level": 2,
+        "score": 0.7588000297546387
+      },
+      {
+        "id": "https://openalex.org/C39890363",
+        "wikidata": "https://www.wikidata.org/wiki/Q36108",
+        "display_name": "Generative grammar",
+        "level": 2,
+        "score": 0.670199990272522
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.5375999808311462
+      },
+      {
+        "id": "https://openalex.org/C120936955",
+        "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+        "display_name": "Empirical research",
+        "level": 2,
+        "score": 0.4700999855995178
+      },
+      {
+        "id": "https://openalex.org/C166052673",
+        "wikidata": "https://www.wikidata.org/wiki/Q83021",
+        "display_name": "Empirical evidence",
+        "level": 2,
+        "score": 0.4277999997138977
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.4090000092983246
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.37689998745918274
+      },
+      {
+        "id": "https://openalex.org/C74196892",
+        "wikidata": "https://www.wikidata.org/wiki/Q7781188",
+        "display_name": "Thematic analysis",
+        "level": 3,
+        "score": 0.3467999994754791
+      },
+      {
+        "id": "https://openalex.org/C75630572",
+        "wikidata": "https://www.wikidata.org/wiki/Q538904",
+        "display_name": "Applied psychology",
+        "level": 1,
+        "score": 0.32670000195503235
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.2946000099182129
+      },
+      {
+        "id": "https://openalex.org/C107457646",
+        "wikidata": "https://www.wikidata.org/wiki/Q207434",
+        "display_name": "Human–computer interaction",
+        "level": 1,
+        "score": 0.2903999984264374
+      },
+      {
+        "id": "https://openalex.org/C2779318504",
+        "wikidata": "https://www.wikidata.org/wiki/Q1438035",
+        "display_name": "Research design",
+        "level": 2,
+        "score": 0.28369998931884766
+      },
+      {
+        "id": "https://openalex.org/C188147891",
+        "wikidata": "https://www.wikidata.org/wiki/Q147638",
+        "display_name": "Cognitive science",
+        "level": 1,
+        "score": 0.2727000117301941
+      },
+      {
+        "id": "https://openalex.org/C2777455480",
+        "wikidata": "https://www.wikidata.org/wiki/Q1038171",
+        "display_name": "Participatory design",
+        "level": 3,
+        "score": 0.27129998803138733
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1080/17521882.2026.2640932",
+        "doi": "https://doi.org/10.1080/17521882.2026.2640932",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1080/17521882.2026.2640932",
+        "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932?needAccess=true",
+        "source": {
+          "id": "https://openalex.org/S4210188769",
+          "display_name": "Coaching An International Journal of Theory Research and Practice",
+          "issn_l": "1752-1890",
+          "issn": [
+            "1752-1890",
+            "1752-1882"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Coaching: An International Journal of Theory, Research and Practice",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1080/17521882.2026.2640932",
+      "doi": "https://doi.org/10.1080/17521882.2026.2640932",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1080/17521882.2026.2640932",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932?needAccess=true",
+      "source": {
+        "id": "https://openalex.org/S4210188769",
+        "display_name": "Coaching An International Journal of Theory Research and Practice",
+        "issn_l": "1752-1890",
+        "issn": [
+          "1752-1890",
+          "1752-1882"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "dongbi-c",
+          "jufo-1",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-2"
+        ],
+        "host_organization": "https://openalex.org/P4310320547",
+        "host_organization_name": "Taylor & Francis",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320547",
+          "https://openalex.org/P4310320449"
+        ],
+        "host_organization_lineage_names": [
+          "Taylor & Francis",
+          "Informa"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Coaching: An International Journal of Theory, Research and Practice",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Quality education",
+        "id": "https://metadata.un.org/sdg/4",
+        "score": 0.6164000034332275
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "display_name": "Systematic Review",
+        "id": "https://openalex.org/study-designs/systematic-review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7134065018.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7134065018.grobid-xml"
+    },
+    "referenced_works_count": 59,
+    "referenced_works": [
+      "https://openalex.org/W2075950485",
+      "https://openalex.org/W2084154288",
+      "https://openalex.org/W2109305774",
+      "https://openalex.org/W2794351024",
+      "https://openalex.org/W2795037203",
+      "https://openalex.org/W2891378911",
+      "https://openalex.org/W2932813050",
+      "https://openalex.org/W2936032126",
+      "https://openalex.org/W2939803556",
+      "https://openalex.org/W2950229699",
+      "https://openalex.org/W2980981514",
+      "https://openalex.org/W2981514221",
+      "https://openalex.org/W2994929888",
+      "https://openalex.org/W3047267634",
+      "https://openalex.org/W3088440420",
+      "https://openalex.org/W3092728304",
+      "https://openalex.org/W3111750956",
+      "https://openalex.org/W3112996357",
+      "https://openalex.org/W3113757834",
+      "https://openalex.org/W3122947385",
+      "https://openalex.org/W3174968973",
+      "https://openalex.org/W3200742808",
+      "https://openalex.org/W3212054086",
+      "https://openalex.org/W3215487229",
+      "https://openalex.org/W4200062772",
+      "https://openalex.org/W4206251658",
+      "https://openalex.org/W4212964203",
+      "https://openalex.org/W4229444414",
+      "https://openalex.org/W4280519548",
+      "https://openalex.org/W4280525323",
+      "https://openalex.org/W4283267080",
+      "https://openalex.org/W4306247928",
+      "https://openalex.org/W4367310920",
+      "https://openalex.org/W4377101302",
+      "https://openalex.org/W4378515801",
+      "https://openalex.org/W4386089120",
+      "https://openalex.org/W4386790659",
+      "https://openalex.org/W4387370839",
+      "https://openalex.org/W4389589630",
+      "https://openalex.org/W4390668567",
+      "https://openalex.org/W4390981211",
+      "https://openalex.org/W4391966607",
+      "https://openalex.org/W4399759691",
+      "https://openalex.org/W4400079465",
+      "https://openalex.org/W4401283121",
+      "https://openalex.org/W4402568941",
+      "https://openalex.org/W4402737307",
+      "https://openalex.org/W4402771620",
+      "https://openalex.org/W4404162612",
+      "https://openalex.org/W4404228829",
+      "https://openalex.org/W4404726761",
+      "https://openalex.org/W4407112065",
+      "https://openalex.org/W4407758653",
+      "https://openalex.org/W4409368637",
+      "https://openalex.org/W4409456906",
+      "https://openalex.org/W4410507739",
+      "https://openalex.org/W4411040265",
+      "https://openalex.org/W4414069793",
+      "https://openalex.org/W6888852031"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "This": [
+        0
+      ],
+      "scoping": [
+        1
+      ],
+      "review": [
+        2
+      ],
+      "examines": [
+        3
+      ],
+      "the": [
+        4,
+        22,
+        72
+      ],
+      "design": [
+        5,
+        45,
+        66
+      ],
+      "and": [
+        6,
+        38,
+        71,
+        86,
+        98,
+        108
+      ],
+      "effectiveness": [
+        7
+      ],
+      "of": [
+        8,
+        14,
+        24,
+        69,
+        74
+      ],
+      "AI": [
+        9,
+        30,
+        75,
+        81,
+        113
+      ],
+      "coaching": [
+        10,
+        31
+      ],
+      "chatbots": [
+        11
+      ],
+      "in": [
+        12,
+        17,
+        28,
+        103
+      ],
+      "light": [
+        13
+      ],
+      "recent": [
+        15
+      ],
+      "advances": [
+        16
+      ],
+      "generative": [
+        18,
+        80
+      ],
+      "artificial": [
+        19
+      ],
+      "intelligence.": [
+        20
+      ],
+      "Following": [
+        21
+      ],
+      "emergence": [
+        23
+      ],
+      "large": [
+        25
+      ],
+      "language": [
+        26
+      ],
+      "models": [
+        27
+      ],
+      "2022–2023,": [
+        29
+      ],
+      "has": [
+        32
+      ],
+      "gained": [
+        33
+      ],
+      "traction": [
+        34
+      ],
+      "as": [
+        35,
+        93,
+        115
+      ],
+      "a": [
+        36,
+        49
+      ],
+      "scalable": [
+        37
+      ],
+      "cost-effective": [
+        39
+      ],
+      "intervention,": [
+        40
+      ],
+      "yet": [
+        41
+      ],
+      "evidence": [
+        42
+      ],
+      "guiding": [
+        43
+      ],
+      "effective": [
+        44
+      ],
+      "remains": [
+        46
+      ],
+      "limited.": [
+        47
+      ],
+      "Using": [
+        48
+      ],
+      "five-stage": [
+        50
+      ],
+      "PRISMA-ScR": [
+        51
+      ],
+      "methodology,": [
+        52
+      ],
+      "17": [
+        53
+      ],
+      "empirical": [
+        54
+      ],
+      "studies": [
+        55
+      ],
+      "were": [
+        56
+      ],
+      "analysed": [
+        57
+      ],
+      "through": [
+        58
+      ],
+      "thematic": [
+        59
+      ],
+      "synthesis.": [
+        60
+      ],
+      "Three": [
+        61
+      ],
+      "overarching": [
+        62
+      ],
+      "themes": [
+        63
+      ],
+      "emerged:": [
+        64
+      ],
+      "chatbot": [
+        65
+      ],
+      "considerations,": [
+        67
+      ],
+      "determinants": [
+        68
+      ],
+      "adoption,": [
+        70
+      ],
+      "operationalisation": [
+        73
+      ],
+      "coaching.": [
+        76,
+        122
+      ],
+      "Findings": [
+        77
+      ],
+      "indicate": [
+        78
+      ],
+      "that": [
+        79
+      ],
+      "enhances": [
+        82
+      ],
+      "interaction": [
+        83
+      ],
+      "quality,": [
+        84
+      ],
+      "usability,": [
+        85
+      ],
+      "engagement,": [
+        87
+      ],
+      "particularly": [
+        88
+      ],
+      "for": [
+        89
+      ],
+      "structured": [
+        90
+      ],
+      "tasks": [
+        91
+      ],
+      "such": [
+        92
+      ],
+      "goal": [
+        94
+      ],
+      "setting,": [
+        95
+      ],
+      "reflection,": [
+        96
+      ],
+      "feedback,": [
+        97
+      ],
+      "intersessional": [
+        99
+      ],
+      "support.": [
+        100
+      ],
+      "However,": [
+        101
+      ],
+      "limitations": [
+        102
+      ],
+      "relational": [
+        104
+      ],
+      "depth,": [
+        105
+      ],
+      "cultural": [
+        106
+      ],
+      "sensitivity,": [
+        107
+      ],
+      "psychological": [
+        109
+      ],
+      "nuance": [
+        110
+      ],
+      "persist,": [
+        111
+      ],
+      "positioning": [
+        112
+      ],
+      "coaches": [
+        114
+      ],
+      "complementary": [
+        116
+      ],
+      "rather": [
+        117
+      ],
+      "than": [
+        118
+      ],
+      "substitutive": [
+        119
+      ],
+      "to": [
+        120
+      ],
+      "human": [
+        121
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 2
+      }
+    ],
+    "updated_date": "2026-10-20T09:52:01.089006",
+    "created_date": "2026-03-07T00:00:00"
+  }
+}

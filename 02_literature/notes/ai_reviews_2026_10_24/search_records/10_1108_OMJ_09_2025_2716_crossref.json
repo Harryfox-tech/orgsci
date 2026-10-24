@@ -1,0 +1,603 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+    "checked_at": "2026-10-24T02:10:10.593131Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T21:18:02Z",
+        "timestamp": 1792531082574,
+        "version": "4.5.0"
+      },
+      "reference-count": 35,
+      "publisher": "Emerald",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                2,
+                20
+              ]
+            ],
+            "date-time": "2026-02-20T00:00:00Z",
+            "timestamp": 1771545600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licences/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This paper aims to examine the integration of artificial intelligence (AI) into talent management (TM), focusing on how different AI applications are reconfiguring talent processes and outcomes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>Following the Preferred Reporting Item for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guidelines, a systematic literature review was conducted across four major databases (Scopus, Web of Science, EBSCO Business Source and ProQuest ABI/Inform), identifying 238 records published between 2000 and 2025. After screening and full-text review, 124 peer-reviewed articles were included in the final synthesis.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The review reveals two dominant modes of AI adoption in TM: augmentative systems that enhance human judgment and autonomous systems that replace human decision-making. Across recruitment, development, retention and performance management, AI is reshaping processes but remains unevenly theorized. Persistent gaps include limited attention to ethics, fairness and cross-cultural variation, as well as weak integration across micro- and macro-level perspectives.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>The review is limited to English-language, peer-reviewed publications. Future research should examine longitudinal and non-Western contexts and develop integrative theories that link individual-, organizational- and societal-level perspectives on AI in TM.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>The augmentative–autonomous framework provides human resource (HR) and organizational leaders with a lens for evaluating AI adoption choices, balancing efficiency with transparency, fairness and trust.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Social implications</jats:title>\n                    <jats:p>AI is changing how organizations recruit, develop and manage people, raising important questions of fairness, accountability and trust. This study shows that augmentative applications, which support human decision-making, tend to preserve transparency and employee agency, while autonomous applications, which replace human judgment, increase risks of bias, exclusion and reduced voice. By clarifying these differences, the framework helps policymakers, practitioners and researchers anticipate the societal consequences of AI adoption in TM and design strategies that promote inclusion, equity and responsible use of technology.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>To the best of the authors’ knowledge, this study offers the first comprehensive, PRISMA-compliant systematic review of AI in TM. It introduces a framework that clarifies how augmentative and autonomous AI reshape talent systems, offering a foundation for advancing both scholarship and practice.</jats:p>\n                  </jats:sec>",
+      "DOI": "10.1108/omj-09-2025-2716",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            20
+          ]
+        ],
+        "date-time": "2026-02-20T07:06:58Z",
+        "timestamp": 1771571218000
+      },
+      "page": "183-197",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Augmentative or autonomous? Reframing artificial intelligence in talent management through a systematic review"
+      ],
+      "prefix": "10.1108",
+      "volume": "23",
+      "author": [
+        {
+          "given": "Unnar",
+          "family": "Theodorsson",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Copenhagen Business School Department of Organization (IOA), , Copenhagen,",
+              "place": [
+                "Denmark"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kenneth Singh",
+          "family": "Dosanjh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Copenhagen Business School Department of Business Humanities and Law, , Copenhagen,",
+              "place": [
+                "Denmark"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "140",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref001",
+          "doi-asserted-by": "publisher",
+          "first-page": "83",
+          "DOI": "10.5465/annals.2016.0011",
+          "article-title": "What you see is what you get? Enhancing methodological transparency in management research",
+          "volume": "12",
+          "author": "Aguinis",
+          "year": "2018",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref002",
+          "doi-asserted-by": "publisher",
+          "first-page": "99",
+          "DOI": "10.1177/014920639101700108",
+          "article-title": "Firm resources and sustained competitive advantage",
+          "volume": "17",
+          "author": "Barney",
+          "year": "1991",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "2026050409111139900_ref003",
+          "first-page": "291",
+          "volume-title": "The economics of artificial intelligence: an agenda",
+          "author": "Bessen",
+          "year": "2019"
+        },
+        {
+          "key": "2026050409111139900_ref004",
+          "unstructured": "Bogen, M., & Rieke, A. (2018). Help wanted: an examination of hiring algorithms, equity, and bias. Upturn. Retrieved from Link to the cited article."
+        },
+        {
+          "key": "2026050409111139900_ref005",
+          "volume-title": "Machine, platform, crowd: Harnessing our digital future",
+          "author": "Brynjolfsson",
+          "year": "2017"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref00600",
+          "doi-asserted-by": "publisher",
+          "first-page": "606",
+          "DOI": "10.1111/1748-8583.12524",
+          "article-title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+          "volume": "33",
+          "author": "Budhwar",
+          "year": "2023",
+          "journal-title": "Human Resource Management Journal"
+        },
+        {
+          "issue": "6334",
+          "key": "2026050409111139900_ref006",
+          "doi-asserted-by": "publisher",
+          "first-page": "183",
+          "DOI": "10.1126/science.aal4230",
+          "article-title": "Semantics derived automatically from language corpora contain human-like biases",
+          "volume": "356",
+          "author": "Caliskan",
+          "year": "2017",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref007",
+          "doi-asserted-by": "publisher",
+          "first-page": "621",
+          "DOI": "10.1017/iop.2016.14",
+          "article-title": "New talent signals: Shiny new objects or a brave new world?",
+          "volume": "9",
+          "author": "Chamorro-Premuzic",
+          "year": "2016",
+          "journal-title": "Industrial and Organizational Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref008",
+          "doi-asserted-by": "publisher",
+          "first-page": "304",
+          "DOI": "10.1016/j.hrmr.2009.04.001",
+          "article-title": "Strategic talent management: a review and research agenda",
+          "volume": "19",
+          "author": "Collings",
+          "year": "2009",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "2",
+          "key": "2026050409111139900_ref009",
+          "doi-asserted-by": "publisher",
+          "first-page": "540",
+          "DOI": "10.1177/0149206318757018",
+          "article-title": "Global talent management and performance in multinational enterprises: a multilevel perspective",
+          "volume": "45",
+          "author": "Collings",
+          "year": "2019",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref010",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.1037/0021-9010.86.3.425",
+          "article-title": "Justice at the millennium: a meta-analytic review of 25 years of organizational justice research",
+          "volume": "86",
+          "author": "Colquitt",
+          "year": "2001",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref011",
+          "doi-asserted-by": "publisher",
+          "first-page": "24",
+          "DOI": "10.1007/s11747-019-00696-0",
+          "article-title": "How artificial intelligence will change the future of marketing",
+          "volume": "48",
+          "author": "Davenport",
+          "year": "2020",
+          "journal-title": "Journal of the Academy of Marketing Science"
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref012",
+          "doi-asserted-by": "publisher",
+          "first-page": "31",
+          "DOI": "10.1108/ER-10-2015-0194",
+          "article-title": "Standing on the shoulders of giants? A critical review of empirical talent management research",
+          "volume": "38",
+          "author": "Gallardo-Gallardo",
+          "year": "2016",
+          "journal-title": "Employee Relations"
+        },
+        {
+          "issue": "5",
+          "key": "2026050409111139900_ref013",
+          "doi-asserted-by": "publisher",
+          "first-page": "1493",
+          "DOI": "10.5465/amj.2016.4005",
+          "article-title": "Big data and data science methods for management research",
+          "volume": "59",
+          "author": "George",
+          "year": "2016",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref014",
+          "doi-asserted-by": "publisher",
+          "first-page": "5",
+          "DOI": "10.1177/0008125619864925",
+          "article-title": "A brief history of artificial intelligence: On the past, present, and future of AI",
+          "volume": "61",
+          "author": "Haenlein",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref015",
+          "doi-asserted-by": "publisher",
+          "first-page": "273",
+          "DOI": "10.1108/JGM-02-2015-0002",
+          "article-title": "Global talent management: Introducing a strategic framework and multiple-actors model",
+          "volume": "3",
+          "author": "King",
+          "year": "2015",
+          "journal-title": "Journal of Global Mobility"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref01500",
+          "doi-asserted-by": "publisher",
+          "first-page": "371",
+          "DOI": "10.1111/ijsa.12191",
+          "article-title": "Examining digital interviews for personnel selection: Applicant reactions and interviewer ratings",
+          "volume": "25",
+          "author": "Langer",
+          "year": "2017",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref016",
+          "doi-asserted-by": "publisher",
+          "first-page": "611",
+          "DOI": "10.1007/s13347-017-0279-x",
+          "article-title": "Fair, transparent, and accountable algorithmic decision-making processes",
+          "volume": "31",
+          "author": "Lepri",
+          "year": "2018",
+          "journal-title": "Philosophy & Technology"
+        },
+        {
+          "issue": "2",
+          "key": "2026050409111139900_ref01700",
+          "doi-asserted-by": "publisher",
+          "first-page": "219",
+          "DOI": "10.1002/hrm.21719",
+          "article-title": "Employees as active consumers of HRM: Linking employees’ HRM competences with their perceptions of HRM service value",
+          "volume": "55",
+          "author": "Meijerink",
+          "year": "2016",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "key": "2026050409111139900_ref017",
+          "volume-title": "Qualitative data analysis: a methods sourcebook",
+          "author": "Miles",
+          "year": "2014",
+          "edition": "3rd."
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref018",
+          "doi-asserted-by": "publisher",
+          "first-page": "127",
+          "DOI": "10.5465/amr.2009.0318",
+          "article-title": "Emergence of the human capital resource: A multilevel model",
+          "volume": "36",
+          "author": "Ployhart",
+          "year": "2011",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref019",
+          "doi-asserted-by": "publisher",
+          "first-page": "192",
+          "DOI": "10.5465/amr.2018.0072",
+          "article-title": "Artificial intelligence and management: The automation–augmentation paradox",
+          "volume": "46",
+          "author": "Raisch",
+          "year": "2021",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "2026050409111139900_ref020",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4135/9781452231594",
+          "volume-title": "Psychological contracts in organizations: Understanding written and unwritten agreements",
+          "author": "Rousseau",
+          "year": "1995"
+        },
+        {
+          "key": "2026050409111139900_ref021",
+          "doi-asserted-by": "publisher",
+          "first-page": "333",
+          "DOI": "10.1016/j.jbusres.2019.07.039",
+          "article-title": "Literature review as a research methodology: An overview and guidelines",
+          "volume": "104",
+          "author": "Snyder",
+          "year": "2019",
+          "journal-title": "Journal of Business Research"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref022",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial intelligence in human resources management: Challenges and a path forward",
+          "volume": "61",
+          "author": "Tambe",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "2026050409111139900_ref023",
+          "unstructured": "Theodorsson, U.\n           (2024). Without talent, success may be latent: Talent management practices in commercial banks, Doctoral dissertation, University of Iceland, School of Social Sciences, Faculty of Business Administration). University of Iceland. Link to the cited article."
+        },
+        {
+          "issue": "1",
+          "key": "2026050409111139900_ref024",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.18261/beta.39.1.1",
+          "article-title": "The dual pressure of regulatory compliance and technological innovation in talent management: a study in the banking sector",
+          "volume": "39",
+          "author": "Theodorsson",
+          "year": "2025",
+          "journal-title": "Beta"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref025",
+          "doi-asserted-by": "publisher",
+          "first-page": "207",
+          "DOI": "10.1111/1467-8551.00375",
+          "article-title": "Towards a methodology for developing evidence-informed management knowledge by means of systematic review",
+          "volume": "14",
+          "author": "Tranfield",
+          "year": "2003",
+          "journal-title": "British Journal of Management"
+        },
+        {
+          "key": "2026050409111139900_ref026",
+          "doi-asserted-by": "publisher",
+          "first-page": "468",
+          "DOI": "10.1186/s12913-019-4068-3",
+          "article-title": "Human resource technology disruptions and their implications for HRM: Evidence from the UK’s national health service",
+          "volume": "19",
+          "author": "Tursunbayeva",
+          "year": "2019",
+          "journal-title": "BMC Health Services Research"
+        },
+        {
+          "issue": "2",
+          "key": "2026050409111139900_ref027",
+          "doi-asserted-by": "publisher",
+          "first-page": "109",
+          "DOI": "10.1016/j.jwb.2009.09.001",
+          "article-title": "Exploring talent management in India: the neglected role of intrinsic rewards",
+          "volume": "45",
+          "author": "Tymon",
+          "year": "2010",
+          "journal-title": "Journal of World Business"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref028",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.2307/30036540",
+          "article-title": "User acceptance of information technology: toward a unified view",
+          "volume": "27",
+          "author": "Venkatesh",
+          "year": "2003",
+          "journal-title": "MIS Quarterly"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref029",
+          "doi-asserted-by": "publisher",
+          "first-page": "404",
+          "DOI": "10.5465/amd.2018.0084",
+          "article-title": "Artificial intelligence in organizations: New opportunities for phenomenon-based theorizing",
+          "volume": "4",
+          "author": "von Krogh",
+          "year": "2018",
+          "journal-title": "Academy of Management Discoveries"
+        },
+        {
+          "issue": "4",
+          "key": "2026050409111139900_ref030",
+          "doi-asserted-by": "publisher",
+          "first-page": "577",
+          "DOI": "10.1016/j.bushor.2018.03.007",
+          "article-title": "Artificial intelligence and the future of work: Human–AI symbiosis in organizational decision making",
+          "volume": "61",
+          "author": "Jarrahi",
+          "year": "2018",
+          "journal-title": "Business Horizons"
+        },
+        {
+          "issue": "3",
+          "key": "2026050409111139900_ref031",
+          "doi-asserted-by": "publisher",
+          "first-page": "261",
+          "DOI": "10.1111/ijsa.12475",
+          "article-title": "Video questions in asynchronous video interviews and their effects on applicant reactions",
+          "volume": "32",
+          "author": "Niemitz",
+          "year": "2024",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "2026050409111139900_ref032",
+          "doi-asserted-by": "publisher",
+          "first-page": "122867",
+          "DOI": "10.1016/j.techfore.2024.122867",
+          "article-title": "Revealing the influence of AI and its interfaces on job applicants’ impression management",
+          "volume": "205",
+          "author": "Suen",
+          "year": "2024",
+          "journal-title": "Technological Forecasting and Social Change"
+        }
+      ],
+      "container-title": [
+        "Organization Management Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.emerald.com/omj/article-pdf/23/2/183/11246451/omj-09-2025-2716en.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://www.emerald.com/omj/article-pdf/23/2/183/11246451/omj-09-2025-2716en.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T13:11:20Z",
+        "timestamp": 1777900280000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.emerald.com/omj/article/23/2/183/1342688/Augmentative-or-autonomous-Reframing-artificial"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            23
+          ]
+        ]
+      },
+      "references-count": 35,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1108/omj-09-2025-2716",
+      "relation": {},
+      "ISSN": [
+        "2753-8567",
+        "1541-6518"
+      ],
+      "issn-type": [
+        {
+          "value": "2753-8567",
+          "type": "print"
+        },
+        {
+          "value": "1541-6518",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            2,
+            23
+          ]
+        ]
+      }
+    }
+  }
+}

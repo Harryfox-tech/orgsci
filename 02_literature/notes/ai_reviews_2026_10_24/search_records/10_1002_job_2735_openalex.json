@@ -1,0 +1,1422 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735",
+    "checked_at": "2026-10-24T02:10:14.072400Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4385484319",
+    "doi": "https://doi.org/10.1002/job.2735",
+    "title": "A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice",
+    "display_name": "A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice",
+    "publication_year": 2023,
+    "publication_date": "2023-08-02",
+    "ids": {
+      "openalex": "https://openalex.org/W4385484319",
+      "doi": "https://doi.org/10.1002/job.2735"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1002/job.2735",
+      "doi": "https://doi.org/10.1002/job.2735",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/job.2735",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.2735",
+      "source": {
+        "id": "https://openalex.org/S160573970",
+        "display_name": "Journal of Organizational Behavior",
+        "issn_l": "0894-3796",
+        "issn": [
+          "0894-3796",
+          "1099-1379"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-b",
+          "erih-plus",
+          "fnege-1",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Organizational Behavior",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.2735",
+      "any_repository_has_fulltext": false
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5009459648",
+          "display_name": "Sarah Bankins",
+          "orcid": "https://orcid.org/0000-0003-2290-3086",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2290-3086"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I99043593",
+            "display_name": "Macquarie University",
+            "ror": "https://ror.org/01sf06y89",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99043593"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Sarah Bankins",
+        "raw_affiliation_strings": [
+          "Department of Management, Macquarie Business School Macquarie University  Sydney New South Wales Australia",
+          "Department of Management, Macquarie Business School, Macquarie University, Sydney, New South Wales, Australia"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2290-3086",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Management, Macquarie Business School Macquarie University  Sydney New South Wales Australia",
+            "institution_ids": [
+              "https://openalex.org/I99043593"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Management, Macquarie Business School, Macquarie University, Sydney, New South Wales, Australia",
+            "institution_ids": [
+              "https://openalex.org/I99043593"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063809924",
+          "display_name": "Anna Carmella Ocampo",
+          "orcid": "https://orcid.org/0000-0001-9380-227X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9380-227X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4387155155",
+            "display_name": "Esade",
+            "ror": "https://ror.org/02d9gec76",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4387155155",
+              "https://openalex.org/I5593406"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I5593406",
+            "display_name": "Universitat Ramon Llull",
+            "ror": "https://ror.org/04p9k2z50",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I5593406"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Anna Carmella Ocampo",
+        "raw_affiliation_strings": [
+          "Department of People Management and Organisation, ESADE Business School Universitat Ramon Llull  Barcelona Spain",
+          "Department of People Management and Organisation, ESADE Business School, Universitat Ramon Llull, Barcelona, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of People Management and Organisation, ESADE Business School Universitat Ramon Llull  Barcelona Spain",
+            "institution_ids": [
+              "https://openalex.org/I4387155155",
+              "https://openalex.org/I5593406"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of People Management and Organisation, ESADE Business School, Universitat Ramon Llull, Barcelona, Spain",
+            "institution_ids": [
+              "https://openalex.org/I4387155155",
+              "https://openalex.org/I5593406"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5011035488",
+          "display_name": "Mauricio Marrone",
+          "orcid": "https://orcid.org/0000-0003-3896-6049",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3896-6049"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I99043593",
+            "display_name": "Macquarie University",
+            "ror": "https://ror.org/01sf06y89",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I99043593"
+            ]
+          }
+        ],
+        "countries": [
+          "AU"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Mauricio Marrone",
+        "raw_affiliation_strings": [
+          "Department of Actuarial Studies and Business Analytics, Macquarie Business School Macquarie University  Sydney New South Wales Australia",
+          "Department of Actuarial Studies and Business Analytics, Macquarie Business School, Macquarie University, Sydney, New South Wales, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Actuarial Studies and Business Analytics, Macquarie Business School Macquarie University  Sydney New South Wales Australia",
+            "institution_ids": [
+              "https://openalex.org/I99043593"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Actuarial Studies and Business Analytics, Macquarie Business School, Macquarie University, Sydney, New South Wales, Australia",
+            "institution_ids": [
+              "https://openalex.org/I99043593"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5015663807",
+          "display_name": "Simon Lloyd D. Restubog",
+          "orcid": "https://orcid.org/0000-0003-1602-2530",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1602-2530"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I157725225",
+            "display_name": "University of Illinois Urbana-Champaign",
+            "ror": "https://ror.org/047426m28",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I157725225"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I165143802",
+            "display_name": "The University of Queensland",
+            "ror": "https://ror.org/00rqy9422",
+            "country_code": "AU",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I165143802"
+            ]
+          }
+        ],
+        "countries": [
+          "AU",
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Simon Lloyd D. Restubog",
+        "raw_affiliation_strings": [
+          "School of Labor and Employment Relations University of Illinois at Urbana‐Champaign  Champaign Illinois USA",
+          "UQ Business School The University of Queensland  Brisbane Queensland Australia",
+          "School of Labor and Employment Relations, University of Illinois at Urbana-Champaign, Champaign, Illinois, USA",
+          "UQ Business School, The University of Queensland, Brisbane, Queensland, Australia"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Labor and Employment Relations University of Illinois at Urbana‐Champaign  Champaign Illinois USA",
+            "institution_ids": [
+              "https://openalex.org/I157725225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "UQ Business School The University of Queensland  Brisbane Queensland Australia",
+            "institution_ids": [
+              "https://openalex.org/I165143802"
+            ]
+          },
+          {
+            "raw_affiliation_string": "School of Labor and Employment Relations, University of Illinois at Urbana-Champaign, Champaign, Illinois, USA",
+            "institution_ids": [
+              "https://openalex.org/I157725225"
+            ]
+          },
+          {
+            "raw_affiliation_string": "UQ Business School, The University of Queensland, Brisbane, Queensland, Australia",
+            "institution_ids": [
+              "https://openalex.org/I165143802"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5065878227",
+          "display_name": "Sang Eun Woo",
+          "orcid": "https://orcid.org/0000-0002-3232-5913",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3232-5913"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I219193219",
+            "display_name": "Purdue University West Lafayette",
+            "ror": "https://ror.org/02dqehb95",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I219193219"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Sang Eun Woo",
+        "raw_affiliation_strings": [
+          "Department of Psychological Sciences Purdue University  West Lafayette Indiana USA",
+          "Department of Psychological Sciences, Purdue University, West Lafayette, Indiana, USA"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Psychological Sciences Purdue University  West Lafayette Indiana USA",
+            "institution_ids": [
+              "https://openalex.org/I219193219"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Department of Psychological Sciences, Purdue University, West Lafayette, Indiana, USA",
+            "institution_ids": [
+              "https://openalex.org/I219193219"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 3,
+    "institutions_distinct_count": 6,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5009459648"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I99043593"
+    ],
+    "apc_list": {
+      "value": 3860,
+      "currency": "USD",
+      "value_usd": 3860
+    },
+    "apc_paid": {
+      "value": 3860,
+      "currency": "USD",
+      "value_usd": 3860
+    },
+    "fwci": 225.8232,
+    "has_fulltext": true,
+    "cited_by_count": 790,
+    "citation_normalized_percentile": {
+      "value": 0.99997543,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 88,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "45",
+      "issue": "2",
+      "first_page": "159",
+      "last_page": "182"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 0.7734000086784363,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.7734000086784363,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.12700000405311584,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12501",
+        "display_name": "Digital Economy and Work Transformation",
+        "score": 0.01640000008046627,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3312",
+          "display_name": "Sociology and Political Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence-in-organizations",
+        "display_name": "artificial intelligence in organizations",
+        "score": 0.9259999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/generative-ai",
+        "display_name": "generative AI",
+        "score": 0.9179999828338623
+      },
+      {
+        "id": "https://openalex.org/keywords/human-ai-collaboration",
+        "display_name": "human-AI collaboration",
+        "score": 0.9430000185966492
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-management",
+        "display_name": "algorithmic management",
+        "score": 0.9850000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/platform-work",
+        "display_name": "platform work",
+        "score": 0.8830000162124634
+      },
+      {
+        "id": "https://openalex.org/keywords/job-design",
+        "display_name": "job design",
+        "score": 0.6759999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-well-being",
+        "display_name": "employee well-being",
+        "score": 0.8019999861717224
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2777146004",
+        "wikidata": "https://www.wikidata.org/wiki/Q14949826",
+        "display_name": "CLARITY",
+        "level": 2,
+        "score": 0.6562724113464355
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.5743052363395691
+      },
+      {
+        "id": "https://openalex.org/C39890363",
+        "wikidata": "https://www.wikidata.org/wiki/Q36108",
+        "display_name": "Generative grammar",
+        "level": 2,
+        "score": 0.5191018581390381
+      },
+      {
+        "id": "https://openalex.org/C2777363581",
+        "wikidata": "https://www.wikidata.org/wiki/Q15098235",
+        "display_name": "Harm",
+        "level": 2,
+        "score": 0.49769094586372375
+      },
+      {
+        "id": "https://openalex.org/C26760741",
+        "wikidata": "https://www.wikidata.org/wiki/Q160402",
+        "display_name": "Perception",
+        "level": 2,
+        "score": 0.4350239932537079
+      },
+      {
+        "id": "https://openalex.org/C169735623",
+        "wikidata": "https://www.wikidata.org/wiki/Q1430172",
+        "display_name": "Organizational learning",
+        "level": 2,
+        "score": 0.4265557825565338
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.421942800283432
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.3401038944721222
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3264087736606598
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.2903098165988922
+      },
+      {
+        "id": "https://openalex.org/C77805123",
+        "wikidata": "https://www.wikidata.org/wiki/Q161272",
+        "display_name": "Social psychology",
+        "level": 1,
+        "score": 0.22096535563468933
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.15078496932983398
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C169760540",
+        "wikidata": "https://www.wikidata.org/wiki/Q207011",
+        "display_name": "Neuroscience",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C185592680",
+        "wikidata": "https://www.wikidata.org/wiki/Q2329",
+        "display_name": "Chemistry",
+        "level": 0,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 1,
+    "locations": [
+      {
+        "id": "doi:10.1002/job.2735",
+        "doi": "https://doi.org/10.1002/job.2735",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/job.2735",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.2735",
+        "source": {
+          "id": "https://openalex.org/S160573970",
+          "display_name": "Journal of Organizational Behavior",
+          "issn_l": "0894-3796",
+          "issn": [
+            "0894-3796",
+            "1099-1379"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a-star",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "erih-plus",
+            "fnege-1",
+            "jufo-3",
+            "ki-jl-1",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Organizational Behavior",
+        "raw_type": "journal-article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1002/job.2735",
+      "doi": "https://doi.org/10.1002/job.2735",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/job.2735",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.2735",
+      "source": {
+        "id": "https://openalex.org/S160573970",
+        "display_name": "Journal of Organizational Behavior",
+        "issn_l": "0894-3796",
+        "issn": [
+          "0894-3796",
+          "1099-1379"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a-star",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "dongbi-b",
+          "erih-plus",
+          "fnege-1",
+          "jufo-3",
+          "ki-jl-1",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Organizational Behavior",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "display_name": "Decent work and economic growth",
+        "score": 0.5263000130653381,
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "display_name": "Decent work and economic growth",
+        "score": 0.7400000095367432,
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "study_designs": [
+      {
+        "display_name": "Systematic Review",
+        "id": "https://openalex.org/study-designs/systematic-review"
+      }
+    ],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320320591",
+        "display_name": "Macquarie University",
+        "ror": "https://ror.org/01sf06y89"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4385484319.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4385484319.grobid-xml"
+    },
+    "referenced_works_count": 142,
+    "referenced_works": [
+      "https://openalex.org/W1499740877",
+      "https://openalex.org/W1601261096",
+      "https://openalex.org/W1631150390",
+      "https://openalex.org/W1944858272",
+      "https://openalex.org/W1976897721",
+      "https://openalex.org/W1977509711",
+      "https://openalex.org/W1993023795",
+      "https://openalex.org/W2007445014",
+      "https://openalex.org/W2011041217",
+      "https://openalex.org/W2046295972",
+      "https://openalex.org/W2079184392",
+      "https://openalex.org/W2125654285",
+      "https://openalex.org/W2127089424",
+      "https://openalex.org/W2127625785",
+      "https://openalex.org/W2132705140",
+      "https://openalex.org/W2146272101",
+      "https://openalex.org/W2159012497",
+      "https://openalex.org/W2164284962",
+      "https://openalex.org/W2340586376",
+      "https://openalex.org/W2412100418",
+      "https://openalex.org/W2473137168",
+      "https://openalex.org/W2480853801",
+      "https://openalex.org/W2514662255",
+      "https://openalex.org/W2526781987",
+      "https://openalex.org/W2528297165",
+      "https://openalex.org/W2580712957",
+      "https://openalex.org/W2594043246",
+      "https://openalex.org/W2625774310",
+      "https://openalex.org/W2753975405",
+      "https://openalex.org/W2785018824",
+      "https://openalex.org/W2788481061",
+      "https://openalex.org/W2792183666",
+      "https://openalex.org/W2796755741",
+      "https://openalex.org/W2800068874",
+      "https://openalex.org/W2885871847",
+      "https://openalex.org/W2887734062",
+      "https://openalex.org/W2893231663",
+      "https://openalex.org/W2896078941",
+      "https://openalex.org/W2904875980",
+      "https://openalex.org/W2905287456",
+      "https://openalex.org/W2906095734",
+      "https://openalex.org/W2907563069",
+      "https://openalex.org/W2925236077",
+      "https://openalex.org/W2950920612",
+      "https://openalex.org/W2952912936",
+      "https://openalex.org/W2961130995",
+      "https://openalex.org/W2963432517",
+      "https://openalex.org/W2970957776",
+      "https://openalex.org/W2971676549",
+      "https://openalex.org/W2990520658",
+      "https://openalex.org/W2992692326",
+      "https://openalex.org/W2998691503",
+      "https://openalex.org/W3007010853",
+      "https://openalex.org/W3007638655",
+      "https://openalex.org/W3012525799",
+      "https://openalex.org/W3015596784",
+      "https://openalex.org/W3027433103",
+      "https://openalex.org/W3036668652",
+      "https://openalex.org/W3039055470",
+      "https://openalex.org/W3042318686",
+      "https://openalex.org/W3045607964",
+      "https://openalex.org/W3081258743",
+      "https://openalex.org/W3082949313",
+      "https://openalex.org/W3083647827",
+      "https://openalex.org/W3092728304",
+      "https://openalex.org/W3093359890",
+      "https://openalex.org/W3108545268",
+      "https://openalex.org/W3109155851",
+      "https://openalex.org/W3111870313",
+      "https://openalex.org/W3112852183",
+      "https://openalex.org/W3113060706",
+      "https://openalex.org/W3122025966",
+      "https://openalex.org/W3122530678",
+      "https://openalex.org/W3123560004",
+      "https://openalex.org/W3125633690",
+      "https://openalex.org/W3126041111",
+      "https://openalex.org/W3127668847",
+      "https://openalex.org/W3128394414",
+      "https://openalex.org/W3131944092",
+      "https://openalex.org/W3137169772",
+      "https://openalex.org/W3152339997",
+      "https://openalex.org/W3154262560",
+      "https://openalex.org/W3156745125",
+      "https://openalex.org/W3157131463",
+      "https://openalex.org/W3158487060",
+      "https://openalex.org/W3159915763",
+      "https://openalex.org/W3163582547",
+      "https://openalex.org/W3165282860",
+      "https://openalex.org/W3167048034",
+      "https://openalex.org/W3167714685",
+      "https://openalex.org/W3173882469",
+      "https://openalex.org/W3181262202",
+      "https://openalex.org/W3181487680",
+      "https://openalex.org/W3181802582",
+      "https://openalex.org/W3181920479",
+      "https://openalex.org/W3182427878",
+      "https://openalex.org/W3185426191",
+      "https://openalex.org/W3186720736",
+      "https://openalex.org/W3191198378",
+      "https://openalex.org/W3192526842",
+      "https://openalex.org/W3196208497",
+      "https://openalex.org/W3197636361",
+      "https://openalex.org/W3199306538",
+      "https://openalex.org/W3199459862",
+      "https://openalex.org/W3199729143",
+      "https://openalex.org/W3200351947",
+      "https://openalex.org/W3201434986",
+      "https://openalex.org/W3210153492",
+      "https://openalex.org/W3215242739",
+      "https://openalex.org/W3216138140",
+      "https://openalex.org/W4200174324",
+      "https://openalex.org/W4200295417",
+      "https://openalex.org/W4200429321",
+      "https://openalex.org/W4200600917",
+      "https://openalex.org/W4205196691",
+      "https://openalex.org/W4205261245",
+      "https://openalex.org/W4205291982",
+      "https://openalex.org/W4205440698",
+      "https://openalex.org/W4205446919",
+      "https://openalex.org/W4210465889",
+      "https://openalex.org/W4210615033",
+      "https://openalex.org/W4210708600",
+      "https://openalex.org/W4213436847",
+      "https://openalex.org/W4214525260",
+      "https://openalex.org/W4223898970",
+      "https://openalex.org/W4224990248",
+      "https://openalex.org/W4225120170",
+      "https://openalex.org/W4225163053",
+      "https://openalex.org/W4226501468",
+      "https://openalex.org/W4230735532",
+      "https://openalex.org/W4236118400",
+      "https://openalex.org/W4246202615",
+      "https://openalex.org/W4281738502",
+      "https://openalex.org/W4283265754",
+      "https://openalex.org/W4283831750",
+      "https://openalex.org/W4285809822",
+      "https://openalex.org/W4297439706",
+      "https://openalex.org/W4320040080",
+      "https://openalex.org/W4324374900",
+      "https://openalex.org/W4360612215",
+      "https://openalex.org/W4366817968",
+      "https://openalex.org/W4379387294"
+    ],
+    "related_works": [
+      "https://openalex.org/W2086338133",
+      "https://openalex.org/W4367679314",
+      "https://openalex.org/W225526533",
+      "https://openalex.org/W2078361494",
+      "https://openalex.org/W2009234990",
+      "https://openalex.org/W4244083766",
+      "https://openalex.org/W2091016074",
+      "https://openalex.org/W2023583523",
+      "https://openalex.org/W2134615400",
+      "https://openalex.org/W26869551"
+    ],
+    "abstract_inverted_index": {
+      "Summary": [
+        0
+      ],
+      "The": [
+        1
+      ],
+      "rising": [
+        2
+      ],
+      "use": [
+        3,
+        45,
+        99
+      ],
+      "of": [
+        4,
+        52,
+        88,
+        97,
+        136,
+        155,
+        163
+      ],
+      "artificially": [
+        5
+      ],
+      "intelligent": [
+        6
+      ],
+      "(AI)": [
+        7
+      ],
+      "technologies,": [
+        8
+      ],
+      "including": [
+        9
+      ],
+      "generative": [
+        10
+      ],
+      "AI": [
+        11,
+        44,
+        98,
+        147,
+        164,
+        191
+      ],
+      "tools,": [
+        12
+      ],
+      "in": [
+        13,
+        46,
+        152
+      ],
+      "organizations": [
+        14
+      ],
+      "is": [
+        15,
+        37
+      ],
+      "undeniable.": [
+        16
+      ],
+      "As": [
+        17
+      ],
+      "these": [
+        18,
+        171
+      ],
+      "systems": [
+        19
+      ],
+      "become": [
+        20
+      ],
+      "increasingly": [
+        21
+      ],
+      "integrated": [
+        22
+      ],
+      "into": [
+        23,
+        170
+      ],
+      "organizational": [
+        24,
+        117,
+        186
+      ],
+      "practices": [
+        25
+      ],
+      "and": [
+        26,
+        34,
+        61,
+        116,
+        125,
+        138,
+        158,
+        173
+      ],
+      "processes,": [
+        27
+      ],
+      "understanding": [
+        28
+      ],
+      "their": [
+        29,
+        195
+      ],
+      "impact": [
+        30
+      ],
+      "on": [
+        31,
+        78,
+        94
+      ],
+      "workers'": [
+        32
+      ],
+      "experiences": [
+        33
+      ],
+      "job": [
+        35
+      ],
+      "designs": [
+        36
+      ],
+      "critical.": [
+        38
+      ],
+      "However,": [
+        39
+      ],
+      "the": [
+        40,
+        47,
+        53,
+        68,
+        95,
+        121,
+        128
+      ],
+      "ongoing": [
+        41
+      ],
+      "discourse": [
+        42
+      ],
+      "surrounding": [
+        43
+      ],
+      "workplace": [
+        48
+      ],
+      "remains": [
+        49
+      ],
+      "divided.": [
+        50
+      ],
+      "Proponents": [
+        51
+      ],
+      "technology": [
+        54
+      ],
+      "extol": [
+        55
+      ],
+      "its": [
+        56
+      ],
+      "benefits": [
+        57
+      ],
+      "for": [
+        58,
+        177,
+        185
+      ],
+      "enhancing": [
+        59
+      ],
+      "efficiency": [
+        60
+      ],
+      "productivity,": [
+        62
+      ],
+      "while": [
+        63,
+        193
+      ],
+      "others": [
+        64
+      ],
+      "voice": [
+        65
+      ],
+      "concerns": [
+        66
+      ],
+      "about": [
+        67
+      ],
+      "potential": [
+        69
+      ],
+      "harm": [
+        70
+      ],
+      "to": [
+        71,
+        189
+      ],
+      "human": [
+        72,
+        139
+      ],
+      "workers.": [
+        73
+      ],
+      "To": [
+        74
+      ],
+      "provide": [
+        75,
+        182
+      ],
+      "greater": [
+        76
+      ],
+      "clarity": [
+        77
+      ],
+      "this": [
+        79,
+        82
+      ],
+      "pressing": [
+        80
+      ],
+      "issue,": [
+        81
+      ],
+      "article": [
+        83
+      ],
+      "presents": [
+        84
+      ],
+      "a": [
+        85,
+        109,
+        149
+      ],
+      "systematic": [
+        86
+      ],
+      "review": [
+        87,
+        167
+      ],
+      "empirical": [
+        89
+      ],
+      "research": [
+        90
+      ],
+      "that": [
+        91,
+        119
+      ],
+      "sheds": [
+        92
+      ],
+      "light": [
+        93
+      ],
+      "implications": [
+        96,
+        162
+      ],
+      "at": [
+        100
+      ],
+      "work.": [
+        101
+      ],
+      "Organized": [
+        102
+      ],
+      "under": [
+        103
+      ],
+      "five": [
+        104,
+        175
+      ],
+      "inductively": [
+        105
+      ],
+      "generated": [
+        106
+      ],
+      "themes": [
+        107,
+        129,
+        172
+      ],
+      "within": [
+        108
+      ],
+      "multilevel": [
+        110
+      ],
+      "framework,": [
+        111
+      ],
+      "we": [
+        112,
+        181
+      ],
+      "uncover": [
+        113
+      ],
+      "individual,": [
+        114
+      ],
+      "group,": [
+        115
+      ],
+      "factors": [
+        118
+      ],
+      "shape": [
+        120
+      ],
+      "interplay": [
+        122
+      ],
+      "between": [
+        123
+      ],
+      "humans": [
+        124
+      ],
+      "AI.": [
+        126
+      ],
+      "Specifically,": [
+        127
+      ],
+      "are:": [
+        130
+      ],
+      "(1)": [
+        131
+      ],
+      "human–AI": [
+        132
+      ],
+      "collaboration;": [
+        133
+      ],
+      "(2)": [
+        134
+      ],
+      "perceptions": [
+        135
+      ],
+      "algorithmic": [
+        137,
+        153
+      ],
+      "capabilities;": [
+        140
+      ],
+      "(3)": [
+        141
+      ],
+      "worker": [
+        142
+      ],
+      "attitudes": [
+        143
+      ],
+      "towards": [
+        144
+      ],
+      "AI;": [
+        145
+      ],
+      "(4)": [
+        146
+      ],
+      "as": [
+        148
+      ],
+      "control": [
+        150
+      ],
+      "mechanism": [
+        151
+      ],
+      "management": [
+        154
+      ],
+      "platform‐based": [
+        156
+      ],
+      "work;": [
+        157
+      ],
+      "(5)": [
+        159
+      ],
+      "labor": [
+        160
+      ],
+      "market": [
+        161
+      ],
+      "use.": [
+        165
+      ],
+      "Our": [
+        166
+      ],
+      "offers": [
+        168
+      ],
+      "insights": [
+        169
+      ],
+      "identifies": [
+        174
+      ],
+      "pathways": [
+        176
+      ],
+      "future": [
+        178
+      ],
+      "research.": [
+        179
+      ],
+      "Finally,": [
+        180
+      ],
+      "practical": [
+        183
+      ],
+      "recommendations": [
+        184
+      ],
+      "leaders": [
+        187
+      ],
+      "seeking": [
+        188
+      ],
+      "implement": [
+        190
+      ],
+      "technologies": [
+        192
+      ],
+      "prioritizing": [
+        194
+      ],
+      "employees'": [
+        196
+      ],
+      "well‐being.": [
+        197
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 404
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 268
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 109
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2020,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-22T18:32:59.640997",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

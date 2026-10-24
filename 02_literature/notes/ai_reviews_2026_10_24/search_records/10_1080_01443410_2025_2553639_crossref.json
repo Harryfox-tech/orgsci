@@ -1,0 +1,841 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+    "checked_at": "2026-10-24T02:10:21.907607Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T00:39:13Z",
+        "timestamp": 1791506353039,
+        "version": "4.3.4"
+      },
+      "reference-count": 83,
+      "publisher": "Informa UK Limited",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2025-09-24T00:00:00Z",
+            "timestamp": 1758672000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2025-09-24T00:00:00Z",
+            "timestamp": 1758672000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.1080/policies-text-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Educational Psychology"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1080/01443410.2025.2553639",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            24
+          ]
+        ],
+        "date-time": "2025-09-24T16:44:06Z",
+        "timestamp": 1758732246000
+      },
+      "page": "80-111",
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 31,
+      "title": [
+        "How does artificial intelligence compare to human feedback? A meta-analysis of performance, feedback perception, and learning dispositions"
+      ],
+      "prefix": "10.1080",
+      "volume": "46",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6528-8517",
+          "authenticated-orcid": false,
+          "given": "Rogers",
+          "family": "Kaliisa",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Education, University of Oslo",
+              "place": [
+                "Oslo, Norway"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0761-8703",
+          "authenticated-orcid": false,
+          "given": "Kamila",
+          "family": "Misiejuk",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Centre for the Science of Learning & Technology (SLATE), University of Bergen",
+              "place": [
+                "Bergen, Norway"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9621-1392",
+          "authenticated-orcid": false,
+          "given": "Sonsoles",
+          "family": "López-Pernas",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing, University of Eastern Finland",
+              "place": [
+                "Joensuu, Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5881-3109",
+          "authenticated-orcid": false,
+          "given": "Mohammed",
+          "family": "Saqr",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computing, University of Eastern Finland",
+              "place": [
+                "Joensuu, Finland"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_3_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3991/ijet.v18i04.36349"
+        },
+        {
+          "key": "e_1_3_3_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/21582440221123021"
+        },
+        {
+          "key": "e_1_3_3_4_1",
+          "unstructured": "Azevedo R. & Bernard R. M. (1995). The effects of computer-presented feedback on learning from computer-based instruction: A meta-analysis."
+        },
+        {
+          "key": "e_1_3_3_5_1",
+          "volume-title": "CRADLE suggests… assessment and genAI",
+          "author": "Bearman M.",
+          "year": "2023",
+          "unstructured": "Bearman, M., Ajjawi, R., Boud, D., Tai, J., & Dawson, P. (2023). CRADLE suggests… assessment and genAI. Deakin University, Centre for Research in Assessment and Digital Learning."
+        },
+        {
+          "key": "e_1_3_3_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2533446"
+        },
+        {
+          "key": "e_1_3_3_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3102/00346543065003245"
+        },
+        {
+          "key": "e_1_3_3_8_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1145/3459043.3459065",
+          "volume-title": "Proceedings of the 2021 2nd International Conference on Education Development and Studies",
+          "author": "Chang T. S.",
+          "year": "2021",
+          "unstructured": "Chang, T. S., Li, Y., Huang, H. W., & Whitfield, B. (2021, March). Exploring EFL students’ writing performance and their acceptance of AI-based automated writing feedback. In Proceedings of the 2021 2nd International Conference on Education Development and Studies (pp. 31–35). https://doi.org/10.1145/3459043.3459065"
+        },
+        {
+          "key": "e_1_3_3_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40862-022-00171-4"
+        },
+        {
+          "key": "e_1_3_3_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2019.1655769"
+        },
+        {
+          "key": "e_1_3_3_11_1",
+          "first-page": "270",
+          "volume-title": "Proceedings of the IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)",
+          "author": "Cheng G.",
+          "year": "2017",
+          "unstructured": "Cheng, G., Law, E., & Wong, T.-L. (2017). Investigating effects of automated feedback on EFL students’ critical thinking skills. In Proceedings of the IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE) (pp. 270–276). IEEE. https://doi.org/10.1109/TALE.2016.7851798"
+        },
+        {
+          "key": "e_1_3_3_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2022.2100426"
+        },
+        {
+          "key": "e_1_3_3_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/cap0000096"
+        },
+        {
+          "key": "e_1_3_3_14_1",
+          "first-page": "215",
+          "volume-title": "Proceedings of the ACM Conference on Learning@Scale",
+          "author": "Darvishi A.",
+          "year": "2022",
+          "unstructured": "Darvishi, A., Khosravi, H., Abdi, S., Kitto, K., & Gašević, D. (2022). Incorporating training, self-monitoring and AI-based feedback to improve students’ academic writing. In Proceedings of the ACM Conference on Learning@Scale (pp. 215–225). ACM. https://doi.org/10.1145/3491140.3528265"
+        },
+        {
+          "key": "e_1_3_3_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compedu.2023.104967"
+        },
+        {
+          "key": "e_1_3_3_16_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Devlin J. Chang M. W. Lee K. & Toutanova K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv Preprint arXiv:1810.04805.",
+          "DOI": "10.18653/v1/N19-1423"
+        },
+        {
+          "key": "e_1_3_3_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639-023-12402-3"
+        },
+        {
+          "key": "e_1_3_3_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.0006-341x.2000.00455.x"
+        },
+        {
+          "key": "e_1_3_3_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/07380569.2022.2150067"
+        },
+        {
+          "key": "e_1_3_3_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s41239-023-00425-2"
+        },
+        {
+          "key": "e_1_3_3_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/21582440231181296"
+        },
+        {
+          "key": "e_1_3_3_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/frai.2023.116245"
+        },
+        {
+          "key": "e_1_3_3_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/app11125467"
+        },
+        {
+          "key": "e_1_3_3_24_1",
+          "unstructured": "Green S. & Higgins J. P. T. (2011). Cochrane handbook for systematic reviews of interventions."
+        },
+        {
+          "key": "e_1_3_3_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639-023-12146-0"
+        },
+        {
+          "key": "e_1_3_3_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/02602938.2014.893418"
+        },
+        {
+          "key": "e_1_3_3_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11301-021-00247-4"
+        },
+        {
+          "key": "e_1_3_3_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/jcal.12587"
+        },
+        {
+          "key": "e_1_3_3_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3102/003465430298487"
+        },
+        {
+          "key": "e_1_3_3_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jrsm.5"
+        },
+        {
+          "key": "e_1_3_3_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/sim.1186"
+        },
+        {
+          "key": "e_1_3_3_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2022.2160467"
+        },
+        {
+          "key": "e_1_3_3_33_1",
+          "first-page": "52",
+          "volume-title": "Proceedings of the International Conference on Educational Innovation through Technology (EITT)",
+          "author": "Huang L.",
+          "year": "2020",
+          "unstructured": "Huang, L. (2020). From feedback to revision: How can collaborative peer feedback activities improve students’ writing? In Proceedings of the International Conference on Educational Innovation through Technology (EITT) (pp. 52–56). IEEE. https://doi.org/10.1109/EITT53287.2021.00052"
+        },
+        {
+          "key": "e_1_3_3_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18608/jla.2021.7184"
+        },
+        {
+          "key": "e_1_3_3_35_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1145/3706468.3706545",
+          "volume-title": "Proceedings of the 15th International Learning Analytics and Knowledge Conference",
+          "author": "Jin Y.",
+          "year": "2025",
+          "unstructured": "Jin, Y., Yang, K., Yan, L., Echeverria, V., Zhao, L., Alfredo, R., & Martinez-Maldonado, R. (2025, March). Chatting with a learning analytics dashboard: The role of generative AI literacy on learner interaction with conventional and scaffolding chatbots. In Proceedings of the 15th International Learning Analytics and Knowledge Conference (pp. 579–590)."
+        },
+        {
+          "key": "e_1_3_3_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/1941126X.2018.1444339"
+        },
+        {
+          "key": "e_1_3_3_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.lindif.2023.102274"
+        },
+        {
+          "key": "e_1_3_3_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0033-2909.119.2.254"
+        },
+        {
+          "key": "e_1_3_3_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17239/jowr-2020.12.01.06"
+        },
+        {
+          "key": "e_1_3_3_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1467-8535.2009.00959.x"
+        },
+        {
+          "key": "e_1_3_3_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jslw.2014.10.004"
+        },
+        {
+          "key": "e_1_3_3_42_1",
+          "first-page": "28",
+          "volume-title": "2020 International Conference on Artificial Intelligence and Education (ICAIE)",
+          "author": "Lin J.",
+          "year": "2020",
+          "unstructured": "Lin, J., Song, J., & Sun, L. (2020, June). The application of artificial intelligence video feedback system in tennis teaching in colleges and universities. In 2020 International Conference on Artificial Intelligence and Education (ICAIE) (pp. 28–31). IEEE. https://doi.org/10.1109/ICAIE50891.2020.00014"
+        },
+        {
+          "key": "e_1_3_3_43_1",
+          "first-page": "1",
+          "volume-title": "2022 IEEE 2nd International Conference on Mobile Networks and Wireless Communications (ICMNWC)",
+          "author": "Liu L.",
+          "year": "2022",
+          "unstructured": "Liu, L. (2022, December). Application of automated writing evaluation (AWE) system based on intelligent technology. In 2022 IEEE 2nd International Conference on Mobile Networks and Wireless Communications (ICMNWC) (pp. 1–5). IEEE. https://doi.org/10.1109/ICMNWC56175.2022.10031924"
+        },
+        {
+          "key": "e_1_3_3_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TLT.2016.2612659"
+        },
+        {
+          "key": "e_1_3_3_45_1",
+          "first-page": "25",
+          "volume-title": "Lecture Notes in Computer Science",
+          "volume": "12063",
+          "author": "Lu M.",
+          "year": "2020",
+          "unstructured": "Lu, M., Deng, Q., & Yang, M. (2020). EFL writing assessment: Peer assessment vs. automated writing evaluation. In Lecture Notes in Computer Science (Vol. 12063, pp. 25–35). https://doi.org/10.1007/978-3-030-38778-5"
+        },
+        {
+          "key": "e_1_3_3_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.caeai.2024.100216"
+        },
+        {
+          "key": "e_1_3_3_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.22034/ijlt.2022.364072.1201"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_3_3_48_1",
+          "first-page": "122",
+          "article-title": "The effectiveness of using a hybrid mode of automated writing evaluation and teacher feedback to improve EFL students’ writing",
+          "volume": "19",
+          "author": "Mohsen M. A.",
+          "year": "2019",
+          "unstructured": "Mohsen, M. A., & Alshahrani, A. (2019). The effectiveness of using a hybrid mode of automated writing evaluation and teacher feedback to improve EFL students’ writing. Teaching English with Technology, 19(3), 122–139.",
+          "journal-title": "Teaching English with Technology"
+        },
+        {
+          "key": "e_1_3_3_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ejed.12527"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_3_50_1",
+          "first-page": "213",
+          "article-title": "EssayCritic: Writing to learn with a knowledge-based design critiquing system",
+          "volume": "20",
+          "year": "2017",
+          "unstructured": "Mørch, A., Engeness, I., Cheng, V. C. W., Cheung, W. K., & Wong, K. (2017). EssayCritic: Writing to learn with a knowledge-based design critiquing system. Journal of Educational Technology & Society, 20(2), 213–223. https://eric.ed.gov/?id=EJ1137510",
+          "journal-title": "Journal of Educational Technology & Society"
+        },
+        {
+          "key": "e_1_3_3_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2022.2096642"
+        },
+        {
+          "key": "e_1_3_3_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/bjet.12987"
+        },
+        {
+          "key": "e_1_3_3_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jrsm.1053"
+        },
+        {
+          "key": "e_1_3_3_54_1",
+          "unstructured": "OpenAI. (2022 November 30). Introducing ChatGPT. OpenAI. https://openai.com/index/chatgpt/"
+        },
+        {
+          "key": "e_1_3_3_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s41239-022-00372-4"
+        },
+        {
+          "key": "e_1_3_3_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.n71"
+        },
+        {
+          "key": "e_1_3_3_57_1",
+          "first-page": "12",
+          "volume-title": "Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Science Education",
+          "volume": "1",
+          "author": "Pirttinen N.",
+          "year": "2022",
+          "unstructured": "Pirttinen, N., & Leinonen, J. (2022). Can students review their peers? Comparison of peer and instructor reviews. In Proceedings of the 27th ACM Conference on Innovation and Technology in Computer Science Education (Vol. 1, pp. 12–18)."
+        },
+        {
+          "key": "e_1_3_3_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11121-021-01246-3"
+        },
+        {
+          "key": "e_1_3_3_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2023.2208170"
+        },
+        {
+          "key": "e_1_3_3_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40593-015-0042-3"
+        },
+        {
+          "key": "e_1_3_3_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0033688214562799"
+        },
+        {
+          "key": "e_1_3_3_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.caeai.2023.100189"
+        },
+        {
+          "key": "e_1_3_3_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10796-023-10375-9"
+        },
+        {
+          "key": "e_1_3_3_64_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10494820.2019.1629601"
+        },
+        {
+          "key": "e_1_3_3_65_1",
+          "first-page": "65",
+          "volume-title": "Proceedings of the International Conference on Computers in Education (ICCE)",
+          "author": "Shibani A.",
+          "year": "2017",
+          "unstructured": "Shibani, A., Knight, S., & Buckingham Shum, S. (2017). Design and implementation of a pedagogic intervention using automated feedback in academic writing. In Proceedings of the International Conference on Computers in Education (ICCE) (pp. 65–74)."
+        },
+        {
+          "key": "e_1_3_3_66_1",
+          "first-page": "678",
+          "volume-title": "Lecture Notes in Computer Science",
+          "volume": "13991",
+          "author": "Silitonga L. M.",
+          "year": "2023",
+          "unstructured": "Silitonga, L. M., Hawanti, S., & Aziez, F. (2023). The impact of AI chatbot-based learning on students’ writing outcomes. In Lecture Notes in Computer Science (Vol. 13991, pp. 678–690). https://doi.org/10.1007/978-3-031-40113-8_53"
+        },
+        {
+          "key": "e_1_3_3_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.stueduc.2021.101123"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_3_68_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.17718/tojde.1096260",
+          "article-title": "Automated feedback and teacher feedback: Writing skills in distance education",
+          "volume": "23",
+          "author": "Taskiran A.",
+          "year": "2022",
+          "unstructured": "Taskiran, A., & Goksel, N. (2022). Automated feedback and teacher feedback: Writing skills in distance education. Turkish Online Journal of Distance Education, 23(2), 45–60.",
+          "journal-title": "Turkish Online Journal of Distance Education"
+        },
+        {
+          "key": "e_1_3_3_69_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compedu.2008.06.001"
+        },
+        {
+          "key": "e_1_3_3_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jrsm.1164"
+        },
+        {
+          "key": "e_1_3_3_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18637/jss.v036.i03"
+        },
+        {
+          "key": "e_1_3_3_72_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/jrsm.11"
+        },
+        {
+          "key": "e_1_3_3_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17501229.2021.1914062"
+        },
+        {
+          "key": "e_1_3_3_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17507/tpls.0912.12"
+        },
+        {
+          "key": "e_1_3_3_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09588221.2012.655300"
+        },
+        {
+          "key": "e_1_3_3_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2022.909802"
+        },
+        {
+          "key": "e_1_3_3_77_1",
+          "first-page": "1",
+          "volume-title": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+          "author": "Weitekamp D.",
+          "year": "2020",
+          "unstructured": "Weitekamp, D., Harpstead, E., & Koedinger, K. R. (2020, April). An interaction design for machine teaching to develop AI tutors. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1–11). https://doi.org/10.1145/3313831.3376226"
+        },
+        {
+          "key": "e_1_3_3_78_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compedu.2016.05.004"
+        },
+        {
+          "key": "e_1_3_3_79_1",
+          "first-page": "45",
+          "volume-title": "Workshop on Innovative Use of NLP for Building Educational Applications (BEA)",
+          "author": "Wilson J.",
+          "year": "2015",
+          "unstructured": "Wilson, J., & Martin, T. (2015). Using PEGWriting® to support the writing motivation and performance of middle school students. Workshop on Innovative Use of NLP for Building Educational Applications (BEA) (pp. 45–52). ACL."
+        },
+        {
+          "key": "e_1_3_3_80_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2019.03087"
+        },
+        {
+          "key": "e_1_3_3_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.cedpsych.2019.101826"
+        },
+        {
+          "key": "e_1_3_3_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compedu.2020.104059"
+        },
+        {
+          "key": "e_1_3_3_83_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.asej.2014.09.007"
+        },
+        {
+          "key": "e_1_3_3_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09588221.2022.2069822"
+        }
+      ],
+      "updated-by": [
+        {
+          "DOI": "10.1080/01443410.2026.2746275",
+          "type": "correction",
+          "label": "Correction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                8
+              ]
+            ],
+            "date-time": "2026-10-08T00:00:00Z",
+            "timestamp": 1791417600000
+          }
+        }
+      ],
+      "container-title": [
+        "Educational Psychology"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/full-xml/10.1080/01443410.2025.2553639",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            8
+          ]
+        ],
+        "date-time": "2026-10-08T12:15:34Z",
+        "timestamp": 1791461734000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/01443410.2025.2553639"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            24
+          ]
+        ]
+      },
+      "references-count": 83,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/01443410.2025.2553639"
+      ],
+      "URL": "https://doi.org/10.1080/01443410.2025.2553639",
+      "relation": {},
+      "ISSN": [
+        "0144-3410",
+        "1469-5820"
+      ],
+      "issn-type": [
+        {
+          "value": "0144-3410",
+          "type": "print"
+        },
+        {
+          "value": "1469-5820",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            24
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=cedp20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=cedp20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2024-05-15",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-08-25",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-09-24",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

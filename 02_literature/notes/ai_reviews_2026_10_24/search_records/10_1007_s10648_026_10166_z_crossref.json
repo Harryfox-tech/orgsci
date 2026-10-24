@@ -1,0 +1,1880 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+    "checked_at": "2026-10-24T02:10:21.639203Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            31
+          ]
+        ],
+        "date-time": "2026-08-31T16:26:23Z",
+        "timestamp": 1788193583022,
+        "version": "build-2803163510"
+      },
+      "reference-count": 141,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                4
+              ]
+            ],
+            "date-time": "2026-05-04T00:00:00Z",
+            "timestamp": 1777852800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                4
+              ]
+            ],
+            "date-time": "2026-05-04T00:00:00Z",
+            "timestamp": 1777852800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "62337001"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62337001"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "62207028"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62207028"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Educ Psychol Rev"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      },
+      "DOI": "10.1007/s10648-026-10166-z",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T10:29:22Z",
+        "timestamp": 1777890562000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Effects of Artificial Intelligence Feedback on Students’ Self-Regulated Learning in Higher Education: A Three-Level Meta-Analysis"
+      ],
+      "prefix": "10.1007",
+      "volume": "38",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1371-2608",
+          "authenticated-orcid": false,
+          "given": "Chang-Qin",
+          "family": "Huang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0002-0284-1631",
+          "authenticated-orcid": false,
+          "given": "Ling-Nuo",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5041-6093",
+          "authenticated-orcid": false,
+          "given": "Qiong-Hao",
+          "family": "Huang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0003-5656-3873",
+          "authenticated-orcid": false,
+          "given": "Yin-Rong",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5152-1824",
+          "authenticated-orcid": false,
+          "given": "Tao",
+          "family": "He",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6261-3003",
+          "authenticated-orcid": false,
+          "given": "Yun-Fang",
+          "family": "Tu",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5155-276X",
+          "authenticated-orcid": false,
+          "given": "Gwo-Jen",
+          "family": "Hwang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "3",
+          "key": "10166_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "62",
+          "DOI": "10.18608/jla.2024.8487",
+          "volume": "11",
+          "author": "R Alfredo",
+          "year": "2024",
+          "unstructured": "Alfredo, R., Echeverria, V., Zhao, L., Lawrence, L., Fan, J. X., Yan, L., Li, X., Swiecki, Z., Gašević, D., & Martinez-Maldonado, R. (2024). Designing a human-centred learning analytics dashboard in-use. Journal of Learning Analytics, 11(3), 62–81. https://doi.org/10.18608/jla.2024.8487",
+          "journal-title": "Journal of Learning Analytics"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "1529",
+          "DOI": "10.1007/s10734-023-01077-x",
+          "volume": "87",
+          "author": "SE Allen",
+          "year": "2024",
+          "unstructured": "Allen, S. E., & Kizilcec, R. F. (2024). A systemic model of academic (mis)conduct to curb cheating in higher education. Higher Education, 87(5), 1529–1549. https://doi.org/10.1007/s10734-023-01077-x",
+          "journal-title": "Higher Education"
+        },
+        {
+          "key": "10166_CR3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2510.19685",
+          "author": "O Alsaiari",
+          "year": "2025",
+          "unstructured": "Alsaiari, O., Baghaei, N., Lodge, J. M., Noroozi, O., Gašević, D., Boden, M., & Khosravi, H. (2025). Directive, metacognitive or a blend of both? A comparison of AI-generated feedback types on student engagement, confidence, and outcomes (arXiv:2510.19685). arXiv. https://doi.org/10.48550/arXiv.2510.19685",
+          "journal-title": "arXiv"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "59",
+          "DOI": "10.1186/s40561-025-00393-2",
+          "volume": "12",
+          "author": "N Annamalai",
+          "year": "2025",
+          "unstructured": "Annamalai, N., & Nasor, M. (2025). Exploring ChatGPT in education: Unveiling learners’ experiences through the lens of self-determination theory. Smart Learning Environments, 12(1), 59. https://doi.org/10.1186/s40561-025-00393-2",
+          "journal-title": "Smart Learning Environments"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "582",
+          "DOI": "10.51535/tell.1314355",
+          "volume": "5",
+          "author": "T Aydin Yildiz",
+          "year": "2023",
+          "unstructured": "Aydin Yildiz, T. (2023). The impact of ChatGPT on language learners’ motivation. Journal of Teacher Education and Lifelong Learning, 5(2), 582–597. https://doi.org/10.51535/tell.1314355",
+          "journal-title": "Journal of Teacher Education and Lifelong Learning"
+        },
+        {
+          "key": "10166_CR6",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Azevedo, R., Martin, S. A., Taub, M., Mudrick, N. V., Millar, G. C., & Grafsgaard, J. F. (2016). Are pedagogical agents’ external regulation effective in fostering learning with intelligent tutoring systems? In A. Micarelli, J. Stamper, & K. Panourgia (Eds.), Intelligent tutoring systems (Vol. 9684, pp. 197–207). Springer International Publishing. https://doi.org/10.1007/978-3-319-39583-8_19",
+          "DOI": "10.1007/978-3-319-39583-8_19"
+        },
+        {
+          "key": "10166_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "100284",
+          "DOI": "10.1016/j.caeo.2025.100284",
+          "volume": "9",
+          "author": "S Ba",
+          "year": "2025",
+          "unstructured": "Ba, S., Yang, L., Yan, Z., Looi, C. K., & Gašević, D. (2025). Unraveling the mechanisms and effectiveness of AI-assisted feedback in education: A systematic literature review. Computers and Education Open, 9, 100284. https://doi.org/10.1016/j.caeo.2025.100284",
+          "journal-title": "Computers and Education Open"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "50",
+          "DOI": "10.1186/s41239-025-00548-8",
+          "volume": "22",
+          "author": "SK Banihashem",
+          "year": "2025",
+          "unstructured": "Banihashem, S. K., Bond, M., Bergdahl, N., Khosravi, H., & Noroozi, O. (2025a). A systematic mapping review at the intersection of artificial intelligence and self-regulated learning. International Journal of Educational Technology in Higher Education, 22(1), 50. https://doi.org/10.1186/s41239-025-00548-8",
+          "journal-title": "International Journal of Educational Technology in Higher Education"
+        },
+        {
+          "key": "10166_CR9",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Banihashem, S. K., Noroozi, O., Khosravi, H., Schunn, C. D., & Drachsler, H. (2025b). Pedagogical framework for hybrid intelligent feedback. Innovations in Education and Teaching International, 1–17. https://doi.org/10.1080/14703297.2025.2499174",
+          "DOI": "10.1080/14703297.2025.2499174"
+        },
+        {
+          "issue": "26",
+          "key": "10166_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "e2422633122",
+          "DOI": "10.1073/pnas.2422633122",
+          "volume": "122",
+          "author": "H Bastani",
+          "year": "2025",
+          "unstructured": "Bastani, H., Bastani, O., Sungu, A., Ge, H., Kabakcı, Ö., & Mariman, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences, 122(26), e2422633122. https://doi.org/10.1073/pnas.2422633122",
+          "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "e13123",
+          "DOI": "10.1111/jcal.13123",
+          "volume": "41",
+          "author": "E Bauer",
+          "year": "2025",
+          "unstructured": "Bauer, E., Sailer, M., Niklas, F., Greiff, S., Sarbu-Rothsching, S., Zottmann, J. M., Kiesewetter, J., Stadler, M., Fischer, M. R., Seidel, T., Urhahne, D., Sailer, M., & Fischer, F. (2025). AI-based adaptive feedback in simulations for teacher education: An experimental replication in the field. Journal of Computer Assisted Learning, 41(1), e13123. https://doi.org/10.1111/jcal.13123",
+          "journal-title": "Journal of Computer Assisted Learning"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "2",
+          "DOI": "10.1186/s12909-025-08365-3",
+          "volume": "26",
+          "author": "J Betson",
+          "year": "2025",
+          "unstructured": "Betson, J., Fein, E. C., Long, D., & Horrocks, P. (2025). Relationships between cognitive appraisals of threat and challenge, psychophysiological responses, and clinical performance during high-stress simulated osces. BMC Medical Education, 26(1), 2. https://doi.org/10.1186/s12909-025-08365-3",
+          "journal-title": "BMC Medical Education"
+        },
+        {
+          "key": "10166_CR13",
+          "unstructured": "Boekaerts, M. (2011). Emotions, emotion regulation, and self-regulation of learning. In B. J. Zimmerman, & D. H. Schunk (Eds.), Handbook of self-regulation of learning and performance (pp. 408–425). Routledge."
+        },
+        {
+          "key": "10166_CR14",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Bollas, A., & Bennett, C. (2026). Understanding learner autonomy and self-regulated learning. Designing curricula for learner autonomy and engagement. Springer. https://doi.org/10.1007/978-3-032-13520-9_1",
+          "DOI": "10.1007/978-3-032-13520-9_1"
+        },
+        {
+          "key": "10166_CR15",
+          "unstructured": "Borenstein, M., Hedges, L. V., Higgins, J., & Rothstein, H. (2013). Comprehensive meta-analysis (Version 3.7) [Computer software]. Biostat. https://www.meta-analysis.com/"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "397",
+          "DOI": "10.1016/j.jpurol.2024.11.021",
+          "volume": "21",
+          "author": "LH Braga",
+          "year": "2025",
+          "unstructured": "Braga, L. H., Farrokhyar, F., Dönmez, M. İ., Nelson, C. P., Haid, B., Herbst, K., Garriboli, M., Cascio, S., Nieuwhof-Leppink, A., Kaefer, M., Bägli, D. J., Kalfa, N., Ching, C., Fossum, M., & Harper, L. (2025). Randomized controlled trials – the what, when, how and why. Journal of Pediatric Urology, 21(2), 397–404. https://doi.org/10.1016/j.jpurol.2024.11.021",
+          "journal-title": "Journal of Pediatric Urology"
+        },
+        {
+          "key": "10166_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1016/j.iheduc.2015.04.007",
+          "volume": "27",
+          "author": "J Broadbent",
+          "year": "2015",
+          "unstructured": "Broadbent, J., & Poon, W. L. (2015). Self-regulated learning strategies & academic achievement in online higher education learning environments: A systematic review. The Internet and Higher Education, 27, 1–13. https://doi.org/10.1016/j.iheduc.2015.04.007",
+          "journal-title": "The Internet and Higher Education"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "245",
+          "DOI": "10.3102/00346543065003245",
+          "volume": "65",
+          "author": "DL Butler",
+          "year": "1995",
+          "unstructured": "Butler, D. L., & Winne, P. H. (1995). Feedback and Self-Regulated Learning: A Theoretical Synthesis. Review of Educational Research, 65(3), 245–281. https://doi.org/10.3102/00346543065003245",
+          "journal-title": "Review of Educational Research"
+        },
+        {
+          "key": "10166_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "100521",
+          "DOI": "10.1016/j.edurev.2023.100521",
+          "volume": "39",
+          "author": "Z Cai",
+          "year": "2023",
+          "unstructured": "Cai, Z., Gui, Y., Mao, P., Wang, Z., Hao, X., Fan, X., & Tai, R. H. (2023). The effect of feedback on academic achievement in technology-rich learning environments (TREs): A meta-analytic review. Educational Research Review, 39, 100521. https://doi.org/10.1016/j.edurev.2023.100521",
+          "journal-title": "Educational Research Review"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "43",
+          "DOI": "10.1186/s41239-023-00411-8",
+          "volume": "20",
+          "author": "CKY Chan",
+          "year": "2023",
+          "unstructured": "Chan, C. K. Y., & Hu, W. (2023). Students’ voices on generative AI: Perceptions, benefits, and challenges in higher education. International Journal of Educational Technology in Higher Education, 20(1), 43. https://doi.org/10.1186/s41239-023-00411-8",
+          "journal-title": "International Journal of Educational Technology in Higher Education"
+        },
+        {
+          "key": "10166_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "103388",
+          "DOI": "10.1016/j.system.2024.103388",
+          "volume": "124",
+          "author": "J Chen",
+          "year": "2024",
+          "unstructured": "Chen, J. (2024). Effects of learning analytics-based feedback on students’ self-regulated learning and academic achievement in a blended EFL course. System, 124, 103388. https://doi.org/10.1016/j.system.2024.103388",
+          "journal-title": "System"
+        },
+        {
+          "key": "10166_CR22",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Cheng, Y., Guan, R., Li, T., Raković, M., Li, X., Fan, Y., Jin, F., Tsai, Y. S., Gašević, D., & Swiecki, Z. (2025). Self-regulated learning processes in secondary education: A network analysis of trace-based measures. In Proceedings of the 15th International Learning Analytics and Knowledge Conference (LAK ‘25) (pp. 260–271). https://doi.org/10.1145/3706468.3706502",
+          "DOI": "10.1145/3706468.3706502"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "387",
+          "DOI": "10.1007/s11065-019-09415-6",
+          "volume": "29",
+          "author": "MWL Cheung",
+          "year": "2019",
+          "unstructured": "Cheung, M. W. L. (2019). A Guide to Conducting a Meta-Analysis with Non-Independent Effect Sizes. Neuropsychology Review, 29(4), 387–396. https://doi.org/10.1007/s11065-019-09415-6",
+          "journal-title": "Neuropsychology Review"
+        },
+        {
+          "key": "10166_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "106909",
+          "DOI": "10.1016/j.chb.2021.106909",
+          "volume": "124",
+          "author": "TKF Chiu",
+          "year": "2021",
+          "unstructured": "Chiu, T. K. F. (2021). Digital support for student engagement in blended learning based on self-determination theory. Computers in Human Behavior, 124, 106909. https://doi.org/10.1016/j.chb.2021.106909",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "2401",
+          "DOI": "10.1007/s11423-024-10366-w",
+          "volume": "72",
+          "author": "TKF Chiu",
+          "year": "2024",
+          "unstructured": "Chiu, T. K. F. (2024). A classification tool to foster self-regulated learning with generative artificial intelligence by applying self-determination theory: A case of ChatGPT. Educational Technology Research and Development, 72(4), 2401–2416. https://doi.org/10.1007/s11423-024-10366-w",
+          "journal-title": "Educational Technology Research and Development"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "534",
+          "DOI": "10.1111/bjet.13260",
+          "volume": "54",
+          "author": "S Chu",
+          "year": "2023",
+          "unstructured": "Chu, S., Hwang, G., Chien, S., & Chang, S. (2023). Incorporating teacher intelligence into digital games: An expert system-guided self‐regulated learning approach to promoting EFL students’ performance in digital gaming contexts. British Journal of Educational Technology, 54(2), 534–553. https://doi.org/10.1111/bjet.13260",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "key": "10166_CR27",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Cohen, J. (2013). Statistical power analysis for the behavioral sciences (2nd ed.). Routledge. https://doi.org/10.4324/9780203771587",
+          "DOI": "10.4324/9780203771587"
+        },
+        {
+          "key": "10166_CR98",
+          "unstructured": "R Core Team (2025). R: A language and environment for statistical computing. R Foundation for Statistical Computing. https://www.R-project.org/"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "1686",
+          "DOI": "10.1111/bjet.13587",
+          "volume": "56",
+          "author": "G Cosentino",
+          "year": "2025",
+          "unstructured": "Cosentino, G., Anton, J., Sharma, K., Gelsomini, M., Giannakos, M., & Abrahamson, D. (2025). Generative AI and multimodal data for educational feedback: Insights from embodied math learning. British Journal of Educational Technology, 56(5), 1686–1709. https://doi.org/10.1111/bjet.13587",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "key": "10166_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "104549",
+          "DOI": "10.1016/j.brat.2024.104549",
+          "volume": "179",
+          "author": "X Cui",
+          "year": "2024",
+          "unstructured": "Cui, X., Zhang, S., Yu, S., Ding, Q., & Li, X. (2024). Does working memory training improve emotion regulation and reduce internalizing symptoms? A pair of three-level meta-analyses. Behaviour Research and Therapy, 179, 104549. https://doi.org/10.1016/j.brat.2024.104549",
+          "journal-title": "Behaviour Research and Therapy"
+        },
+        {
+          "key": "10166_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "2078",
+          "DOI": "10.1111/bjet.13607",
+          "volume": "56",
+          "author": "B Dang",
+          "year": "2025",
+          "unstructured": "Dang, B., Huynh, L., Gul, F., Rosé, C., Järvelä, S., & Nguyen, A. (2025). Human–AI collaborative learning in mixed reality: Examining the cognitive and socio-emotional interactions. British Journal of Educational Technology, 56, 2078–2101. https://doi.org/10.1111/bjet.13607",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "key": "10166_CR31",
+          "doi-asserted-by": "publisher",
+          "unstructured": "De Vetten, A. (2024). An experimental study into the effects of an advisory dashboard on students’ online and offline learning. In R. Ferreira Mello, N. Rummel, I. Jivet, G. Pishtari, & J. A. Ruipérez Valiente (Eds.), Technology enhanced learning for inclusive and equitable quality education (Vol. 15160, pp. 87–92). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-72312-4_10",
+          "DOI": "10.1007/978-3-031-72312-4_10"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "249",
+          "DOI": "10.18608/jla.2024.8529",
+          "volume": "11",
+          "author": "L de Vreugd",
+          "year": "2024",
+          "unstructured": "de Vreugd, L., van Leeuwen, A., Jansen, R., & van der Schaaf, M. (2024). Learning analytics dashboard design and evaluation to support student self-regulation of study behaviour. Journal of Learning Analytics, 11(3), 249–262. https://doi.org/10.18608/jla.2024.8529",
+          "journal-title": "Journal of Learning Analytics"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "227",
+          "DOI": "10.1207/S15327965PLI1104_01",
+          "volume": "11",
+          "author": "EL Deci",
+          "year": "2000",
+          "unstructured": "Deci, E. L., & Ryan, R. M. (2000). The what and why of goal pursuits: Human needs and the self-determination of behavior. Psychological Inquiry, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01",
+          "journal-title": "Psychological Inquiry"
+        },
+        {
+          "key": "10166_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "104094",
+          "DOI": "10.1016/j.compedu.2020.104094",
+          "volume": "162",
+          "author": "G Deeva",
+          "year": "2021",
+          "unstructured": "Deeva, G., Bogdanova, D., Serral, E., Snoeck, M., & De Weerdt, J. (2021). A review of automated feedback systems for learners: Classification framework, challenges and opportunities. Computers & Education, 162, 104094. https://doi.org/10.1016/j.compedu.2020.104094",
+          "journal-title": "Computers & Education"
+        },
+        {
+          "key": "10166_CR35",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Dever, D. A., Sonnenfeld, N. A., Wiedbusch, M. D., & Azevedo, R. (2022). Pedagogical agent support and its relationship to learners’ self-regulated learning strategy use with an intelligent tutoring system. In M. M. Rodrigo, N. Matsuda, A. I. Cristea, & V. Dimitrova (Eds.), Artificial intelligence in education (Vol. 13355, pp. 332–343). Springer International Publishing. https://doi.org/10.1007/978-3-031-11644-5_27",
+          "DOI": "10.1007/978-3-031-11644-5_27"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "659",
+          "DOI": "10.1007/s11409-023-09346-x",
+          "volume": "18",
+          "author": "DA Dever",
+          "year": "2023",
+          "unstructured": "Dever, D. A., Sonnenfeld, N. A., Wiedbusch, M. D., Schmorrow, S. G., Amon, M. J., & Azevedo, R. (2023). A complex systems approach to analyzing pedagogical agents’ scaffolding of self-regulated learning within an intelligent tutoring system. Metacognition and Learning, 18(3), 659–691. https://doi.org/10.1007/s11409-023-09346-x",
+          "journal-title": "Metacognition and Learning"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "62",
+          "DOI": "10.1007/s10648-023-09718-4",
+          "volume": "35",
+          "author": "C Dignath",
+          "year": "2023",
+          "unstructured": "Dignath, C., van Ewijk, R., Perels, F., & Fabriz, S. (2023). Let learners monitor the learning content and their learning behavior! A meta-analysis on the effectiveness of tools to foster monitoring. Educational Psychology Review, 35(2), 62. https://doi.org/10.1007/s10648-023-09718-4",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "issue": "10",
+          "key": "10166_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "1327",
+          "DOI": "10.3390/bs15101327",
+          "volume": "15",
+          "author": "L Ding",
+          "year": "2025",
+          "unstructured": "Ding, L., Zhang, H., Zhou, J., & Chen, B. (2025). Contextualization, procedural logic, and active construction: A cognitive scaffolding model for topic sentiment analysis in game-based learning. Behavioral Sciences, 15(10), 1327. https://doi.org/10.3390/bs15101327",
+          "journal-title": "Behavioral Sciences"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "622",
+          "DOI": "10.21449/ijate.1467476",
+          "volume": "11",
+          "author": "M Donmez",
+          "year": "2024",
+          "unstructured": "Donmez, M. (2024). AI-based feedback tools in education: A comprehensive bibliometric analysis study. International Journal of Assessment Tools in Education, 11(4), 622–646. https://doi.org/10.21449/ijate.1467476",
+          "journal-title": "International Journal of Assessment Tools in Education"
+        },
+        {
+          "issue": "449",
+          "key": "10166_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "89",
+          "DOI": "10.2307/2669529",
+          "volume": "95",
+          "author": "S Duval",
+          "year": "2000",
+          "unstructured": "Duval, S., & Tweedie, R. (2000). A nonparametric trim and fill method of accounting for publication bias in meta-analysis. Journal of the American Statistical Association, 95(449), 89–98. https://doi.org/10.2307/2669529",
+          "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+          "key": "10166_CR41",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Fan, Y., Tang, L., Le, H., Shen, K., Tan, S., Zhao, Y., Shen, Y., Li, X., & Gašević, D. (2024). Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance. British Journal of Educational Technology, bjet.13544. https://doi.org/10.1111/bjet.13544",
+          "DOI": "10.1111/bjet.13544"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "444",
+          "DOI": "10.5334/pme.1017",
+          "volume": "12",
+          "author": "AG Gavarkovs",
+          "year": "2023",
+          "unstructured": "Gavarkovs, A. G., Crukley, J., Miller, E., Kusurkar, R. A., Kulasegaram, K., & Brydges, R. (2023). Effectiveness of life goal framing to motivate medical students during online learning: A randomized controlled trial. Perspectives on Medical Education, 12(1), 444–454. https://doi.org/10.5334/pme.1017",
+          "journal-title": "Perspectives on Medical Education"
+        },
+        {
+          "issue": "7",
+          "key": "10166_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "692",
+          "DOI": "10.3390/educsci13070692",
+          "volume": "13",
+          "author": "S Grassini",
+          "year": "2023",
+          "unstructured": "Grassini, S. (2023). Shaping the future of education: Exploring the potential and consequences of AI and ChatGPT in educational settings. Education Sciences, 13(7), 692. https://doi.org/10.3390/educsci13070692",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "6",
+          "key": "10166_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "1460",
+          "DOI": "10.1177/07356331251349620",
+          "volume": "63",
+          "author": "J Gu",
+          "year": "2025",
+          "unstructured": "Gu, J., & Yan, Z. (2025). Effects of GenAI interventions on student academic performance: A meta-analysis. Journal of Educational Computing Research, 63(6), 1460–1492. https://doi.org/10.1177/07356331251349620",
+          "journal-title": "Journal of Educational Computing Research"
+        },
+        {
+          "key": "10166_CR45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639-024-12881-y",
+          "author": "R Guan",
+          "year": "2024",
+          "unstructured": "Guan, R., Raković, M., Chen, G., & Gašević, D. (2024). How educational chatbots support self-regulated learning? A systematic review of the literature. Education and Information Technologies. https://doi.org/10.1007/s10639-024-12881-y",
+          "journal-title": "Education and Information Technologies"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "563",
+          "DOI": "10.24059/olj.v28i3.4025",
+          "volume": "28",
+          "author": "M Guntur",
+          "year": "2024",
+          "unstructured": "Guntur, M., & Purnomo, Y. W. (2024). A meta-analysis of self-regulated learning interventions studies on learning outcomes in online and blended environments. Online Learning, 28(3), 563–584. https://doi.org/10.24059/olj.v28i3.4025",
+          "journal-title": "Online Learning"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "811",
+          "DOI": "10.1111/jcal.12650",
+          "volume": "38",
+          "author": "L Guo",
+          "year": "2022",
+          "unstructured": "Guo, L. (2022). Using metacognitive prompts to enhance self-regulated learning and learning outcomes: A meta-analysis of experimental studies in computer-based learning environments. Journal of Computer Assisted Learning, 38(3), 811–832. https://doi.org/10.1111/jcal.12650",
+          "journal-title": "Journal of Computer Assisted Learning"
+        },
+        {
+          "key": "10166_CR48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1057/s41599-026-06621-5",
+          "author": "Y Guo",
+          "year": "2026",
+          "unstructured": "Guo, Y., & Ye, Q. (2026). Meta-cognitive insights into cognitive offloading: Mechanisms, interventions, and educational implications. Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-026-06621-5",
+          "journal-title": "Humanities and Social Sciences Communications"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1519",
+          "DOI": "10.1186/s12909-024-06476-x",
+          "volume": "24",
+          "author": "N Gupta",
+          "year": "2024",
+          "unstructured": "Gupta, N., Ali, K., Jiang, D., Fink, T., & Du, X. (2024). Beyond autonomy: Unpacking self-regulated and self-directed learning through the lens of learner agency- a scoping review. BMC Medical Education, 24(1), 1519. https://doi.org/10.1186/s12909-024-06476-x",
+          "journal-title": "BMC Medical Education"
+        },
+        {
+          "key": "10166_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "285",
+          "DOI": "10.1007/s12528-025-09434-8",
+          "volume": "38",
+          "author": "I Han",
+          "year": "2025",
+          "unstructured": "Han, I., Ji, H., Jin, S., & Choi, K. (2025). Mobile-based artificial intelligence chatbot for self-regulated learning in a hybrid flipped classroom. Journal of Computing in Higher Education, 38, 285–309. https://doi.org/10.1007/s12528-025-09434-8",
+          "journal-title": "Journal of Computing in Higher Education"
+        },
+        {
+          "key": "10166_CR51",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Harrer, M., Cuijpers, P., Furukawa, T. A., & Ebert, D. D. (2021). Doing meta-analysis with R: A hands-on guide (1st ed.). Chapman and Hall/CRC. https://doi.org/10.1201/9781003107347",
+          "DOI": "10.1201/9781003107347"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "81",
+          "DOI": "10.3102/003465430298487",
+          "volume": "77",
+          "author": "J Hattie",
+          "year": "2007",
+          "unstructured": "Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112. https://doi.org/10.3102/003465430298487",
+          "journal-title": "Review of Educational Research"
+        },
+        {
+          "key": "10166_CR53",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Henderson, M., Bearman, M., Chung, J., Fawns, T., Buckingham Shum, S., Matthews, K. E., & de Mello Heredia, J. (2025). Comparing generative AI and teacher feedback: Student perceptions of usefulness and trustworthiness. Assessment & Evaluation in Higher Education, 1–16. https://doi.org/10.1080/02602938.2025.2502582",
+          "DOI": "10.1080/02602938.2025.2502582"
+        },
+        {
+          "key": "10166_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "100361",
+          "DOI": "10.1016/j.caeai.2025.100361",
+          "volume": "8",
+          "author": "YME Heung",
+          "year": "2025",
+          "unstructured": "Heung, Y. M. E., & Chiu, T. K. F. (2025). How ChatGPT impacts student engagement from a systematic review and meta-analysis study. Computers and Education: Artificial Intelligence, 8, 100361. https://doi.org/10.1016/j.caeai.2025.100361",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "102885",
+          "DOI": "10.1016/j.acalib.2024.102885",
+          "volume": "50",
+          "author": "YH Hu",
+          "year": "2024",
+          "unstructured": "Hu, Y. H., Hsieh, C. L., & Salac, E. S. N. (2024). Advancing freshman skills in information literacy and self-regulation: The role of AI learning companions and Mandala Chart in academic libraries. The Journal of Academic Librarianship, 50(3), 102885. https://doi.org/10.1016/j.acalib.2024.102885",
+          "journal-title": "The Journal of Academic Librarianship"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "69",
+          "DOI": "10.30191/ETS.202310_26(4).0005",
+          "volume": "26",
+          "author": "AYQ Huang",
+          "year": "2023",
+          "unstructured": "Huang, A. Y. Q., Chang, J. W., Yang, A. C. M., Ogata, H., Li, S. T., Yen, R. X., & Yang, S. J. H. (2023). Personalized intervention based on the early prediction of at-risk students to improve their learning performance. Educational Technology & Society, 26(4), 69–89. https://doi.org/10.30191/ETS.202310_26(4).0005",
+          "journal-title": "Educational Technology & Society"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "bjet13589",
+          "DOI": "10.1111/bjet.13589",
+          "volume": "56",
+          "author": "AYQ Huang",
+          "year": "2025",
+          "unstructured": "Huang, A. Y. Q., Lin, C. Y., Su, S. Y., & Yang, S. J. H. (2025). The impact of GenAI-enabled coding hints on students’ programming performance and cognitive load in an SRL-based Python course. British Journal of Educational Technology, 56(5), bjet13589. https://doi.org/10.1111/bjet.13589",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "issue": "7",
+          "key": "10166_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "804",
+          "DOI": "10.3390/educsci15070804",
+          "volume": "15",
+          "author": "S Hwang",
+          "year": "2025",
+          "unstructured": "Hwang, S. (2025). The interplay of mindset, feedback perception, and academic emotion regulation in undergraduates’ self-regulated writing ability. Education Sciences, 15(7), 804. https://doi.org/10.3390/educsci15070804",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "key": "10166_CR59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2407.03282",
+          "author": "Z Ji",
+          "year": "2024",
+          "unstructured": "Ji, Z., Chen, D., Ishii, E., Cahyawijaya, S., Bang, Y., Wilie, B., & Fung, P. (2024). LLM internal states reveal hallucination risk faced with a query (arXiv:2407.03282). arXiv. https://doi.org/10.48550/arXiv.2407.03282",
+          "journal-title": "arXiv"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.1186/s41239-023-00406-5",
+          "volume": "20",
+          "author": "SH Jin",
+          "year": "2023",
+          "unstructured": "Jin, S. H., Im, K., Yoo, M., Roll, I., & Seo, K. (2023). Supporting students’ self-regulated learning in online learning using artificial intelligence applications. International Journal of Educational Technology in Higher Education, 20(1), 37. https://doi.org/10.1186/s41239-023-00406-5",
+          "journal-title": "International Journal of Educational Technology in Higher Education"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR60",
+          "doi-asserted-by": "publisher",
+          "first-page": "e70076",
+          "DOI": "10.1111/jcal.70076",
+          "volume": "41",
+          "author": "FJY Jin",
+          "year": "2025",
+          "unstructured": "Jin, F. J. Y., Nath, D., Guan, R., Li, T., Li, X., Mello, R. F., Rodrigues, L., Junior, C. P., Abuzayyad-Nuseibeh, H., Raković, M., Martinez-Maldonado, R., Gašević, D., & Tsai, Y. S. (2025). Analytics of self-regulated learning in learning analytics feedback processes: Associations with feedback literacy in secondary education. Journal of Computer Assisted Learning, 41(4), e70076. https://doi.org/10.1111/jcal.70076",
+          "journal-title": "Journal of Computer Assisted Learning"
+        },
+        {
+          "key": "10166_CR62",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2507.04398",
+          "author": "Y Jin",
+          "year": "2025",
+          "unstructured": "Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2025). The agency gap: How generative AI literacy shapes independent writing after AI support (arXiv:2507.04398). arXiv. https://doi.org/10.48550/arXiv.2507.04398",
+          "journal-title": "arXiv"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "439",
+          "DOI": "10.1007/s12369-017-0430-y",
+          "volume": "10",
+          "author": "A Jones",
+          "year": "2018",
+          "unstructured": "Jones, A., Bull, S., & Castellano, G. (2018). I know that now, I’m going to learn this next: Promoting self-regulated learning with a robotic tutor. International Journal of Social Robotics, 10(4), 439–454. https://doi.org/10.1007/s12369-017-0430-y",
+          "journal-title": "International Journal of Social Robotics"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "80",
+          "DOI": "10.1080/01443410.2025.2553639",
+          "volume": "46",
+          "author": "R Kaliisa",
+          "year": "2026",
+          "unstructured": "Kaliisa, R., Misiejuk, K., López-Pernas, S., & Saqr, M. (2026). How does artificial intelligence compare to human feedback? A meta-analysis of performance, feedback perception, and learning dispositions. Educational Psychology, 46(1), 80–111. https://doi.org/10.1080/01443410.2025.2553639",
+          "journal-title": "Educational Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "69",
+          "DOI": "10.1007/s10459-024-10358-8",
+          "volume": "30",
+          "author": "S Kitto",
+          "year": "2025",
+          "unstructured": "Kitto, S., Chiang, H. L. M., Ng, O., & Cleland, J. (2025). More, better feedback please: Are learning analytics dashboards (LAD) the solution to a wicked problem? Advances in Health Sciences Education, 30(1), 69–85. https://doi.org/10.1007/s10459-024-10358-8",
+          "journal-title": "Advances in Health Sciences Education"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "254",
+          "DOI": "10.1037/0033-2909.119.2.254",
+          "volume": "119",
+          "author": "AN Kluger",
+          "year": "1996",
+          "unstructured": "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. Psychological Bulletin, 119(2), 254–284. https://doi.org/10.1037/0033-2909.119.2.254",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "10166_CR67",
+          "unstructured": "Kmet, L. M., Cook, L. S., & Lee, R. C. (2004). Standard quality assessment criteria for evaluating primary research papers from a variety of fields. https://ualberta.scholaris.ca/items/b8ff8755-6efb-4fb2-941a-def0d418fd07"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "378",
+          "DOI": "10.3390/educsci15030378",
+          "volume": "15",
+          "author": "T Köpeczi-Bócz",
+          "year": "2025",
+          "unstructured": "Köpeczi-Bócz, T. (2025). Cognitive-dissonance-based educational methodological innovation for a conceptual change to increase institutional confidence and learning motivation. Education Sciences, 15(3), 378. https://doi.org/10.3390/educsci15030378",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "183",
+          "DOI": "10.3102/0013189X231155154",
+          "volume": "52",
+          "author": "MA Kraft",
+          "year": "2023",
+          "unstructured": "Kraft, M. A. (2023). The effect-size benchmark that matters most: Education interventions often fail. Educational Researcher, 52(3), 183–187. https://doi.org/10.3102/0013189X231155154",
+          "journal-title": "Educational Researcher"
+        },
+        {
+          "key": "10166_CR70",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Kunyan, W., & Miao, T. (2025). The threshold moderating effect of self-efficacy: A nonlinear transformation mechanism of work passion on job satisfaction among sports practitioners. Frontiers in Psychology, 16. https://doi.org/10.3389/fpsyg.2025.1667520",
+          "DOI": "10.3389/fpsyg.2025.1667520"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR71",
+          "doi-asserted-by": "publisher",
+          "first-page": "21",
+          "DOI": "10.1038/s41539-025-00319-0",
+          "volume": "10",
+          "author": "M Lan",
+          "year": "2025",
+          "unstructured": "Lan, M., & Zhou, X. (2025). A qualitative systematic review on AI empowered self-regulated learning in higher education. Npj Science of Learning, 10(1), 21. https://doi.org/10.1038/s41539-025-00319-0",
+          "journal-title": "Npj Science of Learning"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.2307/2529310",
+          "volume": "33",
+          "author": "JR Landis",
+          "year": "1977",
+          "unstructured": "Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. Biometrics, 33(1), 159–174. https://doi.org/10.2307/2529310",
+          "journal-title": "Biometrics"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "1758",
+          "DOI": "10.1111/bjet.13614",
+          "volume": "56",
+          "author": "H Le",
+          "year": "2025",
+          "unstructured": "Le, H., Shen, Y., Li, Z., Xia, M., Tang, L., Li, X., Jia, J., Wang, Q., Gašević, D., & Fan, Y. (2025). Breaking human dominance: Investigating learners’ preferences for learning feedback from generative AI and human tutors. British Journal of Educational Technology, 56(5), 1758–1783. https://doi.org/10.1111/bjet.13614",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "29",
+          "DOI": "10.1038/s41539-025-00320-7",
+          "volume": "10",
+          "author": "A Létourneau",
+          "year": "2025",
+          "unstructured": "Létourneau, A., Deslandes Martineau, M., Charland, P., Karran, J. A., Boasen, J., & Léger, P. M. (2025). A systematic review of AI-driven intelligent tutoring systems (ITS) in K-12 education. Npj Science of Learning, 10(1), 29. https://doi.org/10.1038/s41539-025-00320-7",
+          "journal-title": "Npj Science of Learning"
+        },
+        {
+          "key": "10166_CR75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40593-025-00492-8",
+          "author": "I Letteri",
+          "year": "2025",
+          "unstructured": "Letteri, I., & Vittorini, P. (2025). Enhancing student feedback in data science education: Harnessing the power of AI-generated approaches. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-025-00492-8",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR76",
+          "doi-asserted-by": "publisher",
+          "first-page": "238",
+          "DOI": "10.1111/aphw.12375",
+          "volume": "15",
+          "author": "J Li",
+          "year": "2023",
+          "unstructured": "Li, J., Zhou, X., & Wang, Q. (2023). Interventions to reduce loneliness among Chinese older adults: A network meta-analysis of randomized controlled trials and quasi-experimental studies. Applied Psychology: Health and Well-Being, 15(1), 238–258. https://doi.org/10.1111/aphw.12375",
+          "journal-title": "Applied Psychology: Health and Well-Being"
+        },
+        {
+          "issue": "9",
+          "key": "10166_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "5614",
+          "DOI": "10.1080/10494820.2021.2012812",
+          "volume": "31",
+          "author": "C Liu",
+          "year": "2023",
+          "unstructured": "Liu, C., Hou, J., Tu, Y. F., Wang, Y., & Hwang, G. J. (2023). Incorporating a reflective thinking promoting mechanism into artificial intelligence-supported English writing environments. Interactive Learning Environments, 31(9), 5614–5632. https://doi.org/10.1080/10494820.2021.2012812",
+          "journal-title": "Interactive Learning Environments"
+        },
+        {
+          "key": "10166_CR78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11423-025-10484-z",
+          "author": "CC Liu",
+          "year": "2025",
+          "unstructured": "Liu, C. C., Hwang, G. J., Yu, P., Tu, Y. F., & Wang, Y. (2025). Effects of an automated corrective feedback-based peer assessment approach on students’ learning achievement, motivation, and self-regulated learning conceptions in foreign language pronunciation. Educational Technology Research and Development. https://doi.org/10.1007/s11423-025-10484-z",
+          "journal-title": "Educational Technology Research and Development"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR79",
+          "doi-asserted-by": "publisher",
+          "first-page": "307",
+          "DOI": "10.3390/bs15030307",
+          "volume": "15",
+          "author": "S Liu",
+          "year": "2025",
+          "unstructured": "Liu, S., Kent, C., & Briscoe, J. (2025). Monitoring-based rewards enhance both learning performance and metacognitive monitoring accuracy. Behavioral Sciences, 15(3), 307. https://doi.org/10.3390/bs15030307",
+          "journal-title": "Behavioral Sciences"
+        },
+        {
+          "key": "10166_CR80",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Lodge, J. M., Panadero, E., Broadbent, J., & De Barba, P. G. (2018). Supporting self-regulated learning with learning analytics. In J. M. Lodge, J. C. Horvath, & L. Corrin (Eds.), Learning analytics in the classroom (1st ed., pp. 45–55). Routledge. https://doi.org/10.4324/9781351113038-4",
+          "DOI": "10.4324/9781351113038-4"
+        },
+        {
+          "key": "10166_CR81",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Lukešová, A., & Jennings, P. J. (2026). Clue before correction: ChatGPT-enhanced strategy for promoting autonomous and reflective language learning. Innovation in Language Learning and Teaching, 1–29. https://doi.org/10.1080/17501229.2025.2612532",
+          "DOI": "10.1080/17501229.2025.2612532"
+        },
+        {
+          "key": "10166_CR82",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Ma, Y., & Chen, M. (2025). The human touch in AI: Optimizing language learning through self-determination theory and teacher scaffolding. Frontiers in Psychology, 16. https://doi.org/10.3389/fpsyg.2025.1568239",
+          "DOI": "10.3389/fpsyg.2025.1568239"
+        },
+        {
+          "key": "10166_CR83",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Maity, S., & Deroy, A. (2024). Generative AI and its impact on personalized intelligent tutoring systems (arXiv:2410.10650). arXiv. https://doi.org/10.48550/arXiv.2410.10650",
+          "DOI": "10.48550/arXiv.2410.10650"
+        },
+        {
+          "key": "10166_CR84",
+          "doi-asserted-by": "publisher",
+          "first-page": "106159",
+          "DOI": "10.1016/j.nedt.2024.106159",
+          "volume": "137",
+          "author": "E Makhlouf",
+          "year": "2024",
+          "unstructured": "Makhlouf, E., Alenezi, A., & Shokr, E. A. (2024). Effectiveness of designing a knowledge-based artificial intelligence chatbot system into a nursing training program: A quasi-experimental design. Nurse Education Today, 137, 106159. https://doi.org/10.1016/j.nedt.2024.106159",
+          "journal-title": "Nurse Education Today"
+        },
+        {
+          "issue": "0",
+          "key": "10166_CR85",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/0142159X.2025.2543548",
+          "volume": "0",
+          "author": "N Mehta",
+          "year": "2025",
+          "unstructured": "Mehta, N., Benjamin, J., Agrawal, A., Valanci, S., Masters, K., & MacNeill, H. (2025). Addressing educational overload with generative AI through dual coding and cognitive load theories. Medical Teacher, 0(0), 1–3. https://doi.org/10.1080/0142159X.2025.2543548",
+          "journal-title": "Medical Teacher"
+        },
+        {
+          "key": "10166_CR86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/mac0000215",
+          "author": "A Mesghina",
+          "year": "2025",
+          "unstructured": "Mesghina, A., Au Yeung, N., & Richland, L. E. (2025). Uncertainty and perceptions of competence under pressure: Affective and motivational consequences of relative feedback during cognitive performance. Journal of Applied Research in Memory and Cognition. https://doi.org/10.1037/mac0000215",
+          "journal-title": "Journal of Applied Research in Memory and Cognition"
+        },
+        {
+          "key": "10166_CR87",
+          "doi-asserted-by": "publisher",
+          "first-page": "101101",
+          "DOI": "10.1016/j.iot.2024.101101",
+          "volume": "25",
+          "author": "E Ortega-Ochoa",
+          "year": "2024",
+          "unstructured": "Ortega-Ochoa, E., Quiroga Pérez, J., Arguedas, M., Daradoumis, T., & Marquès Puig, J. M. (2024). The effectiveness of empathic chatbot feedback for developing computer competencies, motivation, self-regulation, and metacognitive reasoning in online higher education. Internet of Things, 25, 101101. https://doi.org/10.1016/j.iot.2024.101101",
+          "journal-title": "Internet of Things"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR88",
+          "doi-asserted-by": "publisher",
+          "first-page": "113",
+          "DOI": "10.1007/s10648-024-09919-5",
+          "volume": "36",
+          "author": "AF Ortube",
+          "year": "2024",
+          "unstructured": "Ortube, A. F., Panadero, E., & Dignath, C. (2024). Self-regulated learning interventions for pre-service teachers: A systematic review. Educational Psychology Review, 36(4), 113. https://doi.org/10.1007/s10648-024-09919-5",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "key": "10166_CR89",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Ouyang, Z. (2025). Self-regulated learning and engagement as serial mediators between AI-driven adaptive learning platform characteristics and educational quality: A psychological mechanism analysis. Frontiers in Psychology, 16. https://doi.org/10.3389/fpsyg.2025.1646469",
+          "DOI": "10.3389/fpsyg.2025.1646469"
+        },
+        {
+          "key": "10166_CR90",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Page, M. J., Moher, D., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., & McKenzie, J. E. (2021). PRISMA 2020 explanation and elaboration: Updated guidance and exemplars for reporting systematic reviews. https://doi.org/10.1136/bmj.n160",
+          "DOI": "10.1136/bmj.n160"
+        },
+        {
+          "key": "10166_CR91",
+          "doi-asserted-by": "publisher",
+          "first-page": "422",
+          "DOI": "10.3389/fpsyg.2017.00422",
+          "volume": "8",
+          "author": "E Panadero",
+          "year": "2017",
+          "unstructured": "Panadero, E. (2017). A review of self-regulated learning: six models and four directions for research. Frontiers in Psychology, 8, 422. https://doi.org/10.3389/fpsyg.2017.00422",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "key": "10166_CR93",
+          "doi-asserted-by": "publisher",
+          "first-page": "100416",
+          "DOI": "10.1016/j.edurev.2021.100416",
+          "volume": "35",
+          "author": "E Panadero",
+          "year": "2022",
+          "unstructured": "Panadero, E., & Lipnevich, A. A. (2022). A review of feedback models and typologies: Towards an integrative model of feedback elements. Educational Research Review, 35, 100416. https://doi.org/10.1016/j.edurev.2021.100416",
+          "journal-title": "Educational Research Review"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR92",
+          "doi-asserted-by": "publisher",
+          "first-page": "113",
+          "DOI": "10.1007/s10648-023-09823-4",
+          "volume": "35",
+          "author": "E Panadero",
+          "year": "2023",
+          "unstructured": "Panadero, E., Jonsson, A., Pinedo, L., & Fernández-Castilla, B. (2023). Effects of rubrics on academic performance, self-regulated learning, and self-efficacy: A meta-analytic review. Educational Psychology Review, 35(4), 113. https://doi.org/10.1007/s10648-023-09823-4",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "issue": "10",
+          "key": "10166_CR94",
+          "doi-asserted-by": "publisher",
+          "first-page": "991",
+          "DOI": "10.1016/j.jclinepi.2007.11.010",
+          "volume": "61",
+          "author": "JL Peters",
+          "year": "2008",
+          "unstructured": "Peters, J. L., Sutton, A. J., Jones, D. R., Abrams, K. R., & Rushton, L. (2008). Contour-enhanced meta-analysis funnel plots help distinguish publication bias from other causes of asymmetry. Journal of Clinical Epidemiology, 61(10), 991–996. https://doi.org/10.1016/j.jclinepi.2007.11.010",
+          "journal-title": "Journal of Clinical Epidemiology"
+        },
+        {
+          "key": "10166_CR95",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Pintrich, P. R. (2000). The role of goal orientation in self-regulated learning. In Handbook of Self-Regulation (pp. 451–502). Elsevier. https://doi.org/10.1016/B978-012109890-2/50043-3",
+          "DOI": "10.1016/B978-012109890-2/50043-3"
+        },
+        {
+          "key": "10166_CR96",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Poitras, E. G., & Lajoie, S. P. (2017). Using technology-rich environments to foster self-regulated learning in social studies. In D. H. Schunk & J. A. Greene (Eds.), Handbook of Self-Regulation of Learning and Performance (2nd ed., pp. 166–180). Routledge. https://doi.org/10.4324/9781315697048-11",
+          "DOI": "10.4324/9781315697048-11"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR97",
+          "doi-asserted-by": "publisher",
+          "first-page": "141",
+          "DOI": "10.1037/met0000300",
+          "volume": "26",
+          "author": "MA Rodgers",
+          "year": "2021",
+          "unstructured": "Rodgers, M. A., & Pustejovsky, J. E. (2021). Evaluating meta-analytic methods to detect selective reporting in the presence of dependent effect sizes. Psychological Methods, 26(2), 141–160. https://doi.org/10.1037/met0000300",
+          "journal-title": "Psychological Methods"
+        },
+        {
+          "issue": "15",
+          "key": "10166_CR99",
+          "doi-asserted-by": "publisher",
+          "first-page": "8679",
+          "DOI": "10.3390/app15158679",
+          "volume": "15",
+          "author": "MÁ Rodríguez-Ortiz",
+          "year": "2025",
+          "unstructured": "Rodríguez-Ortiz, M. Á., Santana-Mancilla, P. C., & Anido-Rifón, L. E. (2025). Machine learning and generative AI in learning analytics for higher education: A systematic review of models, trends, and challenges. Applied Sciences, 15(15), 8679. https://doi.org/10.3390/app15158679",
+          "journal-title": "Applied Sciences"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR100",
+          "doi-asserted-by": "publisher",
+          "first-page": "638",
+          "DOI": "10.1037/0033-2909.86.3.638",
+          "volume": "86",
+          "author": "R Rosenthal",
+          "year": "1979",
+          "unstructured": "Rosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychological Bulletin, 86(3), 638–641. https://doi.org/10.1037/0033-2909.86.3.638",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR101",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1007/s11409-019-09188-6",
+          "volume": "14",
+          "author": "SFE Rovers",
+          "year": "2019",
+          "unstructured": "Rovers, S. F. E., Clarebout, G., Savelberg, H. H. C. M., de Bruin, A. B. H., & van Merriënboer, J. J. G. (2019). Granularity matters: Comparing different ways of measuring self-regulated learning. Metacognition and Learning, 14(1), 1–19. https://doi.org/10.1007/s11409-019-09188-6",
+          "journal-title": "Metacognition and Learning"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR102",
+          "doi-asserted-by": "publisher",
+          "first-page": "97",
+          "DOI": "10.1177/1469787420982378",
+          "volume": "23",
+          "author": "JM Russell",
+          "year": "2022",
+          "unstructured": "Russell, J. M., Baik, C., Ryan, A. T., & Molloy, E. (2022). Fostering self-regulated learning in higher education: Making self-regulation visible. Active Learning in Higher Education, 23(2), 97–113. https://doi.org/10.1177/1469787420982378",
+          "journal-title": "Active Learning in Higher Education"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR103",
+          "doi-asserted-by": "publisher",
+          "first-page": "68",
+          "DOI": "10.1037/0003-066x.55.1.68",
+          "volume": "55",
+          "author": "RM Ryan",
+          "year": "2000",
+          "unstructured": "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. The American Psychologist, 55(1), 68–78. https://doi.org/10.1037/0003-066x.55.1.68",
+          "journal-title": "The American Psychologist"
+        },
+        {
+          "key": "10166_CR104",
+          "doi-asserted-by": "publisher",
+          "first-page": "105163",
+          "DOI": "10.1016/j.compedu.2024.105163",
+          "volume": "223",
+          "author": "R Schiller",
+          "year": "2024",
+          "unstructured": "Schiller, R., Fleckenstein, J., Mertens, U., Horbach, A., & Meyer, J. (2024). Understanding the effectiveness of automated feedback: Using process data to uncover the role of behavioral engagement. Computers & Education, 223, 105163. https://doi.org/10.1016/j.compedu.2024.105163",
+          "journal-title": "Computers & Education"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR105",
+          "doi-asserted-by": "publisher",
+          "first-page": "44",
+          "DOI": "10.1007/s10648-023-09758-w",
+          "volume": "35",
+          "author": "J Schindler",
+          "year": "2023",
+          "unstructured": "Schindler, J., & Richter, T. (2023). Text generation benefits learning: A meta-analytic review. Educational Psychology Review, 35(2), 44. https://doi.org/10.1007/s10648-023-09758-w",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "key": "10166_CR106",
+          "doi-asserted-by": "publisher",
+          "first-page": "111988",
+          "DOI": "10.1016/j.jss.2024.111988",
+          "volume": "211",
+          "author": "R Sembey",
+          "year": "2024",
+          "unstructured": "Sembey, R., Hoda, R., & Grundy, J. (2024). Emerging technologies in higher education assessment and feedback practices: A systematic literature review. Journal of Systems and Software, 211, 111988. https://doi.org/10.1016/j.jss.2024.111988",
+          "journal-title": "Journal of Systems and Software"
+        },
+        {
+          "key": "10166_CR107",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Serral, E., & Snoeck, M. (2016). Conceptual framework for feedback automation in SLEs. In V. L. Uskov, R. J. Howlett, & L. C. Jain (Eds.), Smart education and e-learning 2016 (pp. 97–107). Springer International Publishing. https://doi.org/10.1007/978-3-319-39690-3_9",
+          "DOI": "10.1007/978-3-319-39690-3_9"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR108",
+          "doi-asserted-by": "publisher",
+          "first-page": "153",
+          "DOI": "10.3102/0034654307313795",
+          "volume": "78",
+          "author": "VJ Shute",
+          "year": "2008",
+          "unstructured": "Shute, V. J. (2008). Focus on formative feedback. Review of Educational Research, 78(1), 153–189. https://doi.org/10.3102/0034654307313795",
+          "journal-title": "Review of Educational Research"
+        },
+        {
+          "key": "10166_CR109",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2502.12447",
+          "author": "A Singh",
+          "year": "2025",
+          "unstructured": "Singh, A., Taneja, K., Guan, Z., & Ghosh, A. (2025). Protecting human cognition in the age of AI (arXiv:2502.12447). arXiv. https://doi.org/10.48550/arXiv.2502.12447",
+          "journal-title": "arXiv"
+        },
+        {
+          "issue": "3",
+          "key": "10166_CR110",
+          "doi-asserted-by": "publisher",
+          "first-page": "249",
+          "DOI": "10.1080/15391523.2020.1767525",
+          "volume": "53",
+          "author": "D Song",
+          "year": "2021",
+          "unstructured": "Song, D., & Kim, D. (2021). Effects of self-regulation scaffolding on online participation and learning outcomes. Journal of Research on Technology in Education, 53(3), 249–263. https://doi.org/10.1080/15391523.2020.1767525",
+          "journal-title": "Journal of Research on Technology in Education"
+        },
+        {
+          "key": "10166_CR111",
+          "doi-asserted-by": "publisher",
+          "first-page": "108386",
+          "DOI": "10.1016/j.chb.2024.108386",
+          "volume": "160",
+          "author": "M Stadler",
+          "year": "2024",
+          "unstructured": "Stadler, M., Bannert, M., & Sailer, M. (2024). Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry. Computers in Human Behavior, 160, 108386. https://doi.org/10.1016/j.chb.2024.108386",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "10166_CR112",
+          "doi-asserted-by": "publisher",
+          "first-page": "100296",
+          "DOI": "10.1016/j.edurev.2019.100296",
+          "volume": "28",
+          "author": "EK Swart",
+          "year": "2019",
+          "unstructured": "Swart, E. K., Nielen, T. M. J., & Sikkema-De Jong, M. T. (2019). Supporting learning from text: A meta-analysis on the timing and content of effective feedback. Educational Research Review, 28, 100296. https://doi.org/10.1016/j.edurev.2019.100296",
+          "journal-title": "Educational Research Review"
+        },
+        {
+          "key": "10166_CR113",
+          "doi-asserted-by": "publisher",
+          "first-page": "102423",
+          "DOI": "10.1016/j.lindif.2024.102423",
+          "volume": "110",
+          "author": "J Sweller",
+          "year": "2024",
+          "unstructured": "Sweller, J. (2024). Cognitive load theory and individual differences. Learning and Individual Differences, 110, 102423. https://doi.org/10.1016/j.lindif.2024.102423",
+          "journal-title": "Learning and Individual Differences"
+        },
+        {
+          "key": "10166_CR114",
+          "doi-asserted-by": "publisher",
+          "first-page": "101976",
+          "DOI": "10.1016/j.cedpsych.2021.101976",
+          "volume": "66",
+          "author": "M Theobald",
+          "year": "2021",
+          "unstructured": "Theobald, M. (2021). Self-regulated learning training programs enhance university students’ academic performance, self-regulated learning strategies, and motivation: A meta-analysis. Contemporary Educational Psychology, 66, 101976. https://doi.org/10.1016/j.cedpsych.2021.101976",
+          "journal-title": "Contemporary Educational Psychology"
+        },
+        {
+          "issue": "8",
+          "key": "10166_CR115",
+          "doi-asserted-by": "publisher",
+          "first-page": "872",
+          "DOI": "10.3390/educsci14080872",
+          "volume": "14",
+          "author": "M Trypke",
+          "year": "2024",
+          "unstructured": "Trypke, M., Stebner, F., & Wirth, J. (2024). The more, the better? Exploring the effects of modal and codal redundancy on learning and cognitive load: An experimental study. Education Sciences, 14(8), 872. https://doi.org/10.3390/educsci14080872",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR116",
+          "doi-asserted-by": "publisher",
+          "first-page": "841",
+          "DOI": "10.1080/15391523.2022.2040401",
+          "volume": "55",
+          "author": "AB Ustun",
+          "year": "2023",
+          "unstructured": "Ustun, A. B., Zhang, K., Karaoğlan-Yilmaz, F. G., & Yilmaz, R. (2023). Learning analytics based feedback and recommendations in flipped classrooms: An experimental study in higher education. Journal of Research on Technology in Education, 55(5), 841–857. https://doi.org/10.1080/15391523.2022.2040401",
+          "journal-title": "Journal of Research on Technology in Education"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR117",
+          "doi-asserted-by": "publisher",
+          "first-page": "85",
+          "DOI": "10.1111/j.1365-2923.2009.03498.x",
+          "volume": "44",
+          "author": "JJG Van Merriënboer",
+          "year": "2010",
+          "unstructured": "Van Merriënboer, J. J. G., & Sweller, J. (2010). Cognitive load theory in health professional education: Design principles and strategies. Medical Education, 44(1), 85–93. https://doi.org/10.1111/j.1365-2923.2009.03498.x",
+          "journal-title": "Medical Education"
+        },
+        {
+          "issue": "2",
+          "key": "10166_CR118",
+          "doi-asserted-by": "publisher",
+          "first-page": "246",
+          "DOI": "10.1037/0022-3514.87.2.246",
+          "volume": "87",
+          "author": "M Vansteenkiste",
+          "year": "2004",
+          "unstructured": "Vansteenkiste, M., Simons, J., Lens, W., Sheldon, K. M., & Deci, E. L. (2004). Motivating Learning, Performance, and Persistence: The Synergistic Effects of Intrinsic Goal Contents and Autonomy-Supportive Contexts. Journal of Personality and Social Psychology, 87(2), 246–260. https://doi.org/10.1037/0022-3514.87.2.246",
+          "journal-title": "Journal of Personality and Social Psychology"
+        },
+        {
+          "key": "10166_CR119",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.18637/jss.v036.i03",
+          "volume": "36",
+          "author": "W Viechtbauer",
+          "year": "2010",
+          "unstructured": "Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36, 1–48. https://doi.org/10.18637/jss.v036.i03",
+          "journal-title": "Journal of Statistical Software"
+        },
+        {
+          "key": "10166_CR121",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Wang, J., & Fan, W. (2025). The effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking: Insights from a meta-analysis. Humanities and Social Sciences Communications, 12(1). https://doi.org/10.1057/s41599-025-04787-y",
+          "DOI": "10.1057/s41599-025-04787-y"
+        },
+        {
+          "issue": "7",
+          "key": "10166_CR120",
+          "doi-asserted-by": "publisher",
+          "first-page": "4633",
+          "DOI": "10.1080/10494820.2025.2470319",
+          "volume": "33",
+          "author": "F Wang",
+          "year": "2025",
+          "unstructured": "Wang, F., Zhou, X., Li, K., Cheung, A. C. K., & Tian, M. (2025). The effects of artificial intelligence-based interactive scaffolding on secondary students’ speaking performance, goal setting, self-evaluation, and motivation in informal digital learning of English. Interactive Learning Environments, 33(7), 4633–4652. https://doi.org/10.1080/10494820.2025.2470319",
+          "journal-title": "Interactive Learning Environments"
+        },
+        {
+          "key": "10166_CR123",
+          "doi-asserted-by": "publisher",
+          "first-page": "100661",
+          "DOI": "10.1016/j.edurev.2024.100661",
+          "volume": "46",
+          "author": "XM Wang",
+          "year": "2025",
+          "unstructured": "Wang, X. M., Yu, X. H., Yu, D., Hwang, G. J., & Lan, M. (2025). Does combining real and virtual experiments improve learning achievement in physics? Evidence from a meta-analysis (2001–2021). Educational Research Review, 46, 100661. https://doi.org/10.1016/j.edurev.2024.100661",
+          "journal-title": "Educational Research Review"
+        },
+        {
+          "key": "10166_CR122",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Wang, M., Xiong, Y., & Wang, M. (2026). Impact of school support on cognitive engagement strategies in crisis contexts: Dual pathways of academic motivation and psychological resilience. Frontiers in Psychology, 16. https://doi.org/10.3389/fpsyg.2025.1675487",
+          "DOI": "10.3389/fpsyg.2025.1675487"
+        },
+        {
+          "issue": "12",
+          "key": "10166_CR124",
+          "doi-asserted-by": "publisher",
+          "first-page": "1649",
+          "DOI": "10.3390/bs15121649",
+          "volume": "15",
+          "author": "Q Wen",
+          "year": "2025",
+          "unstructured": "Wen, Q., Wang, J., Guo, Z., & Badulescu, D. (2025). Divergent role of AI in social development: A comparative study of teachers’ and students’ perceptions in online and physical classrooms. Behavioral Sciences, 15(12), 1649. https://doi.org/10.3390/bs15121649",
+          "journal-title": "Behavioral Sciences"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR125",
+          "doi-asserted-by": "publisher",
+          "first-page": "17",
+          "DOI": "10.1080/00461520.2016.1207538",
+          "volume": "52",
+          "author": "NE Winstone",
+          "year": "2017",
+          "unstructured": "Winstone, N. E., Nash, R. A., Parker, M., & Rowntree, J. (2017). Supporting learners’ agentic engagement with feedback: A systematic review and a taxonomy of recipience processes. Educational Psychologist, 52(1), 17–37. https://doi.org/10.1080/00461520.2016.1207538",
+          "journal-title": "Educational Psychologist"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR126",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.1111/bjet.13334",
+          "volume": "55",
+          "author": "R Wu",
+          "year": "2024",
+          "unstructured": "Wu, R., & Yu, Z. (2024). Do AI chatbots improve students learning outcomes? Evidence from a meta-analysis. British Journal of Educational Technology, 55(1), 10–33. https://doi.org/10.1111/bjet.13334",
+          "journal-title": "British Journal of Educational Technology"
+        },
+        {
+          "key": "10166_CR127",
+          "doi-asserted-by": "publisher",
+          "first-page": "104582",
+          "DOI": "10.1016/j.compedu.2022.104582",
+          "volume": "189",
+          "author": "Q Xia",
+          "year": "2022",
+          "unstructured": "Xia, Q., Chiu, T. K. F., Lee, M., Sanusi, I. T., Dai, Y., & Chai, C. S. (2022). A self-determination theory (SDT) design approach for inclusive and diverse artificial intelligence (AI) education. Computers & Education, 189, 104582. https://doi.org/10.1016/j.compedu.2022.104582",
+          "journal-title": "Computers & Education"
+        },
+        {
+          "key": "10166_CR128",
+          "doi-asserted-by": "publisher",
+          "first-page": "105465",
+          "DOI": "10.1016/j.compedu.2025.105465",
+          "volume": "240",
+          "author": "Q Xia",
+          "year": "2026",
+          "unstructured": "Xia, Q., Liu, Q., Tlili, A., & Chiu, T. K. F. (2026). A systematic literature review on designing self-regulated learning using generative artificial intelligence and its future research directions. Computers & Education, 240, 105465. https://doi.org/10.1016/j.compedu.2025.105465",
+          "journal-title": "Computers & Education"
+        },
+        {
+          "issue": "10",
+          "key": "10166_CR129",
+          "doi-asserted-by": "publisher",
+          "first-page": "4335",
+          "DOI": "10.3390/su17104335",
+          "volume": "17",
+          "author": "C Xu",
+          "year": "2025",
+          "unstructured": "Xu, C., & Cho, S. E. (2025). Factors affecting human–AI collaboration performances in financial sector: Sustainable service development perspective. Sustainability, 17(10), 4335. https://doi.org/10.3390/su17104335",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "5",
+          "key": "10166_CR130",
+          "doi-asserted-by": "publisher",
+          "first-page": "1821",
+          "DOI": "10.1007/s40299-025-00995-x",
+          "volume": "34",
+          "author": "X Xu",
+          "year": "2025",
+          "unstructured": "Xu, X., Cheng, N., Tao, J., Qiao, L., Liu, H., Zhao, W., & Guo, X. (2025). The impact of motivation-driven visualization feedback on self-regulated learning: An empirical study. The Asia-Pacific Education Researcher, 34(5), 1821–1836. https://doi.org/10.1007/s40299-025-00995-x",
+          "journal-title": "The Asia-Pacific Education Researcher"
+        },
+        {
+          "key": "10166_CR131",
+          "doi-asserted-by": "publisher",
+          "first-page": "100855",
+          "DOI": "10.1016/j.iheduc.2022.100855",
+          "volume": "54",
+          "author": "D Ye",
+          "year": "2022",
+          "unstructured": "Ye, D., & Pennisi, S. (2022). Using trace data to enhance students’ self-regulation: A learning analytics perspective. The Internet and Higher Education, 54, 100855. https://doi.org/10.1016/j.iheduc.2022.100855",
+          "journal-title": "The Internet and Higher Education"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR132",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.3390/educsci16010039",
+          "volume": "16",
+          "author": "L Yuan",
+          "year": "2026",
+          "unstructured": "Yuan, L., Xu, J., & Zhan, Z. (2026). Effects of pedagogical agent-generated summaries on video-based learning: Evidence from eye-tracking and EEG. Education Sciences, 16(1), 39. https://doi.org/10.3390/educsci16010039",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "0",
+          "key": "10166_CR133",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/02602938.2025.2471821",
+          "volume": "0",
+          "author": "Y Zhan",
+          "year": "2025",
+          "unstructured": "Zhan, Y., & Yan, Z. (2025). Students’ engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. Assessment & Evaluation in Higher Education, 0(0), 1–14. https://doi.org/10.1080/02602938.2025.2471821",
+          "journal-title": "Assessment & Evaluation in Higher Education"
+        },
+        {
+          "issue": "11",
+          "key": "10166_CR134",
+          "doi-asserted-by": "publisher",
+          "first-page": "e0314088",
+          "DOI": "10.1371/journal.pone.0314088",
+          "volume": "19",
+          "author": "H Zhang",
+          "year": "2024",
+          "unstructured": "Zhang, H. (2024). Cognitive load as a mediator in self-efficacy and English learning motivation among vocational college students. PLOS ONE, 19(11), e0314088. https://doi.org/10.1371/journal.pone.0314088",
+          "journal-title": "PLOS ONE"
+        },
+        {
+          "issue": "4",
+          "key": "10166_CR135",
+          "doi-asserted-by": "publisher",
+          "first-page": "e70329",
+          "DOI": "10.1111/ejed.70329",
+          "volume": "60",
+          "author": "J Zhang",
+          "year": "2025",
+          "unstructured": "Zhang, J., & Derakhshan, A. (2025). Integrating ‘GPT-4o’ as an AI tool into K-12 contexts: Assessing its long-term effects on students’ self-regulated learning (SRL) and task engagement through latent growth curve modelling. European Journal of Education, 60(4), e70329. https://doi.org/10.1111/ejed.70329",
+          "journal-title": "European Journal of Education"
+        },
+        {
+          "issue": "0",
+          "key": "10166_CR137",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/02602938.2025.2571846",
+          "volume": "0",
+          "author": "Y Zhang",
+          "year": "2025",
+          "unstructured": "Zhang, Y., & Liu, Y. (2025). Designing ChatGPT-mediated feedback activities in EFL writing: A design-based study of the dialogic feedback triangle. Assessment & Evaluation in Higher Education, 0(0), 1–21. https://doi.org/10.1080/02602938.2025.2571846",
+          "journal-title": "Assessment & Evaluation in Higher Education"
+        },
+        {
+          "key": "10166_CR136",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2112.01982",
+          "author": "T Zhang",
+          "year": "2021",
+          "unstructured": "Zhang, T., Taub, M., & Chen, Z. (2021). A multi-level trace clustering analysis scheme for measuring students’ self-regulated learning behavior in a master-based online learning environment (arXiv:2112.01982). arXiv. https://doi.org/10.48550/arXiv.2112.01982",
+          "journal-title": "arXiv"
+        },
+        {
+          "issue": "1",
+          "key": "10166_CR139",
+          "doi-asserted-by": "publisher",
+          "first-page": "zmae022",
+          "DOI": "10.1093/jcmc/zmae022",
+          "volume": "30",
+          "author": "X Zhao",
+          "year": "2025",
+          "unstructured": "Zhao, X., Sun, Y., Liu, W., & Wong, C. W. (2025). Tailoring generative AI chatbots for multiethnic communities in disaster preparedness communication: Extending the CASA paradigm. Journal of Computer-Mediated Communication, 30(1), zmae022. https://doi.org/10.1093/jcmc/zmae022",
+          "journal-title": "Journal of Computer-Mediated Communication"
+        },
+        {
+          "issue": "12",
+          "key": "10166_CR140",
+          "doi-asserted-by": "publisher",
+          "first-page": "160",
+          "DOI": "10.3390/jintelligence13120160",
+          "volume": "13",
+          "author": "Y Zhao",
+          "year": "2025",
+          "unstructured": "Zhao, Y., Yue, Y., Sun, Z., Jiang, Q., & Li, G. (2025). Does generative artificial intelligence improve students’ higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments. Journal of Intelligence, 13(12), 160. https://doi.org/10.3390/jintelligence13120160",
+          "journal-title": "Journal of Intelligence"
+        },
+        {
+          "key": "10166_CR138",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/arXiv.2601.15280",
+          "author": "CQ Zhao",
+          "year": "2026",
+          "unstructured": "Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). LLM-based multimodal feedback produces equivalent learning and better student perceptions than educator feedback (arXiv:2601.15280). arXiv. https://doi.org/10.48550/arXiv.2601.15280",
+          "journal-title": "arXiv"
+        },
+        {
+          "key": "10166_CR141",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10956-025-10204-5",
+          "author": "L Zheng",
+          "year": "2025",
+          "unstructured": "Zheng, L., Shi, Z., Fu, Z., & Liu, S. (2025). The impacts of intelligent feedback on learning achievements and learning perceptions in inquiry-based science learning: A meta-analysis of studies from 2013 to 2023. Journal of Science Education and Technology. https://doi.org/10.1007/s10956-025-10204-5",
+          "journal-title": "Journal of Science Education and Technology"
+        }
+      ],
+      "container-title": [
+        "Educational Psychology Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s10648-026-10166-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s10648-026-10166-z",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s10648-026-10166-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ],
+        "date-time": "2026-05-04T10:29:28Z",
+        "timestamp": 1777890568000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s10648-026-10166-z"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ]
+      },
+      "references-count": 141,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10166"
+      ],
+      "URL": "https://doi.org/10.1007/s10648-026-10166-z",
+      "relation": {},
+      "ISSN": [
+        "1040-726X",
+        "1573-336X"
+      ],
+      "issn-type": [
+        {
+          "value": "1040-726X",
+          "type": "print"
+        },
+        {
+          "value": "1573-336X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            4
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "30 April 2025",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "24 April 2026",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "4 May 2026",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "Not applicable (this research does not involve human participants).",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethical Approval"
+          }
+        },
+        {
+          "value": "The authors declare that they have no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        }
+      ],
+      "article-number": "64"
+    }
+  }
+}

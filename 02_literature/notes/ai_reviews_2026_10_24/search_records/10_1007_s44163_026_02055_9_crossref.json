@@ -1,0 +1,876 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+    "checked_at": "2026-10-24T02:10:10.593131Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2026-08-24T07:21:28Z",
+        "timestamp": 1787556088745,
+        "version": "build-2736575974"
+      },
+      "reference-count": 56,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                24
+              ]
+            ],
+            "date-time": "2026-08-24T00:00:00Z",
+            "timestamp": 1787529600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                24
+              ]
+            ],
+            "date-time": "2026-08-24T00:00:00Z",
+            "timestamp": 1787529600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Discov Artif Intell"
+      ],
+      "DOI": "10.1007/s44163-026-02055-9",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2026-08-24T06:51:05Z",
+        "timestamp": 1787554265000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Artificial intelligence and the reconfiguration of competency management systems in organizations"
+      ],
+      "prefix": "10.1007",
+      "volume": "6",
+      "author": [
+        {
+          "given": "Maryann Osadebamwen",
+          "family": "Asemota",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "1",
+          "key": "2055_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.47297/wspchrmWSP2040-800502.20231401",
+          "volume": "14",
+          "author": "H Alan",
+          "year": "2023",
+          "unstructured": "Alan H. A systematic bibliometric analysis on the current digital human resources management studies and directions for future research. J Chin Hum Resour Manag. 2023;14(1):38–59.",
+          "journal-title": "J Chin Hum Resour Manag"
+        },
+        {
+          "key": "2055_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "487",
+          "DOI": "10.1007/978-3-030-72080-3_26",
+          "volume-title": "Applications of artificial intelligence in business, education and healthcare",
+          "author": "SH Aldulaimi",
+          "year": "2021",
+          "unstructured": "Aldulaimi SH, Abdeldayem MM, Mowafak BM, Abdulaziz MM. Experimental perspective of artificial intelligence technology in human resources management. Applications of artificial intelligence in business, education and healthcare. Cham: Springer International Publishing; 2021. pp. 487–511. https://doi.org/10.1007/978-3-030-72080-3_26."
+        },
+        {
+          "key": "2055_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "114786",
+          "DOI": "10.1016/j.jbusres.2024.114786",
+          "volume": "182",
+          "author": "M An",
+          "year": "2024",
+          "unstructured": "An M, Lin J, Luo XR. The impact of human AI skills on organizational innovation: the moderating role of digital organizational culture. J Bus Res. 2024;182:114786. https://doi.org/10.1016/j.jbusres.2024.114786.",
+          "journal-title": "J Bus Res"
+        },
+        {
+          "key": "2055_CR4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/admsci14060127",
+          "author": "L Babashahi",
+          "year": "2024",
+          "unstructured": "Babashahi L, Barbosa C, Lima Y, Lyra A, Salazar H, Argôlo M, Almeida M, Souza J. AI in the workplace: a systematic review of skill transformation in the industry. Administrative Sci. 2024. https://doi.org/10.3390/admsci14060127.",
+          "journal-title": "Administrative Sci"
+        },
+        {
+          "issue": "8",
+          "key": "2055_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "1749",
+          "DOI": "10.1108/IMDS-01-2021-0015",
+          "volume": "121",
+          "author": "S Barnes",
+          "year": "2021",
+          "unstructured": "Barnes S, Rutter RN, Paz L, A. I., Scornavacca E. Empirical identification of skills gaps between chief information officer supply and demand: a resource-based view using machine learning. Industrial Manage Data Syst. 2021;121(8):1749–66. https://doi.org/10.1108/IMDS-01-2021-0015.",
+          "journal-title": "Industrial Manage Data Syst"
+        },
+        {
+          "issue": "5",
+          "key": "2055_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "926",
+          "DOI": "10.1108/JSTPM-05-2022-0087",
+          "volume": "15",
+          "author": "SS Bhattacharyya",
+          "year": "2024",
+          "unstructured": "Bhattacharyya SS. Co-working with robotic and automation technologies: technology anxiety of frontline workers in organisations. J Sci Technol Policy Manage. 2024;15(5):926–47. https://doi.org/10.1108/JSTPM-05-2022-0087.",
+          "journal-title": "J Sci Technol Policy Manage"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR7",
+          "doi-asserted-by": "publisher",
+          "first-page": "175",
+          "DOI": "10.1108/JMD-01-2019-0032",
+          "volume": "38",
+          "author": "SS Bhattacharyya",
+          "year": "2019",
+          "unstructured": "Bhattacharyya SS, Nair S. Explicating the future of work: perspectives from India. J Manage Dev. 2019;38(3):175–94. https://doi.org/10.1108/JMD-01-2019-0032.",
+          "journal-title": "J Manage Dev"
+        },
+        {
+          "issue": "10",
+          "key": "2055_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "163",
+          "DOI": "10.1108/ejtd-03-2023-0045",
+          "volume": "47",
+          "author": "R Bukartaite",
+          "year": "2023",
+          "unstructured": "Bukartaite R, Hooper D. Automation, artificial intelligence and future skills needs: an Irish perspective. Eur J Train Dev. 2023;47(10):163–85. https://doi.org/10.1108/ejtd-03-2023-0045.",
+          "journal-title": "Eur J Train Dev"
+        },
+        {
+          "key": "2055_CR9",
+          "doi-asserted-by": "publisher",
+          "first-page": "225",
+          "DOI": "10.1111/j.1744-6570.2010.01207.x",
+          "volume": "64",
+          "author": "M Campion",
+          "year": "2011",
+          "unstructured": "Campion M, Fink AA, Ruggeberg BJ, Carr LL, Phillips GM, Odman RB. Doing competencies well: best practices in competency modeling. Pers Psychol. 2011;64:225–62. https://doi.org/10.1111/j.1744-6570.2010.01207.x.",
+          "journal-title": "Pers Psychol"
+        },
+        {
+          "issue": "1",
+          "key": "2055_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "100899",
+          "DOI": "10.1016/j.hrmr.2022.100899",
+          "volume": "33",
+          "author": "S Chowdhury",
+          "year": "2022",
+          "unstructured": "Chowdhury S, Dey P, Joel-Edgar S, Bhattacharya S, Rodriguez-Espindola O, Abadie A, Truong L. Unlocking the value of artificial intelligence in human resource management through AI capability framework. Hum Resource Manage Rev. 2022;33(1):100899. https://doi.org/10.1016/j.hrmr.2022.100899.",
+          "journal-title": "Hum Resource Manage Rev"
+        },
+        {
+          "issue": "6–7",
+          "key": "2055_CR11",
+          "doi-asserted-by": "publisher",
+          "first-page": "617",
+          "DOI": "10.1108/EJTD-10-2019-0183",
+          "volume": "45",
+          "author": "S Chuang",
+          "year": "2021",
+          "unstructured": "Chuang S. An empirical study of displaceable job skills in the age of robots. Eur J Train Dev. 2021;45(6–7):617–32. https://doi.org/10.1108/EJTD-10-2019-0183.",
+          "journal-title": "Eur J Train Dev"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR12",
+          "first-page": "103",
+          "volume": "4",
+          "author": "D Darmawan",
+          "year": "2025",
+          "unstructured": "Darmawan D. Job redesign, automation, and digital workforce competencies in the twenty-first century. Bull Sci Technol Soc. 2025;4(3):103–14.",
+          "journal-title": "Bull Sci Technol Soc"
+        },
+        {
+          "key": "2055_CR13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.techfore.2024.123301",
+          "author": "R Deepa",
+          "year": "2024",
+          "unstructured": "Deepa R, Sekar S, Malik A, Kumar J, Attri R, Gupta V. Impact of AI-focussed technologies on social and technical competencies for HR managers—a systematic review and research agenda. Technol Forecast Soc Chang. 2024. https://doi.org/10.1016/j.techfore.2024.123301.",
+          "journal-title": "Technol Forecast Soc Chang"
+        },
+        {
+          "key": "2055_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "122847",
+          "DOI": "10.1016/j.techfore.2023.122847",
+          "volume": "196",
+          "author": "V Delke",
+          "year": "2023",
+          "unstructured": "Delke V, Schiele H, Buchholz W, Kelly S. Implementing Industry 4.0 technologies: future roles in purchasing and supply management. Technol Forecast Soc Chang. 2023;196:122847. https://doi.org/10.1016/j.techfore.2023.122847.",
+          "journal-title": "Technol Forecast Soc Chang"
+        },
+        {
+          "issue": "S1",
+          "key": "2055_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "S337",
+          "DOI": "10.1086/694106",
+          "volume": "36",
+          "author": "D Deming",
+          "year": "2018",
+          "unstructured": "Deming D, Kahn LB. Skill requirements across firms and labor markets: evidence from job postings for professionals. J Labor Econ. 2018;36(S1):S337–69.",
+          "journal-title": "J Labor Econ"
+        },
+        {
+          "issue": "9",
+          "key": "2055_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "5586",
+          "DOI": "10.1287/mnsc.2020.3812",
+          "volume": "67",
+          "author": "J Dixon",
+          "year": "2021",
+          "unstructured": "Dixon J, Hong B, Wu L. The robot revolution: Managerial and employment consequences for firms. Manage Sci. 2021;67(9):5586–605. https://doi.org/10.1287/mnsc.2020.3812.",
+          "journal-title": "Manage Sci"
+        },
+        {
+          "key": "2055_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "2630",
+          "DOI": "10.9770/jesi.2020.7.4(5)",
+          "volume": "7",
+          "author": "H Dźwigoł",
+          "year": "2020",
+          "unstructured": "Dźwigoł H, Dźwigoł-Barosz M, Miśkiewicz R, Kwiliński A. Manager competency assessment model in the conditions of industry 4.0. Entrepreneurship Sustain Issues. 2020;7:2630–44. https://doi.org/10.9770/jesi.2020.7.4(5).",
+          "journal-title": "Entrepreneurship Sustain Issues"
+        },
+        {
+          "key": "2055_CR18",
+          "doi-asserted-by": "publisher",
+          "unstructured": "França TJF, São Mamede H, Barroso JMP, Dos Santos VMPD. Artificial intelligence applied to potential assessment and talent identification in an organisational context. Heliyon. 2023;9(4). https://doi.org/10.1016/j.heliyon.2023.e14694.",
+          "DOI": "10.1016/j.heliyon.2023.e14694"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "20",
+          "DOI": "10.4018/IJEIS.2020070102",
+          "volume": "16",
+          "author": "C Gallego-Gomez",
+          "year": "2020",
+          "unstructured": "Gallego-Gomez C, De-Pablos-Heredero C. Artificial intelligence as an enabling tool for the development of dynamic capabilities in the banking industry. Int J Enterp Inform Syst (IJEIS). 2020;16(3):20–33. https://doi.org/10.4018/IJEIS.2020070102.",
+          "journal-title": "Int J Enterp Inform Syst (IJEIS)"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "566",
+          "DOI": "10.1080/12460125.2022.2069537",
+          "volume": "32",
+          "author": "L Giraud",
+          "year": "2023",
+          "unstructured": "Giraud L, Zaher A, Hernandez S, Akram AA. The impacts of artificial intelligence on managerial skills. J Decis Syst. 2023;32(3):566–99. https://doi.org/10.1080/12460125.2022.2069537.",
+          "journal-title": "J Decis Syst"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR21",
+          "doi-asserted-by": "publisher",
+          "first-page": "40",
+          "DOI": "10.1162/asep_a_00783",
+          "volume": "19",
+          "author": "L Glawe",
+          "year": "2020",
+          "unstructured": "Glawe L, Wagner H. The middle-income trap 2.0: The increasing role of human capital in the age of automation and implications for developing Asia. Asian Economic Papers. 2020;19(3):40–58. https://doi.org/10.1162/asep_a_00783.",
+          "journal-title": "Asian Economic Papers"
+        },
+        {
+          "key": "2055_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1179",
+          "DOI": "10.1080/09585192.2021.1891114",
+          "volume": "33",
+          "author": "A Jaiswal",
+          "year": "2023",
+          "unstructured": "Jaiswal A, Arun C, Varma A. Rebooting employees: upskilling for artificial intelligence in multinational corporations. Int J Hum Resource Manage. 2021; 33:1179–208. https://doi.org/10.1080/09585192.2021.1891114.",
+          "journal-title": "Int J Hum Resource Manage"
+        },
+        {
+          "key": "2055_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "884830",
+          "DOI": "10.3389/fpsyg.2022.884830",
+          "volume": "13",
+          "author": "D Chen",
+          "year": "2022",
+          "unstructured": "Chen D, Esperança JP, Wang S. The impact of artificial intelligence on firm performance: An application of the resource-based view to e-commerce fi rms. Front Psychol. 2022;13:884830.",
+          "journal-title": "Front Psychol"
+        },
+        {
+          "issue": "11",
+          "key": "2055_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "1929",
+          "DOI": "10.1080/09585192.2025.2544972",
+          "volume": "36",
+          "author": "Y Jiang",
+          "year": "2025",
+          "unstructured": "Jiang Y, Cai Z, Wang X. Leverage generative AI for human resource management: integrated risk analysis approach. Int J Hum Resource Manage. 2025;36(11):1929–59.",
+          "journal-title": "Int J Hum Resource Manage"
+        },
+        {
+          "issue": "2",
+          "key": "2055_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "168",
+          "DOI": "10.1504/IJBIR.2023.131432",
+          "volume": "31",
+          "author": "N Kaushal",
+          "year": "2023",
+          "unstructured": "Kaushal N, Ghalawat S. Research perspective of artificial intelligence and HRM: a bibliometric study. Int J Bus Innov Res. 2023;31(2):168–96. https://doi.org/10.1504/IJBIR.2023.131432.",
+          "journal-title": "Int J Bus Innov Res"
+        },
+        {
+          "key": "2055_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "455",
+          "DOI": "10.1007/s11301-021-00249-2",
+          "volume": "73",
+          "author": "N Kaushal",
+          "year": "2023",
+          "unstructured": "Kaushal N, Kaurav R, Sivathanu B, Kaushik N. Artificial intelligence and HRM: identifying future research Agenda using systematic literature review and bibliometric analysis. Manage Rev Q. 2023;73:455–93. https://doi.org/10.1007/s11301-021-00249-2.",
+          "journal-title": "Manage Rev Q"
+        },
+        {
+          "issue": "4",
+          "key": "2055_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "622",
+          "DOI": "10.1080/13678868.2024.2375935",
+          "volume": "27",
+          "author": "K Khandelwal",
+          "year": "2024",
+          "unstructured": "Khandelwal K, Upadhyay AK, Rukadikar A. The synergy of human resource development (HRD) and artificial intelligence (AI) in today’s workplace. Hum Resource Dev Int. 2024;27(4):622–39. https://doi.org/10.1080/13678868.2024.2375935.",
+          "journal-title": "Hum Resource Dev Int"
+        },
+        {
+          "issue": "2",
+          "key": "2055_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "717",
+          "DOI": "10.1108/IJCHM-07-2020-0789",
+          "volume": "33",
+          "author": "H Kong",
+          "year": "2021",
+          "unstructured": "Kong H, Yuan Y, Baruch Y, Bu N, Jiang X, Wang K. Influences of artificial intelligence (AI) awareness on career competency and job burnout. Int J Contemp Hospitality Manage. 2021;33(2):717–34. https://doi.org/10.1108/IJCHM-07-2020-0789.",
+          "journal-title": "Int J Contemp Hospitality Manage"
+        },
+        {
+          "key": "2055_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "1500",
+          "DOI": "10.3217/jucs-009-12-1500",
+          "volume": "9",
+          "author": "T Ley",
+          "year": "2003",
+          "unstructured": "Ley T, Albert D. Identifying employee competencies in dynamic work domains: methodological considerations and a case study. J Univers Comput Sci. 2003;9:1500–18. https://doi.org/10.3217/jucs-009-12-1500.",
+          "journal-title": "J Univers Comput Sci"
+        },
+        {
+          "key": "2055_CR29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.procs.2023.12.039",
+          "author": "M Madanchian",
+          "year": "2023",
+          "unstructured": "Madanchian M, Taherdoost H, Mohamed N. AI-based human resource management tools and techniques; a systematic literature review. Procedia Comput Sci. 2023. https://doi.org/10.1016/j.procs.2023.12.039.",
+          "journal-title": "Procedia Comput Sci"
+        },
+        {
+          "issue": "2",
+          "key": "2055_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "334",
+          "DOI": "10.1108/IJM-03-2021-0173",
+          "volume": "43",
+          "author": "N Malik",
+          "year": "2022",
+          "unstructured": "Malik N, Tripathi SN, Kar AK, Gupta S. Impact of artificial intelligence on employees working in industry 4.0 led organizations. Int J Manpow. 2022;43(2):334–54. https://doi.org/10.1108/IJM-03-2021-0173.",
+          "journal-title": "Int J Manpow"
+        },
+        {
+          "key": "2055_CR31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2023.113998",
+          "author": "P Mikalef",
+          "year": "2023",
+          "unstructured": "Mikalef P, Islam N, Parida V, Singh H, Altwaijry N. Artificial intelligence (AI) competencies for organizational performance: a B2B marketing capabilities perspective. J Bus Res. 2023. https://doi.org/10.1016/j.jbusres.2023.113998.",
+          "journal-title": "J Bus Res"
+        },
+        {
+          "key": "2055_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.28945/5078",
+          "volume": "26",
+          "author": "S Morandini",
+          "year": "2023",
+          "unstructured": "Morandini S, Fraboni F, Angelis M, Puzzo G, Giusino D, Pietrantoni L. The impact of artificial intelligence on workers’ skills: upskilling and reskilling in organisations. Informing Sci Int J Emerg Transdiscipl. 2023;26:39–68. https://doi.org/10.28945/5078.",
+          "journal-title": "Informing Sci Int J Emerg Transdiscipl"
+        },
+        {
+          "issue": "1",
+          "key": "2055_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1111/1744-7941.12245",
+          "volume": "59",
+          "author": "A Nankervis",
+          "year": "2021",
+          "unstructured": "Nankervis A, Connell J, Cameron R, Montague A, Prikshat V. Are we there yet?’Australian HR professionals and the Fourth Industrial Revolution. Asia Pac J Hum Resour. 2021;59(1):3–19. https://doi.org/10.1111/1744-7941.12245.",
+          "journal-title": "Asia Pac J Hum Resour"
+        },
+        {
+          "key": "2055_CR34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2021.100857",
+          "author": "V Pereira",
+          "year": "2021",
+          "unstructured": "Pereira V, Hadjielias E, Christofi M, Vrontis D. A systematic literature review on the impact of artificial intelligence on workplace outcomes: a multi-process perspective. Hum Resource Manage Rev. 2021. https://doi.org/10.1016/j.hrmr.2021.100857.",
+          "journal-title": "Hum Resource Manage Rev"
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "703",
+          "DOI": "10.1177/0143831x221088301",
+          "volume": "44",
+          "author": "BK Petersen",
+          "year": "2023",
+          "unstructured": "Petersen BK, Chowhan J, Cooke GB, Gosine R, Warrian PJ. Automation and the future of work: an intersectional study of the role of human capital, income, gender and visible minority status. Econ Ind Democr. 2023;44(3):703–27. https://doi.org/10.1177/0143831x221088301.",
+          "journal-title": "Econ Ind Democr"
+        },
+        {
+          "key": "2055_CR36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/lodj-02-2022-0063",
+          "author": "J Philip",
+          "year": "2023",
+          "unstructured": "Philip J, Gilli K, Knappstein M. Identifying key leadership competencies for digital transformation: evidence from a cross-sectoral Delphi study of global managers. Leadersh Organ Dev J. 2023. https://doi.org/10.1108/lodj-02-2022-0063.",
+          "journal-title": "Leadersh Organ Dev J"
+        },
+        {
+          "key": "2055_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "122645",
+          "DOI": "10.1016/j.techfore.2023.122645",
+          "volume": "193",
+          "author": "V Prikshat",
+          "year": "2023",
+          "unstructured": "Prikshat V, Islam M, Patel P, Malik A, Budhwar P, Gupta S. AI-Augmented HRM: Literature review and a proposed multilevel framework for future research. Technol Forecast Soc Chang. 2023;193:122645. https://doi.org/10.1016/j.techfore.2023.122645.",
+          "journal-title": "Technol Forecast Soc Chang"
+        },
+        {
+          "key": "2055_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "102853",
+          "DOI": "10.1016/j.ijinfomgt.2024.102853",
+          "volume": "81",
+          "author": "A Przegalinska",
+          "year": "2024",
+          "unstructured": "Przegalinska A, Triantoro T, Kovbasiuk A, Ciechanowski L, Freeman RB, Sowa K. Collaborative AI in the workplace: Enhancing organizational performance through resource-based and task-technology fit perspectives. Int J Inf Manag. 2024;81:102853. https://doi.org/10.1016/j.ijinfomgt.2024.102853.",
+          "journal-title": "Int J Inf Manag"
+        },
+        {
+          "key": "2055_CR39",
+          "doi-asserted-by": "publisher",
+          "first-page": "309",
+          "DOI": "10.1002/hrm.10043",
+          "volume": "41",
+          "author": "D Rodriguez",
+          "year": "2002",
+          "unstructured": "Rodriguez D, Patel R, Bright AE, Gregory D, Gowing M. Developing competency models to promote integrated human resource practices. Hum Resour Manag. 2002;41:309–24. https://doi.org/10.1002/hrm.10043.",
+          "journal-title": "Hum Resour Manag"
+        },
+        {
+          "key": "2055_CR40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/cdi-10-2024-0424",
+          "author": "R Salcedo-Gil",
+          "year": "2025",
+          "unstructured": "Salcedo-Gil R, Blanc PLM, Rispens S, Ulfert A-S. Employees’ adaptation to human–robot cooperation: a career adaptability perspective. Career Dev Int. 2025. https://doi.org/10.1108/cdi-10-2024-0424.",
+          "journal-title": "Career Dev Int"
+        },
+        {
+          "issue": "2",
+          "key": "2055_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "404",
+          "DOI": "10.1108/JIC-05-2024-0155",
+          "volume": "26",
+          "author": "MM Sandeep",
+          "year": "2025",
+          "unstructured": "Sandeep MM, Lavanya V, Balakrishnan J. Leveraging AI in recruitment: enhancing intellectual capital through resource-based view and dynamic capability framework. J Intellect Capital. 2025;26(2):404–25. https://doi.org/10.1108/JIC-05-2024-0155.",
+          "journal-title": "J Intellect Capital"
+        },
+        {
+          "key": "2055_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "1971",
+          "DOI": "10.1007/s11846-022-00613-w",
+          "volume": "17",
+          "author": "M Santana",
+          "year": "2022",
+          "unstructured": "Santana M, Díaz-Fernández M. Competencies for the artificial intelligence age: visualisation of the state of the art and future perspectives. RMS. 2022;17:1971–2004. https://doi.org/10.1007/s11846-022-00613-w.",
+          "journal-title": "RMS"
+        },
+        {
+          "key": "2055_CR43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Savolainen I, Ylinen L, Grönroos R, Oksanen A. AI transformation in working life: a systematic review of usage and attitudes towards AI among workers. Digit Bus. 2025;100162.",
+          "DOI": "10.1016/j.digbus.2025.100162"
+        },
+        {
+          "key": "2055_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "703",
+          "DOI": "10.1111/j.1744-6570.2000.tb00220.x",
+          "volume": "53",
+          "author": "JS Shippmann",
+          "year": "2000",
+          "unstructured": "Shippmann JS, Ash RA, Batjtsta M, Carr LL, Eyde L, Hesketh B, Kehoe J, Pearlman K, Prien E, Sanchez JI. the practice of competency modeling. Pers Psychol. 2000;53:703–40. https://doi.org/10.1111/j.1744-6570.2000.tb00220.x.",
+          "journal-title": "Pers Psychol"
+        },
+        {
+          "issue": "6",
+          "key": "2055_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "5113",
+          "DOI": "10.1007/s11192-021-03948-5",
+          "volume": "126",
+          "author": "VK Singh",
+          "year": "2021",
+          "unstructured": "Singh VK, Singh P, Karmakar M, Leta J, Mayr P. The journal coverage of web of science, scopus and dimensions: a comparative analysis. Scientometrics. 2021;126(6):5113–42.",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "4",
+          "key": "2055_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "821",
+          "DOI": "10.1111/1744-7941.12356",
+          "volume": "61",
+          "author": "RA Sithambaram",
+          "year": "2023",
+          "unstructured": "Sithambaram RA, Tajudeen FP. Impact of artificial intelligence in human resource management: a qualitative study in the Malaysian context. Asia Pac J Hum Resour. 2023;61(4):821–44.",
+          "journal-title": "Asia Pac J Hum Resour"
+        },
+        {
+          "issue": "1",
+          "key": "2055_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "104898",
+          "DOI": "10.1016/j.respol.2023.104898",
+          "volume": "53",
+          "author": "F Stephany",
+          "year": "2024",
+          "unstructured": "Stephany F, Teutloff O. What is the price of a skill? The value of complementarity. Res Policy. 2024;53(1):104898. https://doi.org/10.1016/j.respol.2023.104898.",
+          "journal-title": "Res Policy"
+        },
+        {
+          "key": "2055_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "107",
+          "DOI": "10.1177/1534484312456690",
+          "volume": "12",
+          "author": "GW Stevens",
+          "year": "2013",
+          "unstructured": "Stevens GW. A Critical review of the science and practice of competency modeling. Hum Resour Dev Rev. 2013;12:107–86. https://doi.org/10.1177/1534484312456690.",
+          "journal-title": "Hum Resour Dev Rev"
+        },
+        {
+          "key": "2055_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1057/s41599-022-01047-1",
+          "volume": "9",
+          "author": "B Škrinjarić",
+          "year": "2022",
+          "unstructured": "Škrinjarić B. Competence-based approaches in organizational and individual context. Humanit Social Sci Commun. 2022;9:1–12. https://doi.org/10.1057/s41599-022-01047-1.",
+          "journal-title": "Humanit Social Sci Commun"
+        },
+        {
+          "key": "2055_CR50",
+          "unstructured": "Spencer LM, Spencer PSM. Competence at Work models for superior performance. Wiley; 2008."
+        },
+        {
+          "issue": "3",
+          "key": "2055_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "403",
+          "DOI": "10.1177/1035304620903152",
+          "volume": "31",
+          "author": "J Ubalde",
+          "year": "2020",
+          "unstructured": "Ubalde J, Alarcón A. Are all automation-resistant skills rewarded? Linguistic skills in the US labour market. Economic Labour Relations Rev. 2020;31(3):403–24.",
+          "journal-title": "Economic Labour Relations Rev"
+        },
+        {
+          "issue": "6",
+          "key": "2055_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "100809",
+          "DOI": "10.1016/j.jik.2025.100809",
+          "volume": "10",
+          "author": "M Úbeda-García",
+          "year": "2025",
+          "unstructured": "Úbeda-García M, Marco-Lajara B, Zaragoza-Sáez PC, Poveda-Pareja E. Artificial intelligence, knowledge and human resource management: a systematic literature review of theoretical tensions and strategic implications. J Innov Knowl. 2025;10(6):100809.",
+          "journal-title": "J Innov Knowl"
+        },
+        {
+          "key": "2055_CR53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/su17156988",
+          "author": "KC Vong",
+          "year": "2025",
+          "unstructured": "Vong KC, Udomvitid K, Ueki Y, Intalar N, Pongsathornwiwat A, Pannakkong W, Komolavanij S, Jeenanunta C. Strategic human resource development for industry 4.0 readiness: a sustainable transformation framework for emerging economies. Sustainability. 2025. https://doi.org/10.3390/su17156988.",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "2055_CR54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jmd-06-2018-0181",
+          "author": "Z Whysall",
+          "year": "2019",
+          "unstructured": "Whysall Z, Owtram M, Brittain S. The new talent management challenges of Industry 4.0. J Manage Dev. 2019. https://doi.org/10.1108/jmd-06-2018-0181.",
+          "journal-title": "J Manage Dev"
+        },
+        {
+          "key": "2055_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "95",
+          "DOI": "10.6007/ijarped/v9-i3/8223",
+          "volume": "9",
+          "author": "S-C Wong",
+          "year": "2020",
+          "unstructured": "Wong S-C. Competency definitions, development and assessment: a brief review. Int J Acad Res Progressive Educ Dev. 2020;9:95–114. https://doi.org/10.6007/ijarped/v9-i3/8223.",
+          "journal-title": "Int J Acad Res Progressive Educ Dev"
+        }
+      ],
+      "container-title": [
+        "Discover Artificial Intelligence"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s44163-026-02055-9",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ],
+        "date-time": "2026-08-24T06:51:07Z",
+        "timestamp": 1787554267000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s44163-026-02055-9"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "1",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "2055"
+      ],
+      "URL": "https://doi.org/10.1007/s44163-026-02055-9",
+      "relation": {},
+      "ISSN": [
+        "2731-0809"
+      ],
+      "issn-type": [
+        {
+          "value": "2731-0809",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            24
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "17 October 2025",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "12 August 2026",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "24 August 2026",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "Not applicable as this study did not use any human participant. Not applicable. No human participants were involved in this study.",
+          "order": 1,
+          "name": "Ethics",
+          "label": "Ethics approval and consent to participate",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "Not applicable. This manuscript contains no identifiable individual data, images, or case details.",
+          "order": 2,
+          "name": "Ethics",
+          "label": "Consent for publication",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "The authors declare no competing interests.",
+          "order": 3,
+          "name": "Ethics",
+          "label": "Competing interests",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        }
+      ],
+      "article-number": "892"
+    }
+  }
+}

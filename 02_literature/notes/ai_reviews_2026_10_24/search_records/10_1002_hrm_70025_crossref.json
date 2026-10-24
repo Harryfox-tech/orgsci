@@ -1,0 +1,598 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1002/hrm.70025",
+    "checked_at": "2026-10-24T02:10:16.495275Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            5
+          ]
+        ],
+        "date-time": "2026-10-05T04:07:34Z",
+        "timestamp": 1791173254795,
+        "version": "4.1.0"
+      },
+      "reference-count": 69,
+      "publisher": "Wiley",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                19
+              ]
+            ],
+            "date-time": "2025-09-19T00:00:00Z",
+            "timestamp": 1758240000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Human Resource Management"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The purpose of this article is primarily to evaluate whether machine learning (a form of artificial intelligence) can meet scientific, professional, and legal principles of personnel selection based on the rapidly accumulating research literature in Human Resource Management (HRM). It does so by addressing a series of questions in terms of what is known in the current research literature on these principles and related topics and by proposing a research agenda for what else needs to be studied. The review shows that there is enough current scientific evidence on the value of ML to support its use. ML tools are able to meet the basic principles of personnel selection and better meet many other very important principles. In addition, ML for personnel selection decisions is not a “black box” and can be understood and explained. It does not increase the legal risks from hiring, although it may require some additional steps in a few jurisdictions. There are uses of ML in selection that most organizations should be considering. Customized procedures will require good data, but generic vendor products may also serve some needs. Additional expertise may be required of HRM professionals, but not necessarily at a high level that would require new staffing or consultant expense. The availability of large language models (LLMs) may render unproctored remote assessments vulnerable to cheating, and all narrative candidate information provided in the future susceptible to AI‐generated text, resulting in more questions than research answers at this stage. The article ends with practical and theoretical implications for the use of ML in selection.</jats:p>",
+      "DOI": "10.1002/hrm.70025",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            20
+          ]
+        ],
+        "date-time": "2025-09-20T05:29:53Z",
+        "timestamp": 1758346193000
+      },
+      "page": "235-255",
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 5,
+      "title": [
+        "Can Legal and Professional Personnel Selection Principles be Met With Machine Learning (Artificial Intelligence)?"
+      ],
+      "prefix": "10.1002",
+      "volume": "65",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-7066-2788",
+          "authenticated-orcid": false,
+          "given": "Michael A.",
+          "family": "Campion",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Daniels School of Business Purdue University  West Lafayette Indiana USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            19
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_13_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/amp0001057"
+        },
+        {
+          "key": "e_1_2_13_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2053951720938093"
+        },
+        {
+          "key": "e_1_2_13_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/ai5010019"
+        },
+        {
+          "key": "e_1_2_13_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijsa.12499"
+        },
+        {
+          "key": "e_1_2_13_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.25035/pad.2020.03.002"
+        },
+        {
+          "key": "e_1_2_13_7_1",
+          "unstructured": "Artificial Intelligence Video Interview Act.2020.“Illinois General Assembly.”https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=4015&ChapterID=68."
+        },
+        {
+          "key": "e_1_2_13_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744‐6570.2001.tb00097.x"
+        },
+        {
+          "key": "e_1_2_13_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.leaqua.2004.02.005"
+        },
+        {
+          "key": "e_1_2_13_10_1",
+          "first-page": "709",
+          "volume-title": "From Shapley Values to Generalized Additive Models and Back",
+          "author": "Bordt S.",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_13_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev‐orgpsych‐032414‐111427"
+        },
+        {
+          "key": "e_1_2_13_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/S0742‐730120200000038010"
+        },
+        {
+          "key": "e_1_2_13_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2025.101078"
+        },
+        {
+          "key": "e_1_2_13_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001144"
+        },
+        {
+          "key": "e_1_2_13_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12621"
+        },
+        {
+          "key": "e_1_2_13_16_1",
+          "unstructured": "Campion M. A. E. D.Campion andM. H.Fogel.2024.“Natural Language Processing Dictionaries of Competencies and Personality Traits for Personnel Selection.”Society for Industrial and Organizational Psychology Annual Conference Chicago IL USA."
+        },
+        {
+          "key": "e_1_2_13_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744‐6570.1997.tb00709.x"
+        },
+        {
+          "key": "e_1_2_13_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/iop.2018.14"
+        },
+        {
+          "key": "e_1_2_13_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000108"
+        },
+        {
+          "key": "e_1_2_13_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/cgf.14034"
+        },
+        {
+          "key": "e_1_2_13_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2022.2066981"
+        },
+        {
+          "key": "e_1_2_13_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1201/9781003278290-44"
+        },
+        {
+          "key": "e_1_2_13_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021‐9010.92.5.1380"
+        },
+        {
+          "key": "e_1_2_13_24_1",
+          "unstructured": "Equal Employment Opportunity Commission Civil Service Commission Department of labor and Department of Justice.1978.“Uniform Guidelines on Employee Selection Procedures 29 C.F.R. Part 1607 et Seq.”43 Federal Register (August 25 1978)."
+        },
+        {
+          "key": "e_1_2_13_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001082"
+        },
+        {
+          "key": "e_1_2_13_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/IJPPM‐08‐2020‐0427"
+        },
+        {
+          "key": "e_1_2_13_27_1",
+          "volume-title": "Measurement Theory for the Behavioral Sciences",
+          "author": "Ghiselli E. E.",
+          "year": "1981"
+        },
+        {
+          "key": "e_1_2_13_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.1993.9402210155"
+        },
+        {
+          "key": "e_1_2_13_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1027/1866‐5888/a000287"
+        },
+        {
+          "key": "e_1_2_13_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2024.2335515"
+        },
+        {
+          "key": "e_1_2_13_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12543"
+        },
+        {
+          "key": "e_1_2_13_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000695"
+        },
+        {
+          "key": "e_1_2_13_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijsa.12418"
+        },
+        {
+          "key": "e_1_2_13_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748‐8583.12356"
+        },
+        {
+          "key": "e_1_2_13_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001236"
+        },
+        {
+          "key": "e_1_2_13_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021‐9010.79.2.184"
+        },
+        {
+          "key": "e_1_2_13_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551‐022‐05049‐6"
+        },
+        {
+          "key": "e_1_2_13_38_1",
+          "article-title": "Machine Learning for Recruitment: Analyzing Job‐Matching Algorithms",
+          "volume": "27",
+          "author": "Jirjees A. K.",
+          "year": "2025",
+          "journal-title": "Machine Learning"
+        },
+        {
+          "key": "e_1_2_13_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/jintelligence9030046"
+        },
+        {
+          "key": "e_1_2_13_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748‐8583.12511"
+        },
+        {
+          "key": "e_1_2_13_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40685‐020‐00134‐w"
+        },
+        {
+          "key": "e_1_2_13_42_1",
+          "unstructured": "Kodiyan A. A.2019.“An Overview of Ethical Issues in Using ML Systems in Hiring With a Case Study of Amazon's ML Based Hiring Tool.”Researchgate Preprint 12 1–9."
+        },
+        {
+          "key": "e_1_2_13_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12608"
+        },
+        {
+          "key": "e_1_2_13_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15678/EBER.2023.110302"
+        },
+        {
+          "key": "e_1_2_13_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12587"
+        },
+        {
+          "key": "e_1_2_13_46_1",
+          "first-page": "105",
+          "volume-title": "Handbook of Research on Artificial Intelligence in Human Resource Management",
+          "author": "Laumer S.",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_13_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1468‐2389.2009.00469.x"
+        },
+        {
+          "key": "e_1_2_13_48_1",
+          "first-page": "197",
+          "volume-title": "Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening",
+          "author": "Liem C. C.",
+          "year": "2018"
+        },
+        {
+          "key": "e_1_2_13_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001173"
+        },
+        {
+          "key": "e_1_2_13_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/BF02289490"
+        },
+        {
+          "key": "e_1_2_13_51_1",
+          "first-page": "387",
+          "volume-title": "International Conference on Data Intelligence and Cognitive Informatics",
+          "author": "Marvin G.",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_13_52_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1467‐6494.00144"
+        },
+        {
+          "key": "e_1_2_13_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744‐6570.2007.00089.x"
+        },
+        {
+          "key": "e_1_2_13_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.2044‐8325.1979.tb00463.x"
+        },
+        {
+          "key": "e_1_2_13_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1094428104271999"
+        },
+        {
+          "key": "e_1_2_13_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10639‐021‐10597‐x"
+        },
+        {
+          "key": "e_1_2_13_57_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.dss.2020.113290"
+        },
+        {
+          "key": "e_1_2_13_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744‐6570.2008.00109.x"
+        },
+        {
+          "key": "e_1_2_13_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10869‐022‐09824‐0"
+        },
+        {
+          "key": "e_1_2_13_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.asw.2012.10.004"
+        },
+        {
+          "key": "e_1_2_13_61_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Reddy D. J. M. S.Regella andS. R.Seelam.2020.“Recruitment Prediction Using Machine Learning.”In2020 5th International Conference on Computing Communication and Security(ICCCS) (1–4). IEEE.https://doi.org/10.1109/ICCCS49678.2020.9276955.",
+          "DOI": "10.1109/ICCCS49678.2020.9276955"
+        },
+        {
+          "key": "e_1_2_13_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001084"
+        },
+        {
+          "key": "e_1_2_13_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000405"
+        },
+        {
+          "key": "e_1_2_13_64_1",
+          "volume-title": "Principles for the Validation and Use of Personnel Selection Procedures",
+          "author": "Society for Industrial and Organizational Psychology",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_13_65_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000240"
+        },
+        {
+          "key": "e_1_2_13_66_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Surya C. S. G.Kiriti K. S.Saketh P. S.Charan andA.Anjali.2024.“Optimizing Job Matching Through Automated Resume Screening With NLP and Machine Learning.”In2024 IEEE International Conference on Intelligent Signal Processing and Effective Communication Technologies(INSPECT) (1–6). IEEE.https://doi.org/10.1109/INSPECT63485.2024.10896014.",
+          "DOI": "10.1109/INSPECT63485.2024.10896014"
+        },
+        {
+          "key": "e_1_2_13_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0261927X09351676"
+        },
+        {
+          "key": "e_1_2_13_68_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10869‐016‐9470‐9"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_69_1",
+          "first-page": "51",
+          "article-title": "Dynamic Bias Mitigation for Multimodal AI in Recruitment Ensuring Fairness and Equity in Hiring Practices",
+          "volume": "6",
+          "author": "Yanamala K. K. R.",
+          "year": "2022",
+          "journal-title": "Journal of Artificial Intelligence and Machine Learning in Management"
+        },
+        {
+          "key": "e_1_2_13_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12593"
+        }
+      ],
+      "container-title": [
+        "Human Resource Management"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hrm.70025",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            5
+          ]
+        ],
+        "date-time": "2026-01-05T01:11:38Z",
+        "timestamp": 1767575498000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.70025"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            19
+          ]
+        ]
+      },
+      "references-count": 69,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1002/hrm.70025"
+      ],
+      "URL": "https://doi.org/10.1002/hrm.70025",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0090-4848",
+        "1099-050X"
+      ],
+      "issn-type": [
+        {
+          "value": "0090-4848",
+          "type": "print"
+        },
+        {
+          "value": "1099-050X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            9,
+            19
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-06-19",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-07-10",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2025-09-19",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

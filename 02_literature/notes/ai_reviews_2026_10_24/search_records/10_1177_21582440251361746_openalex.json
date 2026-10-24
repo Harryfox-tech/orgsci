@@ -1,0 +1,1203 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1177/21582440251361746",
+    "checked_at": "2026-10-24T02:10:08.568774Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4413807598",
+    "doi": "https://doi.org/10.1177/21582440251361746",
+    "title": "AI-Driven Research in the Recruitment and Selection Process: Application of an AI Taxonomy With a Systematic Literature Review",
+    "display_name": "AI-Driven Research in the Recruitment and Selection Process: Application of an AI Taxonomy With a Systematic Literature Review",
+    "publication_year": 2025,
+    "publication_date": "2025-01-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4413807598",
+      "doi": "https://doi.org/10.1177/21582440251361746"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1177/21582440251361746",
+      "doi": "https://doi.org/10.1177/21582440251361746",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/21582440251361746",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S148277943",
+        "display_name": "SAGE Open",
+        "issn_l": "2158-2440",
+        "issn": [
+          "2158-2440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "SAGE Open",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1177/21582440251361746",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5065272024",
+          "display_name": "Marcel Herold",
+          "orcid": "https://orcid.org/0009-0006-5426-656X",
+          "observed_orcids": [
+            "https://orcid.org/0009-0006-5426-656X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I38517508",
+            "display_name": "Technical University of Applied Sciences Wildau",
+            "ror": "https://ror.org/00k62pe27",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I38517508"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I68956291",
+            "display_name": "Martin Luther University Halle-Wittenberg",
+            "ror": "https://ror.org/05gqaka33",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I68956291"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Marcel Herold",
+        "raw_affiliation_strings": [
+          "Martin-Luther-University Halle-Wittenberg, Germany",
+          "Technical University of Applied Science Wildau, Germany"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0006-5426-656X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Martin-Luther-University Halle-Wittenberg, Germany",
+            "institution_ids": [
+              "https://openalex.org/I68956291"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Technical University of Applied Science Wildau, Germany",
+            "institution_ids": [
+              "https://openalex.org/I38517508"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5059479452",
+          "display_name": "Marc Roedenbeck",
+          "orcid": "https://orcid.org/0000-0001-7871-0537",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7871-0537"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I38517508",
+            "display_name": "Technical University of Applied Sciences Wildau",
+            "ror": "https://ror.org/00k62pe27",
+            "country_code": "DE",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I38517508"
+            ]
+          }
+        ],
+        "countries": [
+          "DE"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Marc R.H. Roedenbeck",
+        "raw_affiliation_strings": [
+          "Technical University of Applied Science Wildau, Germany"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Technical University of Applied Science Wildau, Germany",
+            "institution_ids": [
+              "https://openalex.org/I38517508"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5065272024"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I38517508",
+      "https://openalex.org/I68956291"
+    ],
+    "apc_list": {
+      "value": 1600,
+      "currency": "USD",
+      "value_usd": 1600
+    },
+    "apc_paid": {
+      "value": 1600,
+      "currency": "USD",
+      "value_usd": 1600
+    },
+    "fwci": 2.4587,
+    "has_fulltext": true,
+    "cited_by_count": 7,
+    "citation_normalized_percentile": {
+      "value": 0.90575916,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "15",
+      "issue": "3",
+      "first_page": null,
+      "last_page": null
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.00019999999494757503,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12415",
+        "display_name": "Employer Branding and e-HRM",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "artificial intelligence",
+        "score": 0.7929999828338623
+      },
+      {
+        "id": "https://openalex.org/keywords/recruitment-and-selection",
+        "display_name": "recruitment and selection",
+        "score": 0.8270000219345093
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-taxonomy",
+        "display_name": "AI taxonomy",
+        "score": 0.902999997138977
+      },
+      {
+        "id": "https://openalex.org/keywords/natural-language-processing",
+        "display_name": "natural language processing",
+        "score": 0.9769999980926514
+      },
+      {
+        "id": "https://openalex.org/keywords/machine-learning-algorithms",
+        "display_name": "machine learning algorithms",
+        "score": 0.8040000200271606
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-ethics",
+        "display_name": "AI ethics",
+        "score": 0.7490000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/human-resource-management",
+        "display_name": "human resource management",
+        "score": 0.921999990940094
+      },
+      {
+        "id": "https://openalex.org/keywords/candidate-screening",
+        "display_name": "applicant screening",
+        "score": 0.5230000019073486
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C58642233",
+        "wikidata": "https://www.wikidata.org/wiki/Q8269924",
+        "display_name": "Taxonomy (biology)",
+        "level": 2,
+        "score": 0.697490394115448
+      },
+      {
+        "id": "https://openalex.org/C189708586",
+        "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+        "display_name": "Systematic review",
+        "level": 3,
+        "score": 0.571499228477478
+      },
+      {
+        "id": "https://openalex.org/C81917197",
+        "wikidata": "https://www.wikidata.org/wiki/Q628760",
+        "display_name": "Selection (genetic algorithm)",
+        "level": 2,
+        "score": 0.5217029452323914
+      },
+      {
+        "id": "https://openalex.org/C98045186",
+        "wikidata": "https://www.wikidata.org/wiki/Q205663",
+        "display_name": "Process (computing)",
+        "level": 2,
+        "score": 0.44850224256515503
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.3994755148887634
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3957155644893646
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.30179011821746826
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.20989862084388733
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.20881697535514832
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.17360949516296387
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.14505013823509216
+      },
+      {
+        "id": "https://openalex.org/C18903297",
+        "wikidata": "https://www.wikidata.org/wiki/Q7150",
+        "display_name": "Ecology",
+        "level": 1,
+        "score": 0.14350271224975586
+      },
+      {
+        "id": "https://openalex.org/C55493867",
+        "wikidata": "https://www.wikidata.org/wiki/Q7094",
+        "display_name": "Biochemistry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C111919701",
+        "wikidata": "https://www.wikidata.org/wiki/Q9135",
+        "display_name": "Operating system",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1177/21582440251361746",
+        "doi": "https://doi.org/10.1177/21582440251361746",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1177/21582440251361746",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S148277943",
+          "display_name": "SAGE Open",
+          "issn_l": "2158-2440",
+          "issn": [
+            "2158-2440"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320017",
+          "host_organization_name": "SAGE Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320017"
+          ],
+          "host_organization_lineage_names": [
+            "SAGE Publishing"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SAGE Open",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:kobv.de-opus4-th-wildau:2073",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://opus4.kobv.de/opus4-th-wildau/frontdoor/index/index/docId/2073",
+        "pdf_url": "https://opus4.kobv.de/opus4-th-wildau/files/2073/2073.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306400195",
+          "display_name": "TH Wildau (Technical University of Applied Sciences Wildau)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I38517508",
+          "host_organization_name": "Technical University of Applied Sciences Wildau",
+          "host_organization_lineage": [
+            "https://openalex.org/I38517508"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SAGE Open, 15, 3, Article-Nr. 21582440251361746",
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:2e43c3031fe9423893026b450ae4171d",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/2e43c3031fe9423893026b450ae4171d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "SAGE Open, Vol 15 (2025)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1177/21582440251361746",
+      "doi": "https://doi.org/10.1177/21582440251361746",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/21582440251361746",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S148277943",
+        "display_name": "SAGE Open",
+        "issn_l": "2158-2440",
+        "issn": [
+          "2158-2440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-1",
+          "ki-jl-1",
+          "norway-1",
+          "poland-70",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "SAGE Open",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 60,
+    "referenced_works": [
+      "https://openalex.org/W597036898",
+      "https://openalex.org/W1491998907",
+      "https://openalex.org/W1499516075",
+      "https://openalex.org/W1988147352",
+      "https://openalex.org/W2045812729",
+      "https://openalex.org/W2058417559",
+      "https://openalex.org/W2072750586",
+      "https://openalex.org/W2074697260",
+      "https://openalex.org/W2111628838",
+      "https://openalex.org/W2122410182",
+      "https://openalex.org/W2145339207",
+      "https://openalex.org/W2148681554",
+      "https://openalex.org/W2150291840",
+      "https://openalex.org/W2155456580",
+      "https://openalex.org/W2157119447",
+      "https://openalex.org/W2737946880",
+      "https://openalex.org/W2787894218",
+      "https://openalex.org/W2789434022",
+      "https://openalex.org/W2893425640",
+      "https://openalex.org/W2893740026",
+      "https://openalex.org/W2899856450",
+      "https://openalex.org/W2934302500",
+      "https://openalex.org/W2957879630",
+      "https://openalex.org/W2963849010",
+      "https://openalex.org/W2980202986",
+      "https://openalex.org/W2981052026",
+      "https://openalex.org/W2996097588",
+      "https://openalex.org/W3001765450",
+      "https://openalex.org/W3008189558",
+      "https://openalex.org/W3040448756",
+      "https://openalex.org/W3042518792",
+      "https://openalex.org/W3089252064",
+      "https://openalex.org/W3113931315",
+      "https://openalex.org/W3130894836",
+      "https://openalex.org/W3135734885",
+      "https://openalex.org/W3180088549",
+      "https://openalex.org/W3192208786",
+      "https://openalex.org/W3199766895",
+      "https://openalex.org/W3209891779",
+      "https://openalex.org/W3216241100",
+      "https://openalex.org/W4206965408",
+      "https://openalex.org/W4210477938",
+      "https://openalex.org/W4212915308",
+      "https://openalex.org/W4221054512",
+      "https://openalex.org/W4221106847",
+      "https://openalex.org/W4233888153",
+      "https://openalex.org/W4244340606",
+      "https://openalex.org/W4247155454",
+      "https://openalex.org/W4248995229",
+      "https://openalex.org/W4283032172",
+      "https://openalex.org/W4293229829",
+      "https://openalex.org/W4311051464",
+      "https://openalex.org/W4313417987",
+      "https://openalex.org/W4318562167",
+      "https://openalex.org/W4321458265",
+      "https://openalex.org/W4361210461",
+      "https://openalex.org/W4378009112",
+      "https://openalex.org/W4379740533",
+      "https://openalex.org/W4386920993",
+      "https://openalex.org/W4402415096"
+    ],
+    "related_works": [
+      "https://openalex.org/W4205762803",
+      "https://openalex.org/W2535856026",
+      "https://openalex.org/W2265065644",
+      "https://openalex.org/W2395691387",
+      "https://openalex.org/W2792383399",
+      "https://openalex.org/W3024289321",
+      "https://openalex.org/W2766255174",
+      "https://openalex.org/W4200400515",
+      "https://openalex.org/W2938724434",
+      "https://openalex.org/W4230169674"
+    ],
+    "abstract_inverted_index": {
+      "A": [
+        0
+      ],
+      "review": [
+        1,
+        91,
+        102
+      ],
+      "of": [
+        2,
+        8,
+        41,
+        73,
+        79,
+        125,
+        134,
+        160,
+        170,
+        192
+      ],
+      "the": [
+        3,
+        6,
+        13,
+        45,
+        64,
+        67,
+        71,
+        74,
+        77,
+        82,
+        132,
+        139,
+        149,
+        158,
+        168,
+        180,
+        193,
+        196,
+        210
+      ],
+      "literature": [
+        4,
+        65,
+        90,
+        101
+      ],
+      "on": [
+        5,
+        32,
+        208,
+        219
+      ],
+      "application": [
+        7
+      ],
+      "artificial": [
+        9
+      ],
+      "intelligence": [
+        10
+      ],
+      "(AI)": [
+        11
+      ],
+      "in": [
+        12,
+        34,
+        38,
+        47,
+        63,
+        76,
+        148,
+        154,
+        172
+      ],
+      "recruitment": [
+        14
+      ],
+      "and": [
+        15,
+        81,
+        119,
+        144,
+        162,
+        189,
+        221
+      ],
+      "selection": [
+        16
+      ],
+      "process": [
+        17
+      ],
+      "(RSP)": [
+        18
+      ],
+      "was": [
+        19
+      ],
+      "conducted,": [
+        20
+      ],
+      "but": [
+        21
+      ],
+      "no": [
+        22
+      ],
+      "relevant": [
+        23
+      ],
+      "studies": [
+        24,
+        113,
+        135,
+        194
+      ],
+      "were": [
+        25,
+        114,
+        136
+      ],
+      "identified.": [
+        26
+      ],
+      "While": [
+        27,
+        175
+      ],
+      "several": [
+        28
+      ],
+      "reviews": [
+        29
+      ],
+      "have": [
+        30,
+        43
+      ],
+      "focussed": [
+        31
+      ],
+      "AI": [
+        33,
+        52,
+        60,
+        173,
+        182
+      ],
+      "human": [
+        35
+      ],
+      "resource": [
+        36
+      ],
+      "management": [
+        37
+      ],
+      "general,": [
+        39
+      ],
+      "none": [
+        40
+      ],
+      "these": [
+        42
+      ],
+      "examined": [
+        44
+      ],
+      "RSP": [
+        46,
+        75
+      ],
+      "detail": [
+        48
+      ],
+      "or": [
+        49
+      ],
+      "employed": [
+        50,
+        105
+      ],
+      "an": [
+        51,
+        59,
+        186
+      ],
+      "taxonomy": [
+        53,
+        61,
+        183
+      ],
+      "for": [
+        54
+      ],
+      "clustering.": [
+        55
+      ],
+      "Consequently,": [
+        56
+      ],
+      "we": [
+        57
+      ],
+      "applied": [
+        58
+      ],
+      "identified": [
+        62
+      ],
+      "with": [
+        66,
+        195,
+        225
+      ],
+      "aim": [
+        68
+      ],
+      "to": [
+        69,
+        122,
+        157,
+        200,
+        216
+      ],
+      "identify": [
+        70
+      ],
+      "stages": [
+        72,
+        140
+      ],
+      "focus": [
+        78
+      ],
+      "research": [
+        80,
+        218
+      ],
+      "algorithms": [
+        83,
+        153
+      ],
+      "mostly": [
+        84
+      ],
+      "used.": [
+        85,
+        229
+      ],
+      "We": [
+        86
+      ],
+      "conducted": [
+        87
+      ],
+      "a": [
+        88,
+        94,
+        99,
+        123
+      ],
+      "systematic": [
+        89
+      ],
+      "underpinned": [
+        92
+      ],
+      "by": [
+        93,
+        98,
+        184
+      ],
+      "concept": [
+        95
+      ],
+      "matrix,": [
+        96
+      ],
+      "complemented": [
+        97
+      ],
+      "computational": [
+        100
+      ],
+      "(CLR),": [
+        103
+      ],
+      "that": [
+        104,
+        131
+      ],
+      "natural": [
+        106
+      ],
+      "language": [
+        107
+      ],
+      "processing": [
+        108
+      ],
+      "(NLP).": [
+        109
+      ],
+      "The": [
+        110,
+        151,
+        165
+      ],
+      "initial": [
+        111
+      ],
+      "4,579": [
+        112
+      ],
+      "sourced": [
+        115
+      ],
+      "from": [
+        116
+      ],
+      "three": [
+        117
+      ],
+      "databases": [
+        118
+      ],
+      "narrowed": [
+        120
+      ],
+      "down": [
+        121
+      ],
+      "total": [
+        124
+      ],
+      "502.": [
+        126
+      ],
+      "Our": [
+        127
+      ],
+      "major": [
+        128
+      ],
+      "findings": [
+        129
+      ],
+      "indicate": [
+        130
+      ],
+      "majority": [
+        133
+      ],
+      "categorised": [
+        137
+      ],
+      "under": [
+        138
+      ],
+      "“assessment": [
+        141
+      ],
+      "&": [
+        142
+      ],
+      "selection”": [
+        143
+      ],
+      "“processing": [
+        145
+      ],
+      "incoming": [
+        146
+      ],
+      "applications”": [
+        147
+      ],
+      "RSP.": [
+        150
+      ],
+      "predominant": [
+        152
+      ],
+      "use": [
+        155
+      ],
+      "pertain": [
+        156
+      ],
+      "field": [
+        159
+      ],
+      "NLP": [
+        161
+      ],
+      "machine": [
+        163
+      ],
+      "learning.": [
+        164
+      ],
+      "CLR": [
+        166
+      ],
+      "emphasised": [
+        167
+      ],
+      "significance": [
+        169
+      ],
+      "ethics": [
+        171
+      ],
+      "research.": [
+        174
+      ],
+      "our": [
+        176
+      ],
+      "study": [
+        177
+      ],
+      "has": [
+        178
+      ],
+      "expanded": [
+        179
+      ],
+      "general": [
+        181
+      ],
+      "incorporating": [
+        185
+      ],
+      "ethical": [
+        187
+      ],
+      "perspective": [
+        188
+      ],
+      "is": [
+        190,
+        205
+      ],
+      "one": [
+        191
+      ],
+      "most": [
+        197,
+        227
+      ],
+      "articles": [
+        198
+      ],
+      "used": [
+        199
+      ],
+      "reflect": [
+        201
+      ],
+      "this": [
+        202,
+        213
+      ],
+      "topic,": [
+        203
+      ],
+      "it": [
+        204
+      ],
+      "solely": [
+        206
+      ],
+      "focussing": [
+        207
+      ],
+      "describing": [
+        209
+      ],
+      "past.": [
+        211
+      ],
+      "Nevertheless,": [
+        212
+      ],
+      "article": [
+        214
+      ],
+      "helps": [
+        215
+      ],
+      "align": [
+        217
+      ],
+      "exploring": [
+        220
+      ],
+      "testing": [
+        222
+      ],
+      "alternative": [
+        223
+      ],
+      "approaches": [
+        224
+      ],
+      "those": [
+        226
+      ],
+      "frequently": [
+        228
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 7
+      }
+    ],
+    "updated_date": "2026-10-15T10:00:46.086208",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/SAMAMJ-06-2026-0038",
+    "checked_at": "2026-10-24T02:10:06.334348Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  "data": null
+}

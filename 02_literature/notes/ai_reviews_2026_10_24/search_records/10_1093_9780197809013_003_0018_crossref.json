@@ -1,0 +1,1374 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+    "checked_at": "2026-10-24T02:10:15.968731Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2026-08-29T09:15:49Z",
+        "timestamp": 1787994949921,
+        "version": "build-2784847793"
+      },
+      "edition-number": "2",
+      "reference-count": 123,
+      "publisher": "Oxford University PressNew York, NY",
+      "isbn-type": [
+        {
+          "value": "9780197808986",
+          "type": "print"
+        },
+        {
+          "value": "9780197809013",
+          "type": "electronic"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            21
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Artificial intelligence (AI) is rapidly transforming how organizations design, validate, and deploy employee selection systems. This chapter provides a comprehensive examination of the current state, emerging evidence, and future potential of AI in personnel selection. It begins with a forward-looking vignette that illustrates an end-to-end, AI-enabled hiring process and then introduces foundational machine-learning and generative-AI concepts relevant to selection science. The chapter reviews AI’s role in developing, delivering, scoring, and reporting on assessments, and it provides an in-depth analysis of AI applications across major predictor domains—including résumés, knowledge and ability tests, personality and biodata self-reports, simulations and work samples, and interviews. For each method, it synthesizes what is known, highlights key gaps and risks, and offers explicit predictions about “peak AI” in that domain. The chapter then addresses psychometric considerations unique to AI, including novel sources of error, threats to validity, and fairness issues. Finally, it explores emerging issues shaping the future of AI in selection, such as candidate use of AI, candidate reactions, model oversight, and evolving legal and regulatory environments. Collectively, this chapter aims to equip researchers and practitioners with an integrated, forward-looking understanding of how AI is reshaping the science and practice of personnel assessment and selection.</jats:p>",
+      "DOI": "10.1093/9780197809013.003.0018",
+      "type": "book-chapter",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            21
+          ]
+        ],
+        "date-time": "2026-05-21T18:42:34Z",
+        "timestamp": 1779388954000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "The Future of Selection Enabled by Artificial Intelligence"
+      ],
+      "prefix": "10.1093",
+      "author": [
+        {
+          "given": "Anthony S",
+          "family": "Boyce",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Chief Product & Science Officer, Savo"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Louis",
+          "family": "Hickman",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Assistant Professor of Industrial-Organizational Psychology, Virginia Tech; Visiting Scholar, Amazon, Inc"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christine E",
+          "family": "Boyce",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Practitioner-Researcher in Industrial and Organizational Psychology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "286",
+      "reference": [
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-1",
+          "doi-asserted-by": "crossref",
+          "first-page": "e12499",
+          "DOI": "10.1111/ijsa.12499",
+          "article-title": "Sourcing algorithms: Rethinking fairness in hiring in the era of algorithmic recruitment",
+          "volume": "33",
+          "author": "Alexander III",
+          "year": "2025",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-2",
+          "article-title": "Grammatical redundancy in scales: Using the “ConGRe” process to create better measures",
+          "author": "Alley",
+          "year": "2024",
+          "journal-title": "Journal of Management, 52(2), 677–728."
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-3",
+          "volume-title": "Standards for educational and psychological testing",
+          "author": "American Educational Research Association (AERA), National Council on Measurement in Education, Joint Committee on Standards for Educational and Psychological Testing (U.S.)",
+          "year": "2014"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-4",
+          "volume-title": "Ethical principles of psychologists and code of conduct",
+          "author": "American Psychological Association",
+          "year": "2017"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-5",
+          "first-page": "82–115",
+          "article-title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+          "volume": "58",
+          "author": "Arrieta",
+          "year": "2020",
+          "journal-title": "Information Fusion"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-6",
+          "article-title": "N.Y.C. Admin. Code §§ 20-870–20-875.",
+          "author": "Automated Employment Decision Tools",
+          "year": "2023"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-7",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.5334/uproc.145",
+          "article-title": "Generative AI in the service of situational judgment tests (SJT) for self-regulation learning during problem solving (SRL-PS",
+          "volume": "4",
+          "author": "Avidov",
+          "year": "2024",
+          "journal-title": "Ubiquity Proceedings"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-8",
+          "doi-asserted-by": "crossref",
+          "first-page": "719",
+          "DOI": "10.1037/a0026078",
+          "article-title": "Personnel selection as a signaling game",
+          "volume": "97",
+          "author": "Bangerter",
+          "year": "2012",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-9",
+          "doi-asserted-by": "crossref",
+          "first-page": "396–403",
+          "DOI": "10.1111/j.1745-6916.2007.00051.x",
+          "article-title": "Psychology as the science of self-reports and finger movements: Whatever happened to actual behavior?",
+          "volume": "2",
+          "author": "Baumeister",
+          "year": "2007",
+          "journal-title": "Perspectives on Psychological Science"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-10",
+          "doi-asserted-by": "crossref",
+          "first-page": "107869",
+          "DOI": "10.1016/j.chb.2023.107869",
+          "article-title": "The roles of outcome and race on applicant reactions to AI systems",
+          "volume": "148",
+          "author": "Bedemariam",
+          "year": "2023",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-11",
+          "first-page": "201–230",
+          "article-title": "Hiring, algorithms, and choice: Why interviews still matter",
+          "volume": "24",
+          "author": "Bhargava",
+          "year": "2023",
+          "journal-title": "Business Ethics Quarterly"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-12",
+          "article-title": "Bias and fairness in multimodal machine learning: A case study of automated video interviews",
+          "author": "Booth",
+          "year": "2021",
+          "journal-title": "Proceedings of the 2021 International Conference on Multimodal Interaction (ICMI 21)"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-13",
+          "volume-title": "Simulations for personnel selection",
+          "author": "Boyce",
+          "year": "2013"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-14",
+          "volume-title": "The changing leadership landscape",
+          "author": "Boyce",
+          "year": ""
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-15",
+          "first-page": "43–62",
+          "volume-title": "Simulations for personnel selection",
+          "author": "Bruk-Lee",
+          "year": "2013"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-16",
+          "doi-asserted-by": "crossref",
+          "first-page": "993–1009",
+          "DOI": "10.1111/peps.12621",
+          "article-title": "Machine learning applications to personnel selection: Current illustrations, lessons learned, and future research",
+          "volume": "76",
+          "author": "Campion",
+          "year": "2023",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-17",
+          "doi-asserted-by": "crossref",
+          "first-page": "655–702",
+          "DOI": "10.1111/j.1744-6570.1997.tb00709.x",
+          "article-title": "A review of structure in the selection interview",
+          "volume": "50",
+          "author": "Campion",
+          "year": "1997",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-18",
+          "doi-asserted-by": "crossref",
+          "first-page": "e12491",
+          "DOI": "10.1111/ijsa.12491",
+          "article-title": "ChatGPT, can you take my job interview? Examining artificial intelligence cheating in the asynchronous video interview",
+          "volume": "33",
+          "author": "Canagasuriam",
+          "year": "2023",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-19",
+          "doi-asserted-by": "crossref",
+          "first-page": "143–159",
+          "DOI": "10.1037/0021-9010.82.1.143",
+          "article-title": "Video-based versus paper-and-pencil method of assessment in situational judgment tests: Subgroup differences in test performance and face validity perceptions",
+          "volume": "82",
+          "author": "Chan",
+          "year": "1997",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-20",
+          "first-page": "100344",
+          "article-title": "Automatic item generation in various STEM subjects using large language model prompting",
+          "volume": "8",
+          "author": "Chan",
+          "year": "2025",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-21",
+          "first-page": "23–42",
+          "article-title": "Jailbreaking black box large language models in twenty queries",
+          "author": "Chao",
+          "year": "2025,",
+          "journal-title": "2025 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-22",
+          "doi-asserted-by": "crossref",
+          "first-page": "858273",
+          "DOI": "10.3389/feduc.2023.858273",
+          "volume": "8",
+          "author": "Circi",
+          "year": "2023,",
+          "journal-title": "Frontiers in Education"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-23",
+          "doi-asserted-by": "crossref",
+          "first-page": "106742",
+          "DOI": "10.1016/j.chb.2021.106742",
+          "article-title": "Examining the criterion-related validity evidence of LinkedIn profile elements in an applied sample",
+          "volume": "120",
+          "author": "Cubrich",
+          "year": "2021",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-24",
+          "first-page": "114–123",
+          "volume-title": "Proceedings of the 26th Australasian Computing Education Conference",
+          "author": "Doughty",
+          "year": "2024,"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-25",
+          "doi-asserted-by": "crossref",
+          "first-page": "917–932",
+          "DOI": "10.1002/hrm.22179",
+          "article-title": "Getting from valid to useful: End user modifiability and human capital analytics implementation in selection",
+          "volume": "62",
+          "author": "Downes",
+          "year": "2023",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "issue": "71",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-26",
+          "first-page": "3906–3915",
+          "article-title": "In too deep? A systematic literature review of fully-immersive virtual reality and cybersickness among older adults",
+          "volume": "2023",
+          "author": "Drazich",
+          "year": "2023",
+          "journal-title": "Journal of the American Geriatrics Society"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-27",
+          "doi-asserted-by": "crossref",
+          "first-page": "169–173",
+          "DOI": "10.1027/1015-5759/a000904",
+          "article-title": "Ten guidelines for scoring psychological assessments using artificial intelligence [Editorial]",
+          "volume": "41",
+          "author": "Dumas",
+          "year": "2025",
+          "journal-title": "European Journal of Psychological Assessment"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-28",
+          "doi-asserted-by": "crossref",
+          "first-page": "69–106",
+          "DOI": "10.1111/j.1529-1006.2004.00018.x",
+          "article-title": "Flawed self-assessment: Implications for health, education, and the workplace",
+          "volume": "5",
+          "author": "Dunning",
+          "year": "2004",
+          "journal-title": "Psychological Science in the Public Interest"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-29",
+          "volume-title": "Uniform guidelines on employee selection procedures",
+          "author": "Equal Employment Opportunity Commission (EEOC), Civil Service Commission, Department of Labor, & Department of Justice",
+          "year": "1978"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-30",
+          "article-title": "Regulation (EU) 2024/1689 (Artificial Intelligence Act)",
+          "author": "European Parliament, & Council of the European Union",
+          "year": "2024,  13",
+          "journal-title": "Official Journal of the European Union"
+        },
+        {
+          "issue": "8",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1277–1299",
+          "DOI": "10.1037/apl0001082",
+          "article-title": "How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores",
+          "volume": "108",
+          "author": "Fan",
+          "year": "2023",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-32",
+          "doi-asserted-by": "crossref",
+          "first-page": "115–123",
+          "DOI": "10.1111/1468-2389.00080",
+          "article-title": "Validity of stimulus and response components in a video test of social competence",
+          "volume": "6",
+          "author": "Funke",
+          "year": "1998",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-33",
+          "doi-asserted-by": "crossref",
+          "first-page": "265–300",
+          "DOI": "10.1177/10944281231155771",
+          "article-title": "“Transforming” personality scale development: Illustrating the potential of state-of-the-art natural language processing",
+          "volume": "27",
+          "author": "Fyffe",
+          "year": "2024",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-34",
+          "article-title": "Build safe and responsible generative AI applications with guardrails",
+          "author": "Gal",
+          "year": "2024"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-35",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4324/9781003025634",
+          "volume-title": "Advanced methods in automatic item generation",
+          "author": "Gierl",
+          "year": "2021"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-36",
+          "first-page": "687–700",
+          "volume-title": "Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency",
+          "author": "Glazko",
+          "year": "2024,"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-37",
+          "article-title": "Griggs v. Duke Power Co., 401 U.S. 424",
+          "year": "1971"
+        },
+        {
+          "issue": "15",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-38",
+          "first-page": "2991–3018",
+          "article-title": "Global differences in applicant reactions to virtual interview synchronicity",
+          "volume": "33",
+          "author": "Griswold",
+          "year": "2021",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-39",
+          "doi-asserted-by": "crossref",
+          "first-page": "e68347",
+          "DOI": "10.2196/68347",
+          "article-title": "The feasibility of large language models in verbal comprehension assessment: Mixed methods feasibility study",
+          "volume": "9",
+          "author": "Hadar-Shoval",
+          "year": "2025",
+          "journal-title": "JMIR Formative Research"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-40",
+          "doi-asserted-by": "crossref",
+          "first-page": "639–683",
+          "DOI": "10.1111/j.1744-6570.2004.00003.x",
+          "article-title": "Applicant reactions to selection procedures: An updated model and meta-analysis",
+          "volume": "57",
+          "author": "Hausknecht",
+          "year": "2004",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-41",
+          "doi-asserted-by": "crossref",
+          "first-page": "1011–1035",
+          "DOI": "10.1111/peps.12543",
+          "article-title": "The AI‐IP: Minimizing the guesswork of personality scale item development through artificial intelligence",
+          "volume": "76",
+          "author": "Hernandez",
+          "year": "2023",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-42",
+          "doi-asserted-by": "crossref",
+          "first-page": "e70005",
+          "DOI": "10.1111/ijsa.70005",
+          "article-title": "All your base belong to us: The urgent reality of unproctored testing in the age of LLMs",
+          "volume": "33",
+          "author": "Hickman",
+          "year": "2025",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "8",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-43",
+          "doi-asserted-by": "crossref",
+          "first-page": "1323–1351",
+          "DOI": "10.1037/apl0000695",
+          "article-title": "Automated video interview personality assessments: Reliability, validity, and generalizability investigations",
+          "volume": "107",
+          "author": "Hickman",
+          "year": "2022",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-44",
+          "doi-asserted-by": "crossref",
+          "first-page": "225–239",
+          "DOI": "10.1111/ijsa.12418",
+          "article-title": "Automatic scoring of speeded interpersonal assessment center exercises via machine learning: Initial psychometric evidence and practical guidelines",
+          "volume": "31",
+          "author": "Hickman",
+          "year": "2023",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "7",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-45",
+          "doi-asserted-by": "crossref",
+          "first-page": "979–1000",
+          "DOI": "10.1037/apl0001255",
+          "article-title": "Whither bias goes, I will go: An integrative, systematic review of algorithmic bias mitigation",
+          "volume": "110",
+          "author": "Hickman",
+          "year": "2025",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-46",
+          "doi-asserted-by": "crossref",
+          "first-page": "846–858",
+          "DOI": "10.1037/apl0001247",
+          "article-title": "Automated speech recognition bias in personnel selection: The case of automatically scored job interviews",
+          "volume": "110",
+          "author": "Hickman",
+          "year": "2025",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-47",
+          "doi-asserted-by": "crossref",
+          "first-page": "40–72",
+          "DOI": "10.1177/10944281241264027",
+          "article-title": "The effects of training sample size, ground truth reliability, and NLP method on language-based automatic interview scores’ convergent validity evidence",
+          "volume": "29",
+          "author": "Hickman",
+          "year": "2026",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-48",
+          "doi-asserted-by": "crossref",
+          "first-page": "314–335",
+          "DOI": "10.1037/apl0001236",
+          "article-title": "Are automated video interviews smart enough? Modes of behavior, reliability, validity, and bias of machine learning cognitive ability assessments",
+          "volume": "110",
+          "author": "Hickman",
+          "year": "2025",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-49",
+          "doi-asserted-by": "crossref",
+          "first-page": "112307",
+          "DOI": "10.1016/j.paid.2023.112307",
+          "article-title": "Expanding the methodological toolbox: Machine-based item desirability ratings as an alternative to human-based ratings",
+          "volume": "213",
+          "author": "Hommel",
+          "year": "2023",
+          "journal-title": "Personality and Individual Differences"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-50",
+          "article-title": "Language models accurately infer correlations between psychological items and scales from text alone [Preprint]",
+          "author": "Hommel",
+          "year": "2024"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-51",
+          "doi-asserted-by": "crossref",
+          "first-page": "1608–1620",
+          "DOI": "10.1109/TAFFC.2024.3363835",
+          "article-title": "Avatar-based feedback in job interview training impacts action identities and anxiety",
+          "volume": "15",
+          "author": "Hosseini",
+          "year": "2024",
+          "journal-title": "IEEE Transactions on Affective Computing"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-52",
+          "volume-title": "Workshop on generative AI for education.",
+          "author": "Hwang",
+          "year": "2023,"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-53",
+          "doi-asserted-by": "crossref",
+          "first-page": "1244–1273",
+          "DOI": "10.1177/0149206314567780",
+          "article-title": "Guidelines and ethical considerations for assessment center operations",
+          "volume": "41",
+          "author": "International Taskforce on Assessment Center Guidelines",
+          "year": "2015",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-54",
+          "first-page": "672–683",
+          "volume-title": "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 3: Industry Track)",
+          "author": "Iso",
+          "year": "2025,"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-55",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2139/ssrn.5395709",
+          "article-title": "Voice AI in firms: A natural field experiment on automated job interviews",
+          "author": "Jabarian",
+          "year": "2025"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-56",
+          "doi-asserted-by": "crossref",
+          "first-page": "115345–115355",
+          "DOI": "10.1109/ACCESS.2020.3004002",
+          "article-title": "Predicting personality using answers to open-ended interview questions",
+          "volume": "8",
+          "author": "Jayaratne",
+          "year": "2020",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-57",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/feduc.2022.983055",
+          "article-title": "Rubric development for AI-enabled scoring of three-dimensional constructed-response assessment aligned to NGSS learning progression",
+          "volume": "7",
+          "author": "Kaldaras",
+          "year": "2022",
+          "journal-title": "Frontiers in Education"
+        },
+        {
+          "issue": "1189",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-58",
+          "doi-asserted-by": "crossref",
+          "first-page": "858–865",
+          "DOI": "10.1093/postmj/qgae065",
+          "article-title": "ChatGPT prompts for generating multiple-choice questions in medical education and evidence on their validity: A literature review",
+          "volume": "100",
+          "author": "Kiyak",
+          "year": "2024",
+          "journal-title": "Postgraduate Medical Journal"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-59",
+          "doi-asserted-by": "crossref",
+          "first-page": "e65726",
+          "DOI": "10.2196/65726",
+          "article-title": "Using a hybrid of AI and template-based method in automatic item generation to create multiple-choice questions in medical education: hybrid AIG",
+          "volume": "9",
+          "author": "Kiyak",
+          "year": "2025",
+          "journal-title": "JMIR Formative Research"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-60",
+          "doi-asserted-by": "crossref",
+          "first-page": "22–27",
+          "DOI": "10.1257/pandp.20181018",
+          "volume": "108",
+          "author": "Kleinberg",
+          "year": "2018,",
+          "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-61",
+          "doi-asserted-by": "crossref",
+          "first-page": "e12903",
+          "DOI": "10.1002/emp2.12903",
+          "article-title": "First responder virtual reality simulator to train and assess emergency personnel for mass casualty response",
+          "volume": "4",
+          "author": "Kman",
+          "year": "2023",
+          "journal-title": "JACEP Open"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-62",
+          "first-page": "45–62",
+          "article-title": "Better explaining the benefits why AI? Analyzing the impact of explaining the benefits of AI-supported selection on applicant responses",
+          "volume": "31",
+          "author": "Köchling",
+          "year": "2022",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-63",
+          "first-page": "109–213",
+          "article-title": "Can I show my skills? Affective responses to artificial intelligence in the recruitment process",
+          "volume": "17",
+          "author": "Köchling",
+          "year": "2021",
+          "journal-title": "Review of Managerial Science"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-64",
+          "doi-asserted-by": "crossref",
+          "first-page": "1061–1123",
+          "DOI": "10.1111/peps.12608",
+          "article-title": "Improving measurement and prediction in personnel selection through the application of machine learning",
+          "volume": "76",
+          "author": "Koenig",
+          "year": "2023",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-65",
+          "doi-asserted-by": "crossref",
+          "first-page": "e70021",
+          "DOI": "10.1111/ijsa.70021",
+          "article-title": "Harnessing generative AI for assessment item development: Comparing AI-generated and human-authored items",
+          "volume": "33",
+          "author": "Kowal",
+          "year": "2025",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-66",
+          "doi-asserted-by": "crossref",
+          "first-page": "121–204",
+          "DOI": "10.1007/s40593-019-00186-y",
+          "article-title": "A systematic review of automatic question generation for educational purposes",
+          "volume": "30",
+          "author": "Kurdi",
+          "year": "2020",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-67",
+          "doi-asserted-by": "crossref",
+          "first-page": "371–382",
+          "DOI": "10.1111/ijsa.12191",
+          "article-title": "Examining digital interviews for personnel selection: Applicant reactions and interviewer ratings",
+          "volume": "25",
+          "author": "Langer",
+          "year": "2017",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-68",
+          "doi-asserted-by": "crossref",
+          "first-page": "106878",
+          "DOI": "10.1016/j.chb.2021.106878",
+          "article-title": "The future of artificial intelligence at work: A review on effects of decision automation and augmentation on workers targeted by algorithms and third-party observers",
+          "volume": "123",
+          "author": "Langer",
+          "year": "2021",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-69",
+          "doi-asserted-by": "crossref",
+          "first-page": "103473",
+          "DOI": "10.1016/j.artint.2021.103473",
+          "article-title": "What do we want from Explainable Artificial Intelligence (XAI)? A stakeholder perspective on XAI and a conceptual model guiding interdisciplinary XAI research",
+          "volume": "296",
+          "author": "Langer",
+          "year": "2021",
+          "journal-title": "Artificial Intelligence"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-70",
+          "first-page": "654–663",
+          "article-title": "Development of an AI-based interview system for remote hiring",
+          "volume": "12",
+          "author": "Lee",
+          "year": "2021",
+          "journal-title": "International Journal of Advanced Research in Engineering and Technology (IJARET)"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-71",
+          "first-page": "100213",
+          "article-title": "Applying large language models and chain-of-thought for automatic scoring",
+          "volume": "6",
+          "author": "Lee",
+          "year": "2024",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-72",
+          "article-title": "LLMs-as-judges: A comprehensive survey on LLM-based evaluation methods",
+          "author": "Li",
+          "year": "2024",
+          "journal-title": "arXiv preprint arXiv:2412.05579"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-73",
+          "first-page": "1200–1240",
+          "article-title": "Hiring as exploration",
+          "volume": "93",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Review of Economic Studies"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-74",
+          "doi-asserted-by": "crossref",
+          "first-page": "1604–1627",
+          "DOI": "10.1177/0149206312463941",
+          "article-title": "Understanding the building blocks of selection procedures: Effects of response fidelity on performance and validity",
+          "volume": "41",
+          "author": "Lievens",
+          "year": "2015",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-75",
+          "doi-asserted-by": "crossref",
+          "first-page": "e12516",
+          "DOI": "10.1111/ijsa.12516",
+          "article-title": "Effects of applicants’ use of generative AI in personnel selection: Towards a more nuanced view?",
+          "volume": "33",
+          "author": "Lievens",
+          "year": "2025",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-76",
+          "doi-asserted-by": "crossref",
+          "first-page": "921–948",
+          "DOI": "10.1037/apl0001173",
+          "article-title": "Psychometric properties of automated video interview competency assessments",
+          "volume": "109",
+          "author": "Liff",
+          "year": "2024",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-77",
+          "first-page": "6162–6166",
+          "volume-title": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+          "author": "Liu",
+          "year": "2021"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-78",
+          "doi-asserted-by": "crossref",
+          "first-page": "221–244",
+          "DOI": "10.1177/00131644241281053",
+          "article-title": "Field-testing multiple-choice questions with AI examinees: English grammar items",
+          "volume": "85",
+          "author": "Maeda",
+          "year": "2025",
+          "journal-title": "Educational and Psychological Measurement"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-79",
+          "doi-asserted-by": "crossref",
+          "first-page": "763–792",
+          "DOI": "10.1111/j.1744-6570.1991.tb00698.x",
+          "article-title": "A conceptual rationale for the domain and attributes of biodata items",
+          "volume": "44",
+          "author": "Mael",
+          "year": "1991",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-80",
+          "first-page": "132–156",
+          "article-title": "Speaking without words: A meta‐analysis of over 70 years of research on the power of nonverbal cues in job interviews",
+          "volume": "44",
+          "author": "Raugh",
+          "year": "2023",
+          "journal-title": "Journal of Organizational Behavior"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-81",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.3390/educsci15020144",
+          "article-title": "An effectiveness study of generative artificial intelligence tools used to develop multiple-choice test items",
+          "volume": "15",
+          "author": "May",
+          "year": "2025",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-82",
+          "article-title": "Evaluating the quality of AI-generated items for a certification exam",
+          "author": "Mead",
+          "year": "2024",
+          "journal-title": "Journal of Applied Testing Technology"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-83",
+          "doi-asserted-by": "crossref",
+          "first-page": "475–496",
+          "DOI": "10.1111/peps.12551",
+          "article-title": "Wisdom from the crowd: Can recommender systems predict employee turnover and its destinations?",
+          "volume": "77",
+          "author": "Min",
+          "year": "2024",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-84",
+          "doi-asserted-by": "crossref",
+          "first-page": "364–383",
+          "DOI": "10.1111/1748-8583.12393",
+          "article-title": "Preferring the devil you know: Potential applicant reactions to artificial intelligence evaluation of interviews",
+          "volume": "32",
+          "author": "Mirowska",
+          "year": "2022",
+          "journal-title": "Human Resource Management Journal"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-85",
+          "first-page": "111–127",
+          "volume-title": "Talent assessment: Embracing innovation and mitigating risk in the digital age",
+          "author": "Mondragon",
+          "year": "2023"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-86",
+          "doi-asserted-by": "crossref",
+          "first-page": "445–460",
+          "DOI": "10.1027/1015-5759/a000835",
+          "article-title": "Validity of social media assessments in personnel selection: A systematic review of the initial evidence",
+          "volume": "40",
+          "author": "Mönke",
+          "year": "2024",
+          "journal-title": "European Journal of Psychological Assessment"
+        },
+        {
+          "issue": "3",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-87",
+          "doi-asserted-by": "crossref",
+          "first-page": "683–729",
+          "DOI": "10.1111/j.1744-6570.2007.00089.x",
+          "article-title": "Reconsidering the use of personality tests in personnel selection contexts",
+          "volume": "60",
+          "author": "Morgeson",
+          "year": "2007",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-88",
+          "first-page": "33–35",
+          "article-title": "The uncanny valley",
+          "volume": "7",
+          "author": "Mori",
+          "year": "1970",
+          "journal-title": "Energy"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-89",
+          "first-page": "4795–4809",
+          "article-title": "Lost in transcription: Identifying and quantifying the accuracy biases of automatic speech recognition systems against disfluent speech",
+          "author": "Mujtaba",
+          "year": "2024"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-90",
+          "first-page": "27730–27744",
+          "article-title": "Training language models to follow instructions with human feedback",
+          "volume": "35",
+          "author": "Ouyang",
+          "year": "2022",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-91",
+          "first-page": "11–17",
+          "article-title": "Brief history of flight simulation",
+          "author": "Page",
+          "year": "2000",
+          "journal-title": "SimTecT 2000 Proceedings"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-92",
+          "first-page": "2165–2173",
+          "volume-title": "Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining",
+          "author": "Qin",
+          "year": "2019"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-93",
+          "article-title": "Improving language understanding by generative pre‐training",
+          "author": "Radford",
+          "year": "2018"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-94",
+          "first-page": "2253–2261",
+          "volume-title": "Proceedings of the 27th ACM International Conference on Information and Knowledge Management",
+          "author": "Ramanath",
+          "year": "2018,"
+        },
+        {
+          "issue": "11",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-95",
+          "doi-asserted-by": "crossref",
+          "first-page": "2040–2068",
+          "DOI": "10.1037/apl0000994",
+          "article-title": "Revisiting meta-analytic estimates of validity in personnel selection: Addressing systematic overcorrection for restriction of range",
+          "volume": "107",
+          "author": "Sackett",
+          "year": "2022",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "10",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-96",
+          "doi-asserted-by": "crossref",
+          "first-page": "1207",
+          "DOI": "10.1037/apl0000405",
+          "article-title": "Using machine learning to translate applicant work history into predictors of performance and turnover",
+          "volume": "104",
+          "author": "Sajjadiani",
+          "year": "2019",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-97",
+          "first-page": "22–37",
+          "article-title": "Automatic generation and evaluation of reading comprehension test items with large language models",
+          "author": "Säuberli",
+          "year": "2024",
+          "journal-title": "3rd Workshop on Tools and Resources for People with REAding DIfficulties (READI)"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-98",
+          "first-page": "5–18",
+          "article-title": "Using OpenAI GPT to generate reading comprehension items",
+          "volume": "43",
+          "author": "Sayin",
+          "year": "2024",
+          "journal-title": "Educational Measurement: Issues and Practice"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-99",
+          "doi-asserted-by": "crossref",
+          "first-page": "317–354",
+          "DOI": "10.1023/A:1022810614389",
+          "article-title": "Incremental learning from noisy data",
+          "volume": "1",
+          "author": "Schlimmer",
+          "year": "1986",
+          "journal-title": "Machine Learning"
+        },
+        {
+          "issue": "2",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-100",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.1037/0033-2909.124.2.262",
+          "article-title": "The validity and utility of selection methods in personnel psychology: Practical and theoretical implications of 85 years of research findings",
+          "volume": "124",
+          "author": "Schmidt",
+          "year": "1998",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-101",
+          "volume-title": "Future of performance prediction and evaluation: Artificial intelligence and big data [Symposium]",
+          "author": "Seitz",
+          "year": "2024"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-102",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12909-025-07718-2",
+          "article-title": "Artificial intelligence assisted automated short answer question scoring tool shows high correlation with human examiner markings",
+          "volume": "25",
+          "author": "Seneviratne",
+          "year": "2025",
+          "journal-title": "BMC Medical Education"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-103",
+          "volume-title": "Principles for the validation and use of personnel selection procedures",
+          "author": "Society for Industrial and Organizational Psychology (SIOP)",
+          "year": "2018",
+          "edition": "5th ed."
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-104",
+          "volume-title": "Considerations and recommendations for the validation and use of AI-based assessments for employee selection",
+          "author": "Society for Industrial and Organizational Psychology (SIOP)",
+          "year": "2023"
+        },
+        {
+          "issue": "2344676",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-105",
+          "first-page": "44676",
+          "article-title": "Generating biodata from scratch: Creating and validating a comprehensive collection of biodata items and scales",
+          "volume": "23",
+          "author": "Speer",
+          "year": "2023",
+          "journal-title": "NSF Award"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-106",
+          "article-title": "Reliability evidence for AI-based scores in organizational contexts: Applying lessons learned from psychometrics",
+          "author": "Speer",
+          "year": "2025",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-107",
+          "author": "Stockdale",
+          "year": "2024,"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-108",
+          "doi-asserted-by": "crossref",
+          "first-page": "1–30",
+          "DOI": "10.1177/25152459211061337",
+          "article-title": "A conceptual framework for investigating and mitigating machine-learning measurement bias (MLMB) in psychological assessment",
+          "volume": "5",
+          "author": "Tay",
+          "year": "2022",
+          "journal-title": "Advances in Methods and Practices in Psychological Science"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-109",
+          "first-page": "179–188",
+          "volume-title": "IAAI",
+          "author": "Tokuda",
+          "year": "1990,"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-110",
+          "first-page": "327–348)",
+          "volume-title": "Handbook of theories of social psychology",
+          "author": "Vallacher",
+          "year": "2012"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-111",
+          "article-title": "Human and LLM-based resume matching: An observational study",
+          "author": "Vaishampayan",
+          "year": "2025",
+          "journal-title": "2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-112",
+          "doi-asserted-by": "crossref",
+          "first-page": "119–130",
+          "DOI": "10.1007/s43681-020-00025-0",
+          "article-title": "Job candidates’ reactions to AI-enabled job application processes",
+          "volume": "1",
+          "author": "van Esch",
+          "year": "2021",
+          "journal-title": "AI and Ethics"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-113",
+          "first-page": "24824–24837",
+          "article-title": "Chain-of-thought prompting elicits reasoning in large language models",
+          "volume": "35",
+          "author": "Wei",
+          "year": "2022",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-114",
+          "article-title": "How to flag and prevent job application AI cheating",
+          "author": "Westfall",
+          "year": "2024,  29",
+          "journal-title": "Capterra"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-115",
+          "doi-asserted-by": "crossref",
+          "first-page": "62–79",
+          "DOI": "10.1111/ijsa.12057",
+          "article-title": "In-basket validity: A systematic review",
+          "volume": "22",
+          "author": "Whetzel",
+          "year": "2014",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-116",
+          "doi-asserted-by": "crossref",
+          "first-page": "1578–1590",
+          "DOI": "10.1609/aies.v7i1.31748",
+          "volume": "7",
+          "author": "Wilson",
+          "year": "2024,",
+          "journal-title": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-117",
+          "doi-asserted-by": "crossref",
+          "first-page": "944–954",
+          "DOI": "10.1038/s41562-024-02089-y",
+          "article-title": "Semantic embeddings reveal and address taxonomic incommensurability in psychological measurement",
+          "volume": "9",
+          "author": "Wulff",
+          "year": "2025",
+          "journal-title": "Nature Human Behaviour"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-118",
+          "first-page": "78–86",
+          "volume-title": "Proceedings of the 19th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2024)",
+          "author": "Yang",
+          "year": "2025"
+        },
+        {
+          "issue": "6",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-119",
+          "doi-asserted-by": "crossref",
+          "first-page": "1100–1122",
+          "DOI": "10.1177/1745691617693393",
+          "article-title": "Choosing prediction over explanation in psychology: Lessons from machine learning",
+          "volume": "12",
+          "author": "Yarkoni",
+          "year": "2017",
+          "journal-title": "Perspectives on Psychological Science"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-120",
+          "volume-title": "Prompt injection attacks on LLMs",
+          "author": "Yeung",
+          "year": "2024"
+        },
+        {
+          "issue": "1",
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-121",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1038/s41539-024-00291-1",
+          "article-title": "Evaluating large language models for criterion-based grading from agreement to consistency",
+          "volume": "9",
+          "author": "Zhang",
+          "year": "2024",
+          "journal-title": "NPJ Science of Learning"
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-122",
+          "article-title": "Harnessing the power of AI in qualitative research: Role assignment, engagement, and user perceptions of AI-generated follow-up questions in semi-structured interviews",
+          "author": "Zhang",
+          "year": "2025",
+          "journal-title": "arXiv preprint arXiv:2509.12709."
+        },
+        {
+          "key": "2026082904101399700_workid-USAC0046756-book-part-18-mixed-citation-123",
+          "first-page": "2781–2785",
+          "volume-title": "Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+          "author": "Zinjad",
+          "year": "2024,"
+        }
+      ],
+      "container-title": [
+        "The Oxford Handbook of Personnel Assessment and Selection"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://academic.oup.com/edited-volume/61791/chapter/563393235",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2026-08-29T08:15:50Z",
+        "timestamp": 1787991350000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://academic.oup.com/edited-volume/61791/chapter/563393235"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            21
+          ]
+        ]
+      },
+      "ISBN": [
+        "9780197808986",
+        "9780197809013"
+      ],
+      "references-count": 123,
+      "URL": "https://doi.org/10.1093/9780197809013.003.0018",
+      "relation": {},
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            21
+          ]
+        ]
+      }
+    }
+  }
+}

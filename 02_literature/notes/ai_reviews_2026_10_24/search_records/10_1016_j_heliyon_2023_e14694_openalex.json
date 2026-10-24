@@ -1,0 +1,1523 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694",
+    "checked_at": "2026-10-24T02:10:18.131653Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4353050783",
+    "doi": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+    "title": "Artificial intelligence applied to potential assessment and talent identification in an organisational context",
+    "display_name": "Artificial intelligence applied to potential assessment and talent identification in an organisational context",
+    "publication_year": 2023,
+    "publication_date": "2023-03-22",
+    "ids": {
+      "openalex": "https://openalex.org/W4353050783",
+      "doi": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "pmid": "https://pubmed.ncbi.nlm.nih.gov/37035361"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.heliyon.2023.e14694",
+      "doi": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "pdf_url": "http://www.cell.com/article/S2405844023019011/pdf",
+      "source": {
+        "id": "https://openalex.org/S2898612692",
+        "display_name": "Heliyon",
+        "issn_l": "2405-8440",
+        "issn": [
+          "2405-8440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "ki-jl-1",
+          "norway-1",
+          "poland-40",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Heliyon",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "crossref",
+      "doaj",
+      "pubmed"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "http://www.cell.com/article/S2405844023019011/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5067886990",
+          "display_name": "Tiago Jacob Fernandes França",
+          "orcid": "https://orcid.org/0000-0001-6131-954X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-6131-954X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I155381812",
+            "display_name": "University of Trás-os-Montes and Alto Douro",
+            "ror": "https://ror.org/03qc8vh97",
+            "country_code": "PT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I155381812"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166615",
+            "display_name": "INESC TEC",
+            "ror": "https://ror.org/05fa8ka61",
+            "country_code": "PT",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210125590",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ],
+        "countries": [
+          "PT"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Tiago Jacob Fernandes França",
+        "raw_affiliation_strings": [
+          "INESC TEC and University of Trás-os-Montes e Alto Douro, Portugal"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-6131-954X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "INESC TEC and University of Trás-os-Montes e Alto Douro, Portugal",
+            "institution_ids": [
+              "https://openalex.org/I155381812",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5078782265",
+          "display_name": "Henrique São Mamede",
+          "orcid": "https://orcid.org/0000-0002-5383-9884",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5383-9884"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I201025148",
+            "display_name": "Universidade Aberta",
+            "ror": "https://ror.org/02rv3w387",
+            "country_code": "PT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I201025148"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166615",
+            "display_name": "INESC TEC",
+            "ror": "https://ror.org/05fa8ka61",
+            "country_code": "PT",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210125590",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ],
+        "countries": [
+          "PT"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Henrique São Mamede",
+        "raw_affiliation_strings": [
+          "INESC TEC and Universidade Aberta, Portugal"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5383-9884",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "INESC TEC and Universidade Aberta, Portugal",
+            "institution_ids": [
+              "https://openalex.org/I201025148",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5078919198",
+          "display_name": "João Barroso",
+          "orcid": "https://orcid.org/0000-0003-4847-5104",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4847-5104"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I155381812",
+            "display_name": "University of Trás-os-Montes and Alto Douro",
+            "ror": "https://ror.org/03qc8vh97",
+            "country_code": "PT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I155381812"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210166615",
+            "display_name": "INESC TEC",
+            "ror": "https://ror.org/05fa8ka61",
+            "country_code": "PT",
+            "type": "nonprofit",
+            "lineage": [
+              "https://openalex.org/I4210125590",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ],
+        "countries": [
+          "PT"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "João Manuel Pereira Barroso",
+        "raw_affiliation_strings": [
+          "INESC TEC and University of Trás-os-Montes e Alto Douro, Portugal"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "INESC TEC and University of Trás-os-Montes e Alto Douro, Portugal",
+            "institution_ids": [
+              "https://openalex.org/I155381812",
+              "https://openalex.org/I4210166615"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5048073589",
+          "display_name": "Vítor Santos",
+          "orcid": "https://orcid.org/0000-0002-4223-7079",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4223-7079"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405252956",
+            "display_name": "MagIC",
+            "ror": "https://ror.org/005a50d87",
+            "country_code": "PT",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4405252956",
+              "https://openalex.org/I83558840"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I83558840",
+            "display_name": "Universidade Nova de Lisboa",
+            "ror": "https://ror.org/02xankh89",
+            "country_code": "PT",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I83558840"
+            ]
+          }
+        ],
+        "countries": [
+          "PT"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Vítor Manuel Pereira Duarte dos Santos",
+        "raw_affiliation_strings": [
+          "MagIC and NOVA IMS, Universidade Nova de Lisboa, Portugal"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4223-7079",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "MagIC and NOVA IMS, Universidade Nova de Lisboa, Portugal",
+            "institution_ids": [
+              "https://openalex.org/I4405252956",
+              "https://openalex.org/I83558840"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 5,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5048073589",
+      "https://openalex.org/A5067886990",
+      "https://openalex.org/A5078782265",
+      "https://openalex.org/A5078919198"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I155381812",
+      "https://openalex.org/I201025148",
+      "https://openalex.org/I4210166615",
+      "https://openalex.org/I4405252956",
+      "https://openalex.org/I83558840"
+    ],
+    "apc_list": {
+      "value": 2100,
+      "currency": "USD",
+      "value_usd": 2100
+    },
+    "apc_paid": {
+      "value": 2100,
+      "currency": "USD",
+      "value_usd": 2100
+    },
+    "fwci": 24.7371,
+    "has_fulltext": true,
+    "cited_by_count": 86,
+    "citation_normalized_percentile": {
+      "value": 0.99702586,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 99,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "9",
+      "issue": "4",
+      "first_page": "e14694",
+      "last_page": "e14694"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12415",
+        "display_name": "Employer Branding and e-HRM",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence-in-human-resource-management",
+        "display_name": "artificial intelligence in human resource management",
+        "score": 0.8980000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-identification",
+        "display_name": "talent identification",
+        "score": 0.8330000042915344
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-management",
+        "display_name": "talent management",
+        "score": 0.7639999985694885
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-bias",
+        "display_name": "algorithmic bias",
+        "score": 0.746999979019165
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-ethics",
+        "display_name": "AI ethics",
+        "score": 0.7910000085830688
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-law",
+        "display_name": "AI law",
+        "score": 0.6320000290870667
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-acquisition",
+        "display_name": "talent acquisition",
+        "score": 0.8970000147819519
+      },
+      {
+        "id": "https://openalex.org/keywords/future-of-work",
+        "display_name": "future of work",
+        "score": 0.8209999799728394
+      },
+      {
+        "id": "https://openalex.org/keywords/human-resource-managers",
+        "display_name": "HR managers",
+        "score": 0.37700000405311584
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.5970858335494995
+      },
+      {
+        "id": "https://openalex.org/C202372285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Human resource management",
+        "level": 2,
+        "score": 0.5788676142692566
+      },
+      {
+        "id": "https://openalex.org/C2779343474",
+        "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+        "display_name": "Context (archaeology)",
+        "level": 2,
+        "score": 0.5506460666656494
+      },
+      {
+        "id": "https://openalex.org/C107645774",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467169",
+        "display_name": "Human resources",
+        "level": 2,
+        "score": 0.5055294036865234
+      },
+      {
+        "id": "https://openalex.org/C2780816702",
+        "wikidata": "https://www.wikidata.org/wiki/Q281940",
+        "display_name": "Talent management",
+        "level": 2,
+        "score": 0.5003657341003418
+      },
+      {
+        "id": "https://openalex.org/C58546491",
+        "wikidata": "https://www.wikidata.org/wiki/Q1150207",
+        "display_name": "Competitive advantage",
+        "level": 2,
+        "score": 0.46463847160339355
+      },
+      {
+        "id": "https://openalex.org/C116834253",
+        "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+        "display_name": "Identification (biology)",
+        "level": 2,
+        "score": 0.4530756175518036
+      },
+      {
+        "id": "https://openalex.org/C186528591",
+        "wikidata": "https://www.wikidata.org/wiki/Q619544",
+        "display_name": "Body of knowledge",
+        "level": 2,
+        "score": 0.4200124144554138
+      },
+      {
+        "id": "https://openalex.org/C55587333",
+        "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+        "display_name": "Engineering ethics",
+        "level": 1,
+        "score": 0.38250789046287537
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3265570402145386
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.29465439915657043
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.2803707718849182
+      },
+      {
+        "id": "https://openalex.org/C187736073",
+        "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+        "display_name": "Management",
+        "level": 1,
+        "score": 0.27007997035980225
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.2629089057445526
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.13561782240867615
+      },
+      {
+        "id": "https://openalex.org/C162324750",
+        "wikidata": "https://www.wikidata.org/wiki/Q8134",
+        "display_name": "Economics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C151730666",
+        "wikidata": "https://www.wikidata.org/wiki/Q7205",
+        "display_name": "Paleontology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C59822182",
+        "wikidata": "https://www.wikidata.org/wiki/Q441",
+        "display_name": "Botany",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 6,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.heliyon.2023.e14694",
+        "doi": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+        "pdf_url": "http://www.cell.com/article/S2405844023019011/pdf",
+        "source": {
+          "id": "https://openalex.org/S2898612692",
+          "display_name": "Heliyon",
+          "issn_l": "2405-8440",
+          "issn": [
+            "2405-8440"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "ki-jl-1",
+            "norway-1",
+            "poland-40",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Heliyon",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmid:37035361",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37035361",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306525036",
+          "display_name": "PubMed",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Heliyon",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pubmedcentral.nih.gov:10073758",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10073758",
+        "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10073758/pdf/main.pdf",
+        "source": {
+          "id": "https://openalex.org/S2764455111",
+          "display_name": "PubMed Central",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1299303238",
+          "host_organization_name": "National Institutes of Health",
+          "host_organization_lineage": [
+            "https://openalex.org/I1299303238"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Heliyon",
+        "raw_type": "Text"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:fc27dddd5e9d4f77b351b46fa5c41b27",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/fc27dddd5e9d4f77b351b46fa5c41b27",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Heliyon, Vol 9, Iss 4, Pp e14694- (2023)",
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:repositorioaberto.uab.pt:10400.2/13983",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://hdl.handle.net/10400.2/13983",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402433",
+          "display_name": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "journal article"
+      },
+      {
+        "id": "pmh:oai:run.unl.pt:10362/151288",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.scopus.com/pages/publications/85150830181",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401014",
+          "display_name": "New University of Lisbon's Repository (New University of Lisbon)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "journal article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.heliyon.2023.e14694",
+      "doi": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "pdf_url": "http://www.cell.com/article/S2405844023019011/pdf",
+      "source": {
+        "id": "https://openalex.org/S2898612692",
+        "display_name": "Heliyon",
+        "issn_l": "2405-8440",
+        "issn": [
+          "2405-8440"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "doaj",
+          "dongbi-c",
+          "ki-jl-1",
+          "norway-1",
+          "poland-40",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Heliyon",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [
+      {
+        "score": 0.4300000071525574,
+        "display_name": "Decent work and economic growth",
+        "id": "https://metadata.un.org/sdg/8"
+      }
+    ],
+    "study_designs": [
+      {
+        "display_name": "Systematic Review",
+        "id": "https://openalex.org/study-designs/systematic-review"
+      }
+    ],
+    "awards": [
+      {
+        "id": "https://openalex.org/G6105681291",
+        "display_name": "INESC TEC - Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência (INESC TEC)",
+        "funder_award_id": "LA/P/0063/2020",
+        "funder_id": "https://openalex.org/F4320334779",
+        "funder_display_name": "Fundação para a Ciência e a Tecnologia"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320334779",
+        "display_name": "Fundação para a Ciência e a Tecnologia",
+        "ror": "https://ror.org/00snfqn58"
+      }
+    ],
+    "has_content": {
+      "pdf": true,
+      "grobid_xml": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4353050783.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4353050783.grobid-xml"
+    },
+    "referenced_works_count": 77,
+    "referenced_works": [
+      "https://openalex.org/W47567616",
+      "https://openalex.org/W60614316",
+      "https://openalex.org/W143300736",
+      "https://openalex.org/W1517256963",
+      "https://openalex.org/W1975675278",
+      "https://openalex.org/W1984250866",
+      "https://openalex.org/W2005501262",
+      "https://openalex.org/W2077735039",
+      "https://openalex.org/W2090626589",
+      "https://openalex.org/W2128438887",
+      "https://openalex.org/W2152678850",
+      "https://openalex.org/W2155852311",
+      "https://openalex.org/W2163809794",
+      "https://openalex.org/W2201903473",
+      "https://openalex.org/W2327678559",
+      "https://openalex.org/W2363129255",
+      "https://openalex.org/W2576440140",
+      "https://openalex.org/W2588681363",
+      "https://openalex.org/W2623525983",
+      "https://openalex.org/W2737460398",
+      "https://openalex.org/W2767882333",
+      "https://openalex.org/W2807764398",
+      "https://openalex.org/W2897990146",
+      "https://openalex.org/W2901312569",
+      "https://openalex.org/W2905604475",
+      "https://openalex.org/W2912567338",
+      "https://openalex.org/W2924621562",
+      "https://openalex.org/W2934302500",
+      "https://openalex.org/W2990444728",
+      "https://openalex.org/W3007638655",
+      "https://openalex.org/W3015376435",
+      "https://openalex.org/W3033316300",
+      "https://openalex.org/W3040448756",
+      "https://openalex.org/W3044086490",
+      "https://openalex.org/W3045544350",
+      "https://openalex.org/W3049223401",
+      "https://openalex.org/W3085480867",
+      "https://openalex.org/W3087594614",
+      "https://openalex.org/W3088785240",
+      "https://openalex.org/W3092898917",
+      "https://openalex.org/W3111221273",
+      "https://openalex.org/W3118465508",
+      "https://openalex.org/W3124793718",
+      "https://openalex.org/W3127984086",
+      "https://openalex.org/W3130894836",
+      "https://openalex.org/W3132771424",
+      "https://openalex.org/W3135229929",
+      "https://openalex.org/W3136207892",
+      "https://openalex.org/W3136813641",
+      "https://openalex.org/W3160856016",
+      "https://openalex.org/W3163237151",
+      "https://openalex.org/W3171468176",
+      "https://openalex.org/W3178738300",
+      "https://openalex.org/W3181262202",
+      "https://openalex.org/W3193605537",
+      "https://openalex.org/W3194182673",
+      "https://openalex.org/W3201024510",
+      "https://openalex.org/W3203611237",
+      "https://openalex.org/W3203817951",
+      "https://openalex.org/W3211413604",
+      "https://openalex.org/W4200286447",
+      "https://openalex.org/W4200448266",
+      "https://openalex.org/W4200488781",
+      "https://openalex.org/W4205135338",
+      "https://openalex.org/W4206346145",
+      "https://openalex.org/W4207073174",
+      "https://openalex.org/W4210537337",
+      "https://openalex.org/W4210867863",
+      "https://openalex.org/W4235877265",
+      "https://openalex.org/W4237494090",
+      "https://openalex.org/W4280511125",
+      "https://openalex.org/W4291329513",
+      "https://openalex.org/W4307804863",
+      "https://openalex.org/W4399625654",
+      "https://openalex.org/W6634878907",
+      "https://openalex.org/W6772049713",
+      "https://openalex.org/W6786828490"
+    ],
+    "related_works": [
+      "https://openalex.org/W4321846221",
+      "https://openalex.org/W3037873431",
+      "https://openalex.org/W2760605468",
+      "https://openalex.org/W2075701282",
+      "https://openalex.org/W4281999971",
+      "https://openalex.org/W4296898177",
+      "https://openalex.org/W4312465432",
+      "https://openalex.org/W574269634",
+      "https://openalex.org/W2604405318",
+      "https://openalex.org/W2563554688"
+    ],
+    "abstract_inverted_index": {
+      "Our": [
+        0,
+        35,
+        95,
+        140,
+        163,
+        186
+      ],
+      "study": [
+        1,
+        131,
+        141,
+        187,
+        211
+      ],
+      "provides": [
+        2
+      ],
+      "valuable": [
+        3
+      ],
+      "insights": [
+        4,
+        201
+      ],
+      "into": [
+        5
+      ],
+      "the": [
+        6,
+        32,
+        39,
+        98,
+        103,
+        150,
+        159,
+        166,
+        179,
+        190,
+        217,
+        223
+      ],
+      "relationship": [
+        7
+      ],
+      "between": [
+        8
+      ],
+      "artificial": [
+        9
+      ],
+      "intelligence": [
+        10
+      ],
+      "(AI)": [
+        11
+      ],
+      "and": [
+        12,
+        21,
+        31,
+        59,
+        80,
+        85,
+        87,
+        158,
+        177,
+        183,
+        195,
+        202
+      ],
+      "Human": [
+        13,
+        91
+      ],
+      "Resource": [
+        14,
+        92
+      ],
+      "Management": [
+        15
+      ],
+      "(HRM).": [
+        16
+      ],
+      "We": [
+        17
+      ],
+      "have": [
+        18,
+        123
+      ],
+      "minimised": [
+        19
+      ],
+      "bias": [
+        20
+      ],
+      "ensured": [
+        22
+      ],
+      "reliable": [
+        23
+      ],
+      "findings": [
+        24,
+        70,
+        164
+      ],
+      "by": [
+        25,
+        100
+      ],
+      "employing": [
+        26
+      ],
+      "a": [
+        27,
+        47,
+        110,
+        230
+      ],
+      "systematic": [
+        28
+      ],
+      "literature": [
+        29
+      ],
+      "review": [
+        30
+      ],
+      "PRISMA": [
+        33
+      ],
+      "statement.": [
+        34
+      ],
+      "comprehensive": [
+        36
+      ],
+      "synthesis": [
+        37
+      ],
+      "of": [
+        38,
+        50,
+        68,
+        75,
+        102,
+        105,
+        161,
+        193,
+        209,
+        219,
+        225,
+        233
+      ],
+      "studies": [
+        40
+      ],
+      "included": [
+        41
+      ],
+      "in": [
+        42,
+        108,
+        143,
+        174,
+        213,
+        221
+      ],
+      "this": [
+        43
+      ],
+      "research,": [
+        44
+      ],
+      "along": [
+        45
+      ],
+      "with": [
+        46,
+        145
+      ],
+      "bibliometric": [
+        48
+      ],
+      "analysis": [
+        49
+      ],
+      "articles,": [
+        51
+      ],
+      "journals,": [
+        52
+      ],
+      "indexes,": [
+        53
+      ],
+      "authors'": [
+        54
+      ],
+      "affiliations,": [
+        55
+      ],
+      "citations,": [
+        56
+      ],
+      "keyword": [
+        57
+      ],
+      "co-occurrences,": [
+        58
+      ],
+      "co-authorship": [
+        60
+      ],
+      "analysis,": [
+        61
+      ],
+      "has": [
+        62
+      ],
+      "produced": [
+        63
+      ],
+      "robust": [
+        64
+      ],
+      "results.": [
+        65
+      ],
+      "The": [
+        66,
+        207
+      ],
+      "discussion": [
+        67
+      ],
+      "our": [
+        69,
+        130,
+        210
+      ],
+      "focuses": [
+        71
+      ],
+      "on": [
+        72,
+        90,
+        216
+      ],
+      "critical": [
+        73
+      ],
+      "areas": [
+        74
+      ],
+      "interest,": [
+        76
+      ],
+      "such": [
+        77
+      ],
+      "as": [
+        78,
+        113
+      ],
+      "AI": [
+        79,
+        82,
+        125,
+        153,
+        194
+      ],
+      "Talent,": [
+        81
+      ],
+      "Bias,": [
+        83
+      ],
+      "Ethics": [
+        84
+      ],
+      "Law,": [
+        86
+      ],
+      "their": [
+        88
+      ],
+      "impact": [
+        89
+      ],
+      "(HR)": [
+        93
+      ],
+      "management.": [
+        94
+      ],
+      "research": [
+        96,
+        147
+      ],
+      "highlights": [
+        97
+      ],
+      "recognition": [
+        99
+      ],
+      "organisations": [
+        101
+      ],
+      "importance": [
+        104,
+        208
+      ],
+      "talent": [
+        106,
+        128
+      ],
+      "management": [
+        107,
+        157,
+        197
+      ],
+      "achieving": [
+        109
+      ],
+      "competitive": [
+        111
+      ],
+      "advantage": [
+        112
+      ],
+      "higher-level": [
+        114
+      ],
+      "skills": [
+        115
+      ],
+      "become": [
+        116
+      ],
+      "increasingly": [
+        117
+      ],
+      "necessary.": [
+        118
+      ],
+      "Although": [
+        119
+      ],
+      "some": [
+        120
+      ],
+      "HR": [
+        121,
+        156,
+        169,
+        196,
+        220
+      ],
+      "managers": [
+        122,
+        170
+      ],
+      "adopted": [
+        124
+      ],
+      "technology": [
+        126,
+        176
+      ],
+      "for": [
+        127,
+        138,
+        152,
+        168,
+        204
+      ],
+      "acquisition,": [
+        129
+      ],
+      "reveals": [
+        132
+      ],
+      "that": [
+        133,
+        148
+      ],
+      "there": [
+        134
+      ],
+      "is": [
+        135,
+        142
+      ],
+      "still": [
+        136
+      ],
+      "room": [
+        137
+      ],
+      "improvement.": [
+        139
+      ],
+      "line": [
+        144
+      ],
+      "previous": [
+        146
+      ],
+      "acknowledges": [
+        149
+      ],
+      "potential": [
+        151
+      ],
+      "to": [
+        154,
+        171,
+        189
+      ],
+      "revolutionise": [
+        155
+      ],
+      "future": [
+        160,
+        205
+      ],
+      "work.": [
+        162
+      ],
+      "emphasise": [
+        165
+      ],
+      "need": [
+        167
+      ],
+      "be": [
+        172
+      ],
+      "proactive": [
+        173
+      ],
+      "embracing": [
+        175
+      ],
+      "bridging": [
+        178
+      ],
+      "technological,": [
+        180
+      ],
+      "human,": [
+        181
+      ],
+      "societal,": [
+        182
+      ],
+      "governmental": [
+        184
+      ],
+      "gaps.": [
+        185
+      ],
+      "contributes": [
+        188
+      ],
+      "growing": [
+        191
+      ],
+      "body": [
+        192,
+        232
+      ],
+      "knowledge,": [
+        198
+      ],
+      "providing": [
+        199
+      ],
+      "essential": [
+        200
+      ],
+      "recommendations": [
+        203
+      ],
+      "research.": [
+        206
+      ],
+      "lies": [
+        212
+      ],
+      "its": [
+        214
+      ],
+      "focus": [
+        215
+      ],
+      "role": [
+        218
+      ],
+      "promoting": [
+        222
+      ],
+      "benefits": [
+        224
+      ],
+      "AI-based": [
+        226
+      ],
+      "applications,": [
+        227
+      ],
+      "thereby": [
+        228
+      ],
+      "creating": [
+        229
+      ],
+      "larger": [
+        231
+      ],
+      "knowledge": [
+        234
+      ],
+      "from": [
+        235
+      ],
+      "an": [
+        236
+      ],
+      "organisational": [
+        237
+      ],
+      "perspective.": [
+        238
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 18
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 23
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 36
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 9
+      }
+    ],
+    "updated_date": "2026-10-16T09:59:22.235173",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

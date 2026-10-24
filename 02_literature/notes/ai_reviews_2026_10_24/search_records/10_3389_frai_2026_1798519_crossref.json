@@ -1,0 +1,566 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+    "checked_at": "2026-10-24T02:10:07.726656Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            3
+          ]
+        ],
+        "date-time": "2026-10-03T03:20:57Z",
+        "timestamp": 1790997657170,
+        "version": "4.1.0"
+      },
+      "reference-count": 36,
+      "publisher": "Frontiers Media SA",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                13
+              ]
+            ],
+            "date-time": "2026-03-13T00:00:00Z",
+            "timestamp": 1773360000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "frontiersin.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Front. Artif. Intell."
+      ],
+      "abstract": "<jats:p>Large language models (LLMs) are increasingly being explored and deployed across recruitment and selection processes, reshaping how hiring decisions are supported, communicated, and justified. Unlike earlier algorithmic hiring tools, LLMs operate through language-mediated interaction, influencing interpretive and evaluative layers of decision-making. This scoping review maps the academic literature on LLMs in hiring to examine (i) where and how these systems are applied across the hiring pipeline, (ii) what forms of evidence and outcomes are assessed, (iii) which risks and mitigation strategies are documented, and (iv) how disciplinary structures shape research focus. Following PRISMA-ScR guidelines, we synthesize research published between 2018 and 2026 across multiple disciplines using a transparent, lexicon-based coding approach. The results reveal a rapidly expanding but uneven literature, characterized by concentration in early hiring stages, selective outcome measurement favoring efficiency and performance, high awareness of ethical risks with limited empirical validation of controls, and structurally constrained interdisciplinarity. The review highlights key gaps and provides a foundation for future interdisciplinary and field-based research on responsible LLM use in hiring.</jats:p>",
+      "DOI": "10.3389/frai.2026.1798519",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ],
+        "date-time": "2026-03-13T06:48:59Z",
+        "timestamp": 1773384539000
+      },
+      "update-policy": "https://doi.org/10.3389/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 3,
+      "title": [
+        "Mapping the use of large language models in hiring decisions: a scoping review"
+      ],
+      "prefix": "10.3389",
+      "volume": "9",
+      "author": [
+        {
+          "given": "Arpit",
+          "family": "Tripathi",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Faculty of Business and Economics, Mendel University in Brno",
+              "place": [
+                "Brno, Czechia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ankit",
+          "family": "Tripathi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Business and Economics, Mendel University in Brno",
+              "place": [
+                "Brno, Czechia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Frantisek",
+          "family": "Darena",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Business and Economics, Mendel University in Brno",
+              "place": [
+                "Brno, Czechia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pawan Kumar",
+          "family": "Mishra",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Business and Economics, Mendel University in Brno",
+              "place": [
+                "Brno, Czechia"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "1965",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref1",
+          "volume-title": "Chaos of Disciplines",
+          "author": "Abbott",
+          "year": "2001"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1080/1364557032000119616",
+          "article-title": "Scoping studies: towards a methodological framework",
+          "volume": "8",
+          "author": "Arksey",
+          "year": "2005",
+          "journal-title": "Int. J. Soc. Res. Methodol."
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "publisher",
+          "first-page": "1279",
+          "DOI": "10.1162/003355303322552801",
+          "article-title": "The skill content of recent technological change: an empirical exploration*",
+          "volume": "118",
+          "author": "Autor",
+          "year": "2003",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15779/Z38BG31",
+          "article-title": "Big data’s disparate impact",
+          "author": "Barocas",
+          "year": "2016",
+          "journal-title": "Calif. Law Rev."
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "first-page": "4",
+          "DOI": "10.1016/j.intcom.2010.07.003",
+          "article-title": "Socio-technical systems: from design methods to systems engineering",
+          "volume": "23",
+          "author": "Baxter",
+          "year": "2011",
+          "journal-title": "Interact. Comput."
+        },
+        {
+          "key": "ref6",
+          "author": "Bender",
+          "year": "2021"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "first-page": "991",
+          "DOI": "10.1257/0002828042002561",
+          "article-title": "Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination",
+          "volume": "94",
+          "author": "Bertrand",
+          "year": "2004",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "key": "ref8",
+          "volume-title": "On the Opportunities and Risks of Foundation Models",
+          "author": "Bommasani",
+          "year": "2022"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "first-page": "18",
+          "DOI": "10.5539/ass.v9n5p18",
+          "article-title": "A comparison between two main academic literature collections: web of science and Scopus databases",
+          "volume": "9",
+          "author": "Chadegani",
+          "year": "2013",
+          "journal-title": "Asian Soc. Sci."
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.1037/0021-9010.86.3.425",
+          "article-title": "Justice at the millennium: a meta-analytic review of 25 years of organizational justice research",
+          "volume": "86",
+          "author": "Colquitt",
+          "year": "2001",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "first-page": "114",
+          "DOI": "10.1037/xge0000033",
+          "article-title": "Algorithm aversion: people erroneously avoid algorithms after seeing them err",
+          "volume": "144",
+          "author": "Dietvorst",
+          "year": "2015",
+          "journal-title": "J. Exp. Psychol. Gen."
+        },
+        {
+          "key": "ref9001",
+          "first-page": "99",
+          "article-title": "Employee selection: How psychology can improve the hiring process",
+          "author": "Dipboye",
+          "year": "2018"
+        },
+        {
+          "key": "ref12",
+          "volume-title": "Assessing adverse impact in software, algorithms, and artificial intelligence used in employment selection procedures",
+          "year": "2023"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "first-page": "694",
+          "DOI": "10.2307/258595",
+          "article-title": "The perceived fairness of selection systems: an organizational justice perspective",
+          "volume": "18",
+          "author": "Gilliland",
+          "year": "1993",
+          "journal-title": "Acad. Manag. Rev."
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "first-page": "333",
+          "DOI": "10.1111/j.1754-9434.2008.00058.x",
+          "article-title": "Stubborn reliance on intuition and subjectivity in employee selection",
+          "volume": "1",
+          "author": "Highhouse",
+          "year": "2008",
+          "journal-title": "Ind. Organ. Psychol."
+        },
+        {
+          "key": "ref15",
+          "article-title": "Accountable algorithms (SSRN scholarly paper no. 2765268)",
+          "author": "Kroll",
+          "year": "2017",
+          "journal-title": "Soc. Sci. Res. Netw."
+        },
+        {
+          "key": "ref16",
+          "volume-title": "Organizations",
+          "author": "March",
+          "year": "1958"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "first-page": "143",
+          "DOI": "10.1186/s12874-018-0611-x",
+          "article-title": "Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach",
+          "volume": "18",
+          "author": "Munn",
+          "year": "2018",
+          "journal-title": "BMC Med. Res. Methodol."
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "first-page": "799",
+          "DOI": "10.1257/jel.20161309",
+          "article-title": "Experimental research on labor market discrimination",
+          "volume": "56",
+          "author": "Neumark",
+          "year": "2018",
+          "journal-title": "J. Econ. Lit."
+        },
+        {
+          "key": "ref19",
+          "volume-title": "Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce",
+          "year": "2023"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1435",
+          "DOI": "10.1177/0170840607081138",
+          "article-title": "Sociomaterial practices: exploring technology at work",
+          "volume": "28",
+          "author": "Orlikowski",
+          "year": "2007",
+          "journal-title": "Organ. Stud."
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "publisher",
+          "first-page": "121",
+          "DOI": "10.1287/isre.12.2.121.9700",
+          "article-title": "Research commentary: desperately seeking the “IT” in IT research—a call to theorizing the IT artifact",
+          "volume": "12",
+          "author": "Orlikowski",
+          "year": "2001",
+          "journal-title": "Inf. Syst. Res."
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "publisher",
+          "first-page": "181",
+          "DOI": "10.1146/annurev.soc.33.040406.131740",
+          "article-title": "The sociology of discrimination: racial discrimination in employment, housing, credit, and consumer markets",
+          "volume": "34",
+          "author": "Pager",
+          "year": "2008",
+          "journal-title": "Annu. Rev. Sociol."
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "first-page": "230",
+          "DOI": "10.1518/001872097778543886",
+          "article-title": "Humans and automation: use, misuse, disuse, abuse",
+          "volume": "39",
+          "author": "Parasuraman",
+          "year": "1997",
+          "journal-title": "Hum. Factors"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "first-page": "520",
+          "DOI": "10.11124/JBIES-22-00123",
+          "article-title": "Recommendations for the extraction, analysis, and presentation of results in scoping reviews",
+          "volume": "21",
+          "author": "Pollock",
+          "year": "2023",
+          "journal-title": "JBI Evid. Synth."
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "first-page": "10870",
+          "DOI": "10.1073/pnas.1706255114",
+          "article-title": "Meta-analysis of field experiments shows no change in racial discrimination in hiring over time",
+          "volume": "114",
+          "author": "Quillian",
+          "year": "2017",
+          "journal-title": "Proc. Natl. Acad. Sci."
+        },
+        {
+          "key": "ref26",
+          "author": "Raji",
+          "year": "2020"
+        },
+        {
+          "key": "ref27",
+          "volume-title": "Institutions and Organizations",
+          "author": "Scott",
+          "year": "2014"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "first-page": "571",
+          "DOI": "10.2307/258788",
+          "article-title": "Managing legitimacy: strategic and institutional approaches",
+          "volume": "20",
+          "author": "Suchman",
+          "year": "1995",
+          "journal-title": "Acad. Manag. Rev."
+        },
+        {
+          "key": "ref29",
+          "doi-asserted-by": "publisher",
+          "first-page": "467",
+          "DOI": "10.7326/M18-0850",
+          "article-title": "PRISMA extension for scoping reviews (PRISMA-ScR): checklist and explanation",
+          "volume": "169",
+          "author": "Tricco",
+          "year": "2018",
+          "journal-title": "Ann. Intern. Med."
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "first-page": "3",
+          "DOI": "10.1177/001872675100400101",
+          "article-title": "Some social and psychological consequences of the longwall method of coal-getting: an examination of the psychological situation and defences of a work group in relation to the social structure and technological content of the work system",
+          "volume": "4",
+          "author": "Trist",
+          "year": "1951",
+          "journal-title": "Hum. Relat."
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "first-page": "97",
+          "DOI": "10.9785/cri-2021-220402",
+          "article-title": "Demystifying the draft EU artificial intelligence act—analysing the good, the bad, and the unclear elements of the proposed approach",
+          "volume": "22",
+          "author": "Veale",
+          "year": "2021",
+          "journal-title": "Comput. Law Rev. Int."
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "publisher",
+          "first-page": "365",
+          "DOI": "10.1016/j.joi.2016.02.007",
+          "article-title": "A review of the literature on citation impact indicators",
+          "volume": "10",
+          "author": "Waltman",
+          "year": "2016",
+          "journal-title": "J. Informetr."
+        },
+        {
+          "key": "ref33",
+          "volume-title": "Sensemaking in Organizations",
+          "author": "Weick",
+          "year": "1995"
+        },
+        {
+          "key": "ref34",
+          "volume-title": "Do Artifacts Have Politics? Computer Ethics",
+          "author": "Winner",
+          "year": "2017"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "publisher",
+          "first-page": "429",
+          "DOI": "10.1177/1094428114562629",
+          "article-title": "Bibliometric methods in management and organization",
+          "volume": "18",
+          "author": "Zupic",
+          "year": "2015",
+          "journal-title": "Organ. Res. Methods"
+        }
+      ],
+      "container-title": [
+        "Frontiers in Artificial Intelligence"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://www.frontiersin.org/articles/10.3389/frai.2026.1798519/full",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ],
+        "date-time": "2026-03-13T06:49:02Z",
+        "timestamp": 1773384542000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.frontiersin.org/articles/10.3389/frai.2026.1798519/full"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ]
+      },
+      "references-count": 36,
+      "alternative-id": [
+        "10.3389/frai.2026.1798519"
+      ],
+      "URL": "https://doi.org/10.3389/frai.2026.1798519",
+      "relation": {},
+      "ISSN": [
+        "2624-8212"
+      ],
+      "issn-type": [
+        {
+          "value": "2624-8212",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            13
+          ]
+        ]
+      },
+      "article-number": "1798519"
+    }
+  }
+}

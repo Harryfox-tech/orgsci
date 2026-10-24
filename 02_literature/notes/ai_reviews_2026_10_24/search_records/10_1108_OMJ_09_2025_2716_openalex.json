@@ -1,0 +1,1509 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716",
+    "checked_at": "2026-10-24T02:10:11.372050Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W7130642943",
+    "doi": "https://doi.org/10.1108/omj-09-2025-2716",
+    "title": "Augmentative or autonomous? Reframing artificial intelligence in talent management through a systematic review",
+    "display_name": "Augmentative or autonomous? Reframing artificial intelligence in talent management through a systematic review",
+    "publication_year": 2026,
+    "publication_date": "2026-02-20",
+    "ids": {
+      "openalex": "https://openalex.org/W7130642943",
+      "doi": "https://doi.org/10.1108/omj-09-2025-2716"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1108/omj-09-2025-2716",
+      "doi": "https://doi.org/10.1108/omj-09-2025-2716",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1108/omj-09-2025-2716",
+      "pdf_url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-09-2025-2716/11246451/omj-09-2025-2716en.pdf",
+      "source": {
+        "id": "https://openalex.org/S68754933",
+        "display_name": "Organization Management Journal",
+        "issn_l": "1541-6518",
+        "issn": [
+          "1541-6518",
+          "2753-8567"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "abdc-b",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319811",
+        "host_organization_name": "Emerald Publishing Limited",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319811"
+        ],
+        "host_organization_lineage_names": [
+          "Emerald Publishing Limited"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Organization Management Journal",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-09-2025-2716/11246451/omj-09-2025-2716en.pdf",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5061413181",
+          "display_name": "Unnar Theodorsson",
+          "orcid": "https://orcid.org/0000-0003-4393-9133",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4393-9133"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180519160",
+            "display_name": "Copenhagen Business School",
+            "ror": "https://ror.org/04sppb023",
+            "country_code": "DK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ],
+        "countries": [
+          "DK"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Unnar Theodorsson",
+        "raw_affiliation_strings": [
+          "Copenhagen Business School Department of Organization (IOA), , Copenhagen,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Copenhagen Business School Department of Organization (IOA), , Copenhagen,",
+            "institution_ids": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5126507127",
+          "display_name": "Kenneth Singh Dosanjh",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I180519160",
+            "display_name": "Copenhagen Business School",
+            "ror": "https://ror.org/04sppb023",
+            "country_code": "DK",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ],
+        "countries": [
+          "DK"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Kenneth Singh Dosanjh",
+        "raw_affiliation_strings": [
+          "Copenhagen Business School Department of Business Humanities and Law, , Copenhagen,"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Copenhagen Business School Department of Business Humanities and Law, , Copenhagen,",
+            "institution_ids": [
+              "https://openalex.org/I180519160"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5061413181"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I180519160"
+    ],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 12.2912,
+    "has_fulltext": true,
+    "cited_by_count": 4,
+    "citation_normalized_percentile": {
+      "value": 0.98626717,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "23",
+      "issue": "2",
+      "first_page": "183",
+      "last_page": "197"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "artificial intelligence",
+        "score": 0.9190000295639038
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-management",
+        "display_name": "talent management",
+        "score": 0.9990000128746033
+      },
+      {
+        "id": "https://openalex.org/keywords/autonomous-ai-systems",
+        "display_name": "autonomous AI systems",
+        "score": 0.9959999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/recruitment",
+        "display_name": "recruitment",
+        "score": 0.5860000252723694
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-development",
+        "display_name": "employee development",
+        "score": 0.9629999995231628
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-retention",
+        "display_name": "employee retention",
+        "score": 0.953000009059906
+      },
+      {
+        "id": "https://openalex.org/keywords/performance-management",
+        "display_name": "performance management",
+        "score": 0.9980000257492065
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-bias",
+        "display_name": "algorithmic bias",
+        "score": 0.824999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/fairness",
+        "display_name": "fairness",
+        "score": 0.6869999766349792
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-ethics",
+        "display_name": "AI ethics",
+        "score": 0.7710000276565552
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-agency",
+        "display_name": "employee agency",
+        "score": 0.6940000057220459
+      },
+      {
+        "id": "https://openalex.org/keywords/trust",
+        "display_name": "trust",
+        "score": 0.5950000286102295
+      },
+      {
+        "id": "https://openalex.org/keywords/cross-cultural-variation",
+        "display_name": "cross-cultural variation",
+        "score": 0.6549999713897705
+      },
+      {
+        "id": "https://openalex.org/keywords/responsible-ai-adoption",
+        "display_name": "responsible AI adoption",
+        "score": 0.5379999876022339
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C187029079",
+        "wikidata": "https://www.wikidata.org/wiki/Q958679",
+        "display_name": "Cognitive reframing",
+        "level": 2,
+        "score": 0.7246000170707703
+      },
+      {
+        "id": "https://openalex.org/C2776007630",
+        "wikidata": "https://www.wikidata.org/wiki/Q2798912",
+        "display_name": "Accountability",
+        "level": 2,
+        "score": 0.6614000201225281
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.5906999707221985
+      },
+      {
+        "id": "https://openalex.org/C2780233690",
+        "wikidata": "https://www.wikidata.org/wiki/Q535347",
+        "display_name": "Transparency (behavior)",
+        "level": 2,
+        "score": 0.5494999885559082
+      },
+      {
+        "id": "https://openalex.org/C107645774",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467169",
+        "display_name": "Human resources",
+        "level": 2,
+        "score": 0.4440999925136566
+      },
+      {
+        "id": "https://openalex.org/C2780816702",
+        "wikidata": "https://www.wikidata.org/wiki/Q281940",
+        "display_name": "Talent management",
+        "level": 2,
+        "score": 0.4440999925136566
+      },
+      {
+        "id": "https://openalex.org/C202372285",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056396",
+        "display_name": "Human resource management",
+        "level": 2,
+        "score": 0.38679999113082886
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.38429999351501465
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.3562999963760376
+      },
+      {
+        "id": "https://openalex.org/C2776675952",
+        "wikidata": "https://www.wikidata.org/wiki/Q2185242",
+        "display_name": "Corporatization",
+        "level": 2,
+        "score": 0.33090001344680786
+      },
+      {
+        "id": "https://openalex.org/C157170001",
+        "wikidata": "https://www.wikidata.org/wiki/Q4781507",
+        "display_name": "Applications of artificial intelligence",
+        "level": 2,
+        "score": 0.3248000144958496
+      },
+      {
+        "id": "https://openalex.org/C189708586",
+        "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+        "display_name": "Systematic review",
+        "level": 3,
+        "score": 0.3149000108242035
+      },
+      {
+        "id": "https://openalex.org/C162130032",
+        "wikidata": "https://www.wikidata.org/wiki/Q5532637",
+        "display_name": "Generativity",
+        "level": 2,
+        "score": 0.30869999527931213
+      },
+      {
+        "id": "https://openalex.org/C2767350",
+        "wikidata": "https://www.wikidata.org/wiki/Q6662173",
+        "display_name": "Business intelligence",
+        "level": 2,
+        "score": 0.298799991607666
+      },
+      {
+        "id": "https://openalex.org/C22607594",
+        "wikidata": "https://www.wikidata.org/wiki/Q5375150",
+        "display_name": "Enabling",
+        "level": 2,
+        "score": 0.2957000136375427
+      },
+      {
+        "id": "https://openalex.org/C144024400",
+        "wikidata": "https://www.wikidata.org/wiki/Q21201",
+        "display_name": "Sociology",
+        "level": 0,
+        "score": 0.2897999882698059
+      },
+      {
+        "id": "https://openalex.org/C195094911",
+        "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+        "display_name": "Process management",
+        "level": 1,
+        "score": 0.2856000065803528
+      },
+      {
+        "id": "https://openalex.org/C12532035",
+        "wikidata": "https://www.wikidata.org/wiki/Q1399956",
+        "display_name": "Performance management",
+        "level": 2,
+        "score": 0.28439998626708984
+      },
+      {
+        "id": "https://openalex.org/C184356942",
+        "wikidata": "https://www.wikidata.org/wiki/Q830382",
+        "display_name": "Best practice",
+        "level": 2,
+        "score": 0.28119999170303345
+      },
+      {
+        "id": "https://openalex.org/C26931999",
+        "wikidata": "https://www.wikidata.org/wiki/Q3721289",
+        "display_name": "Electronic performance support systems",
+        "level": 2,
+        "score": 0.28060001134872437
+      },
+      {
+        "id": "https://openalex.org/C105409693",
+        "wikidata": "https://www.wikidata.org/wiki/Q5937824",
+        "display_name": "Human intelligence",
+        "level": 2,
+        "score": 0.27630001306533813
+      },
+      {
+        "id": "https://openalex.org/C39214371",
+        "wikidata": "https://www.wikidata.org/wiki/Q19483216",
+        "display_name": "Organizational behavior",
+        "level": 2,
+        "score": 0.2720000147819519
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.2653000056743622
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.26510000228881836
+      },
+      {
+        "id": "https://openalex.org/C17305859",
+        "wikidata": "https://www.wikidata.org/wiki/Q382944",
+        "display_name": "Soar",
+        "level": 2,
+        "score": 0.26440000534057617
+      },
+      {
+        "id": "https://openalex.org/C2776465043",
+        "wikidata": "https://www.wikidata.org/wiki/Q1358239",
+        "display_name": "Augmentative",
+        "level": 2,
+        "score": 0.259799987077713
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.2563999891281128
+      },
+      {
+        "id": "https://openalex.org/C544335954",
+        "wikidata": "https://www.wikidata.org/wiki/Q2553348",
+        "display_name": "Web intelligence",
+        "level": 4,
+        "score": 0.25110000371932983
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1108/omj-09-2025-2716",
+        "doi": "https://doi.org/10.1108/omj-09-2025-2716",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1108/omj-09-2025-2716",
+        "pdf_url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-09-2025-2716/11246451/omj-09-2025-2716en.pdf",
+        "source": {
+          "id": "https://openalex.org/S68754933",
+          "display_name": "Organization Management Journal",
+          "issn_l": "1541-6518",
+          "issn": [
+            "1541-6518",
+            "2753-8567"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "abdc-b",
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1",
+            "poland-20",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319811",
+          "host_organization_name": "Emerald Publishing Limited",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319811"
+          ],
+          "host_organization_lineage_names": [
+            "Emerald Publishing Limited"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Organization Management Journal",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:research-api.cbs.dk:openaire/23d5f76f-4778-4c24-8f04-f2cc55dee69d",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://hdl.handle.net/10398/23d5f76f-4778-4c24-8f04-f2cc55dee69d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401458",
+          "display_name": "CBS Research Portal (Copenhagen Business School)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I180519160",
+          "host_organization_name": "Copenhagen Business School",
+          "host_organization_lineage": [
+            "https://openalex.org/I180519160"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Theódórsson, U & Dosanjh, K S 2026, 'Augmentative or Autonomous? Reframing Artificial Intelligence in Talent Management Through a Systematic Review', Organization Management Journal, vol. 23, no. 2, pp. 183-197. https://doi.org/10.1108/OMJ-09-2025-2716",
+        "raw_type": "info:eu-repo/semantics/review"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1108/omj-09-2025-2716",
+      "doi": "https://doi.org/10.1108/omj-09-2025-2716",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1108/omj-09-2025-2716",
+      "pdf_url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-09-2025-2716/11246451/omj-09-2025-2716en.pdf",
+      "source": {
+        "id": "https://openalex.org/S68754933",
+        "display_name": "Organization Management Journal",
+        "issn_l": "1541-6518",
+        "issn": [
+          "1541-6518",
+          "2753-8567"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "abdc-b",
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1",
+          "poland-20",
+          "russia-white-list-2",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319811",
+        "host_organization_name": "Emerald Publishing Limited",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319811"
+        ],
+        "host_organization_lineage_names": [
+          "Emerald Publishing Limited"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Organization Management Journal",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [
+      {
+        "id": "https://metadata.un.org/sdg/16",
+        "score": 0.5668816566467285,
+        "display_name": "Peace, justice, and strong institutions"
+      }
+    ],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W7130642943.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W7130642943.grobid-xml"
+    },
+    "referenced_works_count": 29,
+    "referenced_works": [
+      "https://openalex.org/W1853381877",
+      "https://openalex.org/W2045232657",
+      "https://openalex.org/W2063330731",
+      "https://openalex.org/W2096320953",
+      "https://openalex.org/W2100379340",
+      "https://openalex.org/W2108387116",
+      "https://openalex.org/W2135296668",
+      "https://openalex.org/W2149604183",
+      "https://openalex.org/W2256799039",
+      "https://openalex.org/W2460407319",
+      "https://openalex.org/W2528662334",
+      "https://openalex.org/W2750144484",
+      "https://openalex.org/W2754549406",
+      "https://openalex.org/W2778323012",
+      "https://openalex.org/W2784066967",
+      "https://openalex.org/W2796755741",
+      "https://openalex.org/W2893425640",
+      "https://openalex.org/W2905604475",
+      "https://openalex.org/W2906095734",
+      "https://openalex.org/W2947092677",
+      "https://openalex.org/W2963849010",
+      "https://openalex.org/W2964523010",
+      "https://openalex.org/W2979906316",
+      "https://openalex.org/W3124536214",
+      "https://openalex.org/W4229701870",
+      "https://openalex.org/W4247155454",
+      "https://openalex.org/W4383913712",
+      "https://openalex.org/W4396615297",
+      "https://openalex.org/W4408024450"
+    ],
+    "related_works": [],
+    "abstract_inverted_index": {
+      "Purpose": [
+        0
+      ],
+      "This": [
+        1,
+        225
+      ],
+      "paper": [
+        2
+      ],
+      "aims": [
+        3
+      ],
+      "to": [
+        4,
+        129,
+        151,
+        236
+      ],
+      "examine": [
+        5,
+        158
+      ],
+      "the": [
+        6,
+        30,
+        81,
+        261,
+        269,
+        291,
+        294,
+        300
+      ],
+      "integration": [
+        7,
+        139
+      ],
+      "of": [
+        8,
+        54,
+        91,
+        220,
+        251,
+        272,
+        287,
+        293,
+        306
+      ],
+      "artificial": [
+        9
+      ],
+      "intelligence": [
+        10
+      ],
+      "(AI)": [
+        11
+      ],
+      "into": [
+        12
+      ],
+      "talent": [
+        13,
+        24,
+        322
+      ],
+      "management": [
+        14
+      ],
+      "(TM),": [
+        15
+      ],
+      "focusing": [
+        16
+      ],
+      "on": [
+        17,
+        174
+      ],
+      "how": [
+        18,
+        210,
+        316
+      ],
+      "different": [
+        19
+      ],
+      "AI": [
+        20,
+        92,
+        116,
+        175,
+        195,
+        207,
+        273,
+        307,
+        320
+      ],
+      "applications": [
+        21
+      ],
+      "are": [
+        22
+      ],
+      "reconfiguring": [
+        23
+      ],
+      "processes": [
+        25,
+        119
+      ],
+      "and": [
+        26,
+        37,
+        59,
+        68,
+        72,
+        102,
+        113,
+        132,
+        142,
+        160,
+        163,
+        171,
+        187,
+        203,
+        214,
+        223,
+        239,
+        254,
+        266,
+        277,
+        284,
+        318,
+        331
+      ],
+      "outcomes.": [
+        27
+      ],
+      "Design/methodology/approach": [
+        28
+      ],
+      "Following": [
+        29
+      ],
+      "Preferred": [
+        31
+      ],
+      "Reporting": [
+        32
+      ],
+      "Item": [
+        33
+      ],
+      "for": [
+        34,
+        193,
+        327
+      ],
+      "Systematic": [
+        35
+      ],
+      "Reviews": [
+        36
+      ],
+      "Meta-Analyses": [
+        38
+      ],
+      "(PRISMA)": [
+        39
+      ],
+      "2020": [
+        40
+      ],
+      "guidelines,": [
+        41
+      ],
+      "a": [
+        42,
+        191,
+        312,
+        325
+      ],
+      "systematic": [
+        43,
+        304
+      ],
+      "literature": [
+        44
+      ],
+      "review": [
+        45,
+        86,
+        148,
+        305
+      ],
+      "was": [
+        46
+      ],
+      "conducted": [
+        47
+      ],
+      "across": [
+        48,
+        140
+      ],
+      "four": [
+        49
+      ],
+      "major": [
+        50
+      ],
+      "databases": [
+        51
+      ],
+      "(Scopus,": [
+        52
+      ],
+      "Web": [
+        53
+      ],
+      "Science,": [
+        55
+      ],
+      "EBSCO": [
+        56
+      ],
+      "Business": [
+        57
+      ],
+      "Source": [
+        58
+      ],
+      "ProQuest": [
+        60
+      ],
+      "ABI/Inform),": [
+        61
+      ],
+      "identifying": [
+        62
+      ],
+      "238": [
+        63
+      ],
+      "records": [
+        64
+      ],
+      "published": [
+        65
+      ],
+      "between": [
+        66
+      ],
+      "2000": [
+        67
+      ],
+      "2025.": [
+        69
+      ],
+      "After": [
+        70
+      ],
+      "screening": [
+        71
+      ],
+      "full-text": [
+        73
+      ],
+      "review,": [
+        74
+      ],
+      "124": [
+        75
+      ],
+      "peer-reviewed": [
+        76,
+        153
+      ],
+      "articles": [
+        77
+      ],
+      "were": [
+        78
+      ],
+      "included": [
+        79
+      ],
+      "in": [
+        80,
+        94,
+        176,
+        275,
+        308
+      ],
+      "final": [
+        82
+      ],
+      "synthesis.": [
+        83
+      ],
+      "Findings": [
+        84
+      ],
+      "The": [
+        85,
+        147,
+        180
+      ],
+      "reveals": [
+        87
+      ],
+      "two": [
+        88
+      ],
+      "dominant": [
+        89
+      ],
+      "modes": [
+        90
+      ],
+      "adoption": [
+        93,
+        196,
+        274
+      ],
+      "TM:": [
+        95
+      ],
+      "augmentative": [
+        96,
+        229,
+        317
+      ],
+      "systems": [
+        97,
+        104
+      ],
+      "that": [
+        98,
+        105,
+        167,
+        228,
+        280,
+        314
+      ],
+      "enhance": [
+        99
+      ],
+      "human": [
+        100,
+        107,
+        184,
+        233,
+        247
+      ],
+      "judgment": [
+        101
+      ],
+      "autonomous": [
+        103,
+        243,
+        319
+      ],
+      "replace": [
+        106,
+        246
+      ],
+      "decision-making.": [
+        108
+      ],
+      "Across": [
+        109
+      ],
+      "recruitment,": [
+        110
+      ],
+      "development,": [
+        111
+      ],
+      "retention": [
+        112
+      ],
+      "performance": [
+        114
+      ],
+      "management,": [
+        115
+      ],
+      "is": [
+        117,
+        149,
+        208
+      ],
+      "reshaping": [
+        118
+      ],
+      "but": [
+        120
+      ],
+      "remains": [
+        121
+      ],
+      "unevenly": [
+        122
+      ],
+      "theorized.": [
+        123
+      ],
+      "Persistent": [
+        124
+      ],
+      "gaps": [
+        125
+      ],
+      "include": [
+        126
+      ],
+      "limited": [
+        127,
+        150
+      ],
+      "attention": [
+        128
+      ],
+      "ethics,": [
+        130
+      ],
+      "fairness": [
+        131,
+        202
+      ],
+      "cross-cultural": [
+        133
+      ],
+      "variation,": [
+        134
+      ],
+      "as": [
+        135,
+        137
+      ],
+      "well": [
+        136
+      ],
+      "weak": [
+        138
+      ],
+      "micro-": [
+        141
+      ],
+      "macro-level": [
+        143
+      ],
+      "perspectives.": [
+        144
+      ],
+      "Research": [
+        145
+      ],
+      "limitations/implications": [
+        146
+      ],
+      "English-language,": [
+        152
+      ],
+      "publications.": [
+        154
+      ],
+      "Future": [
+        155
+      ],
+      "research": [
+        156
+      ],
+      "should": [
+        157
+      ],
+      "longitudinal": [
+        159
+      ],
+      "non-Western": [
+        161
+      ],
+      "contexts": [
+        162
+      ],
+      "develop": [
+        164,
+        213
+      ],
+      "integrative": [
+        165
+      ],
+      "theories": [
+        166
+      ],
+      "link": [
+        168
+      ],
+      "individual-,": [
+        169
+      ],
+      "organizational-": [
+        170
+      ],
+      "societal-level": [
+        172
+      ],
+      "perspectives": [
+        173
+      ],
+      "TM.": [
+        177,
+        309
+      ],
+      "Practical": [
+        178
+      ],
+      "implications": [
+        179,
+        206
+      ],
+      "augmentative–autonomous": [
+        181
+      ],
+      "framework": [
+        182,
+        262,
+        313
+      ],
+      "provides": [
+        183
+      ],
+      "resource": [
+        185
+      ],
+      "(HR)": [
+        186
+      ],
+      "organizational": [
+        188
+      ],
+      "leaders": [
+        189
+      ],
+      "with": [
+        190,
+        200
+      ],
+      "lens": [
+        192
+      ],
+      "evaluating": [
+        194
+      ],
+      "choices,": [
+        197
+      ],
+      "balancing": [
+        198
+      ],
+      "efficiency": [
+        199
+      ],
+      "transparency,": [
+        201
+      ],
+      "trust.": [
+        204,
+        224
+      ],
+      "Social": [
+        205
+      ],
+      "changing": [
+        209
+      ],
+      "organizations": [
+        211
+      ],
+      "recruit,": [
+        212
+      ],
+      "manage": [
+        215
+      ],
+      "people,": [
+        216
+      ],
+      "raising": [
+        217
+      ],
+      "important": [
+        218
+      ],
+      "questions": [
+        219
+      ],
+      "fairness,": [
+        221
+      ],
+      "accountability": [
+        222
+      ],
+      "study": [
+        226,
+        298
+      ],
+      "shows": [
+        227
+      ],
+      "applications,": [
+        230,
+        244
+      ],
+      "which": [
+        231,
+        245
+      ],
+      "support": [
+        232
+      ],
+      "decision-making,": [
+        234
+      ],
+      "tend": [
+        235
+      ],
+      "preserve": [
+        237
+      ],
+      "transparency": [
+        238
+      ],
+      "employee": [
+        240
+      ],
+      "agency,": [
+        241
+      ],
+      "while": [
+        242
+      ],
+      "judgment,": [
+        248
+      ],
+      "increase": [
+        249
+      ],
+      "risks": [
+        250
+      ],
+      "bias,": [
+        252
+      ],
+      "exclusion": [
+        253
+      ],
+      "reduced": [
+        255
+      ],
+      "voice.": [
+        256
+      ],
+      "By": [
+        257
+      ],
+      "clarifying": [
+        258
+      ],
+      "these": [
+        259
+      ],
+      "differences,": [
+        260
+      ],
+      "helps": [
+        263
+      ],
+      "policymakers,": [
+        264
+      ],
+      "practitioners": [
+        265
+      ],
+      "researchers": [
+        267
+      ],
+      "anticipate": [
+        268
+      ],
+      "societal": [
+        270
+      ],
+      "consequences": [
+        271
+      ],
+      "TM": [
+        276
+      ],
+      "design": [
+        278
+      ],
+      "strategies": [
+        279
+      ],
+      "promote": [
+        281
+      ],
+      "inclusion,": [
+        282
+      ],
+      "equity": [
+        283
+      ],
+      "responsible": [
+        285
+      ],
+      "use": [
+        286
+      ],
+      "technology.": [
+        288
+      ],
+      "Originality/value": [
+        289
+      ],
+      "To": [
+        290
+      ],
+      "best": [
+        292
+      ],
+      "authors’": [
+        295
+      ],
+      "knowledge,": [
+        296
+      ],
+      "this": [
+        297
+      ],
+      "offers": [
+        299
+      ],
+      "first": [
+        301
+      ],
+      "comprehensive,": [
+        302
+      ],
+      "PRISMA-compliant": [
+        303
+      ],
+      "It": [
+        310
+      ],
+      "introduces": [
+        311
+      ],
+      "clarifies": [
+        315
+      ],
+      "reshape": [
+        321
+      ],
+      "systems,": [
+        323
+      ],
+      "offering": [
+        324
+      ],
+      "foundation": [
+        326
+      ],
+      "advancing": [
+        328
+      ],
+      "both": [
+        329
+      ],
+      "scholarship": [
+        330
+      ],
+      "practice.": [
+        332
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 4
+      }
+    ],
+    "updated_date": "2026-10-21T09:56:26.102985",
+    "created_date": "2026-02-20T00:00:00"
+  }
+}

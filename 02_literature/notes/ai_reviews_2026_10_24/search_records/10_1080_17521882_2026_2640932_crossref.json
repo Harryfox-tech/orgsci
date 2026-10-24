@@ -1,0 +1,656 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+    "checked_at": "2026-10-24T02:10:19.279589Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            19
+          ]
+        ],
+        "date-time": "2026-10-19T16:37:08Z",
+        "timestamp": 1792427828888,
+        "version": "4.5.0"
+      },
+      "reference-count": 67,
+      "publisher": "Informa UK Limited",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                6
+              ]
+            ],
+            "date-time": "2026-03-06T00:00:00Z",
+            "timestamp": 1772755200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                6
+              ]
+            ],
+            "date-time": "2026-03-06T00:00:00Z",
+            "timestamp": 1772755200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.1080/policies-text-data-mining"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Coaching: An International Journal of Theory, Research and Practice"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1080/17521882.2026.2640932",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            6
+          ]
+        ],
+        "date-time": "2026-03-06T10:13:22Z",
+        "timestamp": 1772792002000
+      },
+      "page": "292-310",
+      "update-policy": "https://doi.org/10.1080/tandf_crossmark_01",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Designing AI coaches: a scoping review"
+      ],
+      "prefix": "10.1080",
+      "volume": "19",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6523-1614",
+          "authenticated-orcid": false,
+          "given": "Abongile",
+          "family": "Sipondo",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Stellenbosch University Business School",
+              "place": [
+                "Cape Town, South Africa"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6796-6008",
+          "authenticated-orcid": false,
+          "given": "Nicky",
+          "family": "Terblanche",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Stellenbosch University Business School",
+              "place": [
+                "Cape Town, South Africa"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "301",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            6
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "19",
+          "key": "e_1_3_3_2_1",
+          "first-page": "38",
+          "article-title": "An integral quadrants perspective of coaching presence: A qualitative study of professional coaches",
+          "author": "Abravanel M.",
+          "year": "2021",
+          "unstructured": "Abravanel, M., & Gavin, J. (2021). An integral quadrants perspective of coaching presence: A qualitative study of professional coaches. International Journal of Evidence Based Coaching and Mentoring, (19), 38–53.",
+          "journal-title": "International Journal of Evidence Based Coaching and Mentoring"
+        },
+        {
+          "key": "e_1_3_3_3_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2018.03.051"
+        },
+        {
+          "key": "e_1_3_3_4_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/1364557032000119616"
+        },
+        {
+          "key": "e_1_3_3_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2022.886783"
+        },
+        {
+          "key": "e_1_3_3_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1001/jamainternmed.2023.1838"
+        },
+        {
+          "key": "e_1_3_3_7_1",
+          "first-page": "1",
+          "volume-title": "The complete handbook of coaching",
+          "author": "Bachkirova T.",
+          "year": "2014",
+          "unstructured": "Bachkirova, T., Cox, E., & Clutterbuck, D. (2014). Introduction. In E. Cox, T. Bachkirova, & D. Clutterbuck (Eds.), The complete handbook of coaching (2nd ed., pp. 1–18). SAGE Publications Ltd.",
+          "edition": "2"
+        },
+        {
+          "key": "e_1_3_3_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521882.2024.2368598"
+        },
+        {
+          "key": "e_1_3_3_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2024.1364054"
+        },
+        {
+          "key": "e_1_3_3_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10447318.2022.2041884"
+        },
+        {
+          "key": "e_1_3_3_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17439760.2023.2257666"
+        },
+        {
+          "key": "e_1_3_3_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/57318"
+        },
+        {
+          "key": "e_1_3_3_13_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.apmr.2023.04.023"
+        },
+        {
+          "key": "e_1_3_3_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/kp8k-f774"
+        },
+        {
+          "key": "e_1_3_3_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JWAM-12-2024-0178"
+        },
+        {
+          "key": "e_1_3_3_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2023.1039171"
+        },
+        {
+          "key": "e_1_3_3_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10447318.2020.1841438"
+        },
+        {
+          "key": "e_1_3_3_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10586-018-2334-5"
+        },
+        {
+          "key": "e_1_3_3_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/13678868.2024.2315928"
+        },
+        {
+          "key": "e_1_3_3_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2023.1148243"
+        },
+        {
+          "key": "e_1_3_3_21_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/joop.12556"
+        },
+        {
+          "key": "e_1_3_3_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/er2p-4857"
+        },
+        {
+          "key": "e_1_3_3_23_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-17705-8_13"
+        },
+        {
+          "key": "e_1_3_3_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/14166"
+        },
+        {
+          "key": "e_1_3_3_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/20552076221130619"
+        },
+        {
+          "key": "e_1_3_3_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1534484320982891"
+        },
+        {
+          "key": "e_1_3_3_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41746-021-00539-9"
+        },
+        {
+          "key": "e_1_3_3_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/14058"
+        },
+        {
+          "key": "e_1_3_3_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/12869"
+        },
+        {
+          "key": "e_1_3_3_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2478/eurodl-2024-0003"
+        },
+        {
+          "key": "e_1_3_3_31_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1748-5908-5-69"
+        },
+        {
+          "key": "e_1_3_3_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10447318.2023.2300015"
+        },
+        {
+          "key": "e_1_3_3_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0022242920956676"
+        },
+        {
+          "key": "e_1_3_3_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1365/s40896-021-00063-3"
+        },
+        {
+          "key": "e_1_3_3_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.54941/ahfe1005484"
+        },
+        {
+          "key": "e_1_3_3_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-90328-2_29"
+        },
+        {
+          "key": "e_1_3_3_37_1",
+          "unstructured": "Maslej N. Fattorini L. Brynjolfsson E. Etchemendy J. Ligett K. Lyons T. Manyika J. Ngo H. Niebles J. C. & Parli V. (2023). The AI Index 2023 annual report. AI Index Steering Committee Institute for Human-Centered AI Stanford University."
+        },
+        {
+          "key": "e_1_3_3_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/13683500.2019.1706457"
+        },
+        {
+          "key": "e_1_3_3_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/337579"
+        },
+        {
+          "key": "e_1_3_3_40_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.15219/em86.1485"
+        },
+        {
+          "key": "e_1_3_3_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2020.09.018"
+        },
+        {
+          "key": "e_1_3_3_42_1",
+          "first-page": "345",
+          "volume-title": "The health and wellbeing coaches handbook",
+          "author": "Olafsson B.",
+          "year": "2025",
+          "unstructured": "Olafsson, B., Martin, D., & Gonzalez-Bonorino, A. (2025). Artificial intelligence coaching for wellbeing. In J. Passmore, S. Diller, S. Isaaccson, & M. Brantl (Eds.), The health and wellbeing coaches handbook (pp. 345–358). Routledge."
+        },
+        {
+          "key": "e_1_3_3_43_1",
+          "first-page": "255",
+          "article-title": "Effectiveness of AI-powered coaching and development plans for the employees of IT sector",
+          "volume": "1",
+          "author": "Panda T. R.",
+          "year": "2024",
+          "unstructured": "Panda, T. R., & Mishra, A. (2024). Effectiveness of AI-powered coaching and development plans for the employees of IT sector. Srusti Management Review, 1(Special Issue), 255–273.",
+          "journal-title": "Srusti Management Review"
+        },
+        {
+          "key": "e_1_3_3_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JWAM-11-2024-0164"
+        },
+        {
+          "key": "e_1_3_3_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JWAM-06-2023-0057"
+        },
+        {
+          "key": "e_1_3_3_46_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JWAM-02-2025-0032"
+        },
+        {
+          "key": "e_1_3_3_47_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521882.2025.2510643"
+        },
+        {
+          "key": "e_1_3_3_48_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10916-019-1237-1"
+        },
+        {
+          "key": "e_1_3_3_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JMD-06-2024-0182"
+        },
+        {
+          "key": "e_1_3_3_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/frvir.2024.1474053"
+        },
+        {
+          "key": "e_1_3_3_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2139/ssrn.4033499"
+        },
+        {
+          "key": "e_1_3_3_52_1",
+          "unstructured": "Tamrakar R. & Wani N. (2021 April). Design and development of CHATBOT: A review. In Proceedings of the International Conference on Latest Trends in Civil Mechanical and Electrical Engineering. https://www.researchgate.net/publication/351228837."
+        },
+        {
+          "key": "e_1_3_3_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/b7gs-3h05"
+        },
+        {
+          "key": "e_1_3_3_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/21582440221096136"
+        },
+        {
+          "key": "e_1_3_3_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/5cgf-ab69"
+        },
+        {
+          "key": "e_1_3_3_56_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0270255"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_3_3_57_1",
+          "first-page": "205",
+          "article-title": "An exploration of the role of visuals and users’ imagery and verbal preferences on goal attainment and coaching chatbot adoption",
+          "volume": "23",
+          "author": "Terblanche N.",
+          "year": "2025",
+          "unstructured": "Terblanche, N., & Prywes, Y. (2025). An exploration of the role of visuals and users’ imagery and verbal preferences on goal attainment and coaching chatbot adoption. International Journal of Evidence Based Coaching and Mentoring, 23(1), 205–221.",
+          "journal-title": "International Journal of Evidence Based Coaching and Mentoring"
+        },
+        {
+          "key": "e_1_3_3_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/17521882.2024.2304792"
+        },
+        {
+          "key": "e_1_3_3_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/00218863241283919"
+        },
+        {
+          "key": "e_1_3_3_60_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/10447318.2024.2423125"
+        },
+        {
+          "key": "e_1_3_3_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/09504222241287090"
+        },
+        {
+          "key": "e_1_3_3_62_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/1471-2288-8-45"
+        },
+        {
+          "key": "e_1_3_3_63_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7326/M18-0850"
+        },
+        {
+          "key": "e_1_3_3_64_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/JWAM-03-2025-0046"
+        },
+        {
+          "key": "e_1_3_3_65_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17705/1jais.00428"
+        },
+        {
+          "key": "e_1_3_3_66_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5771/0935-9915-2021-4-385"
+        },
+        {
+          "key": "e_1_3_3_67_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/27850"
+        },
+        {
+          "key": "e_1_3_3_68_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/15332861.2021.1966723"
+        }
+      ],
+      "container-title": [
+        "Coaching: An International Journal of Theory, Research and Practice"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/full-xml/10.1080/17521882.2026.2640932",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            20
+          ]
+        ],
+        "date-time": "2026-08-20T03:54:34Z",
+        "timestamp": 1787198074000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.tandfonline.com/doi/full/10.1080/17521882.2026.2640932"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            6
+          ]
+        ]
+      },
+      "references-count": 67,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1080/17521882.2026.2640932"
+      ],
+      "URL": "https://doi.org/10.1080/17521882.2026.2640932",
+      "relation": {},
+      "ISSN": [
+        "1752-1882",
+        "1752-1890"
+      ],
+      "issn-type": [
+        {
+          "value": "1752-1882",
+          "type": "print"
+        },
+        {
+          "value": "1752-1890",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            6
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+          "order": 1,
+          "name": "peerreview_statement",
+          "label": "Peer Review Statement"
+        },
+        {
+          "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rcoa20",
+          "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=rcoa20",
+          "order": 2,
+          "name": "aims_and_scope_url",
+          "label": "Aim & Scope"
+        },
+        {
+          "value": "2025-05-30",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-02-27",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-03-06",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

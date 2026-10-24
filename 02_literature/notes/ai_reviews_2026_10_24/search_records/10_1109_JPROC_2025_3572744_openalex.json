@@ -1,0 +1,1774 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744",
+    "checked_at": "2026-10-24T02:10:15.323860Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4411086870",
+    "doi": "https://doi.org/10.1109/jproc.2025.3572744",
+    "title": "A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics",
+    "display_name": "A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics",
+    "publication_year": 2025,
+    "publication_date": "2025-02-01",
+    "ids": {
+      "openalex": "https://openalex.org/W4411086870",
+      "doi": "https://doi.org/10.1109/jproc.2025.3572744"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1109/jproc.2025.3572744",
+      "doi": "https://doi.org/10.1109/jproc.2025.3572744",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/jproc.2025.3572744",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S68686220",
+        "display_name": "Proceedings of the IEEE",
+        "issn_l": "0018-9219",
+        "issn": [
+          "0018-9219",
+          "1558-2256"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "anvur-scientific",
+          "ccf-a",
+          "cwts-core",
+          "dongbi-b",
+          "jufo-3",
+          "norway-2",
+          "poland-200",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310319808",
+        "host_organization_name": "Institute of Electrical and Electronics Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the IEEE",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "article",
+    "indexed_in": [
+      "arxiv",
+      "crossref",
+      "datacite"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "https://arxiv.org/pdf/2307.03195",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5102883290",
+          "display_name": "Chuan Qin",
+          "orcid": "https://orcid.org/0000-0002-5354-8630",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-5354-8630"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19820366",
+            "display_name": "Chinese Academy of Sciences",
+            "ror": "https://ror.org/034t30j35",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I19820366"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108629",
+            "display_name": "Computer Network Information Center",
+            "ror": "https://ror.org/01s0wyf50",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Chuan Qin",
+        "raw_affiliation_strings": [
+          "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-5354-8630",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100350641",
+          "display_name": "Le Zhang",
+          "orcid": "https://orcid.org/0000-0003-0894-9651",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0894-9651"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I98301712",
+            "display_name": "Baidu (China)",
+            "ror": "https://ror.org/03vs3wt56",
+            "country_code": "CN",
+            "type": "company",
+            "lineage": [
+              "https://openalex.org/I98301712"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Le Zhang",
+        "raw_affiliation_strings": [
+          "Business Intelligence Laboratory, Baidu Inc., Beijing, China",
+          "Business Intelligence Laboratory, Baidu Inc, Beijing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0894-9651",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Business Intelligence Laboratory, Baidu Inc., Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I98301712"
+            ]
+          },
+          {
+            "raw_affiliation_string": "Business Intelligence Laboratory, Baidu Inc, Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I98301712"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5006612493",
+          "display_name": "Yihang Cheng",
+          "orcid": "https://orcid.org/0000-0003-2396-0306",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2396-0306"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19820366",
+            "display_name": "Chinese Academy of Sciences",
+            "ror": "https://ror.org/034t30j35",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I19820366"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108629",
+            "display_name": "Computer Network Information Center",
+            "ror": "https://ror.org/01s0wyf50",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Yihang Cheng",
+        "raw_affiliation_strings": [
+          "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2396-0306",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5061557922",
+          "display_name": "Rui Zha",
+          "orcid": "https://orcid.org/0000-0002-6557-123X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-6557-123X",
+            "https://orcid.org/0000-0001-5735-3059"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I126520041",
+            "display_name": "University of Science and Technology of China",
+            "ror": "https://ror.org/04c4dkn09",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I126520041",
+              "https://openalex.org/I19820366"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Rui Zha",
+        "raw_affiliation_strings": [
+          "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China",
+            "institution_ids": [
+              "https://openalex.org/I126520041"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Dazhong Shen",
+          "orcid": "https://orcid.org/0000-0002-3947-4153",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-3947-4153"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I9842412",
+            "display_name": "Nanjing University of Aeronautics and Astronautics",
+            "ror": "https://ror.org/01scyh794",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I9842412"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dazhong Shen",
+        "raw_affiliation_strings": [
+          "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-3947-4153",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China",
+            "institution_ids": [
+              "https://openalex.org/I9842412"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100360194",
+          "display_name": "Qi Zhang",
+          "orcid": "https://orcid.org/0000-0001-5303-9804",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-5303-9804",
+            "https://orcid.org/0009-0000-0228-309X",
+            "https://orcid.org/0009-0009-3808-7512",
+            "https://orcid.org/0000-0002-2929-1345",
+            "https://orcid.org/0009-0005-1547-1352"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4391012619",
+            "display_name": "Shanghai Artificial Intelligence Laboratory",
+            "ror": "https://ror.org/03wkvpx79",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I4391012619"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Qi Zhang",
+        "raw_affiliation_strings": [
+          "Shanghai Artificial Intelligence Laboratory, Shanghai, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Shanghai Artificial Intelligence Laboratory, Shanghai, China",
+            "institution_ids": [
+              "https://openalex.org/I4391012619"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100330070",
+          "display_name": "Xi Chen",
+          "orcid": "https://orcid.org/0000-0003-2171-3141",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2171-3141",
+            "https://orcid.org/0000-0003-4837-1874"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I126520041",
+            "display_name": "University of Science and Technology of China",
+            "ror": "https://ror.org/04c4dkn09",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I126520041",
+              "https://openalex.org/I19820366"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Xi Chen",
+        "raw_affiliation_strings": [
+          "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China",
+            "institution_ids": [
+              "https://openalex.org/I126520041"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5046835504",
+          "display_name": "Ying Sun",
+          "orcid": "https://orcid.org/0000-0002-4763-6060",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-4763-6060"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405261251",
+            "display_name": "The Hong Kong University of Science and Technology (Guangzhou)",
+            "ror": "https://ror.org/050h0vm43",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405261251"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ying Sun",
+        "raw_affiliation_strings": [
+          "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-4763-6060",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China",
+            "institution_ids": [
+              "https://openalex.org/I4405261251"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5100768322",
+          "display_name": "Chen Zhu",
+          "orcid": "https://orcid.org/0000-0003-4817-482X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4817-482X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I126520041",
+            "display_name": "University of Science and Technology of China",
+            "ror": "https://ror.org/04c4dkn09",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I126520041",
+              "https://openalex.org/I19820366"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Chen Zhu",
+        "raw_affiliation_strings": [
+          "School of Management, University of Science and Technology of China, Hefei, Anhui, China"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Management, University of Science and Technology of China, Hefei, Anhui, China",
+            "institution_ids": [
+              "https://openalex.org/I126520041"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5049015446",
+          "display_name": "Hengshu Zhu",
+          "orcid": "https://orcid.org/0000-0003-4570-643X",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-4570-643X"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I19820366",
+            "display_name": "Chinese Academy of Sciences",
+            "ror": "https://ror.org/034t30j35",
+            "country_code": "CN",
+            "type": "government",
+            "lineage": [
+              "https://openalex.org/I19820366"
+            ]
+          },
+          {
+            "id": "https://openalex.org/I4210108629",
+            "display_name": "Computer Network Information Center",
+            "ror": "https://ror.org/01s0wyf50",
+            "country_code": "CN",
+            "type": "facility",
+            "lineage": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hengshu Zhu",
+        "raw_affiliation_strings": [
+          "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-4570-643X",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China",
+            "institution_ids": [
+              "https://openalex.org/I19820366",
+              "https://openalex.org/I4210108629"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5101862104",
+          "display_name": "Hui Xiong",
+          "orcid": "https://orcid.org/0000-0001-6016-6465",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-6016-6465",
+            "https://orcid.org/0000-0002-4665-9850",
+            "https://orcid.org/0000-0001-5759-3001"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I4405261251",
+            "display_name": "The Hong Kong University of Science and Technology (Guangzhou)",
+            "ror": "https://ror.org/050h0vm43",
+            "country_code": "CN",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I4405261251"
+            ]
+          }
+        ],
+        "countries": [
+          "CN"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Hui Xiong",
+        "raw_affiliation_strings": [
+          "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-6016-6465",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China",
+            "institution_ids": [
+              "https://openalex.org/I4405261251"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 7,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": {
+      "value": 2645,
+      "currency": "USD",
+      "value_usd": 2645
+    },
+    "apc_paid": null,
+    "fwci": 52.5351,
+    "has_fulltext": true,
+    "cited_by_count": 56,
+    "citation_normalized_percentile": {
+      "value": 0.99921541,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 98,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "113",
+      "issue": "2",
+      "first_page": "125",
+      "last_page": "171"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12843",
+        "display_name": "Human Resource and Talent Management",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12415",
+        "display_name": "Employer Branding and e-HRM",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/talent-analytics",
+        "display_name": "talent analytics",
+        "score": 0.9959999918937683
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence-in-human-resource-management",
+        "display_name": "artificial intelligence in human resource management",
+        "score": 0.8370000123977661
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-management",
+        "display_name": "talent management",
+        "score": 0.9769999980926514
+      },
+      {
+        "id": "https://openalex.org/keywords/organizational-management",
+        "display_name": "organizational management",
+        "score": 0.8009999990463257
+      },
+      {
+        "id": "https://openalex.org/keywords/labor-market-analysis",
+        "display_name": "labor market analysis",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/hr-data",
+        "display_name": "HR data",
+        "score": 0.48899999260902405
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-taxonomy",
+        "display_name": "AI taxonomy",
+        "score": 0.47600001096725464
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.5907395482063293
+      },
+      {
+        "id": "https://openalex.org/C79158427",
+        "wikidata": "https://www.wikidata.org/wiki/Q485396",
+        "display_name": "Analytics",
+        "level": 2,
+        "score": 0.561377763748169
+      },
+      {
+        "id": "https://openalex.org/C2767350",
+        "wikidata": "https://www.wikidata.org/wiki/Q6662173",
+        "display_name": "Business intelligence",
+        "level": 2,
+        "score": 0.46025264263153076
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.4439026713371277
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.4240034222602844
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3223692774772644
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1109/jproc.2025.3572744",
+        "doi": "https://doi.org/10.1109/jproc.2025.3572744",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/jproc.2025.3572744",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S68686220",
+          "display_name": "Proceedings of the IEEE",
+          "issn_l": "0018-9219",
+          "issn": [
+            "0018-9219",
+            "1558-2256"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "ccf-a",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the IEEE",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:arXiv.org:2307.03195",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2307.03195",
+        "pdf_url": "https://arxiv.org/pdf/2307.03195",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      {
+        "id": "doi:10.48550/arxiv.2307.03195",
+        "doi": "https://doi.org/10.48550/arxiv.2307.03195",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.48550/arxiv.2307.03195",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": null,
+        "raw_source_name": null,
+        "raw_type": "Preprint"
+      }
+    ],
+    "best_oa_location": {
+      "id": "pmh:oai:arXiv.org:2307.03195",
+      "doi": null,
+      "is_oa": true,
+      "landing_page_url": "http://arxiv.org/abs/2307.03195",
+      "pdf_url": "https://arxiv.org/pdf/2307.03195",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": "2331-8422",
+        "issn": [
+          "2331-8422"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "listed_in": [],
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    "sustainable_development_goals": [
+      {
+        "score": 0.48510000109672546,
+        "id": "https://metadata.un.org/sdg/8",
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [],
+    "awards": [
+      {
+        "id": "https://openalex.org/G1782397203",
+        "display_name": null,
+        "funder_award_id": "92370204",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      },
+      {
+        "id": "https://openalex.org/G2589200640",
+        "display_name": null,
+        "funder_award_id": "2023YFF0725001",
+        "funder_id": "https://openalex.org/F4320335777",
+        "funder_display_name": "National Key Research and Development Program of China"
+      },
+      {
+        "id": "https://openalex.org/G4036304947",
+        "display_name": null,
+        "funder_award_id": "62306255",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      },
+      {
+        "id": "https://openalex.org/G5418828534",
+        "display_name": null,
+        "funder_award_id": "62406141",
+        "funder_id": "https://openalex.org/F4320321001",
+        "funder_display_name": "National Natural Science Foundation of China"
+      },
+      {
+        "id": "https://openalex.org/G6130982387",
+        "display_name": null,
+        "funder_award_id": "2023B1515120057",
+        "funder_id": "https://openalex.org/F4320337111",
+        "funder_display_name": "Basic and Applied Basic Research Foundation of Guangdong Province"
+      }
+    ],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320321001",
+        "display_name": "National Natural Science Foundation of China",
+        "ror": "https://ror.org/01h0zpd94"
+      },
+      {
+        "id": "https://openalex.org/F4320326667",
+        "display_name": "Bureau of Education of Guangzhou Municipality",
+        "ror": "https://ror.org/00479t136"
+      },
+      {
+        "id": "https://openalex.org/F4320335777",
+        "display_name": "National Key Research and Development Program of China",
+        "ror": null
+      },
+      {
+        "id": "https://openalex.org/F4320337111",
+        "display_name": "Basic and Applied Basic Research Foundation of Guangdong Province",
+        "ror": null
+      }
+    ],
+    "has_content": {
+      "grobid_xml": true,
+      "pdf": true
+    },
+    "content_urls": {
+      "pdf": "https://content.openalex.org/works/W4411086870.pdf",
+      "grobid_xml": "https://content.openalex.org/works/W4411086870.grobid-xml"
+    },
+    "referenced_works_count": 287,
+    "referenced_works": [
+      "https://openalex.org/W6116489",
+      "https://openalex.org/W1525345465",
+      "https://openalex.org/W1535775700",
+      "https://openalex.org/W1539811621",
+      "https://openalex.org/W1559910717",
+      "https://openalex.org/W1760209353",
+      "https://openalex.org/W1780811655",
+      "https://openalex.org/W1833550036",
+      "https://openalex.org/W1970793257",
+      "https://openalex.org/W1972627317",
+      "https://openalex.org/W1979411553",
+      "https://openalex.org/W1986342386",
+      "https://openalex.org/W1995844396",
+      "https://openalex.org/W2004782176",
+      "https://openalex.org/W2039011707",
+      "https://openalex.org/W2046183714",
+      "https://openalex.org/W2057075856",
+      "https://openalex.org/W2059826135",
+      "https://openalex.org/W2060423657",
+      "https://openalex.org/W2079064766",
+      "https://openalex.org/W2083273549",
+      "https://openalex.org/W2099196804",
+      "https://openalex.org/W2121848940",
+      "https://openalex.org/W2128424290",
+      "https://openalex.org/W2129376520",
+      "https://openalex.org/W2136449906",
+      "https://openalex.org/W2145604831",
+      "https://openalex.org/W2147010365",
+      "https://openalex.org/W2154851992",
+      "https://openalex.org/W2158192499",
+      "https://openalex.org/W2175860213",
+      "https://openalex.org/W2179018291",
+      "https://openalex.org/W2264475115",
+      "https://openalex.org/W2331798988",
+      "https://openalex.org/W2483451959",
+      "https://openalex.org/W2512706923",
+      "https://openalex.org/W2514580099",
+      "https://openalex.org/W2541751187",
+      "https://openalex.org/W2544729657",
+      "https://openalex.org/W2548431713",
+      "https://openalex.org/W2557970009",
+      "https://openalex.org/W2572428969",
+      "https://openalex.org/W2576135028",
+      "https://openalex.org/W2613228905",
+      "https://openalex.org/W2614282464",
+      "https://openalex.org/W2617058704",
+      "https://openalex.org/W2619383789",
+      "https://openalex.org/W2743064457",
+      "https://openalex.org/W2743391579",
+      "https://openalex.org/W2770396815",
+      "https://openalex.org/W2774074994",
+      "https://openalex.org/W2774963710",
+      "https://openalex.org/W2784897402",
+      "https://openalex.org/W2786510204",
+      "https://openalex.org/W2801182247",
+      "https://openalex.org/W2802105481",
+      "https://openalex.org/W2805189767",
+      "https://openalex.org/W2807880345",
+      "https://openalex.org/W2808631100",
+      "https://openalex.org/W2809048710",
+      "https://openalex.org/W2810047324",
+      "https://openalex.org/W2883271562",
+      "https://openalex.org/W2889959392",
+      "https://openalex.org/W2890376809",
+      "https://openalex.org/W2890410227",
+      "https://openalex.org/W2890766653",
+      "https://openalex.org/W2891801802",
+      "https://openalex.org/W2893564970",
+      "https://openalex.org/W2894899500",
+      "https://openalex.org/W2894982503",
+      "https://openalex.org/W2900215310",
+      "https://openalex.org/W2900868419",
+      "https://openalex.org/W2903394456",
+      "https://openalex.org/W2904064004",
+      "https://openalex.org/W2907122279",
+      "https://openalex.org/W2908779160",
+      "https://openalex.org/W2911365896",
+      "https://openalex.org/W2912121711",
+      "https://openalex.org/W2912404939",
+      "https://openalex.org/W2915065882",
+      "https://openalex.org/W2920876231",
+      "https://openalex.org/W2945687022",
+      "https://openalex.org/W2950493386",
+      "https://openalex.org/W2951738332",
+      "https://openalex.org/W2952718163",
+      "https://openalex.org/W2956039059",
+      "https://openalex.org/W2963114216",
+      "https://openalex.org/W2963868026",
+      "https://openalex.org/W2964077576",
+      "https://openalex.org/W2965464754",
+      "https://openalex.org/W2969509404",
+      "https://openalex.org/W2971133212",
+      "https://openalex.org/W2974511542",
+      "https://openalex.org/W2974928227",
+      "https://openalex.org/W2975101221",
+      "https://openalex.org/W2984949267",
+      "https://openalex.org/W2987778679",
+      "https://openalex.org/W2988110940",
+      "https://openalex.org/W2996856277",
+      "https://openalex.org/W2997154779",
+      "https://openalex.org/W2998908796",
+      "https://openalex.org/W3003265726",
+      "https://openalex.org/W3004083821",
+      "https://openalex.org/W3008270663",
+      "https://openalex.org/W3011595896",
+      "https://openalex.org/W3012561861",
+      "https://openalex.org/W3012912574",
+      "https://openalex.org/W3013237827",
+      "https://openalex.org/W3016937276",
+      "https://openalex.org/W3029851199",
+      "https://openalex.org/W3033062257",
+      "https://openalex.org/W3033829029",
+      "https://openalex.org/W3034873720",
+      "https://openalex.org/W3034908190",
+      "https://openalex.org/W3035089734",
+      "https://openalex.org/W3035511822",
+      "https://openalex.org/W3041186527",
+      "https://openalex.org/W3080447352",
+      "https://openalex.org/W3081109934",
+      "https://openalex.org/W3088417145",
+      "https://openalex.org/W3093581739",
+      "https://openalex.org/W3093892897",
+      "https://openalex.org/W3094268584",
+      "https://openalex.org/W3094607200",
+      "https://openalex.org/W3100612294",
+      "https://openalex.org/W3105882086",
+      "https://openalex.org/W3113512834",
+      "https://openalex.org/W3121053108",
+      "https://openalex.org/W3130894836",
+      "https://openalex.org/W3133713261",
+      "https://openalex.org/W3134021599",
+      "https://openalex.org/W3136410740",
+      "https://openalex.org/W3136918620",
+      "https://openalex.org/W3143945924",
+      "https://openalex.org/W3146782064",
+      "https://openalex.org/W3149252920",
+      "https://openalex.org/W3149985273",
+      "https://openalex.org/W3152774549",
+      "https://openalex.org/W3155371331",
+      "https://openalex.org/W3157494938",
+      "https://openalex.org/W3158313346",
+      "https://openalex.org/W3162666446",
+      "https://openalex.org/W3165680906",
+      "https://openalex.org/W3166103365",
+      "https://openalex.org/W3167367835",
+      "https://openalex.org/W3170027656",
+      "https://openalex.org/W3172302404",
+      "https://openalex.org/W3172303411",
+      "https://openalex.org/W3174139343",
+      "https://openalex.org/W3174822636",
+      "https://openalex.org/W3174924631",
+      "https://openalex.org/W3175453863",
+      "https://openalex.org/W3191310087",
+      "https://openalex.org/W3194515444",
+      "https://openalex.org/W3198193660",
+      "https://openalex.org/W3199188108",
+      "https://openalex.org/W3200111405",
+      "https://openalex.org/W3201213805",
+      "https://openalex.org/W3203217364",
+      "https://openalex.org/W3203366828",
+      "https://openalex.org/W3203695787",
+      "https://openalex.org/W3203728815",
+      "https://openalex.org/W3205032572",
+      "https://openalex.org/W3205041414",
+      "https://openalex.org/W3209179304",
+      "https://openalex.org/W3209350085",
+      "https://openalex.org/W3209677689",
+      "https://openalex.org/W3210174084",
+      "https://openalex.org/W3211198930",
+      "https://openalex.org/W4200087780",
+      "https://openalex.org/W4200274602",
+      "https://openalex.org/W4200412261",
+      "https://openalex.org/W4200465069",
+      "https://openalex.org/W4205138969",
+      "https://openalex.org/W4205625852",
+      "https://openalex.org/W4206250065",
+      "https://openalex.org/W4206266858",
+      "https://openalex.org/W4206762059",
+      "https://openalex.org/W4210599260",
+      "https://openalex.org/W4210746702",
+      "https://openalex.org/W4213144639",
+      "https://openalex.org/W4214657774",
+      "https://openalex.org/W4220712776",
+      "https://openalex.org/W4220932252",
+      "https://openalex.org/W4221153514",
+      "https://openalex.org/W4223936764",
+      "https://openalex.org/W4223972563",
+      "https://openalex.org/W4226293151",
+      "https://openalex.org/W4280565897",
+      "https://openalex.org/W4281251945",
+      "https://openalex.org/W4281687307",
+      "https://openalex.org/W4281693291",
+      "https://openalex.org/W4283811107",
+      "https://openalex.org/W4285220550",
+      "https://openalex.org/W4285326639",
+      "https://openalex.org/W4287889445",
+      "https://openalex.org/W4288076433",
+      "https://openalex.org/W4288905867",
+      "https://openalex.org/W4289533980",
+      "https://openalex.org/W4290943423",
+      "https://openalex.org/W4290960952",
+      "https://openalex.org/W4292420207",
+      "https://openalex.org/W4294691622",
+      "https://openalex.org/W4298412464",
+      "https://openalex.org/W4300990101",
+      "https://openalex.org/W4304806819",
+      "https://openalex.org/W4306317362",
+      "https://openalex.org/W4306836295",
+      "https://openalex.org/W4307910505",
+      "https://openalex.org/W4308426340",
+      "https://openalex.org/W4308670699",
+      "https://openalex.org/W4309618885",
+      "https://openalex.org/W4311819483",
+      "https://openalex.org/W4313052919",
+      "https://openalex.org/W4319831789",
+      "https://openalex.org/W4321194912",
+      "https://openalex.org/W4321480028",
+      "https://openalex.org/W4360871736",
+      "https://openalex.org/W4362469857",
+      "https://openalex.org/W4362499051",
+      "https://openalex.org/W4362554832",
+      "https://openalex.org/W4379796397",
+      "https://openalex.org/W4380447165",
+      "https://openalex.org/W4382498742",
+      "https://openalex.org/W4383472964",
+      "https://openalex.org/W4384030219",
+      "https://openalex.org/W4384662964",
+      "https://openalex.org/W4385270165",
+      "https://openalex.org/W4385567083",
+      "https://openalex.org/W4385567900",
+      "https://openalex.org/W4385574297",
+      "https://openalex.org/W4385658818",
+      "https://openalex.org/W4386107486",
+      "https://openalex.org/W4386125219",
+      "https://openalex.org/W4386308114",
+      "https://openalex.org/W4386648190",
+      "https://openalex.org/W4386729770",
+      "https://openalex.org/W4386729860",
+      "https://openalex.org/W4386730222",
+      "https://openalex.org/W4387251331",
+      "https://openalex.org/W4387402792",
+      "https://openalex.org/W4387489833",
+      "https://openalex.org/W4387794313",
+      "https://openalex.org/W4387947336",
+      "https://openalex.org/W4388282208",
+      "https://openalex.org/W4388409017",
+      "https://openalex.org/W4388955820",
+      "https://openalex.org/W4388962306",
+      "https://openalex.org/W4390479873",
+      "https://openalex.org/W4390485354",
+      "https://openalex.org/W4390738618",
+      "https://openalex.org/W4390918208",
+      "https://openalex.org/W4391095337",
+      "https://openalex.org/W4391549753",
+      "https://openalex.org/W4391723680",
+      "https://openalex.org/W4391904053",
+      "https://openalex.org/W4392188446",
+      "https://openalex.org/W4392462461",
+      "https://openalex.org/W4392518487",
+      "https://openalex.org/W4392590359",
+      "https://openalex.org/W4392607660",
+      "https://openalex.org/W4392964256",
+      "https://openalex.org/W4393152645",
+      "https://openalex.org/W4393153538",
+      "https://openalex.org/W4393930669",
+      "https://openalex.org/W4396876153",
+      "https://openalex.org/W4400524531",
+      "https://openalex.org/W4401023556",
+      "https://openalex.org/W4401023917",
+      "https://openalex.org/W4401834466",
+      "https://openalex.org/W4401863607",
+      "https://openalex.org/W4402979351",
+      "https://openalex.org/W4403221996",
+      "https://openalex.org/W4403791697",
+      "https://openalex.org/W4407832404",
+      "https://openalex.org/W4412926193",
+      "https://openalex.org/W4415800815",
+      "https://openalex.org/W4416913571",
+      "https://openalex.org/W6611442405",
+      "https://openalex.org/W6726846230",
+      "https://openalex.org/W6761604844",
+      "https://openalex.org/W6782713686",
+      "https://openalex.org/W6795964061",
+      "https://openalex.org/W6857872576",
+      "https://openalex.org/W6997263009",
+      "https://openalex.org/W7046254229",
+      "https://openalex.org/W7064161598"
+    ],
+    "related_works": [
+      "https://openalex.org/W4367856707",
+      "https://openalex.org/W2048156096",
+      "https://openalex.org/W4391096297",
+      "https://openalex.org/W3123352720",
+      "https://openalex.org/W3068949829",
+      "https://openalex.org/W2150941767",
+      "https://openalex.org/W3130756120",
+      "https://openalex.org/W4327648025",
+      "https://openalex.org/W2089700089",
+      "https://openalex.org/W4405308738"
+    ],
+    "abstract_inverted_index": {
+      "In": [
+        0,
+        83,
+        177
+      ],
+      "today’s": [
+        1
+      ],
+      "competitive": [
+        2
+      ],
+      "and": [
+        3,
+        30,
+        46,
+        59,
+        76,
+        107,
+        119,
+        144,
+        173,
+        184
+      ],
+      "fast-evolving": [
+        4
+      ],
+      "business": [
+        5,
+        53
+      ],
+      "environment,": [
+        6
+      ],
+      "it": [
+        7
+      ],
+      "is": [
+        8
+      ],
+      "critical": [
+        9
+      ],
+      "for": [
+        10,
+        52,
+        73,
+        80,
+        99,
+        126,
+        187
+      ],
+      "organizations": [
+        11
+      ],
+      "to": [
+        12,
+        15,
+        55
+      ],
+      "rethink": [
+        13
+      ],
+      "how": [
+        14
+      ],
+      "make": [
+        16
+      ],
+      "talent-related": [
+        17
+      ],
+      "decisions": [
+        18
+      ],
+      "in": [
+        19,
+        69,
+        95,
+        129,
+        191
+      ],
+      "a": [
+        20,
+        64,
+        92,
+        152
+      ],
+      "quantitative": [
+        21
+      ],
+      "manner.": [
+        22
+      ],
+      "Indeed,": [
+        23
+      ],
+      "the": [
+        24,
+        84,
+        130,
+        138,
+        181,
+        192
+      ],
+      "recent": [
+        25
+      ],
+      "development": [
+        26
+      ],
+      "of": [
+        27,
+        43,
+        132,
+        141,
+        155,
+        194
+      ],
+      "big": [
+        28
+      ],
+      "data": [
+        29,
+        48,
+        65,
+        97
+      ],
+      "artificial": [
+        31
+      ],
+      "intelligence": [
+        32,
+        72
+      ],
+      "(AI)": [
+        33
+      ],
+      "techniques": [
+        34
+      ],
+      "has": [
+        35,
+        89
+      ],
+      "revolutionized": [
+        36
+      ],
+      "human": [
+        37
+      ],
+      "resource": [
+        38
+      ],
+      "management": [
+        39,
+        79
+      ],
+      "(HRM).": [
+        40
+      ],
+      "The": [
+        41
+      ],
+      "availability": [
+        42
+      ],
+      "large-scale": [
+        44
+      ],
+      "talent": [
+        45,
+        78,
+        87,
+        127,
+        142,
+        169,
+        196
+      ],
+      "management-related": [
+        47
+      ],
+      "provides": [
+        49
+      ],
+      "unparalleled": [
+        50
+      ],
+      "opportunities": [
+        51
+      ],
+      "leaders": [
+        54
+      ],
+      "comprehend": [
+        56
+      ],
+      "organizational": [
+        57
+      ],
+      "behaviors": [
+        58
+      ],
+      "gain": [
+        60
+      ],
+      "tangible": [
+        61
+      ],
+      "knowledge": [
+        62,
+        140
+      ],
+      "from": [
+        63,
+        104
+      ],
+      "science": [
+        66,
+        98
+      ],
+      "perspective,": [
+        67
+      ],
+      "which,": [
+        68
+      ],
+      "turn,": [
+        70
+      ],
+      "delivers": [
+        71
+      ],
+      "real-time": [
+        74
+      ],
+      "decision-making": [
+        75
+      ],
+      "effective": [
+        77
+      ],
+      "their": [
+        81
+      ],
+      "organizations.": [
+        82
+      ],
+      "last": [
+        85
+      ],
+      "decade,": [
+        86
+      ],
+      "analytics": [
+        88,
+        128,
+        143
+      ],
+      "emerged": [
+        90
+      ],
+      "as": [
+        91
+      ],
+      "promising": [
+        93
+      ],
+      "field": [
+        94,
+        131
+      ],
+      "applied": [
+        96
+      ],
+      "HRM,": [
+        100
+      ],
+      "garnering": [
+        101
+      ],
+      "significant": [
+        102
+      ],
+      "attention": [
+        103
+      ],
+      "AI": [
+        105,
+        123
+      ],
+      "communities": [
+        106
+      ],
+      "inspiring": [
+        108
+      ],
+      "numerous": [
+        109
+      ],
+      "research": [
+        110,
+        157,
+        189
+      ],
+      "efforts.": [
+        111
+      ],
+      "To": [
+        112
+      ],
+      "this": [
+        113
+      ],
+      "end,": [
+        114
+      ],
+      "we": [
+        115,
+        135,
+        150,
+        179
+      ],
+      "present": [
+        116
+      ],
+      "an": [
+        117
+      ],
+      "up-to-date": [
+        118
+      ],
+      "comprehensive": [
+        120,
+        153
+      ],
+      "survey": [
+        121
+      ],
+      "on": [
+        122,
+        161
+      ],
+      "technologies": [
+        124
+      ],
+      "used": [
+        125
+      ],
+      "HRM.": [
+        133
+      ],
+      "Specifically,": [
+        134
+      ],
+      "first": [
+        136
+      ],
+      "provide": [
+        137
+      ],
+      "background": [
+        139
+      ],
+      "categorize": [
+        145
+      ],
+      "various": [
+        146
+      ],
+      "pertinent": [
+        147
+      ],
+      "data.": [
+        148
+      ],
+      "Subsequently,": [
+        149
+      ],
+      "offer": [
+        151
+      ],
+      "taxonomy": [
+        154
+      ],
+      "relevant": [
+        156
+      ],
+      "efforts,": [
+        158
+      ],
+      "categorized": [
+        159
+      ],
+      "based": [
+        160
+      ],
+      "three": [
+        162
+      ],
+      "distinct": [
+        163
+      ],
+      "application-driven": [
+        164
+      ],
+      "scenarios": [
+        165
+      ],
+      "at": [
+        166
+      ],
+      "different": [
+        167
+      ],
+      "levels:": [
+        168
+      ],
+      "management,": [
+        170,
+        172
+      ],
+      "organization": [
+        171
+      ],
+      "labor": [
+        174
+      ],
+      "market": [
+        175
+      ],
+      "analysis.": [
+        176
+      ],
+      "conclusion,": [
+        178
+      ],
+      "summarize": [
+        180
+      ],
+      "open": [
+        182
+      ],
+      "challenges": [
+        183
+      ],
+      "potential": [
+        185
+      ],
+      "prospects": [
+        186
+      ],
+      "future": [
+        188
+      ],
+      "directions": [
+        190
+      ],
+      "domain": [
+        193
+      ],
+      "AI-driven": [
+        195
+      ],
+      "analytics.": [
+        197
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 19
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 23
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2023,
+        "cited_by_count": 6
+      }
+    ],
+    "updated_date": "2026-10-23T09:35:12.469056",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

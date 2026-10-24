@@ -1,0 +1,865 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+    "checked_at": "2026-10-24T02:10:18.749541Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T06:59:33Z",
+        "timestamp": 1792738773744,
+        "version": "4.5.0"
+      },
+      "reference-count": 63,
+      "publisher": "Emerald",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            5
+          ]
+        ]
+      },
+      "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>Artificial intelligence (AI) has the potential to dramatically change the human approaches to work, and specifically to learning and development. While AI coaching can reduce costs and increase accessibility, it also presents both opportunities and threats to human coaches. The objective of this study was to conduct a systematic literature review of peer-reviewed research on the use of AI in coaching.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>A systematic literature review (SLR) method was used to search eight databases for articles produced up to March 2024. Data extraction was conducted, with Quality Assessment undertaken independently, in parallel, using two researchers and a third arbiter. The ROBINS-I tool was used to assess the risk of bias in the included studies. A narrative synthesis of a total of 16 quantitative, qualitative or mixed-method studies covering n = 2312.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The SLR identified four key themes: Research design and AI integration, AI usefulness in coaching, impact of AI coaching and ethical considerations. The findings suggest that AI coaches can be effective, accepted, useful and match human coaches in competence for specific tasks.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>AI coaching is a growing area of practice and research. This paper brings together the literature and identifies future research priorities and potential next steps in AI coach development.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The paper uses clinical research SLR methods applying these robust processes to the field of organisational research, to set a new standard through the use of a pre-determined research protocol, quality assessment and ROB, well providing a comprehensive literature review of AI coaching.</jats:p>\n                  </jats:sec>",
+      "DOI": "10.1108/jwam-11-2024-0164",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            18
+          ]
+        ],
+        "date-time": "2025-02-18T23:10:56Z",
+        "timestamp": 1739920256000
+      },
+      "page": "110-129",
+      "source": "Crossref",
+      "is-referenced-by-count": 52,
+      "title": [
+        "A systematic literature review of artificial intelligence (AI) in coaching: insights for future research and product development"
+      ],
+      "prefix": "10.1108",
+      "volume": "18",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0832-7510",
+          "authenticated-orcid": true,
+          "given": "Jonathan",
+          "family": "Passmore",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Henley Business School Greenlands Campus, University of Reading Department of Leadership, Organisation and Behaviour, , ,",
+              "place": [
+                "Henley-on-Thames, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2925-1770",
+          "authenticated-orcid": true,
+          "given": "Bergsveinn",
+          "family": "Olafsson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Claremont Graduate University Division of Behavioral and Organizational Sciences, , , ,",
+              "place": [
+                "Los Angeles, California, USA"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1162-9459",
+          "authenticated-orcid": true,
+          "given": "David",
+          "family": "Tee",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Cambridge Institute of Continuing Education, , ,",
+              "place": [
+                "Cambridge, UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "140",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            20
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref001",
+          "doi-asserted-by": "publisher",
+          "first-page": "589",
+          "DOI": "10.1007/s10462-021-10039-7",
+          "article-title": "Artificial intelligence in the creative industries: a review",
+          "volume": "55",
+          "author": "Anantrasirichai",
+          "year": "2022",
+          "journal-title": "Artificial Intelligence Review"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref002",
+          "doi-asserted-by": "publisher",
+          "first-page": "70",
+          "DOI": "10.1016/j.leaqua.2017.11.004",
+          "article-title": "A systematic review of executive coaching outcomes: is it the journey or the destination that matters the most?",
+          "volume": "29",
+          "author": "Athanasopoulou",
+          "year": "2018",
+          "journal-title": "The Leadership Quarterly"
+        },
+        {
+          "issue": "6",
+          "key": "2026050601413468100_ref003",
+          "doi-asserted-by": "publisher",
+          "first-page": "589",
+          "DOI": "10.1001/jamainternmed.2023.1838",
+          "article-title": "Comparing physician and artificial intelligence chatbot responses to patient questions posted to a public social media forum",
+          "volume": "183",
+          "author": "Ayers",
+          "year": "2023",
+          "journal-title": "JAMA Internal Medicine"
+        },
+        {
+          "key": "2026050601413468100_ref004",
+          "volume-title": "Generative AI Could Raise Global GDP by 7 Percent",
+          "author": "Briggs",
+          "year": "2023"
+        },
+        {
+          "key": "2026050601413468100_ref005",
+          "volume-title": "The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies",
+          "author": "Brynjolfsson",
+          "year": "2014"
+        },
+        {
+          "key": "2026050601413468100_ref006",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2023.1204166",
+          "article-title": "Workplace coaching: a meta-analysis and recommendations for advancing the science of coaching",
+          "volume": "14",
+          "author": "Cannon-Bowers",
+          "year": "2023",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "S1",
+          "key": "2026050601413468100_ref007",
+          "doi-asserted-by": "publisher",
+          "first-page": "1925",
+          "DOI": "10.1007/s10586-018-2334-5",
+          "article-title": "Chatbot-based healthcare service with a knowledge base for cloud computing",
+          "volume": "22",
+          "author": "Chung",
+          "year": "2019",
+          "journal-title": "Cluster Computing"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref064",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1177/1754073914558466",
+          "article-title": "Empathy: a review of the concept",
+          "volume": "8",
+          "author": "Cuff",
+          "year": "2016",
+          "journal-title": "Emotion Review"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref008",
+          "doi-asserted-by": "publisher",
+          "first-page": "641",
+          "DOI": "10.5465/amle.2022.0107",
+          "article-title": "What can we know about the effectiveness of coaching? A meta-analysis based only on randomized controlled trials",
+          "volume": "22",
+          "author": "De Haan",
+          "year": "2023",
+          "journal-title": "The Academy of Management Learning and Education"
+        },
+        {
+          "key": "2026050601413468100_ref068",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2139/ssrn.4573321",
+          "article-title": "Navigating the jagged technological Frontier: field experimental evidence of the effects of AI on knowledge worker productivity and quality",
+          "author": "Dell'Acqua",
+          "year": "2023"
+        },
+        {
+          "key": "2026050601413468100_ref009",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijinfomgt.2023.102642",
+          "article-title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "volume": "71",
+          "author": "Dwivedi",
+          "year": "2023",
+          "journal-title": "International Journal of Information Management"
+        },
+        {
+          "key": "2026050601413468100_ref062",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/er2p-4857",
+          "article-title": "Augmenting coaching practice through digital methods",
+          "volume": "15",
+          "author": "Ellis-Brush",
+          "year": "2021",
+          "journal-title": "International Journal of Evidence Based Coaching and Mentoring"
+        },
+        {
+          "key": "2026050601413468100_ref011",
+          "unstructured": "EMCC\n           (2024), “AI & digital”, available at: https://www.emccglobal.org/leadership-development/ai-digital/ (accessed 20 June 2024)."
+        },
+        {
+          "key": "2026050601413468100_ref065",
+          "unstructured": "EU\n           (2024), EU Artificial Intelligence Act, available at: https://artificialintelligenceact.eu/the-act/ (accessed 12 February 2025)."
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref012",
+          "doi-asserted-by": "publisher",
+          "first-page": "72",
+          "DOI": "10.1109/mts.2021.3056293",
+          "article-title": "Bias and discrimination in AI: a cross-disciplinary perspective",
+          "volume": "40",
+          "author": "Ferrer",
+          "year": "2021",
+          "journal-title": "IEEE Technology and Society Magazine"
+        },
+        {
+          "key": "2026050601413468100_ref013",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdgth.2021.747153",
+          "article-title": "Conversational physical activity coaches for Spanish and English speaking women: a user design study",
+          "volume": "3",
+          "author": "Figueroa",
+          "year": "2021",
+          "journal-title": "Frontiers in Digital Health"
+        },
+        {
+          "key": "2026050601413468100_ref014",
+          "volume-title": "Artificial Intelligence. Data Adapted from Epoch",
+          "author": "Giattino",
+          "year": "2023"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref015",
+          "doi-asserted-by": "publisher",
+          "first-page": "106",
+          "DOI": "10.1177/1534484320982891",
+          "article-title": "Coaching with artificial intelligence: concepts and capabilities",
+          "volume": "20",
+          "author": "Graßmann",
+          "year": "2021",
+          "journal-title": "Human Resource Development Review"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref016",
+          "doi-asserted-by": "publisher",
+          "first-page": "168",
+          "DOI": "10.1038/s41746-021-00539-9",
+          "article-title": "Randomized trial of two artificial intelligence coaching interventions to increase physical activity in cancer survivors",
+          "volume": "4",
+          "author": "Hassoon",
+          "year": "2021",
+          "journal-title": "Npj Digital Medicine"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref200",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pmen.0000145",
+          "article-title": "When ELIZA meets therapists: a Turing test for the heart and mind",
+          "volume": "2",
+          "author": "Hatch",
+          "year": "2025",
+          "journal-title": "PLOS Mental Health"
+        },
+        {
+          "key": "2026050601413468100_ref017",
+          "unstructured": "ICF\n           (2024), “Technology and artificial IntelligenceI in coaching”, available at: https://coachingfederation.org/about/coalition-technology-in-coaching (accessed 19 June 2024)."
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref018",
+          "doi-asserted-by": "publisher",
+          "first-page": "249",
+          "DOI": "10.1111/joop.12119",
+          "article-title": "The effectiveness of workplace coaching: a meta-analysis of learning and performance outcomes from coaching",
+          "volume": "89",
+          "author": "Jones",
+          "year": "2016",
+          "journal-title": "Journal of Occupational and Organizational Psychology"
+        },
+        {
+          "issue": "8",
+          "key": "2026050601413468100_ref019",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/38092",
+          "article-title": "Design and formative evaluation of a virtual voice-based coach for problem-solving treatment: observational study",
+          "volume": "6",
+          "author": "Kannampallil",
+          "year": "2022",
+          "journal-title": "JMIR Formative Research"
+        },
+        {
+          "key": "2026050601413468100_ref069",
+          "doi-asserted-by": "publisher",
+          "first-page": "383",
+          "DOI": "10.1145/3530019.3531329",
+          "author": "Khan",
+          "year": "2022",
+          "journal-title": "EASE '22: Proceedings of the 26th International Conference on Evaluation and Assessment in Software Engineering"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref020",
+          "doi-asserted-by": "publisher",
+          "first-page": "271",
+          "DOI": "10.3390/ijerph18010271",
+          "article-title": "Application of artificial intelligence-based technologies in the healthcare industry: opportunities and challenges",
+          "volume": "18",
+          "author": "Lee",
+          "year": "2021",
+          "journal-title": "International Journal of Environmental Research and Public Health"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref021",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1057/s41599-024-03660-8",
+          "article-title": "Gender stereotypes in artificial intelligence within the accounting profession using large language models",
+          "volume": "11",
+          "author": "Leong",
+          "year": "2024",
+          "journal-title": "Humanities and Social Sciences Communications"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref022",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.metrad.2023.100017",
+          "article-title": "Summary of ChatGPT-Related research and perspective towards the future of large language models",
+          "volume": "1",
+          "author": "Liu",
+          "year": "2023",
+          "journal-title": "Meta-Radiology"
+        },
+        {
+          "key": "2026050601413468100_ref023",
+          "doi-asserted-by": "publisher",
+          "first-page": "439",
+          "DOI": "10.1007/978-3-030-90328-2_29",
+          "volume-title": "HCI International 2021 - Late Breaking Papers: Cognition, Inclusion, Learning, and Culture",
+          "author": "Mai",
+          "year": "2021"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref024",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1365/s40896-021-00063-3",
+          "article-title": "‘Clicking vs. Writing’—the impact of a chatbot's interaction method on the working alliance in AI-based coaching",
+          "volume": "8",
+          "author": "Mai",
+          "year": "2022",
+          "journal-title": "Coaching | Theorie and Praxis"
+        },
+        {
+          "key": "2026050601413468100_ref025",
+          "volume-title": "The CoachHub Global Survey: Business Trends in Coaching 2023",
+          "author": "McKenzie",
+          "year": "2022"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref026",
+          "doi-asserted-by": "publisher",
+          "first-page": "264",
+          "DOI": "10.7326/0003-4819-151-4-200908180-00135",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "151",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "Annals of internal medicine"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref027",
+          "doi-asserted-by": "publisher",
+          "first-page": "79",
+          "DOI": "10.15219/em86.1485",
+          "article-title": "Consciousness: effect of coaching process and specifics through AI usage",
+          "volume": "86",
+          "author": "Movsumova",
+          "year": "2020",
+          "journal-title": "E-Mentor"
+        },
+        {
+          "key": "2026050601413468100_ref029",
+          "volume-title": "The Health and Wellbeing Coaches Handbook",
+          "author": "Olafsson",
+          "year": "2025"
+        },
+        {
+          "issue": "71",
+          "key": "2026050601413468100_ref066",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.n71",
+          "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "British Medical Journal"
+        },
+        {
+          "key": "2026050601413468100_ref030",
+          "article-title": "Getting better all the time: exploring AI & Human performance, outcomes and ethics",
+          "author": "Passmore",
+          "year": "2024"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref031",
+          "doi-asserted-by": "publisher",
+          "first-page": "47",
+          "DOI": "10.53841/bpstcp.2023.19.1.47",
+          "article-title": "Can Chatbots replace human coaches? Issues and dilemmas for the coaching profession, coaching clients and for organisations",
+          "volume": "19",
+          "author": "Passmore",
+          "year": "2023",
+          "journal-title": "The Coaching Psychologist"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref067",
+          "doi-asserted-by": "publisher",
+          "first-page": "4",
+          "DOI": "10.1108/JWAM-06-2023-0057",
+          "article-title": "The library of Babel: assessing the powers of artificial intelligence in knowledge synthesis, learning and development and coaching",
+          "volume": "16",
+          "author": "Passmore",
+          "year": "2024",
+          "journal-title": "Journal of Work-Applied Management"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref033",
+          "doi-asserted-by": "publisher",
+          "first-page": "58",
+          "DOI": "10.53841/bpsicpr.2023.18.1.58",
+          "article-title": "Coaching education: wake up to the new digital and AI coaching revolution",
+          "volume": "18",
+          "author": "Passmore",
+          "year": "2023",
+          "journal-title": "International Coaching Psychology Review"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref034",
+          "doi-asserted-by": "publisher",
+          "first-page": "41",
+          "DOI": "10.53841/bpstcp.2021.17.2.41",
+          "article-title": "Future trends in coaching: results from a global coach survey, 2021",
+          "volume": "17",
+          "author": "Passmore",
+          "year": "2021",
+          "journal-title": "The Coaching Psychologist"
+        },
+        {
+          "key": "2026050601413468100_ref035",
+          "article-title": "Hello my name in Sky: ethical principles in for high trust conversations with AI bots",
+          "author": "Passmore",
+          "year": "2024"
+        },
+        {
+          "key": "2026050601413468100_ref036",
+          "volume-title": "Artificial Intelligence: A Modern Approach",
+          "author": "Russell",
+          "year": "2021",
+          "edition": "4th ed."
+        },
+        {
+          "key": "2026050601413468100_ref037",
+          "doi-asserted-by": "publisher",
+          "first-page": "1792",
+          "DOI": "10.3389/fpsyg.2017.01792",
+          "article-title": "Avoidance of novelty contributes to the uncanny valley",
+          "volume": "8",
+          "author": "Sasaki",
+          "year": "2017",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref061",
+          "doi-asserted-by": "crossref",
+          "first-page": "746",
+          "DOI": "10.1111/j.1365-2753.2011.01662.x",
+          "article-title": "Reviewing studies with diverse designs: the development and evaluation of a new tool",
+          "volume": "18",
+          "author": "Sirriyeh",
+          "year": "2012",
+          "journal-title": "Journal of Evaluation in Clinical Practice"
+        },
+        {
+          "key": "2026050601413468100_ref038",
+          "volume-title": "Oxford Research Encyclopaedia (Online)",
+          "author": "Smith",
+          "year": "2017"
+        },
+        {
+          "issue": "3",
+          "key": "2026050601413468100_ref039",
+          "doi-asserted-by": "publisher",
+          "first-page": "440",
+          "DOI": "10.1093/tbm/ibz043",
+          "article-title": "Feasibility of pediatric obesity and prediabetes treatment support through Tess, the AI behavioral coaching chatbot",
+          "volume": "9",
+          "author": "Stephens",
+          "year": "2019",
+          "journal-title": "Translational Behavioral Medicine"
+        },
+        {
+          "key": "2026050601413468100_ref040",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/bmj.i4919",
+          "article-title": "ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions",
+          "volume": "355",
+          "author": "Sterne",
+          "year": "2016",
+          "journal-title": "BMJ (Clinical Research ed)"
+        },
+        {
+          "key": "2026050601413468100_ref041",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/B7GS-3H05",
+          "article-title": "A design framework to create Artificial Intelligence Coaches",
+          "author": "Terblanche",
+          "year": "2020"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref042",
+          "doi-asserted-by": "publisher",
+          "first-page": "61",
+          "DOI": "10.22316/poc/05.1.06",
+          "article-title": "Factors that influence users' adoption of being coached by an Artificial Intelligence Coach",
+          "volume": "5",
+          "author": "Terblanche",
+          "year": "2020",
+          "journal-title": "Philosophy of Coaching: International Journal"
+        },
+        {
+          "key": "2026050601413468100_ref043",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24384/5CGF-AB69",
+          "article-title": "Coaching at scale: investigating the efficacy of artificial intelligence coaching",
+          "author": "Terblanche",
+          "year": "2022"
+        },
+        {
+          "issue": "6",
+          "key": "2026050601413468100_ref044",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0270255",
+          "article-title": "Comparing artificial intelligence and human coaching goal attainment efficacy",
+          "volume": "17",
+          "author": "Terblanche",
+          "year": "2022",
+          "journal-title": "PLoS One"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref045",
+          "doi-asserted-by": "publisher",
+          "first-page": "100",
+          "DOI": "10.1080/17521882.2022.2094278",
+          "article-title": "Performance matters: students' perceptions of Artificial Intelligence Coach adoption factors",
+          "volume": "16",
+          "author": "Terblanche",
+          "year": "2023",
+          "journal-title": "Coaching: An International Journal of Theory, Research and Practice"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref046",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/17521882.2024.2304792",
+          "article-title": "The influence of an artificial intelligence chatbot coach assistant on the human coach-client working alliance",
+          "volume": "17",
+          "author": "Terblanche",
+          "year": "2024",
+          "journal-title": "Coaching: An International Journal of Theory, Research and Practice"
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref070",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/17439760.2013.837499",
+          "article-title": "Does coaching work? A meta-analysis on the effects of coaching on individual level outcomes in an organizational context",
+          "volume": "9",
+          "author": "Theeboom",
+          "year": "2014",
+          "journal-title": "The Journal of Positive Psychology"
+        },
+        {
+          "issue": "10",
+          "key": "2026050601413468100_ref047",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/12805",
+          "article-title": "Rehabilitation, the great absentee of virtual coaching in medical care: scoping review",
+          "volume": "21",
+          "author": "Tropea",
+          "year": "2019",
+          "journal-title": "Journal of Medical Internet Research"
+        },
+        {
+          "key": "2026050601413468100_ref028",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4135/9781473922181",
+          "volume-title": "Coaching in Professional Contexts",
+          "author": "van Nieuwerburgh",
+          "year": "2016"
+        },
+        {
+          "key": "2026050601413468100_ref048",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.48550/ARXIV.1706.03762",
+          "article-title": "Attention is all you need",
+          "author": "Vaswani",
+          "year": "2017"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref049",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.7453/gahmj.2013.042",
+          "article-title": "A systematic review of the literature on health and wellness coaching: defining a key behavioral intervention in healthcare",
+          "volume": "2",
+          "author": "Wolever",
+          "year": "2013",
+          "journal-title": "Global Advances in Health and Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "2026050601413468100_ref051",
+          "doi-asserted-by": "publisher",
+          "first-page": "497",
+          "DOI": "10.1037/0033-2909.117.3.497",
+          "article-title": "The need to belong: desire for interpersonal attachments as a fundamental human motivation",
+          "volume": "117",
+          "author": "Baumeister",
+          "year": "1995",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "2026050601413468100_ref052",
+          "volume-title": "Further Techniques for Coaching and Mentoring",
+          "author": "Clutterbuck",
+          "year": ".."
+        },
+        {
+          "issue": "1",
+          "key": "2026050601413468100_ref055",
+          "doi-asserted-by": "publisher",
+          "first-page": "35",
+          "DOI": "10.1177/0018726718819725",
+          "article-title": "The relationship between working alliance and client outcomes in coaching: a meta-analysis",
+          "volume": "73",
+          "author": "Graßmann",
+          "year": "2020",
+          "journal-title": "Human Relations"
+        },
+        {
+          "issue": "2",
+          "key": "2026050601413468100_ref057",
+          "doi-asserted-by": "publisher",
+          "first-page": "70",
+          "DOI": "10.1080/17521882.2011.596484",
+          "article-title": "A critical review of executive coaching research: a decade of progress and what's to come",
+          "volume": "4",
+          "author": "Passmore",
+          "year": "2011",
+          "journal-title": "Coaching: An International Journal of Theory, Research and Practice"
+        },
+        {
+          "issue": "4",
+          "key": "2026050601413468100_ref058",
+          "doi-asserted-by": "publisher",
+          "first-page": "746",
+          "DOI": "10.1111/j.1365-2753.2011.01662.x",
+          "article-title": "Reviewing studies with diverse designs: the development and evaluation of a new tool",
+          "volume": "18",
+          "author": "Serriyeh",
+          "year": "2012",
+          "journal-title": "Journal of Evaluation in Clinical Practice"
+        },
+        {
+          "issue": "3",
+          "key": "2026050601413468100_ref059",
+          "doi-asserted-by": "publisher",
+          "first-page": "321",
+          "DOI": "10.1089/1094931041291295",
+          "article-title": "The online disinhibition effect",
+          "volume": "7",
+          "author": "Suler",
+          "year": "2004",
+          "journal-title": "CyberPsychology and Behavior"
+        }
+      ],
+      "container-title": [
+        "Journal of Work-Applied Management"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.emerald.com/insight/content/doi/10.1108/JWAM-11-2024-0164/full/xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.emerald.com/jwam/article-pdf/18/1/110/11578118/jwam-11-2024-0164en.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://www.emerald.com/jwam/article-pdf/18/1/110/11578118/jwam-11-2024-0164en.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            6
+          ]
+        ],
+        "date-time": "2026-05-06T05:41:47Z",
+        "timestamp": 1778046107000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.emerald.com/jwam/article/18/1/110/1254433/A-systematic-literature-review-of-artificial"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            20
+          ]
+        ]
+      },
+      "references-count": 63,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              5
+            ]
+          ]
+        }
+      },
+      "URL": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "relation": {},
+      "ISSN": [
+        "2205-2062",
+        "2205-149X"
+      ],
+      "issn-type": [
+        {
+          "value": "2205-2062",
+          "type": "print"
+        },
+        {
+          "value": "2205-149X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            2,
+            20
+          ]
+        ]
+      }
+    }
+  }
+}

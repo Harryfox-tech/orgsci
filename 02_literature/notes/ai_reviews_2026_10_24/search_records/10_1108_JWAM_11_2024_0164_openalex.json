@@ -1,0 +1,1312 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1108/JWAM-11-2024-0164",
+    "checked_at": "2026-10-24T02:10:19.601945Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4407758653",
+    "doi": "https://doi.org/10.1108/jwam-11-2024-0164",
+    "title": "A systematic literature review of artificial intelligence (AI) in coaching: insights for future research and product development",
+    "display_name": "A systematic literature review of artificial intelligence (AI) in coaching: insights for future research and product development",
+    "publication_year": 2025,
+    "publication_date": "2025-02-18",
+    "ids": {
+      "openalex": "https://openalex.org/W4407758653",
+      "doi": "https://doi.org/10.1108/jwam-11-2024-0164"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1108/jwam-11-2024-0164",
+      "doi": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210183813",
+        "display_name": "Journal of Work-Applied Management",
+        "issn_l": "2205-149X",
+        "issn": [
+          "2205-149X",
+          "2205-2062"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-1",
+          "norway-1",
+          "russia-white-list-4"
+        ],
+        "host_organization": "https://openalex.org/P4310319811",
+        "host_organization_name": "Emerald Publishing Limited",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319811"
+        ],
+        "host_organization_lineage_names": [
+          "Emerald Publishing Limited"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Work-Applied Management",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "diamond",
+      "oa_url": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5063046610",
+          "display_name": "Jonathan Passmore",
+          "orcid": "https://orcid.org/0000-0003-0832-7510",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-0832-7510"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I71052956",
+            "display_name": "University of Reading",
+            "ror": "https://ror.org/05v62cm79",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I71052956"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Jonathan Passmore",
+        "raw_affiliation_strings": [
+          "Henley Business School Greenlands Campus, University of Reading Department of Leadership, Organisation and Behaviour, , ,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-0832-7510",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Henley Business School Greenlands Campus, University of Reading Department of Leadership, Organisation and Behaviour, , ,",
+            "institution_ids": [
+              "https://openalex.org/I71052956"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": null,
+          "display_name": "Bergsveinn Olafsson",
+          "orcid": "https://orcid.org/0000-0003-2925-1770",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-2925-1770"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I136722135",
+            "display_name": "Claremont Graduate University",
+            "ror": "https://ror.org/0157pnt69",
+            "country_code": "US",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I136722135"
+            ]
+          }
+        ],
+        "countries": [
+          "US"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Bergsveinn Olafsson",
+        "raw_affiliation_strings": [
+          "Claremont Graduate University Division of Behavioral and Organizational Sciences, , , ,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0003-2925-1770",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Claremont Graduate University Division of Behavioral and Organizational Sciences, , , ,",
+            "institution_ids": [
+              "https://openalex.org/I136722135"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5023481883",
+          "display_name": "David Tee",
+          "orcid": "https://orcid.org/0000-0002-1162-9459",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-1162-9459"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I241749",
+            "display_name": "University of Cambridge",
+            "ror": "https://ror.org/013meh722",
+            "country_code": "GB",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I241749"
+            ]
+          }
+        ],
+        "countries": [
+          "GB"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "David Tee",
+        "raw_affiliation_strings": [
+          "University of Cambridge Institute of Continuing Education, , ,"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0002-1162-9459",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "University of Cambridge Institute of Continuing Education, , ,",
+            "institution_ids": [
+              "https://openalex.org/I241749"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 2,
+    "institutions_distinct_count": 3,
+    "corresponding_author_ids": [],
+    "corresponding_institution_ids": [],
+    "apc_list": null,
+    "apc_paid": null,
+    "fwci": 7.4236,
+    "has_fulltext": true,
+    "cited_by_count": 49,
+    "citation_normalized_percentile": {
+      "value": 0.96961326,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 99,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "18",
+      "issue": "1",
+      "first_page": "110",
+      "last_page": "129"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13821",
+      "display_name": "Coaching Methods and Impact",
+      "score": 0.7896000146865845,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13821",
+        "display_name": "Coaching Methods and Impact",
+        "score": 0.7896000146865845,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3202",
+          "display_name": "Applied Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.17739999294281006,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13904",
+        "display_name": "Artificial Intelligence Applications",
+        "score": 0.01510000042617321,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/ai-coach",
+        "display_name": "AI coach",
+        "score": 0.9319999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/learning-and-development",
+        "display_name": "learning and development",
+        "score": 0.878000020980835
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-ethics",
+        "display_name": "AI ethics",
+        "score": 0.3919999897480011
+      },
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence-acceptance",
+        "display_name": "AI acceptance",
+        "score": 0.6959999799728394
+      },
+      {
+        "id": "https://openalex.org/keywords/future-research-priorities",
+        "display_name": "future research priorities",
+        "score": 0.6349999904632568
+      },
+      {
+        "id": "https://openalex.org/keywords/ai-product-development",
+        "display_name": "AI product development",
+        "score": 0.6660000085830688
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C2779363792",
+        "wikidata": "https://www.wikidata.org/wiki/Q1104185",
+        "display_name": "Coaching",
+        "level": 2,
+        "score": 0.7480594515800476
+      },
+      {
+        "id": "https://openalex.org/C19351080",
+        "wikidata": "https://www.wikidata.org/wiki/Q1395034",
+        "display_name": "New product development",
+        "level": 2,
+        "score": 0.5963371992111206
+      },
+      {
+        "id": "https://openalex.org/C90673727",
+        "wikidata": "https://www.wikidata.org/wiki/Q901718",
+        "display_name": "Product (mathematics)",
+        "level": 2,
+        "score": 0.4466637074947357
+      },
+      {
+        "id": "https://openalex.org/C2778734332",
+        "wikidata": "https://www.wikidata.org/wiki/Q7315082",
+        "display_name": "Research development",
+        "level": 3,
+        "score": 0.43347012996673584
+      },
+      {
+        "id": "https://openalex.org/C189708586",
+        "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+        "display_name": "Systematic review",
+        "level": 3,
+        "score": 0.4295424818992615
+      },
+      {
+        "id": "https://openalex.org/C55587333",
+        "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+        "display_name": "Engineering ethics",
+        "level": 1,
+        "score": 0.380094051361084
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.37105873227119446
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.369179368019104
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.3672780394554138
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.34433987736701965
+      },
+      {
+        "id": "https://openalex.org/C154945302",
+        "wikidata": "https://www.wikidata.org/wiki/Q11660",
+        "display_name": "Artificial intelligence",
+        "level": 1,
+        "score": 0.33436083793640137
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.33001434803009033
+      },
+      {
+        "id": "https://openalex.org/C144133560",
+        "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+        "display_name": "Business",
+        "level": 0,
+        "score": 0.1976013481616974
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.15725737810134888
+      },
+      {
+        "id": "https://openalex.org/C162853370",
+        "wikidata": "https://www.wikidata.org/wiki/Q39809",
+        "display_name": "Marketing",
+        "level": 1,
+        "score": 0.08016324043273926
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.07936757802963257
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C542102704",
+        "wikidata": "https://www.wikidata.org/wiki/Q183257",
+        "display_name": "Psychotherapist",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C2524010",
+        "wikidata": "https://www.wikidata.org/wiki/Q8087",
+        "display_name": "Geometry",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C33923547",
+        "wikidata": "https://www.wikidata.org/wiki/Q395",
+        "display_name": "Mathematics",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C86803240",
+        "wikidata": "https://www.wikidata.org/wiki/Q420",
+        "display_name": "Biology",
+        "level": 0,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C151730666",
+        "wikidata": "https://www.wikidata.org/wiki/Q7205",
+        "display_name": "Paleontology",
+        "level": 1,
+        "score": 0.0
+      },
+      {
+        "id": "https://openalex.org/C2777267654",
+        "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+        "display_name": "Test (biology)",
+        "level": 2,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 3,
+    "locations": [
+      {
+        "id": "doi:10.1108/jwam-11-2024-0164",
+        "doi": "https://doi.org/10.1108/jwam-11-2024-0164",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1108/jwam-11-2024-0164",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210183813",
+          "display_name": "Journal of Work-Applied Management",
+          "issn_l": "2205-149X",
+          "issn": [
+            "2205-149X",
+            "2205-2062"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "erih-plus",
+            "jufo-1",
+            "norway-1",
+            "russia-white-list-4"
+          ],
+          "host_organization": "https://openalex.org/P4310319811",
+          "host_organization_name": "Emerald Publishing Limited",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319811"
+          ],
+          "host_organization_lineage_names": [
+            "Emerald Publishing Limited"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Work-Applied Management",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:centaur.reading.ac.uk:121616",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://centaur.reading.ac.uk/121616/1/Passmore%20et%20al%20%282025%29SLR%20AI%20.pdf",
+        "pdf_url": "https://centaur.reading.ac.uk/121616/10/jwam-11-2024-0164.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306402273",
+          "display_name": "CentAUR (University of Reading)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I71052956",
+          "host_organization_name": "University of Reading",
+          "host_organization_lineage": [
+            "https://openalex.org/I71052956"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:9c694ac4f3134f2eb78db19ba0295ada",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/9c694ac4f3134f2eb78db19ba0295ada",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Journal of Work-Applied Management, Vol 18, Iss 1, Pp 110-110 (2025)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1108/jwam-11-2024-0164",
+      "doi": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1108/jwam-11-2024-0164",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210183813",
+        "display_name": "Journal of Work-Applied Management",
+        "issn_l": "2205-149X",
+        "issn": [
+          "2205-149X",
+          "2205-2062"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "erih-plus",
+          "jufo-1",
+          "norway-1",
+          "russia-white-list-4"
+        ],
+        "host_organization": "https://openalex.org/P4310319811",
+        "host_organization_name": "Emerald Publishing Limited",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319811"
+        ],
+        "host_organization_lineage_names": [
+          "Emerald Publishing Limited"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Work-Applied Management",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 51,
+    "referenced_works": [
+      "https://openalex.org/W1564188094",
+      "https://openalex.org/W2005501262",
+      "https://openalex.org/W2042093593",
+      "https://openalex.org/W2065528066",
+      "https://openalex.org/W2081155210",
+      "https://openalex.org/W2100565187",
+      "https://openalex.org/W2119539908",
+      "https://openalex.org/W2161893648",
+      "https://openalex.org/W2325035506",
+      "https://openalex.org/W2531269403",
+      "https://openalex.org/W2765260814",
+      "https://openalex.org/W2780687301",
+      "https://openalex.org/W2781511114",
+      "https://openalex.org/W2794351024",
+      "https://openalex.org/W2915831904",
+      "https://openalex.org/W2945732805",
+      "https://openalex.org/W2964453576",
+      "https://openalex.org/W3044960932",
+      "https://openalex.org/W3047267634",
+      "https://openalex.org/W3049568452",
+      "https://openalex.org/W3111750956",
+      "https://openalex.org/W3113541070",
+      "https://openalex.org/W3113757834",
+      "https://openalex.org/W3118615836",
+      "https://openalex.org/W3158040837",
+      "https://openalex.org/W3174968973",
+      "https://openalex.org/W3179455893",
+      "https://openalex.org/W3199110531",
+      "https://openalex.org/W3207550367",
+      "https://openalex.org/W3212054086",
+      "https://openalex.org/W4200062772",
+      "https://openalex.org/W4206251658",
+      "https://openalex.org/W4283267080",
+      "https://openalex.org/W4283784568",
+      "https://openalex.org/W4291143383",
+      "https://openalex.org/W4320158817",
+      "https://openalex.org/W4320486522",
+      "https://openalex.org/W4360620450",
+      "https://openalex.org/W4367310920",
+      "https://openalex.org/W4378448182",
+      "https://openalex.org/W4385245566",
+      "https://openalex.org/W4385355140",
+      "https://openalex.org/W4385988359",
+      "https://openalex.org/W4386089120",
+      "https://openalex.org/W4386827556",
+      "https://openalex.org/W4387500606",
+      "https://openalex.org/W4389589630",
+      "https://openalex.org/W4390981211",
+      "https://openalex.org/W4402271598",
+      "https://openalex.org/W4405192512",
+      "https://openalex.org/W4407403557"
+    ],
+    "related_works": [
+      "https://openalex.org/W4249854088",
+      "https://openalex.org/W2746413784",
+      "https://openalex.org/W603502240",
+      "https://openalex.org/W2051499216",
+      "https://openalex.org/W656132696",
+      "https://openalex.org/W4232010708",
+      "https://openalex.org/W2748672977",
+      "https://openalex.org/W563471364",
+      "https://openalex.org/W276138570",
+      "https://openalex.org/W4230169674"
+    ],
+    "abstract_inverted_index": {
+      "Purpose": [
+        0
+      ],
+      "Artificial": [
+        1
+      ],
+      "intelligence": [
+        2
+      ],
+      "(AI)": [
+        3
+      ],
+      "has": [
+        4
+      ],
+      "the": [
+        5,
+        10,
+        56,
+        107,
+        112,
+        191,
+        219,
+        230
+      ],
+      "potential": [
+        6,
+        199
+      ],
+      "to": [
+        7,
+        13,
+        17,
+        37,
+        46,
+        71,
+        79,
+        105,
+        218,
+        224
+      ],
+      "dramatically": [
+        8
+      ],
+      "change": [
+        9
+      ],
+      "human": [
+        11,
+        38,
+        168
+      ],
+      "approaches": [
+        12
+      ],
+      "work,": [
+        14
+      ],
+      "and": [
+        15,
+        19,
+        27,
+        35,
+        96,
+        141,
+        152,
+        166,
+        185,
+        193,
+        198,
+        239
+      ],
+      "specifically": [
+        16
+      ],
+      "learning": [
+        18
+      ],
+      "development.": [
+        20,
+        205
+      ],
+      "While": [
+        21
+      ],
+      "AI": [
+        22,
+        59,
+        142,
+        144,
+        150,
+        159,
+        177,
+        203,
+        248
+      ],
+      "coaching": [
+        23,
+        151,
+        178
+      ],
+      "can": [
+        24,
+        161
+      ],
+      "reduce": [
+        25
+      ],
+      "costs": [
+        26
+      ],
+      "increase": [
+        28
+      ],
+      "accessibility,": [
+        29
+      ],
+      "it": [
+        30
+      ],
+      "also": [
+        31
+      ],
+      "presents": [
+        32
+      ],
+      "both": [
+        33
+      ],
+      "opportunities": [
+        34
+      ],
+      "threats": [
+        36
+      ],
+      "coaches.": [
+        39
+      ],
+      "The": [
+        40,
+        100,
+        133,
+        155,
+        207
+      ],
+      "objective": [
+        41
+      ],
+      "of": [
+        42,
+        52,
+        58,
+        109,
+        118,
+        121,
+        149,
+        183,
+        221,
+        232,
+        247
+      ],
+      "this": [
+        43
+      ],
+      "study": [
+        44
+      ],
+      "was": [
+        45,
+        69,
+        84,
+        103
+      ],
+      "conduct": [
+        47
+      ],
+      "a": [
+        48,
+        97,
+        119,
+        180,
+        226,
+        233,
+        243
+      ],
+      "systematic": [
+        49,
+        64
+      ],
+      "literature": [
+        50,
+        65,
+        192,
+        245
+      ],
+      "review": [
+        51,
+        66,
+        246
+      ],
+      "peer-reviewed": [
+        53
+      ],
+      "research": [
+        54,
+        196,
+        211,
+        235
+      ],
+      "on": [
+        55
+      ],
+      "use": [
+        57,
+        231
+      ],
+      "in": [
+        60,
+        91,
+        111,
+        146,
+        170,
+        202
+      ],
+      "coaching.": [
+        61,
+        249
+      ],
+      "Design/methodology/approach": [
+        62
+      ],
+      "A": [
+        63,
+        115
+      ],
+      "(SLR)": [
+        67
+      ],
+      "method": [
+        68
+      ],
+      "used": [
+        70,
+        104
+      ],
+      "search": [
+        72
+      ],
+      "eight": [
+        73
+      ],
+      "databases": [
+        74
+      ],
+      "for": [
+        75,
+        172
+      ],
+      "articles": [
+        76
+      ],
+      "produced": [
+        77
+      ],
+      "up": [
+        78
+      ],
+      "March": [
+        80
+      ],
+      "2024.": [
+        81
+      ],
+      "Data": [
+        82
+      ],
+      "extraction": [
+        83
+      ],
+      "conducted,": [
+        85
+      ],
+      "with": [
+        86
+      ],
+      "Quality": [
+        87
+      ],
+      "Assessment": [
+        88
+      ],
+      "undertaken": [
+        89
+      ],
+      "independently,": [
+        90
+      ],
+      "parallel,": [
+        92
+      ],
+      "using": [
+        93
+      ],
+      "two": [
+        94
+      ],
+      "researchers": [
+        95
+      ],
+      "third": [
+        98
+      ],
+      "arbiter.": [
+        99
+      ],
+      "ROBINS-I": [
+        101
+      ],
+      "tool": [
+        102
+      ],
+      "assess": [
+        106
+      ],
+      "risk": [
+        108
+      ],
+      "bias": [
+        110
+      ],
+      "included": [
+        113
+      ],
+      "studies.": [
+        114
+      ],
+      "narrative": [
+        116
+      ],
+      "synthesis": [
+        117
+      ],
+      "total": [
+        120
+      ],
+      "16": [
+        122
+      ],
+      "quantitative,": [
+        123
+      ],
+      "qualitative": [
+        124
+      ],
+      "or": [
+        125
+      ],
+      "mixed-method": [
+        126
+      ],
+      "studies": [
+        127
+      ],
+      "covering": [
+        128
+      ],
+      "n": [
+        129
+      ],
+      "=": [
+        130
+      ],
+      "2312.": [
+        131
+      ],
+      "Findings": [
+        132
+      ],
+      "SLR": [
+        134,
+        212
+      ],
+      "identified": [
+        135
+      ],
+      "four": [
+        136
+      ],
+      "key": [
+        137
+      ],
+      "themes:": [
+        138
+      ],
+      "Research": [
+        139
+      ],
+      "design": [
+        140
+      ],
+      "integration,": [
+        143
+      ],
+      "usefulness": [
+        145
+      ],
+      "coaching,": [
+        147
+      ],
+      "impact": [
+        148
+      ],
+      "ethical": [
+        153
+      ],
+      "considerations.": [
+        154
+      ],
+      "findings": [
+        156
+      ],
+      "suggest": [
+        157
+      ],
+      "that": [
+        158
+      ],
+      "coaches": [
+        160,
+        169
+      ],
+      "be": [
+        162
+      ],
+      "effective,": [
+        163
+      ],
+      "accepted,": [
+        164
+      ],
+      "useful": [
+        165
+      ],
+      "match": [
+        167
+      ],
+      "competence": [
+        171
+      ],
+      "specific": [
+        173
+      ],
+      "tasks.": [
+        174
+      ],
+      "Practical": [
+        175
+      ],
+      "implications": [
+        176
+      ],
+      "is": [
+        179
+      ],
+      "growing": [
+        181
+      ],
+      "area": [
+        182
+      ],
+      "practice": [
+        184
+      ],
+      "research.": [
+        186
+      ],
+      "This": [
+        187
+      ],
+      "paper": [
+        188,
+        208
+      ],
+      "brings": [
+        189
+      ],
+      "together": [
+        190
+      ],
+      "identifies": [
+        194
+      ],
+      "future": [
+        195
+      ],
+      "priorities": [
+        197
+      ],
+      "next": [
+        200
+      ],
+      "steps": [
+        201
+      ],
+      "coach": [
+        204
+      ],
+      "Originality/value": [
+        206
+      ],
+      "uses": [
+        209
+      ],
+      "clinical": [
+        210
+      ],
+      "methods": [
+        213
+      ],
+      "applying": [
+        214
+      ],
+      "these": [
+        215
+      ],
+      "robust": [
+        216
+      ],
+      "processes": [
+        217
+      ],
+      "field": [
+        220
+      ],
+      "organisational": [
+        222
+      ],
+      "research,": [
+        223
+      ],
+      "set": [
+        225
+      ],
+      "new": [
+        227
+      ],
+      "standard": [
+        228
+      ],
+      "through": [
+        229
+      ],
+      "pre-determined": [
+        234
+      ],
+      "protocol,": [
+        236
+      ],
+      "quality": [
+        237
+      ],
+      "assessment": [
+        238
+      ],
+      "ROB,": [
+        240
+      ],
+      "well": [
+        241
+      ],
+      "providing": [
+        242
+      ],
+      "comprehensive": [
+        244
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 34
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 15
+      }
+    ],
+    "updated_date": "2026-10-23T09:35:12.469056",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

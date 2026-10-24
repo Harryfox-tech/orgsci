@@ -1,0 +1,1172 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+    "checked_at": "2026-10-24T02:10:17.334060Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ],
+        "date-time": "2026-09-23T03:18:36Z",
+        "timestamp": 1790133516675,
+        "version": "4.0.1"
+      },
+      "reference-count": 89,
+      "publisher": "Elsevier BV",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2023-04-01T00:00:00Z",
+            "timestamp": 1680307200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2023-04-01T00:00:00Z",
+            "timestamp": 1680307200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                16
+              ]
+            ],
+            "date-time": "2023-03-16T00:00:00Z",
+            "timestamp": 1678924800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100001871",
+          "name": "Fundação para a Ciência e a Tecnologia",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "LA/P/0063/2020"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "LA/P/0063/2020"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001871",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "cell.com",
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Heliyon"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.heliyon.2023.e14694",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2023,
+            3,
+            22
+          ]
+        ],
+        "date-time": "2023-03-22T22:09:03Z",
+        "timestamp": 1679522943000
+      },
+      "page": "e14694",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 70,
+      "title": [
+        "Artificial intelligence applied to potential assessment and talent identification in an organisational context"
+      ],
+      "prefix": "10.1016",
+      "volume": "9",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6131-954X",
+          "authenticated-orcid": false,
+          "given": "Tiago",
+          "family": "Jacob Fernandes França",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5383-9884",
+          "authenticated-orcid": false,
+          "given": "Henrique",
+          "family": "São Mamede",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "João Manuel",
+          "family": "Pereira Barroso",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4223-7079",
+          "authenticated-orcid": false,
+          "given": "Vítor Manuel",
+          "family": "Pereira Duarte dos Santos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib1",
+          "series-title": "The Peter Principle: Why Things Always Go Wrong",
+          "author": "Peter",
+          "year": "1994"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib2",
+          "author": "Bersin"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib3",
+          "doi-asserted-by": "crossref",
+          "first-page": "61",
+          "DOI": "10.3390/admsci12020061",
+          "article-title": "Talent management in the banking sector: a systematic literature review",
+          "volume": "12",
+          "author": "Theodorsson",
+          "year": "2022",
+          "journal-title": "Adm. Sci."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib4",
+          "doi-asserted-by": "crossref",
+          "first-page": "236",
+          "DOI": "10.1016/j.jwb.2013.11.007",
+          "article-title": "Talent management and career development: what it takes to get promoted",
+          "volume": "49",
+          "author": "Claussen",
+          "year": "2014",
+          "journal-title": "J. World Bus."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib5",
+          "doi-asserted-by": "crossref",
+          "first-page": "528",
+          "DOI": "10.1016/j.jbusres.2021.11.052",
+          "article-title": "What's next in talent management?",
+          "volume": "141",
+          "author": "Pagan-Castaño",
+          "year": "2022",
+          "journal-title": "J. Bus. Res."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib6",
+          "first-page": "1",
+          "article-title": "Talent management and performance in the public sector: the role of organisational and line managerial support for development",
+          "author": "Kravariti",
+          "year": "2022",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.heliyon.2023.e14694_bib7",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1002/tie.22248",
+          "article-title": "Global talent management by multinational enterprises post‐ COVID ‐19: the role of enterprise social networking and senior leadership",
+          "volume": "65",
+          "author": "Chatterjee",
+          "year": "2023",
+          "journal-title": "Thunderbird Int. Bus. Rev."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib8",
+          "series-title": "The War for Talent",
+          "author": "Michaels",
+          "year": "2001"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib9",
+          "doi-asserted-by": "crossref",
+          "first-page": "621",
+          "DOI": "10.1017/iop.2016.6",
+          "article-title": "New talent signals: shiny new objects or a brave new world?",
+          "volume": "9",
+          "author": "Chamorro-Premuzic",
+          "year": "2016",
+          "journal-title": "Ind. Organ. Psychol."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib10",
+          "series-title": "Pareto Analysis",
+          "author": "Powell",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib11",
+          "first-page": "44",
+          "article-title": "The war for talent",
+          "volume": "3",
+          "author": "Chambers",
+          "year": "1998",
+          "journal-title": "McKinsey Q."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib12",
+          "doi-asserted-by": "crossref",
+          "first-page": "169",
+          "DOI": "10.1007/s10869-011-9220-y",
+          "article-title": "Still fighting the “war for talent”? Bridging the science versus practice gap",
+          "volume": "26",
+          "author": "Mcdonnell",
+          "year": "2011",
+          "journal-title": "J. Bus. Psychol."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.heliyon.2023.e14694_bib13",
+          "doi-asserted-by": "crossref",
+          "first-page": "566",
+          "DOI": "10.1111/j.1468-0432.2004.00248.x",
+          "article-title": "En-trusting appraisal to the trust",
+          "volume": "11",
+          "author": "Coates",
+          "year": "2004",
+          "journal-title": "Gend. Work. Organ."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib14",
+          "first-page": "1",
+          "article-title": "The investigation of the relationship between performance and potential in appraisal of managers in public sector",
+          "volume": "46",
+          "author": "Mert",
+          "year": "2013",
+          "journal-title": "Amme Idaresi Derg."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib16",
+          "series-title": "Talent Identification and Development: a Management Control Perspective",
+          "author": "Künneke",
+          "year": "2017"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib17",
+          "author": "Fernández-Aráoz"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib18",
+          "first-page": "379",
+          "article-title": "A chief HR officer's perspective on talent management",
+          "volume": "4",
+          "author": "Alziari",
+          "year": "2017",
+          "journal-title": "J. Organ. Eff. People Perform."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.heliyon.2023.e14694_bib19",
+          "first-page": "142",
+          "article-title": "Enduring ideas: the GE-McKinsey nine-box matrix",
+          "volume": "4",
+          "author": "Coyne",
+          "year": "2008",
+          "journal-title": "McKinsey Q."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib20",
+          "author": "Zuech"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib21",
+          "author": "Goasduff"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib22",
+          "article-title": "Detecting fake news and disinformation using artificial intelligence and machine learning to avoid supply chain disruptions",
+          "author": "Akhtar",
+          "year": "2022",
+          "journal-title": "Ann. Oper. Res., Nov."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib23",
+          "series-title": "Proceedings of the International Conference on Electronic Business",
+          "first-page": "106",
+          "article-title": "A conceptual artificial intelligence application framework in human resource management",
+          "author": "Jia",
+          "year": "2018"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib24",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial intelligence in human resources management: challenges and a path forward",
+          "volume": "61",
+          "author": "Tambe",
+          "year": "2019",
+          "journal-title": "Calif. Manag. Rev."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib25",
+          "first-page": "331",
+          "article-title": "Adoption of artificial intelligence in human resource management: a conceptual model",
+          "volume": "57",
+          "author": "Kaur",
+          "year": "2021",
+          "journal-title": "Indian J. Ind. Relat."
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.heliyon.2023.e14694_bib26",
+          "doi-asserted-by": "crossref",
+          "first-page": "2599",
+          "DOI": "10.1108/BIJ-04-2020-0186",
+          "article-title": "Adoption of artificial intelligence (AI) for talent acquisition in IT/ITeS organisations",
+          "volume": "27",
+          "author": "Pillai",
+          "year": "2020",
+          "journal-title": "Benchmark Int. J."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib27",
+          "first-page": "1",
+          "article-title": "Can HR adapt to the paradoxes of artificial intelligence?",
+          "author": "Charlwood",
+          "year": "2022",
+          "journal-title": "Hum. Resour. Manag. J."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib28",
+          "series-title": "Leading Organisations: Ten Timeless Truths",
+          "author": "Keller",
+          "year": "2017"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib29",
+          "first-page": "20",
+          "volume": "vol. 6",
+          "author": "Yawalkar",
+          "year": "2019"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib30",
+          "first-page": "707",
+          "article-title": "International journal of economics, commerce and management United Kingdom grasping the cyber-world: artificial intelligence and human capital meet to inform leadership",
+          "volume": "VII",
+          "author": "Burton",
+          "year": "2019",
+          "journal-title": "Int. J. Commer. Manag."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.heliyon.2023.e14694_bib31",
+          "doi-asserted-by": "crossref",
+          "first-page": "1237",
+          "DOI": "10.1080/09585192.2020.1871398",
+          "article-title": "Artificial intelligence, robotics, advanced technologies and human resource management: a systematic review",
+          "volume": "33",
+          "author": "Vrontis",
+          "year": "2022",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib32",
+          "series-title": "Correlation between Entrepreneurial Orientation and Implementation of AI in Human Resources Management (HRM)",
+          "author": "Baldegger",
+          "year": "2020"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.heliyon.2023.e14694_bib33",
+          "doi-asserted-by": "crossref",
+          "first-page": "970",
+          "DOI": "10.1108/MRR-03-2020-0168",
+          "article-title": "Evolving uses of artificial intelligence in human resource management in emerging economies in the global South: Some preliminary evidence",
+          "volume": "44",
+          "author": "Kshetri",
+          "year": "2021",
+          "journal-title": "Management Research Review"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib34",
+          "doi-asserted-by": "crossref",
+          "first-page": "819",
+          "DOI": "10.1111/1748-8583.12343",
+          "article-title": "Leading through paradox in a COVID-19 world: human resources comes of age",
+          "volume": "31",
+          "author": "Collings",
+          "year": "2021",
+          "journal-title": "Hum. Resour. Manag. J."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib35",
+          "article-title": "Artificial intelligence in organisations: current state and future opportunities",
+          "volume": "19",
+          "author": "Benbya",
+          "year": "2020",
+          "journal-title": "MIS Q. Exec."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib36",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.patter.2021.100205",
+          "article-title": "Algorithmic injustice: a relational ethics approach",
+          "volume": "2",
+          "author": "Birhane",
+          "year": "2021",
+          "journal-title": "Patterns"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib37",
+          "author": "Thomas"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib38",
+          "author": "Ready"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib39",
+          "doi-asserted-by": "crossref",
+          "first-page": "298",
+          "DOI": "10.1080/01969722.2021.1983701",
+          "article-title": "AI predicted competency model to maximise job performance",
+          "volume": "53",
+          "author": "Chen",
+          "year": "2022",
+          "journal-title": "Cybern. Syst."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib40",
+          "article-title": "Artificial intelligence in information systems research: a systematic literature review and research agenda",
+          "volume": "60",
+          "author": "Collins",
+          "year": "2021",
+          "journal-title": "Int. J. Inf. Manag."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib41",
+          "author": "Brynjolfsson"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.heliyon.2023.e14694_bib42",
+          "doi-asserted-by": "crossref",
+          "first-page": "1738",
+          "DOI": "10.1108/IJOEM-08-2021-1214",
+          "article-title": "Reinforcing customer journey through artificial intelligence: a review and research agenda",
+          "volume": "17",
+          "author": "Rana",
+          "year": "2022",
+          "journal-title": "International Journal of Emerging Markets"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib43",
+          "doi-asserted-by": "crossref",
+          "first-page": "220121",
+          "DOI": "10.1109/ACCESS.2020.3042874",
+          "article-title": "Industrial artificial intelligence in industry 4.0 - systematic review, challenges and outlook",
+          "volume": "8",
+          "author": "Peres",
+          "year": "2020",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.heliyon.2023.e14694_bib44",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.heliyon.2018.e00938",
+          "article-title": "State-of-the-art in artificial neural network applications: a survey",
+          "volume": "4",
+          "author": "Abiodun",
+          "year": "2018",
+          "journal-title": "Heliyon"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib45",
+          "author": "Bersin"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib46",
+          "series-title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies that Evaluate Health Care Interventions: Explanation and Elaboration",
+          "author": "Liberati",
+          "year": "2009"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib47",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.7326/0003-4819-151-4-200908180-00135",
+          "article-title": "Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement",
+          "volume": "151",
+          "author": "Moher",
+          "year": "2009",
+          "journal-title": "Ann. Intern. Med."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib48",
+          "series-title": "Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering",
+          "first-page": "1",
+          "article-title": "Guidelines for snowballing in systematic literature studies and a replication in software engineering",
+          "author": "Wohlin",
+          "year": "2014"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib49",
+          "first-page": "7",
+          "article-title": "Rigorous systematic bibliography",
+          "author": "Bates",
+          "year": "1976",
+          "journal-title": "RQ"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.heliyon.2023.e14694_bib50",
+          "doi-asserted-by": "crossref",
+          "first-page": "591",
+          "DOI": "10.1016/j.jwb.2017.05.003",
+          "article-title": "How global is international CSR research? Insights and recommendations from a systematic review",
+          "volume": "52",
+          "author": "Pisani",
+          "year": "2017",
+          "journal-title": "J. World Bus."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib51",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.jclepro.2022.133621",
+          "article-title": "Industry 4.0 and circular economy in an era of global value chains: what have we learned and what is still to be explored?",
+          "author": "Awan",
+          "year": "2022",
+          "journal-title": "J. Clean. Prod."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib52",
+          "first-page": "63",
+          "article-title": "Artificial intelligence for decision making in the era of Big Data–evolution, challenges and research agenda",
+          "volume": "48",
+          "author": "Duan",
+          "year": "2019",
+          "journal-title": "Int. J. Inf. Manag."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib53",
+          "doi-asserted-by": "crossref",
+          "first-page": "396",
+          "DOI": "10.9734/BJAST/2015/14975",
+          "article-title": "Likert scale: explored and explained",
+          "volume": "7",
+          "author": "Joshi",
+          "year": "2015",
+          "journal-title": "Br. J. Appl. Sci. Technol."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib54",
+          "first-page": "1",
+          "article-title": "Ethics of AI-enabled recruiting and selection: a review and research agenda",
+          "author": "Hunkenschroer",
+          "year": "2022",
+          "journal-title": "J. Bus. Ethics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib55",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.5195/emaj.2021.226",
+          "article-title": "Measurement of employees on human resources with fuzzy logic",
+          "volume": "11",
+          "author": "Demirel",
+          "year": "2021",
+          "journal-title": "EMAJ Emerg. Mark. J."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib56",
+          "series-title": "2021 International Conference on Decision Aid Sciences and Application (DASA)",
+          "first-page": "288",
+          "article-title": "HR analytics and artificial intelligence-transforming human resource management",
+          "author": "Arora",
+          "year": "2021"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.heliyon.2023.e14694_bib57",
+          "doi-asserted-by": "crossref",
+          "first-page": "2592",
+          "DOI": "10.1080/09585192.2021.1886149",
+          "article-title": "Digitalised talent management and automated talent decisions: the implications for HR professionals",
+          "volume": "32",
+          "author": "Wiblen",
+          "year": "2021",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib58",
+          "first-page": "5",
+          "article-title": "Analysis of talent management in the artificial intelligence era",
+          "volume": "167",
+          "author": "Liu",
+          "year": "2021",
+          "journal-title": "Bus. Manag. Res."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib59",
+          "doi-asserted-by": "crossref",
+          "first-page": "513",
+          "DOI": "10.1016/j.bushor.2021.02.015",
+          "article-title": "AI-enabled recruiting in the war for talent",
+          "volume": "64",
+          "author": "Black",
+          "year": "2021",
+          "journal-title": "Bus. Horiz."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib60",
+          "doi-asserted-by": "crossref",
+          "first-page": "465",
+          "DOI": "10.1016/j.bushor.2021.02.011",
+          "article-title": "Will AI ever sit at the C-suite table? The future of senior leadership",
+          "volume": "64",
+          "author": "Watson",
+          "year": "2021",
+          "journal-title": "Bus. Horiz."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib61",
+          "doi-asserted-by": "crossref",
+          "first-page": "1557",
+          "DOI": "10.25300/MISQ/2021/16559",
+          "article-title": "When the machine meets the expert: an ethnography of developing AI for hiring",
+          "volume": "45",
+          "author": "van den Broek",
+          "year": "2021",
+          "journal-title": "MIS Q."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib62",
+          "first-page": "N.PAG",
+          "article-title": "The strategic use of artificial intelligence in the digital era: systematic literature review and future research directions",
+          "volume": "57",
+          "author": "Borges",
+          "year": "2021",
+          "journal-title": "Int. J. Inf. Manag."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib63",
+          "first-page": "100857",
+          "article-title": "A systematic literature review on the impact of artificial intelligence on workplace outcomes: a multi-process perspective",
+          "author": "Pereira",
+          "year": "2021",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.heliyon.2023.e14694_bib64",
+          "doi-asserted-by": "crossref",
+          "first-page": "2545",
+          "DOI": "10.1080/09585192.2021.1925326",
+          "article-title": "Algorithmic human resource management: synthesising developments and cross-disciplinary insights on digital HRM",
+          "volume": "32",
+          "author": "Meijerink",
+          "year": "2021",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "issue": "289",
+          "key": "10.1016/j.heliyon.2023.e14694_bib65",
+          "first-page": "25",
+          "article-title": "An analysis of the literature about the application of artificial intelligence to the recruitment and personnel selection",
+          "volume": "68",
+          "author": "Rezzani",
+          "year": "2020",
+          "journal-title": "BPA - Appl. Psychol. Bull. Boll. Psicol. Appl."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib66",
+          "doi-asserted-by": "crossref",
+          "first-page": "178",
+          "DOI": "10.18662/brain/11.2/81",
+          "article-title": "A novel fuzzy scoring approach of behavioural interviews in personnel selection",
+          "volume": "11",
+          "author": "Rad",
+          "year": "2020",
+          "journal-title": "BRAIN Broad Res. Artif. Intell. Neurosci."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib67",
+          "doi-asserted-by": "crossref",
+          "first-page": "N.PAG",
+          "DOI": "10.1016/j.cie.2020.106463",
+          "article-title": "Industrial human resource management optimisation based on skills and characteristics",
+          "volume": "144",
+          "author": "Lee",
+          "year": "2020",
+          "journal-title": "Comput. Ind. Eng."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.heliyon.2023.e14694_bib68",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.5465/AMBPP.2020.16889abstract",
+          "article-title": "A framework for fairer Machine Learning in organisations",
+          "volume": "2020",
+          "author": "Teodorescu",
+          "year": "2020",
+          "journal-title": "Acad. Manag. Proc."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib69",
+          "series-title": "2019 Int. Conf. Digit. ICD",
+          "first-page": "8",
+          "article-title": "Absolute answerability in the era of artificial intelligence and machine learning: a talent management perspective",
+          "author": "Dsouza",
+          "year": "2019"
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib70",
+          "series-title": "2019 International Conference on Information and Communications Technology (ICOIACT), Yogyakarta, Indonesia",
+          "first-page": "388",
+          "article-title": "Classification talent of employee using C4.5, KNN, SVM",
+          "author": "Stephanie",
+          "year": "2019"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.heliyon.2023.e14694_bib71",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1108/IJPPM-08-2017-0212",
+          "article-title": "Can artificial neural networks predict lawyers' performance rankings?",
+          "volume": "67",
+          "author": "Lopes",
+          "year": "2018",
+          "journal-title": "Int. J. Prod. Perform. Manag."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib72",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.1016/j.cobeha.2017.04.007",
+          "article-title": "The datafication of talent: how technology is advancing the science of human potential at work",
+          "volume": "18",
+          "author": "Chamorro-Premuzic",
+          "year": "2017",
+          "journal-title": "Curr. Opin. Behav. Sci."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib73",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1016/j.cie.2014.09.015",
+          "article-title": "Talent management in manufacturing system using fuzzy logic approach",
+          "volume": "86",
+          "author": "Karatop",
+          "year": "2015",
+          "journal-title": "Comput. Ind. Eng."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib74",
+          "first-page": "1",
+          "article-title": "Legal and ethical challenges for HR in machine learning",
+          "author": "Hamilton",
+          "year": "2021",
+          "journal-title": "Empl. Responsib. Rights J."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib75",
+          "first-page": "N.PAG",
+          "article-title": "Legal perspective on possible fairness measures – a legal discussion using the example of hiring decisions",
+          "volume": "42",
+          "author": "Hauer",
+          "year": "2021",
+          "journal-title": "Comput. Law Secur. Rep."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.heliyon.2023.e14694_bib76",
+          "first-page": "289",
+          "article-title": "Artificial intelligence and the challenges of workplace discrimination and privacy",
+          "volume": "35",
+          "author": "Kim",
+          "year": "2021",
+          "journal-title": "ABA J. Lab. Employ. Law"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib77",
+          "first-page": "N.PAG",
+          "article-title": "Disrupted HR?",
+          "volume": "31",
+          "author": "Minbaeva",
+          "year": "2021",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "issue": "5/6",
+          "key": "10.1016/j.heliyon.2023.e14694_bib78",
+          "doi-asserted-by": "crossref",
+          "first-page": "545",
+          "DOI": "10.1080/07370024.2020.1735391",
+          "article-title": "Designing fair AI for managing employees in organisations: a review, critique, and design agenda",
+          "volume": "35",
+          "author": "Robert",
+          "year": "2020",
+          "journal-title": "Hum. Comput. Interact."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib79",
+          "doi-asserted-by": "crossref",
+          "first-page": "399",
+          "DOI": "10.1111/ijsa.12306",
+          "article-title": "Justice perceptions of artificial intelligence in selection",
+          "volume": "28",
+          "author": "Acikgoz",
+          "year": "2020",
+          "journal-title": "Int. J. Sel. Assess."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.heliyon.2023.e14694_bib80",
+          "doi-asserted-by": "crossref",
+          "first-page": "1381",
+          "DOI": "10.1002/smj.3152",
+          "article-title": "Machine learning and human capital complementarities: experimental evidence on bias mitigation",
+          "volume": "41",
+          "author": "Choudhury",
+          "year": "2020",
+          "journal-title": "Strat. Manag. J."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib81",
+          "doi-asserted-by": "crossref",
+          "first-page": "849",
+          "DOI": "10.1007/s10997-019-09493-x",
+          "article-title": "What do we loose when machines take the decisions?",
+          "volume": "23",
+          "author": "Bolander",
+          "year": "2019",
+          "journal-title": "J. Manag. Govern."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib82",
+          "doi-asserted-by": "crossref",
+          "first-page": "285",
+          "DOI": "10.1016/j.jbusres.2021.04.070",
+          "article-title": "How to conduct a bibliometric analysis: an overview and guidelines",
+          "volume": "133",
+          "author": "Donthu",
+          "year": "2021",
+          "journal-title": "J. Bus. Res."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib83",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1177/0165551520958591",
+          "article-title": "Factors influencing researchers' journal selection decisions",
+          "volume": "48",
+          "author": "Rowley",
+          "year": "2022",
+          "journal-title": "J. Inf. Sci."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib84",
+          "doi-asserted-by": "crossref",
+          "first-page": "1273",
+          "DOI": "10.1007/s11192-015-1821-1",
+          "article-title": "The probability of publishing in first-quartile journals",
+          "volume": "106",
+          "author": "Liu",
+          "year": "2016",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.heliyon.2023.e14694_bib85",
+          "doi-asserted-by": "crossref",
+          "first-page": "379",
+          "DOI": "10.1016/j.joi.2010.03.002",
+          "article-title": "A new approach to the metric of journals' scientific prestige: the SJR indicator",
+          "volume": "4",
+          "author": "González-Pereira",
+          "year": "2010",
+          "journal-title": "J. Informetr."
+        },
+        {
+          "key": "10.1016/j.heliyon.2023.e14694_bib86",
+          "doi-asserted-by": "crossref",
+          "first-page": "351",
+          "DOI": "10.1590/S1807-59322010000400001",
+          "article-title": "Impact factor, scimago indexes and the brazilian journal rating system: where do we go from here?",
+          "volume": "65",
+          "author": "Rocha-e-Silva",
+          "year": "2010",
+          "journal-title": "Clinics"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.heliyon.2023.e14694_bib87",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1007/s11192-021-04195-4",
+          "article-title": "Introducing a bibliometric index based on factor analysis",
+          "volume": "127",
+          "author": "Valderrama",
+          "year": "2022",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "46",
+          "key": "10.1016/j.heliyon.2023.e14694_bib88",
+          "doi-asserted-by": "crossref",
+          "first-page": "16569",
+          "DOI": "10.1073/pnas.0507655102",
+          "article-title": "An index to quantify an individual's scientific research output",
+          "volume": "102",
+          "author": "Hirsch",
+          "year": "2005",
+          "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.heliyon.2023.e14694_bib89",
+          "doi-asserted-by": "crossref",
+          "first-page": "830",
+          "DOI": "10.1002/asi.20806",
+          "article-title": "Are there better indices for evaluation purposes than the h index? A comparison of nine different variants of the h index using data from biomedicine",
+          "volume": "59",
+          "author": "Bornmann",
+          "year": "2008",
+          "journal-title": "J. Am. Soc. Inf. Sci. Technol."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.heliyon.2023.e14694_bib90",
+          "doi-asserted-by": "crossref",
+          "first-page": "674",
+          "DOI": "10.1016/j.joi.2012.07.001",
+          "article-title": "A further step forward in measuring journals' scientific prestige: the SJR2 indicator",
+          "volume": "6",
+          "author": "Guerrero-Bote",
+          "year": "2012",
+          "journal-title": "J. Informetr."
+        }
+      ],
+      "container-title": [
+        "Heliyon"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2405844023019011?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2405844023019011?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            12
+          ]
+        ],
+        "date-time": "2026-05-12T14:53:35Z",
+        "timestamp": 1778597615000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2405844023019011"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "references-count": 89,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              4
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S2405844023019011"
+      ],
+      "URL": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+      "relation": {},
+      "ISSN": [
+        "2405-8440"
+      ],
+      "issn-type": [
+        {
+          "value": "2405-8440",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            4
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Artificial intelligence applied to potential assessment and talent identification in an organisational context",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Heliyon",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.heliyon.2023.e14694",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2023 The Authors. Published by Elsevier Ltd.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "e14694"
+    }
+  }
+}

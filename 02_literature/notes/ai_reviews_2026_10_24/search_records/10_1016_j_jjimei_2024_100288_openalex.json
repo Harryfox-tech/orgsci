@@ -1,0 +1,1023 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.jjimei.2024.100288",
+    "checked_at": "2026-10-24T02:10:18.701343Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4402540020",
+    "doi": "https://doi.org/10.1016/j.jjimei.2024.100288",
+    "title": "Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review",
+    "display_name": "Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review",
+    "publication_year": 2024,
+    "publication_date": "2024-09-14",
+    "ids": {
+      "openalex": "https://openalex.org/W4402540020",
+      "doi": "https://doi.org/10.1016/j.jjimei.2024.100288"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.jjimei.2024.100288",
+      "doi": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210226089",
+        "display_name": "International Journal of Information Management Data Insights",
+        "issn_l": "2667-0968",
+        "issn": [
+          "2667-0968"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1",
+          "poland-20"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Information Management Data Insights",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref",
+      "doaj"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5107200998",
+          "display_name": "Natalia Tusquellas",
+          "orcid": "https://orcid.org/0009-0003-5471-0526",
+          "observed_orcids": [
+            "https://orcid.org/0009-0003-5471-0526"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I55952717",
+            "display_name": "Universitat Rovira i Virgili",
+            "ror": "https://ror.org/00g5sqv46",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55952717"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Natalia Tusquellas",
+        "raw_affiliation_strings": [
+          "Campus Sescelades, Universitat Rovira i Virgili, Tarragona 43007, Spain"
+        ],
+        "raw_orcid": "https://orcid.org/0009-0003-5471-0526",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Campus Sescelades, Universitat Rovira i Virgili, Tarragona 43007, Spain",
+            "institution_ids": [
+              "https://openalex.org/I55952717"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5028051095",
+          "display_name": "Ramón Palau",
+          "orcid": "https://orcid.org/0000-0002-9843-3116",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9843-3116"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I55952717",
+            "display_name": "Universitat Rovira i Virgili",
+            "ror": "https://ror.org/00g5sqv46",
+            "country_code": "ES",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I55952717"
+            ]
+          }
+        ],
+        "countries": [
+          "ES"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Ramon Palau",
+        "raw_affiliation_strings": [
+          "Campus Sescelades, Universitat Rovira i Virgili, Tarragona 43007, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Campus Sescelades, Universitat Rovira i Virgili, Tarragona 43007, Spain",
+            "institution_ids": [
+              "https://openalex.org/I55952717"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": null,
+          "display_name": "Raúl Santiago",
+          "orcid": null,
+          "observed_orcids": []
+        },
+        "institutions": [],
+        "countries": [],
+        "is_corresponding": false,
+        "raw_author_name": "Raúl Santiago",
+        "raw_affiliation_strings": [
+          "3PBiovian, Navarra 31110, Spain"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "3PBiovian, Navarra 31110, Spain",
+            "institution_ids": []
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 1,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5107200998"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I55952717"
+    ],
+    "apc_list": {
+      "value": 1840,
+      "currency": "USD",
+      "value_usd": 1840
+    },
+    "apc_paid": {
+      "value": 1840,
+      "currency": "USD",
+      "value_usd": 1840
+    },
+    "fwci": 7.9022,
+    "has_fulltext": false,
+    "cited_by_count": 63,
+    "citation_normalized_percentile": {
+      "value": 0.97830375,
+      "is_in_top_1_percent": false,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 96,
+      "max": 100
+    },
+    "biblio": {
+      "volume": "4",
+      "issue": "2",
+      "first_page": "100288",
+      "last_page": "100288"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T14414",
+        "display_name": "Artificial Intelligence in Education",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T13904",
+        "display_name": "Artificial Intelligence Applications",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/artificial-intelligence",
+        "display_name": "artificial intelligence",
+        "score": 0.9470000267028809
+      },
+      {
+        "id": "https://openalex.org/keywords/professional-development",
+        "display_name": "professional development",
+        "score": 0.9480000138282776
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-management",
+        "display_name": "talent management",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/corporate-training",
+        "display_name": "corporate training",
+        "score": 0.9919999837875366
+      },
+      {
+        "id": "https://openalex.org/keywords/personalized-learning",
+        "display_name": "personalized learning",
+        "score": 0.6930000185966492
+      },
+      {
+        "id": "https://openalex.org/keywords/recruitment",
+        "display_name": "recruitment",
+        "score": 0.47099998593330383
+      },
+      {
+        "id": "https://openalex.org/keywords/talent-retention",
+        "display_name": "talent retention",
+        "score": 0.824999988079071
+      },
+      {
+        "id": "https://openalex.org/keywords/attrition-prediction",
+        "display_name": "attrition prediction",
+        "score": 0.9589999914169312
+      },
+      {
+        "id": "https://openalex.org/keywords/skill-assessment",
+        "display_name": "skill assessment",
+        "score": 0.5360000133514404
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-bias",
+        "display_name": "algorithmic bias",
+        "score": 0.8579999804496765
+      },
+      {
+        "id": "https://openalex.org/keywords/workforce-skills-development",
+        "display_name": "workforce skills development",
+        "score": 0.5049999952316284
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C55587333",
+        "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+        "display_name": "Engineering ethics",
+        "level": 1,
+        "score": 0.4538328945636749
+      },
+      {
+        "id": "https://openalex.org/C15744967",
+        "wikidata": "https://www.wikidata.org/wiki/Q9418",
+        "display_name": "Psychology",
+        "level": 0,
+        "score": 0.362465500831604
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.35723328590393066
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.3460415303707123
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.jjimei.2024.100288",
+        "doi": "https://doi.org/10.1016/j.jjimei.2024.100288",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jjimei.2024.100288",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210226089",
+          "display_name": "International Journal of Information Management Data Insights",
+          "issn_l": "2667-0968",
+          "issn": [
+            "2667-0968"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1",
+            "poland-20"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Information Management Data Insights",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:faa6f57033e04addae6a157239780ca2",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://doaj.org/article/faa6f57033e04addae6a157239780ca2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-sa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "International Journal of Information Management Data Insights, Vol 4, Iss 2, Pp 100288- (2024)",
+        "raw_type": "article"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.jjimei.2024.100288",
+      "doi": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jjimei.2024.100288",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210226089",
+        "display_name": "International Journal of Information Management Data Insights",
+        "issn_l": "2667-0968",
+        "issn": [
+          "2667-0968"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "listed_in": [
+          "cwts-core",
+          "doaj",
+          "jufo-1",
+          "norway-1",
+          "poland-20"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Information Management Data Insights",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [],
+    "sustainable_development_goals_aurora": [],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      }
+    ],
+    "awards": [],
+    "funders": [],
+    "has_content": {
+      "grobid_xml": false,
+      "pdf": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 50,
+    "referenced_works": [
+      "https://openalex.org/W43382659",
+      "https://openalex.org/W639717552",
+      "https://openalex.org/W2013975297",
+      "https://openalex.org/W2130457211",
+      "https://openalex.org/W2317528277",
+      "https://openalex.org/W2331558087",
+      "https://openalex.org/W2963497020",
+      "https://openalex.org/W3005050889",
+      "https://openalex.org/W3024362711",
+      "https://openalex.org/W3034071060",
+      "https://openalex.org/W3042951649",
+      "https://openalex.org/W3082814628",
+      "https://openalex.org/W3114697749",
+      "https://openalex.org/W3136813641",
+      "https://openalex.org/W3148962211",
+      "https://openalex.org/W3173865241",
+      "https://openalex.org/W3196049341",
+      "https://openalex.org/W3216116318",
+      "https://openalex.org/W3216241100",
+      "https://openalex.org/W3216882927",
+      "https://openalex.org/W4206346145",
+      "https://openalex.org/W4206568301",
+      "https://openalex.org/W4213424378",
+      "https://openalex.org/W4286634155",
+      "https://openalex.org/W4293201989",
+      "https://openalex.org/W4293252102",
+      "https://openalex.org/W4296230918",
+      "https://openalex.org/W4300821084",
+      "https://openalex.org/W4308917458",
+      "https://openalex.org/W4310044444",
+      "https://openalex.org/W4310239139",
+      "https://openalex.org/W4313408230",
+      "https://openalex.org/W4313550453",
+      "https://openalex.org/W4316171009",
+      "https://openalex.org/W4318316058",
+      "https://openalex.org/W4318567115",
+      "https://openalex.org/W4319014638",
+      "https://openalex.org/W4321506460",
+      "https://openalex.org/W4353050783",
+      "https://openalex.org/W4367294548",
+      "https://openalex.org/W4377042012",
+      "https://openalex.org/W4386970119",
+      "https://openalex.org/W4386970189",
+      "https://openalex.org/W4387060075",
+      "https://openalex.org/W4387812225",
+      "https://openalex.org/W4390171501",
+      "https://openalex.org/W4396701291",
+      "https://openalex.org/W4399578091",
+      "https://openalex.org/W4401313483",
+      "https://openalex.org/W4409152208"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2931662336",
+      "https://openalex.org/W2077865380",
+      "https://openalex.org/W4401768695",
+      "https://openalex.org/W2765597752",
+      "https://openalex.org/W2134894512",
+      "https://openalex.org/W2083375246",
+      "https://openalex.org/W2067108088",
+      "https://openalex.org/W2085372204"
+    ],
+    "abstract_inverted_index": {
+      "•": [
+        0,
+        12,
+        23,
+        34
+      ],
+      "AI": [
+        1,
+        13,
+        97,
+        113
+      ],
+      "tools": [
+        2
+      ],
+      "personalise": [
+        3
+      ],
+      "learning,": [
+        4
+      ],
+      "generate": [
+        5
+      ],
+      "training": [
+        6,
+        26,
+        124,
+        133
+      ],
+      "paths": [
+        7
+      ],
+      "and": [
+        8,
+        17,
+        32,
+        63,
+        103,
+        125,
+        128,
+        138,
+        141,
+        165,
+        187
+      ],
+      "offer": [
+        9
+      ],
+      "immediate": [
+        10
+      ],
+      "feedback.": [
+        11
+      ],
+      "identifies": [
+        14
+      ],
+      "skills,": [
+        15
+      ],
+      "strengths,": [
+        16
+      ],
+      "weaknesses": [
+        18
+      ],
+      "to": [
+        19,
+        29,
+        52,
+        117,
+        121,
+        130,
+        135,
+        142
+      ],
+      "plan": [
+        20
+      ],
+      "quality": [
+        21
+      ],
+      "training.": [
+        22,
+        75
+      ],
+      "Early": [
+        24
+      ],
+      "model": [
+        25
+      ],
+      "requires": [
+        27
+      ],
+      "attention": [
+        28
+      ],
+      "prevent": [
+        30
+      ],
+      "errors": [
+        31
+      ],
+      "biases.": [
+        33
+      ],
+      "There": [
+        35
+      ],
+      "is": [
+        36,
+        114,
+        155
+      ],
+      "a": [
+        37,
+        71,
+        79,
+        156
+      ],
+      "need": [
+        38,
+        157
+      ],
+      "for": [
+        39,
+        158
+      ],
+      "automated": [
+        40,
+        159
+      ],
+      "talent": [
+        41,
+        64,
+        137,
+        160,
+        167
+      ],
+      "management": [
+        42,
+        65,
+        161
+      ],
+      "processes": [
+        43,
+        162
+      ],
+      "within": [
+        44,
+        66,
+        163
+      ],
+      "companies.": [
+        45
+      ],
+      "The": [
+        46,
+        109
+      ],
+      "aim": [
+        47
+      ],
+      "of": [
+        48,
+        57,
+        78,
+        96,
+        185
+      ],
+      "this": [
+        49,
+        90,
+        177
+      ],
+      "paper": [
+        50,
+        91
+      ],
+      "was": [
+        51
+      ],
+      "analyse": [
+        53
+      ],
+      "the": [
+        54,
+        67,
+        85,
+        93,
+        100,
+        175,
+        183
+      ],
+      "current": [
+        55,
+        94
+      ],
+      "applications": [
+        56,
+        95
+      ],
+      "Artificial": [
+        58
+      ],
+      "Intelligence": [
+        59
+      ],
+      "in": [
+        60
+      ],
+      "professional": [
+        61
+      ],
+      "development": [
+        62,
+        126,
+        147
+      ],
+      "corporate": [
+        68,
+        74
+      ],
+      "world": [
+        69
+      ],
+      "with": [
+        70,
+        99,
+        106,
+        173
+      ],
+      "focus": [
+        72
+      ],
+      "on": [
+        73,
+        84
+      ],
+      "By": [
+        76
+      ],
+      "means": [
+        77
+      ],
+      "Systematic": [
+        80
+      ],
+      "Literature": [
+        81
+      ],
+      "Review": [
+        82
+      ],
+      "based": [
+        83
+      ],
+      "PRISMA": [
+        86
+      ],
+      "2020": [
+        87
+      ],
+      "reporting": [
+        88
+      ],
+      "criteria": [
+        89
+      ],
+      "highlights": [
+        92
+      ],
+      "along": [
+        98,
+        172
+      ],
+      "main": [
+        101
+      ],
+      "benefits": [
+        102
+      ],
+      "drawbacks": [
+        104
+      ],
+      "associated": [
+        105
+      ],
+      "its": [
+        107
+      ],
+      "implementation.": [
+        108
+      ],
+      "findings": [
+        110
+      ],
+      "show": [
+        111
+      ],
+      "that": [
+        112,
+        153,
+        166
+      ],
+      "being": [
+        115
+      ],
+      "used": [
+        116
+      ],
+      "enhance": [
+        118
+      ],
+      "recruitment": [
+        119
+      ],
+      "processes,": [
+        120
+      ],
+      "identify": [
+        122
+      ],
+      "individual": [
+        123
+      ],
+      "skills": [
+        127,
+        146
+      ],
+      "needs,": [
+        129
+      ],
+      "develop": [
+        131
+      ],
+      "personalised": [
+        132
+      ],
+      "paths,": [
+        134
+      ],
+      "retain": [
+        136
+      ],
+      "predict": [
+        139
+      ],
+      "attrition,": [
+        140
+      ],
+      "detect": [
+        143
+      ],
+      "future": [
+        144
+      ],
+      "workforce": [
+        145
+      ],
+      "needs.": [
+        148
+      ],
+      "It": [
+        149
+      ],
+      "has": [
+        150
+      ],
+      "been": [
+        151
+      ],
+      "outlined": [
+        152
+      ],
+      "there": [
+        154
+      ],
+      "companies": [
+        164
+      ],
+      "intelligence": [
+        168
+      ],
+      "should": [
+        169
+      ],
+      "be": [
+        170
+      ],
+      "implemented": [
+        171
+      ],
+      "facing": [
+        174
+      ],
+      "challenges": [
+        176
+      ],
+      "will": [
+        178
+      ],
+      "entail,": [
+        179
+      ],
+      "such": [
+        180
+      ],
+      "as": [
+        181
+      ],
+      "minimising": [
+        182
+      ],
+      "risk": [
+        184
+      ],
+      "bias": [
+        186
+      ],
+      "hiring": [
+        188
+      ],
+      "high-skilled": [
+        189
+      ],
+      "qualified": [
+        190
+      ],
+      "personnel.": [
+        191
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 34
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 26
+      },
+      {
+        "year": 2024,
+        "cited_by_count": 3
+      }
+    ],
+    "updated_date": "2026-10-18T09:31:52.927876",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

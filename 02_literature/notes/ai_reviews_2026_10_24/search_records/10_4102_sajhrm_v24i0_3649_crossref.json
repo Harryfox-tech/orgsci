@@ -1,0 +1,810 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+    "checked_at": "2026-10-24T02:10:11.997677Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2026-10-12T09:50:19Z",
+        "timestamp": 1791798619120,
+        "version": "4.3.4"
+      },
+      "reference-count": 102,
+      "publisher": "AOSIS",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                14
+              ]
+            ],
+            "date-time": "2026-10-14T00:00:00Z",
+            "timestamp": 1791936000000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "abstract": "<jats:p>Orientation: Digital technologies, particularly artificial intelligence (AI), are rapidly transforming human resource functions by enhancing the efficiency and effectiveness of human resource practices.\nResearch purpose: This systematic review examines the factors that facilitate the integration of AI into global talent management (GTM) and explores how these factors collectively inform theory on technology-enabled talent management systems.\nMotivation for the study: Research on the use of AI in GTM remains limited, and its theoretical implications are not yet well established.\nResearch approach/design and method: A systematic literature review was conducted in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses extension for Scoping Reviews framework. The review encompassed eight databases (Google Scholar, Scopus, Web of Science, ScienceDirect, ProQuest, Emerald Insight, Sabinet and Elsevier) using a comprehensive and structured search strategy. Peer-reviewed journal articles published between 2020 and 2025 were screened. Twenty-three empirical studies meeting the inclusion criteria were subjected to full-text analysis.\nMain findings: The analysis revealed that AI integration into GTM is influenced by several interconnected enablers, including the strategic alignment of AI with talent objectives, adequate capabilities and digital infrastructure, ethical and governance frameworks and organisational readiness for implementation.\nPractical/managerial implications: Human resources practitioners and policymakers should adopt a systemic, integrative approach that aligns AI tools with organisational talent objectives.\nContribution/value-add: This review advances theoretical discourse by integrating fragmented evidence into a cohesive understanding of the conditions that support AI-driven GTM. It offers a conceptual foundation for future research seeking to build theory at the intersection of AI, GTM and strategic human resource management.</jats:p>",
+      "DOI": "10.4102/sajhrm.v24i0.3649",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2026-10-12T09:31:35Z",
+        "timestamp": 1791797495000
+      },
+      "update-policy": "https://doi.org/10.4102/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Factors that facilitate artificial intelligence integration into global talent management: A systematic review"
+      ],
+      "prefix": "10.4102",
+      "volume": "24",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9208-4640",
+          "authenticated-orcid": false,
+          "given": "Godfrey",
+          "family": "Maake",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/037mrss42",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Tshwane University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7048-7892",
+          "authenticated-orcid": false,
+          "given": "Cecilia M.",
+          "family": "Schultz",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/037mrss42",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Tshwane University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9932-0543",
+          "authenticated-orcid": false,
+          "given": "Adele",
+          "family": "Bezuidenhout",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/03ykbk197",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "University of Portsmouth"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3884-4682",
+          "authenticated-orcid": false,
+          "given": "Pieter K.",
+          "family": "Smit",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "id": [
+                {
+                  "id": "https://ror.org/037mrss42",
+                  "id-type": "ROR",
+                  "asserted-by": "publisher"
+                }
+              ],
+              "name": "Tshwane University of Technology"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "2580",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref0",
+          "unstructured": "Adewunmi, O. (2024). Technology and tools for effective global talent management. Iconic Research and Engineering Journals, 8(6), 934–945."
+        },
+        {
+          "key": "ref1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Agnihotri, A., Grover, V., Balusamy, B., Gite, S., Arockiam, D., & Shankar, A. (2024). Utilizing the potential of AI to revolutionize talent management in contemporary organizations. IET Conference Proceedings, 7, 1–11. https://doi.org/10.1049/icp.2024.2519",
+          "DOI": "10.1049/icp.2024.2519"
+        },
+        {
+          "key": "ref2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Aguinis, H., Beltran, J.R., & Cope, A. (2024). How to use generative AI as a human resource management assistant. Organizational Dynamics, 53(1), 1–7. https://doi.org/10.1016/j.orgdyn.2024.101029",
+          "DOI": "10.1016/j.orgdyn.2024.101029"
+        },
+        {
+          "key": "ref3",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ahmed, S.K. (2024). The pillars of trustworthiness in qualitative research. Journal of Medicine, Surgery, and Public Health, 2, 1–4. https://doi.org/10.1016/j.glmedi.2024.100051",
+          "DOI": "10.1016/j.glmedi.2024.100051"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Alam, R., Lantara, N., Razak, A.R., & Hatidja, S. (2025). The role of artificial intelligence in recruitment: Examining candidate experience as a mediator and organizational culture as a moderator in quality of hires. Asian Management and Business Review, 5(1), 160–177. https://doi.org/10.20885/AMBR.vol5.iss1.art11",
+          "DOI": "10.20885/AMBR.vol5.iss1.art11"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Al-Mughairi, A.M. (2026). Artificial Intelligence (AI) into talent management. In Aligning talent management and organizational innovation goals (pp. 107–138). IGI Global Scientific Publishing.",
+          "DOI": "10.4018/979-8-3373-0015-3.ch005"
+        },
+        {
+          "key": "ref6",
+          "unstructured": "Alokwu, S.O., Umeasiegbu, L.O., & Alagbu, B.E. (2026). Leadership and the adoption of artificial intelligence in organisations. Journal of the Management Sciences, 63(1), 170–185."
+        },
+        {
+          "key": "ref7",
+          "unstructured": "Arpaci, I., Yardimci, Y.C., Ozkan, S., & Turetken, O. (2012). Organizational adoption of information technologies: A literature review. International Journal of eBusiness and eGovernment Studies, 4(2), 37–50."
+        },
+        {
+          "key": "ref8",
+          "unstructured": "Axelrod, B., Handfield-Jones, H., & Michaels, E. (2002). A new game plan for C players. Harvard Business Review, 80(1), 80–88."
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Biradar, A., Ainapur, J., Kalyanrao, K., Aishwarya, A., Sudharani, S., Shivaleela, S., & Monika, M. (2024). The impact of artificial intelligence on modern recruitment practices: A multi-company case study analysis. International Journal of Business and Management Invention, 13(9), 143–150. https://doi.org/10.35629/8028-1309143150",
+          "DOI": "10.35629/8028-1309143150"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Black, J.S., & Van Esch, P. (2021). AI-enabled recruiting in the war for talent. Business Horizons, 64(4), 513–524. https://doi.org/10.1016/j.bushor.2021.02.015",
+          "DOI": "10.1016/j.bushor.2021.02.015"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bonneton, D., Schworm, S.K., Festing, M., & Muratbekova-Touron, M. (2022). Do global talent management programs help to retain talent? A career-related framework. The International Journal of Human Resource Management, 33(2), 203–238. https://doi.org/10.1080/09585192.2019.1683048",
+          "DOI": "10.1080/09585192.2019.1683048"
+        },
+        {
+          "key": "ref12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Briki, M., & Gherrab, S. (2024). Leveraging artificial intelligence to optimize talent management in higher education institutions. ATRAS Journal, 5(3), 464–480. https://doi.org/10.70091/atras/AI.29",
+          "DOI": "10.70091/atras/AI.29"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bristol-Alagbariya, B., Ayanponle, O.L., & Ogedengbe, D.E. (2024). Leadership development and talent management in constrained resource settings: A strategic HR perspective. Comprehensive Research and Reviews Journal, 2(2), 13–22. https://doi.org/10.57219/crrj.2024.2.2.0031",
+          "DOI": "10.57219/crrj.2024.2.2.0031"
+        },
+        {
+          "key": "ref14",
+          "unstructured": "Buddh, K, Gururaj, C., & Shreenivas, B. (2024). Simplified Method for Computing Attainments in the OBE Framework. Journal of Technical Education, 47(1), 211–222."
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Caligiuri, P.M., Collings, D.G., De Cieri, H., & Lazarova, M.B. (2024). Global talent management: A critical review and research agenda for the new organizational reality. Annual Review of Organisational Psychology and Organisational Behaviour, 11(1), 393–421. https://doi.org/10.1146/annurev-orgpsych-111821-033121",
+          "DOI": "10.1146/annurev-orgpsych-111821-033121"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chandratreya, A. (2024). AI in HR: A comprehensive analysis and framework for success. International Journal of Scientific Research in Engineering and Management, 8(8), 1–7. https://doi.org/10.55041/IJSREM37020",
+          "DOI": "10.55041/IJSREM37020"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Charlwood, A. (2021). Artificial intelligence and talent management. In S. Wiblen (Ed.), Digitalised talent management (pp. 122–136). Routledge.",
+          "DOI": "10.4324/9780429265440-7-7"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Connelly, C.E., De Cieri, H., Festing, M., Lee, E.S., & Szkudlarek, B. (2025). Can global talent management be good for society? Organisational Dynamics, 54(3), 1–7. https://doi.org/10.1016/j.orgdyn.2025.101142",
+          "DOI": "10.1016/j.orgdyn.2025.101142"
+        },
+        {
+          "key": "ref19",
+          "unstructured": "Damian, D.I., & Frasineanu, C. (2024). The impact of AI on talent management. Proceedings of the International Management Conference, 18(1), 98–116."
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ding, X., Qin, M., Yin, L., Lv, D., & Bai, Y. (2023). Research on FinTech talent evaluation index system and recruitment strategy: Evidence from Shanghai in China. Sage Open, 13(4), 1–12. https://doi.org/10.1177/21582440231212256",
+          "DOI": "10.1177/21582440231212256"
+        },
+        {
+          "key": "ref21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Diyin, S., Bhaumik, B., & Wang, D. (2024). The influence of artificial intelligence on talent acquisition and human resource management. Journal of Electrical Systems, 20(11), 4868–4878. https://doi.org/10.52783/jes.8824",
+          "DOI": "10.52783/jes.8824"
+        },
+        {
+          "key": "ref22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Easterby-Smith, M., Lyles, M.A., & Peteraf, M.A. (2009). Dynamic capabilities: Current debates and future directions. British Journal of Management, 20(s1), 1–8. https://doi.org/10.1111/j.1467-8551.2008.00609.x",
+          "DOI": "10.1111/j.1467-8551.2008.00609.x"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ekhsan, M., Parashakti, R.D., & Perkasa, D.H. (2023). The impact of talent management on employee performance mediated by employee engagement. East Asian Journal of Multidisciplinary Research, 2(4), 1821–1834. https://doi.org/10.55927/eajmr.v2i4.3913",
+          "DOI": "10.55927/eajmr.v2i4.3913"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ekuma, K. (2024). Artificial intelligence and automation in human resource development: A systematic review. Human Resource Development Review, 23(2), 199–229. https://doi.org/10.1177/15344843231224009",
+          "DOI": "10.1177/15344843231224009"
+        },
+        {
+          "key": "ref25",
+          "unstructured": "El-Ghoul, M., Almassri, M.M., El-Habibi, M.F., Al-Qadi, M.H., Abou Eloun, A., Abu-Nasser, B.S., & Abu-Naser, S.S. (2024). AI in HRM: Revolutionizing recruitment, performance management, and employee engagement. International Journal of Academic and Applied Research, 8(9), 16–23."
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Evans, P.A., Pucik, V., Stahl, G.K., & Björkman, I. (2025). Global talent management in an age of disruption. Organizational Dynamics, 54(3), 1–7. https://doi.org/10.1016/j.orgdyn.2025.101149",
+          "DOI": "10.1016/j.orgdyn.2025.101149"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Faqihi, A., & Miah, S.J. (2023). Artificial intelligence-driven talent management system: Exploring the risks and options for constructing a theoretical foundation. Journal of Risk and Financial Management, 16(1), 1–18. https://doi.org/10.3390/jrfm16010031",
+          "DOI": "10.3390/jrfm16010031"
+        },
+        {
+          "key": "ref28",
+          "unstructured": "Fussell, G., Bianco, M., Bianco, A., Mardanov, M. & Mardanov, R. (2025). Benefits and challenges of AI use in the workplace. In Society for Information Technology & Teacher Education International Conference, Orlando, Florida 17 March 2025 (pp. 1263–1268)."
+        },
+        {
+          "key": "ref29",
+          "unstructured": "Gohain, T.T., & Sharada, V.S. (2023). The imperative of green human resource management: Integrating sustainability in HR practices. ASCI Journal of Management, 52(2), 1–30."
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Griffith, D.A., & Harvey, M.G. (2001). A resource perspective of global dynamic capabilities. Journal of International Business Studies, 32(3), 597–606. https://doi.org/10.1057/palgrave.jibs.8490987",
+          "DOI": "10.1057/palgrave.jibs.8490987"
+        },
+        {
+          "key": "ref31",
+          "unstructured": "Groenewald, E., Groenewald, C.A., Kilag, O.K., Andrin, G., Pernites, M.J., & Macapaz, M.K. (2024). Talent management in the 21st century: A comprehensive review and prospects for innovation. International Multidisciplinary Journal of Research for Innovation, Sustainability, and Excellence (IMJRISE), 1(3), 93–99."
+        },
+        {
+          "key": "ref32",
+          "unstructured": "Hadijah, H.S. (2023). Implementation of talent management as a strategy for achieving company competitive advantage. International Journal of Artificial Intelligence Research, 6(1.1), 1–6."
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jamaluddin, Alam, R., Lantara, N., Razak, R., & Hatidja, S. (2025). The role of artificial intelligence in recruitment: Examining candidate experience as a mediator and organizational culture as a moderator in quality of hires. Asian Management and Business Review, 5(1), 160–177.",
+          "DOI": "10.20885/AMBR.vol5.iss1.art11"
+        },
+        {
+          "key": "ref34",
+          "unstructured": "Jha, S., Janardhan, M., Khilla, G., & Haokip, T.S. (2024). Transforming talent acquisition: Leveraging AI for enhanced recruitment strategies in HRM and employee engagement. Library of Progress-Library Science, Information Technology & Computer, 44(3), 8857–8867."
+        },
+        {
+          "key": "ref35",
+          "unstructured": "John, R. (2023). Global talent management: Challenges and solutions in human resources (HR). Business Studies Journal, 15(5), 1–2."
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kang, H., & Ahn, E. (2018). Introduction to systematic review and meta-analysis. Korean Journal of Anesthesiology, 71(2), 103–112. https://doi.org/10.4097/kjae.2018.71.2.103",
+          "DOI": "10.4097/kjae.2018.71.2.103"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Khalil, H., Campbell, F., Danial, K., Pollock, D., Munn, Z., Welsh, V., Saran, A., Hoppe, D., & Tricco, A.C. (2024). Advancing the methodology of mapping reviews: A scoping review. Research Synthesis Methods, 15(3), 384–397. https://doi.org/10.1002/jrsm.1694",
+          "DOI": "10.1002/jrsm.1694"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Khan, M.R. (2024). Application of artificial intelligence for talent management: Challenges and opportunities. Intelligent Human Systems Integration, 119, 4–7. https://doi.org/10.54941/ahfe1004496",
+          "DOI": "10.54941/ahfe1004496"
+        },
+        {
+          "key": "ref39",
+          "unstructured": "Kim-Schmid, J., & Raveendhran, R. (2022). Where AI can – And can’t – Help talent management. Harvard Business Review, 1–15. Retrieved from https://www.hbr.org/"
+        },
+        {
+          "key": "ref40",
+          "unstructured": "Kingsley, J. (2025). From data lakes to talent pipelines: Leveraging big data and AI for workforce forecasting. Retrieved from https://www.researchgate.net/profile/John-Kingsley/publication/390827828_FROM_DATA_LAKES_TO_TALENT_PIPELINES_LEVERAGING_BIG_DATA_AND_AI_FOR_WORKFORCE_FORECASTING/links/67ff71e260241d51400d40e9/FROM-DATA-LAKES-TO-TALENT-PIPELINES-LEVERAGING-BIG-DATA-AND-AI-FOR-WORKFORCE-FORECASTING.pdf"
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Laghari, A., Ali, A., Nigar, M., Danishwar, S., Awan, B.A., & Farooq, U. (2025). Unveiling the green synergy: Exploring the mediated moderation effect of technological advancement and green process innovation on GHRM and sustainable performance. Social Science Review Archives, 3(1), 1342–1354.",
+          "DOI": "10.70670/sra.v3i1.435"
+        },
+        {
+          "key": "ref42",
+          "unstructured": "Lefebvre, C., Glanville, J., Briscoe, S., Littlewood, C.M., Metzendorf, A.N., Rader, T., Shokraneh, F., Thomas, J., & Wieland, L.S. (2019). Cochrane handbook for systematic reviews of interventions version. Wiley & Sons. Retrieved from https://onlinelibrary.wiley.com/doi/chapter-epub/10.1002/9781119536604.ch4"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lehman, W.E., Greener, J.M., & Simpson, D.D. (2002). Assessing organizational readiness for change. Journal of Substance Abuse Treatment, 22(4),197–209. https://doi.org/10.1016/S0740-5472(02)00233-7",
+          "DOI": "10.1016/S0740-5472(02)00233-7"
+        },
+        {
+          "key": "ref44",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Levac, D., Colquhoun, H., & O’brien, K.K. (2010). Scoping studies: Advancing the methodology. Implementation Science, 5(1), 1–9. https://doi.org/10.1186/1748-5908-5-69",
+          "DOI": "10.1186/1748-5908-5-69"
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lewis, R.E., & Heckman, R.J. (2006). Talent management: A critical review. Human Resource Management Review, 16(12), 139–154. https://doi.org/10.1016/j.hrmr.2006.03.001",
+          "DOI": "10.1016/j.hrmr.2006.03.001"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu, L., Ali, A., & Ojeme, B. (2025). A framework for diversifying the artificial intelligence talent pipeline: Collaboration between historically Black colleges and universities, industry, and government. American Journal of STEM Education, 6, 80–93. https://doi.org/10.32674/grhp3c90",
+          "DOI": "10.32674/grhp3c90"
+        },
+        {
+          "key": "ref47",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu, S., Li, G., & Xia, H. (2021). Analysis of talent management in the artificial intelligence era. In The 5th Asia-Pacific Conference on Economic Research and Management Innovation, Beijing, 29–31 January (pp. 38–42).",
+          "DOI": "10.2991/aebmr.k.210218.007"
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lourens, M., Vijai, C., Nijhawan, G., Garwal, Y.S., Gakhreja, S., & Saud, A.M. (2024). Artificial intelligence-driven talent management system: Exploring the risks and options sustainable success. In 2024 4th International Conference on Innovative Practices in Technology and Management, Noida, 21–23 February (pp. 1–6).",
+          "DOI": "10.1109/ICIPTM59628.2024.10563430"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Malik, A., Budhwar, P., Mohan, H., & Srikanth, N.R. (2023). Employee experience – The missing link for engaging employees: Insights from an MNE’s AI-based HR ecosystem. Human Resource Management, 62(1), 97–115. https://doi.org/10.1002/hrm.22133",
+          "DOI": "10.1002/hrm.22133"
+        },
+        {
+          "key": "ref50",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Malik, A., De Silva, M.T., Budhwar, P., & Srikanth, N.R. (2021). Elevating talents’ experience through innovative artificial intelligence-mediated knowledge sharing: Evidence from an IT multinational enterprise. Journal of International Management, 27(4), 1–18. https://doi.org/10.1016/j.intman.2021.100871",
+          "DOI": "10.1016/j.intman.2021.100871"
+        },
+        {
+          "key": "ref51",
+          "unstructured": "Malik, S.A. (2023). Unlocking organizational potential: Harnessing AI literacy for dynamic capabilities through sensing, seizing and reconfiguring initiatives in IT firms. Masters Thesis, Haaga-Helia University of Applied Science."
+        },
+        {
+          "key": "ref52",
+          "unstructured": "Manoj, S., Srivastava, S.K., & Jaiswal, B. (2024). A study of digitalization in MSME sector with special reference to products under ODOP scheme in Eastern Uttar Pradesh. Journal of Technical Education, 47(1), 165–172."
+        },
+        {
+          "key": "ref53",
+          "unstructured": "Mercer, S.R. (2005). Best-in-class leadership. Leadership Excellence, 22(3), 17."
+        },
+        {
+          "key": "ref54",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mir, A.I. (2024). Application of AI in talent management: A systematic review of benefits, challenges, and prospects. Academy of Education and Social Sciences Review, 4(4), 612–630. https://doi.org/10.48112/aessr.v4i4.941",
+          "DOI": "10.48112/aessr.v4i4.941"
+        },
+        {
+          "key": "ref55",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Molefe, L.L., Sehularoa, L., & Koen, D. (2024). Support needed by workers providing care to children with cognitive disabilities: A systematic review. Journal for New Generation Science, 22(1), 52–67. https://doi.org/10.47588/jngs.2024.22.01.a4",
+          "DOI": "10.47588/jngs.2024.22.01.a4"
+        },
+        {
+          "key": "ref56",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Morandini, S., Fraboni, F., De Angelis, M., Puzzo, G., Giusino, D., & Pietrantoni, L. (2023). The impact of artificial intelligence on workers’ skills: Upskilling and reskilling in organisations. Informing Science, 26, 39–68. https://doi.org/10.28945/5078",
+          "DOI": "10.28945/5078"
+        },
+        {
+          "key": "ref57",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mossavar-Rahmani, F., & Zohuri, B. (2024). Artificial intelligence at work: Transforming industries and redefining the workforce landscape. Journal of Economics & Management Research, 5(2), 2–4. https://doi.org/10.47363/JESMR/2024(5)213",
+          "DOI": "10.47363/JESMR/2024(5)213"
+        },
+        {
+          "key": "ref58",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Natarajan, D.S., Subbaiah, B., Dhinakaran, D.P., Kumar, J.R., & Rajalakshmi, M. (2024). AI-powered strategies for talent management optimization. Journal of Informatics Education and Research, 4(2), 854–860. https://doi.org/10.52783/jier.v4i2.848",
+          "DOI": "10.52783/jier.v4i2.848"
+        },
+        {
+          "key": "ref59",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ncube, T.R., Sishi, K.K., & Skinner, J.P. (2025). The impact of artificial intelligence on human resource management practices: An investigation. SA Journal of Human Resource Management, 23, 1–11. https://doi.org/10.4102/sajhrm.v23i0.2960",
+          "DOI": "10.4102/sajhrm.v23i0.2960"
+        },
+        {
+          "key": "ref60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Okunlaya, R.O., Syed Abdullah, N., & Alias, R.A. (2022). Artificial intelligence (AI) library services innovative conceptual framework for the digital transformation of university education. Library Hi Tech, 40(6), 1869–1892. https://doi.org/10.1108/LHT-07-2021-0242",
+          "DOI": "10.1108/LHT-07-2021-0242"
+        },
+        {
+          "key": "ref61",
+          "unstructured": "Pachori, J., Sajid, M., & Batra, S. (2024). The role of human resource management in attracting and retaining top talent. Journal of Technical Education, 47, 145–249."
+        },
+        {
+          "key": "ref62",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Parcheva, M. (2024). Artificial intelligence and workplace innovations-opportunities, challenges, benefits. Известия на Съюза на учените-Варна. Серия Икономически науки, 13(1), 297–305.",
+          "DOI": "10.56065/IJUSV-ESS/2024.13.1.297"
+        },
+        {
+          "key": "ref63",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Perifanis, N.A., & Kitsios, F. (2023). Investigating the influence of artificial intelligence on business value in the digital era of strategy: A literature review. Information, 14(2), 1–42. https://doi.org/10.3390/info14020085",
+          "DOI": "10.3390/info14020085"
+        },
+        {
+          "key": "ref64",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Peters, M.D., Marnie, C., Colquhoun, H., Garritty, C.M., Hempel, S., Horsley, T., Langlois, E.V., Lillie, E., O’Brien, K.K., Tunçalp, Ӧ., & Wilson, M.G. (2021). Scoping reviews: Reinforcing and advancing the methodology and application. Systematic Reviews, 10(1), 1–6. https://doi.org/10.1186/s13643-021-01821-3",
+          "DOI": "10.1186/s13643-021-01821-3"
+        },
+        {
+          "key": "ref65",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Poisat, P., Cullen, M., & Calitz, A.P. (2024). Human resource managers’ perceptions on the impact of AI on the South African workforce. SA Journal of Human Resource Management, 22, 1–13. https://doi.org/10.4102/SAJHRM.v22i0.2593",
+          "DOI": "10.4102/SAJHRM.v22i0.2593"
+        },
+        {
+          "key": "ref66",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Roppelt, J.S., Schuster, A., Greimel, N.S., Kanbach, D.K., & Sen, K. (2025). Towards effective adoption of artificial intelligence in talent acquisition: A mixed-method study. International Journal of Information Management, 82, 1–18. https://doi.org/10.1016/j.ijinfomgt.2025.102870",
+          "DOI": "10.1016/j.ijinfomgt.2025.102870"
+        },
+        {
+          "key": "ref67",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rožman, M., Oreški, D., & Tominc, P. (2022). Integrating artificial intelligence into a talent management model to increase the work engagement and performance of enterprises. Frontiers in Psychology, 13, 1–16. https://doi.org/10.3389/fpsyg.2022.1014434",
+          "DOI": "10.3389/fpsyg.2022.1014434"
+        },
+        {
+          "key": "ref68",
+          "unstructured": "Rydberg, H. (2025). Global talent management strategies and their impact on international organizational performance. Journal of Research in International Business and Management, 12(5), 1–2."
+        },
+        {
+          "key": "ref69",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sandeep, M.M., Lavanya, V., & Balakrishnan, J. (2025). Leveraging AI in recruitment: Enhancing intellectual capital through resource-based view and dynamic capability framework. Journal of Intellectual Capital, 26(2), 404–425.",
+          "DOI": "10.1108/JIC-05-2024-0155"
+        },
+        {
+          "key": "ref70",
+          "unstructured": "Schweyer, A. (2004). Talent management systems: Best practices in technology solutions for recruitment, retention, and workforce planning. Wiley."
+        },
+        {
+          "key": "ref71",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sembiring, E., & Damayanti, N. (2023). Talent attraction, talent retention, and talent management as a mediating on organization performance. Ultima Management: Jurnal Ilmu Manajemen, 15(1), 58–76. https://doi.org/10.31937/manajemen.v15i1.3125",
+          "DOI": "10.31937/manajemen.v15i1.3125"
+        },
+        {
+          "key": "ref72",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Setiawati, A.P., Mujanah, S., & Sumiati. (2025). Inclusive talent development as a key for talent management and talent retention to achieve sustainable human resource management in Rural Bank Sharia Indonesia. Journal of Ecohumanism, 4(1), 1024–1033. https://doi.org/10.62754/joe.v4i1.5907",
+          "DOI": "10.62754/joe.v4i1.5907"
+        },
+        {
+          "key": "ref73",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shah, N., Bano, S., Saraih, U.N., Abdelwaheed, N.A.A., & Soomro, B.A. (2024). Developing organizational performance through talent management practices: Employee satisfaction’s mediating role in learning organizations. Business Process Management Journal, 30(3), 641–670. https://doi.org/10.1108/BPMJ-03-2023-0208",
+          "DOI": "10.1108/BPMJ-03-2023-0208"
+        },
+        {
+          "key": "ref74",
+          "unstructured": "Sharma, N. (2025). The impact of artificial intelligence and digitalization on the workforce. International Journal for Novel Research in Economics, Finance and Management, 3(2), 248–255."
+        },
+        {
+          "key": "ref75",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shvetsova, O. (2025). Managing global talent: Innovative solutions and a sustainable strategy using a human-centric approach. Administrative Sciences, 15(5), 1–29. https://doi.org/10.3390/admsci15050190",
+          "DOI": "10.3390/admsci15050190"
+        },
+        {
+          "key": "ref76",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Smith, M., Prabhakar, G., Nisar, T.M., & Tseng, H.T. (2025). Adoption of AI by the HR function in the civil service. Employee Relations: The International Journal, 47(1), 104–126. https://doi.org/10.1108/ER-02-2024-0096",
+          "DOI": "10.1108/ER-02-2024-0096"
+        },
+        {
+          "key": "ref77",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Soulami, M., Benchekroun, S., & Galiulina, A. (2024). Exploring how AI adoption in the workplace affects employees: A bibliometric and systematic review. Frontiers in Artificial Intelligence, 7, 1–16. https://doi.org/10.3389/frai.2024.1473872",
+          "DOI": "10.3389/frai.2024.1473872"
+        },
+        {
+          "key": "ref78",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sowmya, G., Polisetty, A., & Dash, G. (2024). Leveraging artificial intelligence for talent management. In V. Garg, R. Goel, P. Tiwari, & E.S. Döngül (Eds.), Handbook of artificial intelligence applications for industrial sustainability (pp. 124–143). CRC Press.",
+          "DOI": "10.1201/9781003348351-9"
+        },
+        {
+          "key": "ref79",
+          "unstructured": "Sulaiman, G., Fuzail, M., Urooge, S., & Imran, F. (2025). The role of artificial intelligence in HR: A study of the impact of AI-powered recruitment tools on hiring decisions. Center for Management Science Research, 3(3), 10–30."
+        },
+        {
+          "key": "ref80",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Teece, D.J., Pisano, G., & Shuen, G. (1997). Dynamic capabilities and strategic management. Strategic Management Journal, 18(7), 509–533. https://doi.org/10.1002/(SICI)1097-0266(199708)18:7%3C509::AID-SMJ882%3E3.0.CO;2-Z",
+          "DOI": "10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z"
+        },
+        {
+          "key": "ref81",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Thanvi, A.U.H., Zafar, H., & Siddiqui, F.A. (2024). HR professionals’ intention to adopt and use of artificial intelligence in recruiting talents in retail industry of Karachi (Pakistan). Research Journal for Social Affairs, 2(4), 223–244. https://doi.org/10.71317/RJSA.002.04.0191",
+          "DOI": "10.71317/RJSA.002.04.0191"
+        },
+        {
+          "key": "ref82",
+          "unstructured": "Tiwari, R., Babu, N.S., Marda, K., Mishra, A., Bhattar, S., & Ahluwalia, A. (2024). The impact of artificial intelligence in the workplace and its effect on the digital well-being of employees. International Journal of Progressive Research in Engineering Management and Science, 4(6), 2422–2427."
+        },
+        {
+          "key": "ref83",
+          "unstructured": "Tornatzky, L.G., & Fleischer, M. (1990). The process of technological innovation. Lexington Books."
+        },
+        {
+          "key": "ref84",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Toth, Z., Goga, A.S., & Boșcoianu, M. (2025). AI integration in fundamental logistics components: Advanced theoretical framework for knowledge process capabilities and dynamic capabilities hybridization. Logistics, 9(4), 1–22. https://doi.org/10.3390/logistics9040140",
+          "DOI": "10.3390/logistics9040140"
+        },
+        {
+          "key": "ref85",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Touriano, D., Sutrisno, S., Kuraesin, A.D., Santosa, S., & Ausat, A.M.A. (2023). The role of information technology in improving the efficiency and effectiveness of talent management processes. Jurnal Minfo Polgan, 12(1), 539–548. https://doi.org/10.33395/jmp.v12i1.12454",
+          "DOI": "10.33395/jmp.v12i1.12454"
+        },
+        {
+          "key": "ref86",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tusquellas, N., Palau, R., & Santiago, R. (2024). Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review. International Journal of Information Management Data Insights, 4(2), 1–9.",
+          "DOI": "10.1016/j.jjimei.2024.100288"
+        },
+        {
+          "key": "ref87",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Urme, U.N. (2023). The impact of talent management strategies on employee retention. International Journal of Science and Business, 28(1), 127–146. https://doi.org/10.58970/IJSB.2209",
+          "DOI": "10.58970/IJSB.2209"
+        },
+        {
+          "key": "ref88",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Uzozie, O.T., Onukwulu, E.C., Olaleye, I.A., Makata, C.O., Paul, P.O., & Esan, O.J. (2023). Global talent management in multinational corporations: Challenges and strategies – A systematic review. International Journal of Multidisciplinary Research and Growth Evaluation, 4(1), 1095–1101. https://doi.org/10.54660/.IJMRGE.2023.4.1.1095-1101",
+          "DOI": "10.54660/.IJMRGE.2023.4.1.1095-1101"
+        },
+        {
+          "key": "ref89",
+          "unstructured": "Vandy, J.F. (2023). Revolutionizing the HR Functions for future work – The critical role of technology and AI. TIJER – International Research Journal, 10(3), 758–764."
+        },
+        {
+          "key": "ref90",
+          "unstructured": "Varma, N.K., & Rajeswari, M.S. (2024). A study on talent management in Venkata Narayana active ingredients. International Journal of Research in Engineering, IT and Social Sciences, 14(7), 127–142."
+        },
+        {
+          "key": "ref91",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Venugopal, M., Madhavan, V., Prasad, R., & Raman, R. (2024). Transformative AI in human resource management: Enhancing workforce planning with topic modeling. Cogent Business & Management, 11(1), 1–23. https://doi.org/10.1080/23311975.2024.2432550",
+          "DOI": "10.1080/23311975.2024.2432550"
+        },
+        {
+          "key": "ref92",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vrontis, D., Christofi, M., Pereira, V., Tarba, S., Makrides, A., & Trichina, E. (2023). Artificial intelligence, robotics, advanced technologies and human resource management: A systematic review. In A. Malik & P. Budhwar (Eds.), Artificial intelligence and international HRM (pp. 172–201). Routledge.",
+          "DOI": "10.4324/9781003377085-7"
+        },
+        {
+          "key": "ref93",
+          "unstructured": "Walker, J.W., & Larocco, J.M. (2002). Talent pools: The best and the rest. Human Resource Planning, 25(3), 12–14."
+        },
+        {
+          "key": "ref94",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Weiner, B.J. (2009). A theory of organizational readiness for change. Implementation Science, 4(1), 1–9. https://doi.org/10.1186/1748-5908-4-67",
+          "DOI": "10.1186/1748-5908-4-67"
+        },
+        {
+          "key": "ref95",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Yanamala, K.K.R. (2024). Artificial Intelligence in talent development for proactive retention strategies. Journal of Advanced Computing Systems, 4(8), 13–21. https://doi.org/10.69987/JACS.2024.40804",
+          "DOI": "10.69987/JACS.2024.40804"
+        },
+        {
+          "key": "ref96",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Yarangga, R.E., Ibrahim, M.B.H., Irawan, A., Akbar, M.A., & Rasyid, A. (2023). Succession excellence: Nurturing leadership talent for sustainable organizational success. Advances: Jurnal Ekonomi & Bisnis, 1(6), 317–331. https://doi.org/10.60079/ajeb.v1i6.192",
+          "DOI": "10.60079/ajeb.v1i6.192"
+        },
+        {
+          "key": "ref97",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zahra, S.A., & George, G. (2002). The net-enabled business innovation cycle and the evolution of dynamic capabilities. Information Systems Research, 13(2), 147–150. https://doi.org/10.1287/isre.13.2.147.90",
+          "DOI": "10.1287/isre.13.2.147.90"
+        },
+        {
+          "key": "ref98",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zamir, N.A. (2025). The Role of Leadership in Supporting Artificial Intelligence Integration in Organizations. International Journal of Entrepreneurship and Management Practices, 8(31), 800–820.",
+          "DOI": "10.35631/IJEMP.831054"
+        },
+        {
+          "key": "ref99",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zhang, P. (2024). Application of artificial intelligence (AI) in recruitment and selection: The case of Company A and Company B. Journal of Business and Management Studies, 6(3), 224–225.",
+          "DOI": "10.32996/jbms.2024.6.3.18"
+        },
+        {
+          "key": "ref100",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zhang, Q., Liao, G., Ran, X., & Wang, F. (2025). The impact of AI usage on innovation behavior at work: The moderating role of openness and job complexity. Behavioral Sciences, 15(4), 1–22. https://doi.org/10.3390/bs15040491",
+          "DOI": "10.3390/bs15040491"
+        },
+        {
+          "key": "ref101",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zirar, A., Ali, S.I., & Islam, N. (2023). Worker and workplace Artificial Intelligence (AI) coexistence: Emerging themes and research agenda. Technovation, 124, 1–17. https://doi.org/10.1016/j.technovation.2023.102747",
+          "DOI": "10.1016/j.technovation.2023.102747"
+        }
+      ],
+      "container-title": [
+        "SA Journal of Human Resource Management"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://sajhrm.co.za/index.php/sajhrm/article/view/3649/5964",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            12
+          ]
+        ],
+        "date-time": "2026-10-12T09:33:34Z",
+        "timestamp": 1791797614000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://sajhrm.co.za/index.php/sajhrm/article/view/3649"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "references-count": 102,
+      "URL": "https://doi.org/10.4102/sajhrm.v24i0.3649",
+      "relation": {},
+      "ISSN": [
+        "1683-7584",
+        "2071-078X"
+      ],
+      "issn-type": [
+        {
+          "value": "1683-7584",
+          "type": "print"
+        },
+        {
+          "value": "2071-078X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ]
+      },
+      "article-number": "a3649"
+    }
+  }
+}

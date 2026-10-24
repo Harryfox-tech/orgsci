@@ -1,0 +1,685 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1177/21582440251361746",
+    "checked_at": "2026-10-24T02:10:07.779127Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T22:23:56Z",
+        "timestamp": 1792016636047,
+        "version": "4.4.0"
+      },
+      "reference-count": 73,
+      "publisher": "SAGE Publications",
+      "issue": "3",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "funder": [
+        {
+          "name": "Open Access Publication Fund of Technical University of Applied Sciences Wildau"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "SAGE Open"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "abstract": "<jats:p>A review of the literature on the application of artificial intelligence (AI) in the recruitment and selection process (RSP) was conducted, but no relevant studies were identified. While several reviews have focussed on AI in human resource management in general, none of these have examined the RSP in detail or employed an AI taxonomy for clustering. Consequently, we applied an AI taxonomy identified in the literature with the aim to identify the stages of the RSP in the focus of research and the algorithms mostly used. We conducted a systematic literature review underpinned by a concept matrix, complemented by a computational literature review (CLR), that employed natural language processing (NLP). The initial 4,579 studies were sourced from three databases and narrowed down to a total of 502. Our major findings indicate that the majority of studies were categorised under the stages “assessment &amp; selection” and “processing incoming applications” in the RSP. The predominant algorithms in use pertain to the field of NLP and machine learning. The CLR emphasised the significance of ethics in AI research. While our study has expanded the general AI taxonomy by incorporating an ethical perspective and is one of the studies with the most articles used to reflect this topic, it is solely focussing on describing the past. Nevertheless, this article helps to align research on exploring and testing alternative approaches with those most frequently used.</jats:p>",
+      "DOI": "10.1177/21582440251361746",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ],
+        "date-time": "2025-08-29T09:36:28Z",
+        "timestamp": 1756460188000
+      },
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 7,
+      "title": [
+        "AI-Driven Research in the Recruitment and Selection Process: Application of an AI Taxonomy With a Systematic Literature Review"
+      ],
+      "prefix": "10.1177",
+      "volume": "15",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0006-5426-656X",
+          "authenticated-orcid": false,
+          "given": "Marcel",
+          "family": "Herold",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Technical University of Applied Science Wildau, Germany"
+            },
+            {
+              "name": "Martin-Luther-University Halle-Wittenberg, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc R.H.",
+          "family": "Roedenbeck",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Technical University of Applied Science Wildau, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            8,
+            29
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_3_2_1",
+          "unstructured": "Akram S. (2023). Recruitment Chatbots Design and Dialog: HCAI Perspective. 3481 36–42. Scopus. https://ceurws.org/Vol-3481/paper6.pdf"
+        },
+        {
+          "key": "e_1_3_3_3_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Albert E. T. (2019). AI in talent acquisition: A review of AI-applications used in recruitment and selection. Strategic HR Review 18(5) 215–221. https://doi.org/10.1108/shr-04-2019-0024",
+          "DOI": "10.1108/SHR-04-2019-0024"
+        },
+        {
+          "key": "e_1_3_3_4_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Al-Jarrah O. Y. Yoo P. D. Muhaidat S. Karagiannidis G. K. Taha K. (2015). Efficient machine learning for big data: A review. Big Data Research 2(3) 87–93. https://doi.org/10.1016/j.bdr.2015.04.001",
+          "DOI": "10.1016/j.bdr.2015.04.001"
+        },
+        {
+          "key": "e_1_3_3_5_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Alsaif S. A. Sassi Hidri M. Ferjani I. Eleraky H. A. Hidri A. (2022). NLP-Based Bi-directional recommendation system: Towards recommending jobs to job seekers and resumes to recruiters. Big Data and Cognitive Computing 6(4) 147. https://doi.org/10.3390/bdcc6040147",
+          "DOI": "10.3390/bdcc6040147"
+        },
+        {
+          "key": "e_1_3_3_6_1",
+          "first-page": "1",
+          "volume-title": "The Blackwell handbook of selection",
+          "author": "Anderson N. R.",
+          "year": "2005",
+          "unstructured": "Anderson N. R. (2005). Relationships between practice and research in personnel selection: Does the left hand know what the right hand is doing? In Evers A., Anderson N., Smit-Voskuyl O. (Eds.), The Blackwell handbook of selection (pp. 1–24). Blackwell."
+        },
+        {
+          "key": "e_1_3_3_7_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Antons D. Breidbach C. F. Joshi A. M. Salge T. O. (2023). Computational literature reviews: Method algorithms and roadmap. Organizational Research Methods 26(1) 107–138. https://doi.org/10.1177/1094428121991230",
+          "DOI": "10.1177/1094428121991230"
+        },
+        {
+          "key": "e_1_3_3_8_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bankins S. (2021). The ethical use of artificial intelligence in human resource management: A decision-making framework. Ethics and Information Technology 23(4) 841–854. https://doi.org/10.1007/s10676-021-09619-6",
+          "DOI": "10.1007/s10676-021-09619-6"
+        },
+        {
+          "key": "e_1_3_3_9_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Baryannis G. Validi S. Dani S. Antoniou G. (2019). Supply chain risk management and artificial intelligence: State of the art and future research directions. International Journal of Production Research 57(7) 2179–2202. https://doi.org/10.1080/00207543.2018.1530476",
+          "DOI": "10.1080/00207543.2018.1530476"
+        },
+        {
+          "key": "e_1_3_3_10_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Basu S. Majumdar B. Mukherjee K. Munjal S. Palaksha C. (2023). Artificial Intelligence–HRM interactions and outcomes: A systematic review and causal configurational explanation. Human Resource Management Review 33(1) 100893. https://doi.org/10.1016/j.hrmr.2022.100893",
+          "DOI": "10.1016/j.hrmr.2022.100893"
+        },
+        {
+          "key": "e_1_3_3_11_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Bhatt P. (2023). AI adoption in the hiring process – Important criteria and extent of AI adoption. Foresight 25(1) 144–163. https://doi.org/10.1108/fs-07-2021-0144",
+          "DOI": "10.1108/FS-07-2021-0144"
+        },
+        {
+          "key": "e_1_3_3_12_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Boyd-Graber J. Hu Y. Mimno D. (2017). Applications of topic models. Foundations and Trends® in Information Retrieval 11(2-3) 143–296. https://doi.org/10.1561/1500000030",
+          "DOI": "10.1561/1500000030"
+        },
+        {
+          "key": "e_1_3_3_13_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Briner R. B. Denyer D. Rousseau D. M. (2009). Evidence-based management: Concept cleanup time? Academy of Management Perspectives 23(4) 19–32. https://doi.org/10.5465/amp.2009.45590138",
+          "DOI": "10.5465/amp.23.4.19"
+        },
+        {
+          "key": "e_1_3_3_14_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Budhwar P. Malik A. De Silva M. T. T. Thevisuthan P. (2022). Artificial intelligence – Challenges and opportunities for international HRM: A review and research agenda. International Journal of Human Resource Management 33(6) 1065–1097. https://doi.org/10.1080/09585192.2022.2035161",
+          "DOI": "10.1080/09585192.2022.2035161"
+        },
+        {
+          "key": "e_1_3_3_15_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Caliskan A. Bryson J. J. Narayanan A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science 356(6334) 183–186. https://doi.org/10.1126/science.aal4230",
+          "DOI": "10.1126/science.aal4230"
+        },
+        {
+          "key": "e_1_3_3_16_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chiche A. Yitagesu B. (2022). Part of speech tagging: A systematic review of deep learning and machine learning approaches. Journal of Big Data 9(1) 10. https://doi.org/10.1186/s40537-022-00561-y",
+          "DOI": "10.1186/s40537-022-00561-y"
+        },
+        {
+          "key": "e_1_3_3_17_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chowdhury S. Dey P. Joel-Edgar S. Bhattacharya S. Rodriguez-Espindola O. Abadie A. Truong L. (2023). Unlocking the value of artificial intelligence in human resource management through AI capability framework. Human Resource Management Review 33(1) 100899. https://doi.org/10.1016/j.hrmr.2022.100899",
+          "DOI": "10.1016/j.hrmr.2022.100899"
+        },
+        {
+          "key": "e_1_3_3_18_1",
+          "unstructured": "de Ruijt C. Bhulai S. (2021). Job Recommender Systems: A Review (arXiv:2111.13576). arXiv. http://arxiv.org/abs/2111.13576"
+        },
+        {
+          "key": "e_1_3_3_19_1",
+          "unstructured": "Dinika A. A. Sloane M. (2023). AI and Inequality in Hiring and Recruiting: A Field Scan. https://doi.org/10.34669/WI.CP/5.3"
+        },
+        {
+          "key": "e_1_3_3_20_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Duan Y. Edwards J. S. Dwivedi Y. K. (2019). Artificial intelligence for decision making in the era of Big Data – evolution challenges and research agenda. International Journal of Information Management 48 63–71. https://doi.org/10.1016/j.ijinfomgt.2019.01.021",
+          "DOI": "10.1016/j.ijinfomgt.2019.01.021"
+        },
+        {
+          "key": "e_1_3_3_21_1",
+          "volume-title": "Artificial intelligence for HR: Use AI to support and develop a successful workforce",
+          "author": "Eubanks B.",
+          "year": "2019",
+          "unstructured": "Eubanks B. (2019). Artificial intelligence for HR: Use AI to support and develop a successful workforce. Kogan Page."
+        },
+        {
+          "key": "e_1_3_3_22_1",
+          "unstructured": "European Commission. (2023). Regulation of the European parliament and of the council laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts. https://artificialintelligenceact.eu/the-act/"
+        },
+        {
+          "key": "e_1_3_3_23_1",
+          "unstructured": "European Union. (2023). Creation of a Taxonomy for the European AI Ecosystem—A report of the Cross-KIC Activity “Innovation Impact Artificial Intelligence”. https://eit.europa.eu/sites/default/files/creation_of_a_taxonomy_for_the_european_ai_ecosystem_final.pdf"
+        },
+        {
+          "key": "e_1_3_3_24_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Feldkamp T. Langer M. Wies L. König C. J. (2023). Justice trust and moral judgements when personnel selection is supported by algorithms. European Journal of Work and Organizational Psychology 33(2) 130–145. https://doi.org/10.1080/1359432x.2023.2169140",
+          "DOI": "10.1080/1359432X.2023.2169140"
+        },
+        {
+          "key": "e_1_3_3_25_1",
+          "unstructured": "Gartner. (2024). AI in HR: The Ultimate Guide to Implementing AI in Your HR Organization. https://www.gartner.com/en/human-resources/topics/artificial-intelligence-in-hr"
+        },
+        {
+          "key": "e_1_3_3_26_1",
+          "volume-title": "Expert systems: Principles and programming",
+          "author": "Giarratano J. C.",
+          "year": "2006",
+          "unstructured": "Giarratano J. C., Riley G. (Eds.). (2006). Expert systems: Principles and programming (4. ., [repr.] ed.). Thomson Course Technology."
+        },
+        {
+          "key": "e_1_3_3_27_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Haenlein M. Kaplan A. (2019). A brief history of artificial intelligence: On the past present and future of artificial intelligence. California Management Review 61(4) 5–14. https://doi.org/10.1177/0008125619864925",
+          "DOI": "10.1177/0008125619864925"
+        },
+        {
+          "key": "e_1_3_3_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-0-387-84858-7"
+        },
+        {
+          "key": "e_1_3_3_29_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hemamou L. Guillon A. Martin J.-C. Clavel C. (2023). Multimodal hierarchical attention neural network: Looking for candidates behaviour which Impact Recruiter’s decision. IEEE Transactions on Affective Computing 14(2) 969–985. https://doi.org/10.1109/taffc.2021.3113159",
+          "DOI": "10.1109/TAFFC.2021.3113159"
+        },
+        {
+          "key": "e_1_3_3_30_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Holm A. B. (2012). E-recruitment: Towards an ubiquitous recruitment process and candidate relationship management. German Journal of Human Resource Management-Zeitschrift Fur Personalforschung 26(3) 241–259. https://doi.org/10.1177/239700221202600303",
+          "DOI": "10.1177/239700221202600303"
+        },
+        {
+          "key": "e_1_3_3_31_1",
+          "first-page": "172",
+          "volume-title": "E-HRM: digital approaches, directions & applications",
+          "author": "Holm A. B.",
+          "year": "2019",
+          "unstructured": "Holm A. B., Haahr L. (2019). E-Recruitment & Selection. In Thite M. (Ed.), E-HRM: digital approaches, directions & applications (pp. 172–195). Routledge."
+        },
+        {
+          "key": "e_1_3_3_32_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jakupović A. Pavlić M. Han Z. D. (2014). Formalisation method for the text expressed knowledge. Expert Systems with Applications 41(11) 5308–5322. https://doi.org/10.1016/j.eswa.2014.03.006",
+          "DOI": "10.1016/j.eswa.2014.03.006"
+        },
+        {
+          "key": "e_1_3_3_33_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jiang T. Li Y. Fu S. Chen Y. (2023). Creating a Chinese gender lexicon for detecting gendered wording in job advertisements. Information Processing & Management 60(5) 103424. https://doi.org/10.1016/j.ipm.2023.103424",
+          "DOI": "10.1016/j.ipm.2023.103424"
+        },
+        {
+          "key": "e_1_3_3_34_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Joshila Grace L. K. Asha P. Shabu J. Refonaa J. Selvan M. P. (2023). Automated Interview through Online Video Interface. 1315–1321. Scopus. https://doi.org/10.1109/ICCPCT58313.2023.10245517",
+          "DOI": "10.1109/ICCPCT58313.2023.10245517"
+        },
+        {
+          "key": "e_1_3_3_35_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kaplan A. Haenlein M. (2019). Siri Siri in my hand: Who’s the fairest in the land? On the interpretations illustrations and implications of artificial intelligence. Business Horizons 62(1) 15–25. https://doi.org/10.1016/j.bushor.2018.08.004",
+          "DOI": "10.1016/j.bushor.2018.08.004"
+        },
+        {
+          "key": "e_1_3_3_36_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kilic H. S. Demirci A. E. Delen D. (2020). An integrated decision analysis methodology based on IF-DEMATEL and IF-ELECTRE for personnel selection. Decision Support Systems 137 113360. https://doi.org/10.1016/j.dss.2020.113360",
+          "DOI": "10.1016/j.dss.2020.113360"
+        },
+        {
+          "key": "e_1_3_3_37_1",
+          "volume-title": "Data science: Concepts and practice",
+          "author": "Kotu V.",
+          "year": "2019",
+          "unstructured": "Kotu V., Deshpande B. (Eds.). (2019). Data science: Concepts and practice (2nd ed.). Elsevier Morgan Kaufmann publishers.",
+          "edition": "2"
+        },
+        {
+          "key": "e_1_3_3_38_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lewis S. C. Zamith R. Hermida A. (2013). Content analysis in an era of big data: A hybrid approach to computational and manual methods. Journal of Broadcasting & Electronic Media 57(1) 34–52. https://doi.org/10.1080/08838151.2012.761702",
+          "DOI": "10.1080/08838151.2012.761702"
+        },
+        {
+          "key": "e_1_3_3_39_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Liu R. Li M. Sin S. Tan M. (2024). Ethical requirements in job advertisements: A deep learning approach. European Management Review 21 134–149. https://doi.org/10.1111/emre.12569",
+          "DOI": "10.1111/emre.12569"
+        },
+        {
+          "key": "e_1_3_3_40_1",
+          "unstructured": "Lohr S. (2016). IBM Is Counting on its Bet on Watson and Paying Big Money for it. New York Times. https://www.nytimes.com/2016/10/17/technology/ibm-is-counting-on-its-bet-on-watson-and-paying-big-money-for-it.html"
+        },
+        {
+          "key": "e_1_3_3_41_1",
+          "volume-title": "Foundations of statistical natural language processing",
+          "author": "Manning C. D.",
+          "year": "2005",
+          "unstructured": "Manning C. D., Schütze H. (Eds.). (2005). Foundations of statistical natural language processing (8. [print.] ed.). MIT Press."
+        },
+        {
+          "key": "e_1_3_3_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-662-12405-5"
+        },
+        {
+          "key": "e_1_3_3_43_1",
+          "volume-title": "Practical Text Mining and statistical analysis for non-structured text data applications",
+          "author": "Miner G. D.",
+          "year": "2012",
+          "unstructured": "Miner G. D., Delen D., Elder J., Fast A., Hill T., Nisbet R. A. (2012). Practical Text Mining and statistical analysis for non-structured text data applications. Academic Press."
+        },
+        {
+          "key": "e_1_3_3_44_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mnih V. Kavukcuoglu K. Silver D. Rusu A. A. Veness J. Bellemare M. G. Graves A. Riedmiller M. Fidjeland A. K. Ostrovski G. Petersen S. Beattie C. Sadik A. Antonoglou I. King H. Kumaran D. Wierstra D. Legg S. Hassabis D. (2015). Human-level control through deep reinforcement learning. Nature 518(7540) 529–533. https://doi.org/10.1038/nature14236",
+          "DOI": "10.1038/nature14236"
+        },
+        {
+          "key": "e_1_3_3_45_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mohd Jamaludin S. Z. Mohd Kasihmuddin M. S. Md Ismail A. I. Mansor M. A. Md Basir M. F. (2020). Energy based logic mining analysis with Hopfield Neural Network for recruitment evaluation. Entropy 23(1) 40. https://doi.org/10.3390/e23010040",
+          "DOI": "10.3390/e23010040"
+        },
+        {
+          "key": "e_1_3_3_46_1",
+          "volume-title": "The quest for artificial intelligence: A history of ideas and achievements",
+          "author": "Nilsson N. J.",
+          "year": "2010",
+          "unstructured": "Nilsson N. J. (2010). The quest for artificial intelligence: A history of ideas and achievements. Cambridge University Press."
+        },
+        {
+          "key": "e_1_3_3_47_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "OECD. (2022). OECD Framework for the Classification of AI systems (OECD Digital Economy Papers 323; OECD Digital Economy Papers Vol. 323). https://doi.org/10.1787/cb6d9eca-en",
+          "DOI": "10.1787/cb6d9eca-en"
+        },
+        {
+          "key": "e_1_3_3_48_1",
+          "unstructured": "OpenAI Blog. (2022). Introducing ChatGPT. https://openai.com/blog/chatgpt#OpenAI"
+        },
+        {
+          "key": "e_1_3_3_49_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Overgoor G. Chica M. Rand W. Weishampel A. (2019). Letting the computers take over: Using AI to solve marketing problems. California Management Review 61(4) 156–185. https://doi.org/10.1177/0008125619859318",
+          "DOI": "10.1177/0008125619859318"
+        },
+        {
+          "key": "e_1_3_3_50_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "O’Leary D. E. (2013). Artificial intelligence and big data. IEEE Intelligent Systems 28(2) 96–99. https://doi.org/10.1109/mis.2013.39",
+          "DOI": "10.1109/MIS.2013.39"
+        },
+        {
+          "key": "e_1_3_3_51_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Panagides R. K. Fu S. H. Jung S. H. Singh A. Eluvathingal Muttikkal R. T. Broad R. M. Meakem T. D. Hamilton R. A. (2024). Enhancing Literature Review Efficiency: A Case Study on using fine-tuned BERT for classifying focused ultrasound-related articles. AI 5(3) 1670–1683. https://doi.org/10.3390/ai5030081",
+          "DOI": "10.3390/ai5030081"
+        },
+        {
+          "key": "e_1_3_3_52_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pan Y. Froese F. J. (2023). An interdisciplinary review of AI and HRM: Challenges and future directions. Human Resource Management Review 33(1) 100924. https://doi.org/10.1016/j.hrmr.2022.100924",
+          "DOI": "10.1016/j.hrmr.2022.100924"
+        },
+        {
+          "key": "e_1_3_3_53_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pournader M. Ghaderi H. Hassanzadegan A. Fahimnia B. (2021). Artificial intelligence applications in supply chain management. International Journal of Production Economics 241 108250. https://doi.org/10.1016/j.ijpe.2021.108250",
+          "DOI": "10.1016/j.ijpe.2021.108250"
+        },
+        {
+          "key": "e_1_3_3_54_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Prikshat V. Islam M. Patel P. Malik A. Budhwar P. Gupta S. (2023). AI-Augmented HRM: Literature review and a proposed multilevel framework for future research. Technological Forecasting and Social Change 193 122645. https://doi.org/10.1016/j.techfore.2023.122645",
+          "DOI": "10.1016/j.techfore.2023.122645"
+        },
+        {
+          "key": "e_1_3_3_55_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rad D. Balas V. E. (2020). A novel fuzzy scoring approach of behavioural interviews in personnel selection. BRAIN. Broad Research in Artificial Intelligence and Neuroscience 11(2) 178–188. https://doi.org/10.18662/brain/11.2/81",
+          "DOI": "10.18662/brain/11.2/81"
+        },
+        {
+          "key": "e_1_3_3_56_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Raisch S. Krakowski S. (2020). Artificial Intelligence and management: The Automation-augmentation paradox. Academy of Management Review. 46(1). https://doi.org/10.5465/2018.0072",
+          "DOI": "10.5465/amr.2018.0072"
+        },
+        {
+          "key": "e_1_3_3_57_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ramos C. Augusto J. C. Shapiro D. (2008). Ambient intelligence—The next step for artificial intelligence. IEEE Intelligent Systems 23(2) 15–18. https://doi.org/10.1109/mis.2008.19",
+          "DOI": "10.1109/MIS.2008.19"
+        },
+        {
+          "key": "e_1_3_3_58_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rawat A. Malik S. Rawat S. Kumar D. Kumar P. (2021). A Systematic Literature Review (SLR) On The Beginning of Resume Parsing in HR Recruitment Process & SMART Advancements in Chronological Order. https://doi.org/10.21203/rs.3.rs-570370/v1",
+          "DOI": "10.21203/rs.3.rs-570370/v1"
+        },
+        {
+          "key": "e_1_3_3_59_1",
+          "volume-title": "Artificial intelligence: A modern approach",
+          "author": "Russell S. J.",
+          "year": "2021",
+          "unstructured": "Russell S. J., Norvig P. (Eds.). (2021). Artificial intelligence: A modern approach (fourth, global ition ed.). Pearson."
+        },
+        {
+          "key": "e_1_3_3_60_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Saghaei M. Ghaderi H. Soleimani H. (2020). Design and optimization of biomass electricity supply chain with uncertainty in material quality availability and market demand. Energy 197 117165. https://doi.org/10.1016/j.energy.2020.117165",
+          "DOI": "10.1016/j.energy.2020.117165"
+        },
+        {
+          "key": "e_1_3_3_61_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4135/9781412961288"
+        },
+        {
+          "key": "e_1_3_3_62_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sánchez-Monedero J. Dencik L. Edwards L. (2020). What does it mean to ‘solve’ the problem of discrimination in hiring?: Social technical and legal perspectives from the UK on automated hiring systems. Proceedings of the 2020 Conference on Fairness Accountability and Transparency 458–468. https://doi.org/10.1145/3351095.3372849",
+          "DOI": "10.1145/3351095.3372849"
+        },
+        {
+          "key": "e_1_3_3_63_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tecuci G. (2012). Artificial intelligence. WIREs Computational Statistics 4(2) 168–180. https://doi.org/10.1002/wics.200",
+          "DOI": "10.1002/wics.200"
+        },
+        {
+          "key": "e_1_3_3_64_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tian X. Pavur R. Han H. Zhang L. (2023). A machine learning-based human resources recruitment system for business process management: Using LSA BERT and SVM. Business Process Management Journal 29(1) 202–222. https://doi.org/10.1108/bpmj-08-2022-0389",
+          "DOI": "10.1108/BPMJ-08-2022-0389"
+        },
+        {
+          "key": "e_1_3_3_65_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tippins N. Oswald F. McPhail S. M. (2021). Scientific legal and ethical concerns about AI-Based personnel selection tools: A Call to Action. Personnel Assessment and Decisions 7(2) Article 1. https://doi.org/10.25035/pad.2021.02.001",
+          "DOI": "10.25035/pad.2021.02.001"
+        },
+        {
+          "key": "e_1_3_3_66_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Toorajipour R. Sohrabpour V. Nazarpour A. Oghazi P. Fischl M. (2021). Artificial intelligence in supply chain management: A systematic literature review. Journal of Business Research 122 502–517. https://doi.org/10.1016/j.jbusres.2020.09.009",
+          "DOI": "10.1016/j.jbusres.2020.09.009"
+        },
+        {
+          "key": "e_1_3_3_67_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Trappey A. J. C. Trappey C. V. Wu J.-L. Wang J. W. C. (2020). Intelligent compilation of patent summaries using machine learning and natural language processing techniques. Advanced Engineering Informatics 43 101027. https://doi.org/10.1016/j.aei.2019.101027",
+          "DOI": "10.1016/j.aei.2019.101027"
+        },
+        {
+          "key": "e_1_3_3_68_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vellido A. (1999). Neural networks in business: A survey of applications (1992–1998). Expert Systems with Applications 17(1) 51–70. https://doi.org/10.1016/s0957-4174(99)00016-0",
+          "DOI": "10.1016/S0957-4174(99)00016-0"
+        },
+        {
+          "key": "e_1_3_3_69_1",
+          "unstructured": "Vom Brocke J. Simons A. Niehaves B. Niehaves B. Reimer K. Plattfaut R. Cleven A. (2009). Reconstructing the giant: On the importance of rigour in documenting the literature search process. ECIS 2009 Proceedings. https://aisel.aisnet.org/ecis2009/161"
+        },
+        {
+          "key": "e_1_3_3_70_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Vrontis D. Christofi M. Pereira V. Tarba S. Makrides A. Trichina E. (2022). Artificial intelligence robotics advanced technologies and human resource management: A systematic review. International Journal of Human Resource Management 33(6) 1237–1266. https://doi.org/10.1080/09585192.2020.1871398",
+          "DOI": "10.1080/09585192.2020.1871398"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_3_3_71_1",
+          "article-title": "Analyzing the past to prepare for the Future: Writing a Literature Review",
+          "volume": "26",
+          "author": "Webster J.",
+          "year": "2002",
+          "unstructured": "Webster J., Watson R. T. (2002). Analyzing the past to prepare for the Future: Writing a Literature Review. MIS Quarterly, 26(2), xiii–xxiii.",
+          "journal-title": "MIS Quarterly"
+        },
+        {
+          "key": "e_1_3_3_72_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zanon L. G. Munhoz Arantes R. F. Calache L. D. D. R. Carpinetti L. C. R. (2020). A decision making model based on fuzzy inference to predict the impact of scor® indicators on customer perceived value. International Journal of Production Economics 223 107520. https://doi.org/10.1016/j.ijpe.2019.107520",
+          "DOI": "10.1016/j.ijpe.2019.107520"
+        },
+        {
+          "key": "e_1_3_3_73_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zazon D. Fink L. Gordon S. Nissim N. (2023). Can NeuroIS improve executive employee recruitment? Classifying levels of executive functions using resting state EEG and data science methods. Decision Support Systems 168 113930 https://doi.org/10.1016/j.dss.2023.113930",
+          "DOI": "10.1016/j.dss.2023.113930"
+        },
+        {
+          "key": "e_1_3_3_74_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Zarbakhshnia N. Soleimani H. Ghaderi H. (2018). Sustainable third-party reverse logistics provider evaluation and selection using fuzzy SWARA and developed fuzzy COPRAS in the presence of risk criteria. Applied Soft Computing 65 307–319. https://doi.org/10.1016/j.asoc.2018.01.023",
+          "DOI": "10.1016/j.asoc.2018.01.023"
+        }
+      ],
+      "container-title": [
+        "SAGE Open"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/21582440251361746",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/21582440251361746",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/21582440251361746",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            30
+          ]
+        ],
+        "date-time": "2026-04-30T23:26:43Z",
+        "timestamp": 1777591603000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/21582440251361746"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "references-count": 73,
+      "journal-issue": {
+        "issue": "3",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/21582440251361746"
+      ],
+      "URL": "https://doi.org/10.1177/21582440251361746",
+      "relation": {},
+      "ISSN": [
+        "2158-2440",
+        "2158-2440"
+      ],
+      "issn-type": [
+        {
+          "value": "2158-2440",
+          "type": "print"
+        },
+        {
+          "value": "2158-2440",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            1
+          ]
+        ]
+      },
+      "article-number": "21582440251361746"
+    }
+  }
+}

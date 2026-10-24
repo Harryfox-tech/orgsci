@@ -1,0 +1,199 @@
+[
+  {
+    "review_id": "A01", "study_type": "systematic review and bibliometric analysis",
+    "review_corpus_size": 255, "corpus_unit": "papers；作者报告", "coverage": "2015—2026-06-01；Scopus + Web of Science",
+    "date_note": "出版社及 Crossref：2026-10-15；OpenAlex 为 10-14，采用出版社日期。",
+    "use": "本次检索中很新的招聘专门综述，聚焦 AI virtual assistants；可查招聘各阶段及研究议程。",
+    "limit": "主题是招聘虚拟助手，不等于覆盖全部 AI 招聘；255 篇是作者报告的综述语料，尚未核查纳入清单与质量。",
+    "inspection": "出版社摘要、方法摘要和 Crossref 元数据；未读全文", "access": "出版社明确显示当前无全文权限", "full_text_status_override": "needs_institution",
+    "source_url": "https://www.emerald.com/samamj/article/doi/10.1108/SAMAMJ-06-2026-0038/1402260/AI-virtual-assistance-in-recruitment-a-systematic"
+  },
+  {
+    "review_id": "A02", "study_type": "systematic review and descriptive analysis",
+    "review_corpus_size": null, "coverage": "2020—2025-02；Scopus；最终篇数本轮未提取",
+    "use": "招聘与人员甄选的应用全景入口，适合先认识流程、技术和被评估的能力。",
+    "limit": "发表于 2026 年，但检索只到 2025 年 2 月；技术能被使用不等于测量有效性已得到证明。",
+    "inspection": "出版社正文的检索范围与摘要", "access": "开放 HTML；未下载 PDF",
+    "source_url": "https://link.springer.com/article/10.1007/s44163-026-01488-6"
+  },
+  {
+    "review_id": "A03", "study_type": "scoping review",
+    "review_corpus_size": null, "coverage": "摘要写 2018—2026；方法写 2020—2025，内部不一致；最终篇数未提取",
+    "use": "专门看 LLM 在招聘决策的哪些阶段应用、研究偏向哪些结果变量。",
+    "limit": "主题编码主要基于标题、摘要、关键词的明确词汇；不能据主题频数推断机制已经检验，也不能据未编码推断无人研究。",
+    "inspection": "开放正文摘要、方法与编码说明", "access": "开放正文入口；PMC 个别访问触发检查",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13021839/"
+  },
+  {
+    "review_id": "A04", "study_type": "systematic literature review with AI taxonomy",
+    "review_corpus_size": null, "coverage": "本轮未确认完整检索截止日与最终篇数",
+    "date_note": "online 2025-08-29；Crossref 的年度 issue 日期为 2025-01，不能当成实际上线日。",
+    "use": "把招聘与甄选流程同 AI 分类对应起来，适合搭建技术×组织流程矩阵。",
+    "limit": "摘要中未发现符合特定分类要求的先行综述，不是说 AI 招聘领域没有实证论文。",
+    "inspection": "出版社索引可读摘要和方法概述", "access": "出版社全文入口已定位；未逐节精读",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/21582440251361746"
+  },
+  {
+    "review_id": "A05", "study_type": "review and research agenda",
+    "review_corpus_size": null, "coverage": "2022 年的基础综述；本轮未提取截止日与最终篇数",
+    "use": "梳理招聘伦理、偏差、公平、透明与求职者相关问题；给新技术应用补上治理视角。",
+    "limit": "不覆盖后续生成式 AI 浪潮，须与 2025—2026 年的更新搭配。",
+    "inspection": "出版社摘要与开放 PDF 入口", "access": "出版社开放 PDF 入口；未下载",
+    "source_url": "https://link.springer.com/article/10.1007/s10551-022-05049-6"
+  },
+  {
+    "review_id": "B01", "study_type": "systematic literature review",
+    "review_corpus_size": 141, "corpus_unit": "studies；作者摘要报告", "coverage": "本轮未确认检索截止日；2026-10 出版",
+    "use": "LLM＋HRM 的近期总地图：区分判别式与生成式 LLM，并对应招聘、培训和分析等职能。",
+    "limit": "本轮仅核对出版社可索引摘要及 highlights；不能判断完整筛选、质量评价与全部研究议程。",
+    "inspection": "出版社摘要、highlights 与 Crossref 元数据；未读全文", "access": "直接访问返回 403；不能单凭 403 判定付费墙或不存在开放版本",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S0040162526002775"
+  },
+  {
+    "review_id": "B02", "study_type": "systematic review",
+    "review_corpus_size": 124, "corpus_unit": "included publications", "coverage": "2000—2025 年初；Scopus、WoS、EBSCO Business Source、ProQuest ABI",
+    "use": "最适合作为人才管理主线入口之一：用增强型与自主型 AI 区分招聘、发展、绩效和留任。",
+    "limit": "不是 Organization Science，而是 Organization Management Journal；作者提出的议程不能直接当成已证实的理论缺口。",
+    "inspection": "开放正文摘要、方法、结果框架", "access": "开放 HTML",
+    "source_url": "https://www.emerald.com/omj/article/23/2/183/1342688/Augmentative-or-autonomous-Reframing-artificial"
+  },
+  {
+    "review_id": "B03", "study_type": "systematic review with bibliometric and directed qualitative content analysis",
+    "review_corpus_size": 187, "corpus_unit": "journal articles", "coverage": "Scopus；检索执行于 2025-09；不把执行月份等同于所有月份文献均已覆盖",
+    "use": "紧贴能力治理：能力组合、任务情境、人机互补，以及能力管理系统的重构。",
+    "limit": "范围较宽且依赖单一索引；理论整合与作者推论不是因果识别或反馈闭环检验。",
+    "inspection": "开放正文摘要、筛选流程和方法", "access": "开放 HTML",
+    "source_url": "https://link.springer.com/article/10.1007/s44163-026-02055-9"
+  },
+  {
+    "review_id": "B04", "study_type": "systematic review",
+    "review_corpus_size": 43, "corpus_unit": "articles", "coverage": "2016—2024",
+    "use": "人才治理的 DEI 线：技术偏差、组织决策、人类监督、解释与参与。",
+    "limit": "定性综述不是元分析；也不覆盖 2025—2026 年所有新证据。",
+    "inspection": "出版社摘要与研究范围", "access": "开放正文入口已定位",
+    "source_url": "https://link.springer.com/article/10.1007/s11301-025-00580-y"
+  },
+  {
+    "review_id": "B05", "study_type": "review using PRISMA-ScR",
+    "review_corpus_size": 23, "corpus_unit": "empirical studies", "coverage": "2020—2025；作者报告八类数据库/平台，部分有重叠",
+    "use": "2026-10-14 的近期更新，聚焦全球人才管理整合 AI 的组织准备、战略与治理条件。",
+    "limit": "标题称 systematic review，方法采用 PRISMA-ScR；不是因为比旧综述新就覆盖更全。",
+    "inspection": "出版社摘要、方法摘要与日期", "access": "开放 HTML/PDF 入口；未下载",
+    "source_url": "https://sajhrm.co.za/index.php/sajhrm/article/view/3649"
+  },
+  {
+    "review_id": "B06", "study_type": "systematic review of empirical studies",
+    "review_corpus_size": 68, "corpus_unit": "empirical articles", "coverage": "Scopus；本轮未从正文文字确认准确截止日",
+    "use": "为 OrgSci 定位补组织行为框架：个人、团队与组织层次，人机协作、AI 观感、控制及劳动力市场。",
+    "limit": "不是招聘专门综述；只能作为组织理论入口，不能替代招聘与测评文献。",
+    "inspection": "正文第 2 节检索方法及表 1；68 为最终实证篇数，97 是排除综述/概念论文之前的数字", "access": "开放 HTML；作者机构亦有 PDF 入口",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/job.2735"
+  },
+  {
+    "review_id": "B07", "study_type": "interdisciplinary literature review",
+    "review_corpus_size": 184, "corpus_unit": "articles；作者报告", "coverage": "本轮未确认精确检索截止日",
+    "use": "HRM 与技术研究如何对话的基础总综述，适合识别概念、理论和方法上的断裂。",
+    "limit": "2023 年卷期，不代表覆盖 2023 年之后的 LLM 研究。",
+    "inspection": "出版社摘要与 Crossref 元数据", "access": "本轮未确认可读的完整正文",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S1053482222000420"
+  },
+  {
+    "review_id": "B08", "study_type": "technical survey",
+    "review_corpus_size": null, "coverage": "正式版 2025；作者 arXiv v3 修订于 2025-05-26；未确认统一检索截止日",
+    "date_note": "Crossref 卷期为 113(2)，2025-02；IEEE 记录另有 2025-06-06 出版日期。保留两者，不混为一日。",
+    "use": "技术覆盖面很广：人才、组织及劳动力市场数据、任务与算法；可作为数据与方法词典。",
+    "limit": "47 页不是 47 篇研究；技术预测模型不能直接作为候选人行为规则或组织机制。",
+    "inspection": "IEEE 元数据、摘要和作者 arXiv 版本记录", "access": "作者开放 arXiv 版本；未下载",
+    "source_url": "https://arxiv.org/abs/2307.03195", "additional_source_url": "https://doi.org/10.1109/JPROC.2025.3572744"
+  },
+  {
+    "review_id": "B09", "study_type": "integrative review",
+    "review_corpus_size": null, "coverage": "2020 年理论锚点；非 LLM 最新综述",
+    "use": "把人才治理从工具采用推进到算法控制、权力与劳动者应对。适合作为组织理论对话入口。",
+    "limit": "不是招聘专门综述，也不能代表 2026 年最新证据。",
+    "inspection": "出版社摘要和作者 PDF 入口", "access": "作者开放 PDF 入口；未下载",
+    "source_url": "https://journals.aom.org/doi/10.5465/annals.2018.0174", "additional_source_url": "https://mvalentine.github.io/pdfs/algorithms-at-work.pdf"
+  },
+  {
+    "review_id": "C01", "study_type": "narrative handbook chapter",
+    "review_corpus_size": null, "coverage": "2026-05-21 章节；未确认系统检索范围",
+    "use": "评估主线的近期全景章节：测评开发、实施、评分与报告，覆盖能力、人格、工作样本和面试。",
+    "limit": "叙述性手册章节，不是系统综述或元分析；目前只能基于出版社摘要判断阅读价值。",
+    "inspection": "出版社章节摘要及 Crossref 章节元数据；未读全文", "access": "出版社完整章节本轮未取得",
+    "source_url": "https://academic.oup.com/edited-volume/61791/chapter-abstract/563393235"
+  },
+  {
+    "review_id": "C02", "study_type": "question-led narrative review",
+    "review_corpus_size": null, "coverage": "2025-09-19 online；2026 年卷期；无本轮确认的 PRISMA 总语料数",
+    "use": "用十个问题讨论机器学习测评的效度、公平、解释和专业甄选标准。",
+    "limit": "作者对 ML 的积极结论属于需要检验的论证，不是所有工具均有效、公平或合规的保证；不作为法律建议。",
+    "inspection": "开放正文摘要、问题组织与表 1", "access": "开放 HTML",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.70025"
+  },
+  {
+    "review_id": "C03", "study_type": "systematic review and bibliometric analysis",
+    "review_corpus_size": 35, "corpus_unit": "included studies", "coverage": "2010 年起；EBSCO 平台的五类数据库，2022-03 检索，另有追溯检索",
+    "use": "与能力评估最直接相近：区分当前绩效和未来潜力，关注潜力评价、人才识别及偏差。",
+    "limit": "不是 GenAI 时代的最新证据；35 为最终纳入数，62 只是进入全文评价的数量。",
+    "inspection": "正文第 2.3—2.5 节与研究问题", "access": "开放正文/作者机构 PDF 入口；PMC 个别访问触发检查",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10073758/", "additional_source_url": "https://run.unl.pt/bitstream/10362/151288/1/AI_applied_potential_assessment_talent_identification_organisational_context.pdf"
+  },
+  {
+    "review_id": "C04", "study_type": "systematic literature review",
+    "review_corpus_size": null, "coverage": "本轮未从正文确认精确截止日和最终篇数",
+    "use": "把评估接到发展：培训需求识别、个性化训练路径、即时反馈、留任及未来技能需求。",
+    "limit": "不能因为自己的项目有反馈，就声称此前无人研究 AI 反馈或能力发展；这篇已明确讨论相关应用。",
+    "inspection": "出版社摘要与 highlights；未逐节读全文", "access": "出版社报告开放获取；未下载",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S2667096824000776"
+  },
+  {
+    "review_id": "C05", "study_type": "systematic literature review with quality and risk-of-bias assessment",
+    "review_corpus_size": 16, "corpus_unit": "作者报告的纳入研究；总体样本 n=2312", "coverage": "2000—2024-03-01；八类数据库；纳入研究主要发表于 2019—2024",
+    "date_note": "2025-02-20 首次 online；最终卷期为 2026，18(1):110—129，不能记为 17(1)。",
+    "use": "AI 教练与发展反馈的重要入口：目标追踪、使用体验、效果、伦理，以及质量评价和偏倚风险。",
+    "limit": "跨工作、教育、健康情境，并非纯员工样本。正文研究设计分类 7+3+5=15、风险分级 11+2+2=15，与所报16不完全一致；精读时须核表。不能笼统得出 AI 与人类教练等效。",
+    "inspection": "开放正文摘要、方法、结果、表 1 与期刊卷期", "access": "开放 HTML 与作者机构 PDF；未下载",
+    "source_url": "https://www.emerald.com/jwam/article/18/1/110/1254433/A-systematic-literature-review-of-artificial", "additional_source_url": "https://centaur.reading.ac.uk/121616/10/jwam-11-2024-0164.pdf"
+  },
+  {
+    "review_id": "C06", "study_type": "scoping review",
+    "review_corpus_size": 17, "corpus_unit": "empirical studies", "coverage": "本轮未确认准确检索截止日；2026-03-06 online",
+    "use": "更新 AI 教练的设计、采用与运行方式，关注目标设定、反思与反馈。",
+    "limit": "跨情境的设计综述；17 篇不是 17 项员工能力提升的随机试验。",
+    "inspection": "出版社可索引正文摘要与方法概述", "access": "出版社正文入口已定位；未逐节精读",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/17521882.2026.2640932"
+  },
+  {
+    "review_id": "C07", "study_type": "systematic mapping review",
+    "review_corpus_size": 42, "corpus_unit": "studies；从2072条中筛选", "coverage": "ACM、IEEE、PubMed、WoS；本轮未确认精确检索截止日",
+    "use": "个性化 AI 教练的系统地图，可补设计、个性化与评估方式。",
+    "limit": "健康场景占主导、工作场景少；55 是页数不是纳入篇数，不能把跨情境证据直接外推给求职者。",
+    "inspection": "作者机构摘要、ACM/Crossref 元数据", "access": "作者机构记录已定位；本轮未确认完整正文可读性",
+    "source_url": "https://researchers.mq.edu.au/en/publications/personalised-ai-coaching-technology-a-systematic-mapping-review/", "additional_source_url": "https://doi.org/10.1145/3820900"
+  },
+  {
+    "review_id": "C08", "study_type": "systematic literature review",
+    "review_corpus_size": 114, "corpus_unit": "peer-reviewed articles；作者摘要报告", "coverage": "1986—2025；管理、商业与心理学等领域；2026-08-25 online",
+    "use": "补足工作环境中反馈的认知、行为、个人与团队机制；适合作为员工反馈边界的入口。",
+    "limit": "virtual feedback 大于 AI feedback，不能将114篇都标为AI反馈研究；部分正文请求超时。",
+    "inspection": "出版社索引摘要与 Crossref 元数据；未逐节精读", "access": "出版社曾返回 HTML；后续段落请求超时，不据此判定全文不可得",
+    "source_url": "https://www.emerald.com/pr/article/doi/10.1108/PR-01-2024-0077/1393302/Rethinking-virtual-feedback-in-working"
+  },
+  {
+    "review_id": "D01", "study_type": "three-level meta-analysis",
+    "review_corpus_size": 85, "corpus_unit": "articles；387个效应量，9564名参与者", "coverage": "2015—2025；准确检索执行日未核实",
+    "date_note": "出版社 2026-05-04 已 online；Crossref print 为 2026-12，不用未来卷期月份替代首次发表日期。",
+    "use": "反馈影响自我调节学习的机制与异质性证据，可作为跨情境的学习机制补充。",
+    "limit": "高等教育，不是招聘或员工发展样本；不将平均效应量用于 ABM 直接校准。",
+    "inspection": "出版社摘要、范围和日期；未读全文", "access": "出版社明确显示订阅预览/机构登录", "full_text_status_override": "needs_institution",
+    "source_url": "https://link.springer.com/article/10.1007/s10648-026-10166-z"
+  },
+  {
+    "review_id": "D02", "study_type": "meta-analysis",
+    "review_corpus_size": 41, "corpus_unit": "studies；4813名学生", "coverage": "本轮未核实精确检索截止日；2025-09-24 online，2026 年卷期",
+    "use": "比较 AI 与人类反馈在表现、感知和学习倾向上的证据；适合识别结果变量。",
+    "limit": "教育证据，包含不同 AI 类型；总体不显著不等于证实等效，更不能推出 AI 招聘反馈等效。",
+    "inspection": "出版社可索引摘要与 Crossref 元数据；未读全文", "access": "直接访问返回 403；不单凭 403 推断付费墙",
+    "source_url": "https://www.tandfonline.com/doi/full/10.1080/01443410.2025.2553639"
+  }
+]

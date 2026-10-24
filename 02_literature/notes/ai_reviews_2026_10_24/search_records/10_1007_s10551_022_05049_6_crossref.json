@@ -1,0 +1,1262 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+    "checked_at": "2026-10-24T02:10:09.022194Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T00:47:59Z",
+        "timestamp": 1792716479486,
+        "version": "4.5.0"
+      },
+      "reference-count": 109,
+      "publisher": "Springer Science and Business Media LLC",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2022-02-08T00:00:00Z",
+            "timestamp": 1644278400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2022-02-08T00:00:00Z",
+            "timestamp": 1644278400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100005713",
+          "name": "Technische Universität München",
+          "doi-asserted-by": "crossref",
+          "id": [
+            {
+              "id": "10.13039/501100005713",
+              "id-type": "DOI",
+              "asserted-by": "crossref"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "J Bus Ethics"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            7
+          ]
+        ]
+      },
+      "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Companies increasingly deploy artificial intelligence (AI) technologies in their personnel recruiting and selection process to streamline it, making it faster and more efficient. AI applications can be found in various stages of recruiting, such as writing job ads, screening of applicant resumes, and analyzing video interviews via face recognition software. As these new technologies significantly impact people’s lives and careers but often trigger ethical concerns, the ethicality of these AI applications needs to be comprehensively understood. However, given the novelty of AI applications in recruiting practice, the subject is still an emerging topic in academic literature. To inform and strengthen the foundation for future research, this paper systematically reviews the extant literature on the ethicality of AI-enabled recruiting to date. We identify 51 articles dealing with the topic, which we synthesize by mapping the ethical opportunities, risks, and ambiguities, as well as the proposed ways to mitigate ethical risks in practice. Based on this review, we identify gaps in the extant literature and point out moral questions that call for deeper exploration in future research.</jats:p>",
+      "DOI": "10.1007/s10551-022-05049-6",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            8
+          ]
+        ],
+        "date-time": "2022-02-08T10:02:56Z",
+        "timestamp": 1644314576000
+      },
+      "page": "977-1007",
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 398,
+      "title": [
+        "Ethics of AI-Enabled Recruiting and Selection: A Review and Research Agenda"
+      ],
+      "prefix": "10.1007",
+      "volume": "178",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1932-5385",
+          "authenticated-orcid": false,
+          "given": "Anna Lena",
+          "family": "Hunkenschroer",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Christoph",
+          "family": "Luetge",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            8
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "5049_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "399",
+          "DOI": "10.1111/ijsa.12306",
+          "volume": "28",
+          "author": "Y Acikgoz",
+          "year": "2020",
+          "unstructured": "Acikgoz, Y., Davison, K. H., Compagnone, M., & Laske, M. (2020). Justice perceptions of artificial intelligence in selection. International Journal of Selection and Assessment, 28, 399–416. https://doi.org/10.1111/ijsa.12306",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "5049_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "53",
+          "DOI": "10.5093/jwop2019a7",
+          "volume": "35",
+          "author": "D Aguado",
+          "year": "2019",
+          "unstructured": "Aguado, D., Andrés, J. C., García-Izquierdo, A. L., & Rodríguez, J. (2019). LinkedIn “big four”: Job performance validation in the ICT Sector. Revista De Psicología Del Trabajo y De Las Organizaciones, 35, 53–64. https://doi.org/10.5093/jwop2019a7",
+          "journal-title": "Revista De Psicología Del Trabajo y De Las Organizaciones"
+        },
+        {
+          "key": "5049_CR3",
+          "doi-asserted-by": "publisher",
+          "first-page": "449",
+          "DOI": "10.1007/s10551-006-9039-z",
+          "volume": "68",
+          "author": "GS Alder",
+          "year": "2006",
+          "unstructured": "Alder, G. S., & Gilbert, J. (2006). Achieving ethics and fairness in hiring: Going beyond the law. Journal of Business Ethics, 68, 449–464. https://doi.org/10.1007/s10551-006-9039-z",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "671",
+          "DOI": "10.15779/Z38BG31",
+          "volume": "104",
+          "author": "S Barocas",
+          "year": "2016",
+          "unstructured": "Barocas, S., & Selbst, A. D. (2016). Big data’s disparate impact. California Law Review, 104, 671–732. https://doi.org/10.15779/Z38BG31",
+          "journal-title": "California Law Review"
+        },
+        {
+          "key": "5049_CR5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-51110-4",
+          "volume-title": "An introduction to ethics in robotics and AI",
+          "author": "C Bartneck",
+          "year": "2021",
+          "unstructured": "Bartneck, C., Luetge, C., Wagner, A., & Welsh, S. (2021). An introduction to ethics in robotics and AI. Berlin: Springer."
+        },
+        {
+          "key": "5049_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "601",
+          "DOI": "10.1177/0149206306289829",
+          "volume": "32",
+          "author": "TN Bauer",
+          "year": "2006",
+          "unstructured": "Bauer, T. N., Truxillo, D. M., Tucker, J. S., Weathers, V., Bertolino, M., Erdogan, B., et al. (2006). Selection in the information age: The impact of privacy concerns and computer experience on applicant reactions. Journal of Management, 32, 601–621. https://doi.org/10.1177/0149206306289829",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "5049_CR7",
+          "unstructured": "Bîgu, D., & Cernea, M.-V. (2019). Algorithmic bias in current hiring practices: An ethical examination. In 13th international management conference (IMC) on management strategies for hiph Performance, Bucharest, Romania, October 31-November 1."
+        },
+        {
+          "key": "5049_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "12",
+          "DOI": "10.25035/pad.2016.002",
+          "volume": "2",
+          "author": "N Blacksmith",
+          "year": "2016",
+          "unstructured": "Blacksmith, N., Willford, J. C., & Behrend, T. S. (2016). Technology in the employment interview: A meta-analysis and future research agenda. Personnel Assessment and Decisions, 2, 12–20.",
+          "journal-title": "Personnel Assessment and Decisions"
+        },
+        {
+          "key": "5049_CR9",
+          "unstructured": "Bogen, M. (2019). All the ways hiring algorithms can introduce bias. Harvard Business Review, May 6."
+        },
+        {
+          "key": "5049_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "1055",
+          "DOI": "10.15779/Z388P5V86M",
+          "volume": "105",
+          "author": "S Bornstein",
+          "year": "2017",
+          "unstructured": "Bornstein, S. (2017). Reckless discrimination. California Law Review, 105, 1055–1110. https://doi.org/10.15779/Z388P5V86M",
+          "journal-title": "California Law Review"
+        },
+        {
+          "key": "5049_CR11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2016.00863",
+          "author": "FS Brenner",
+          "year": "2016",
+          "unstructured": "Brenner, F. S., Ortner, T. M., & Fay, D. (2016). Asynchronous video interviewing as a new technology in personnel selection: The applicant’s point of view. Frontiers in Psychology. https://doi.org/10.3389/fpsyg.2016.00863",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "key": "5049_CR12",
+          "first-page": "1",
+          "volume-title": "Conference on fairness, accountability, and transparency",
+          "author": "J Buolamwini",
+          "year": "2018",
+          "unstructured": "Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. In S. Friedler & C. Wilson (Eds.), Conference on fairness, accountability, and transparency (Vol. 81, pp. 1–15). ACM."
+        },
+        {
+          "key": "5049_CR13",
+          "unstructured": "Cappelli, P. (2019). Data science can't fix hiring (yet). Harvard Business Review, May-June."
+        },
+        {
+          "key": "5049_CR14",
+          "unstructured": "Chamorro-Premuzic, T. (2019). Will AI reduce gender bias in hiring? Harvard Business Review, June 10."
+        },
+        {
+          "key": "5049_CR15",
+          "unstructured": "Chamorro-Premuzic, T., & Akhtar, R. (2019). Should companies use AI to assess job candidates? Harvard Business Review, May 17."
+        },
+        {
+          "key": "5049_CR16",
+          "doi-asserted-by": "publisher",
+          "first-page": "13",
+          "DOI": "10.1016/j.cobeha.2017.04.007",
+          "volume": "18",
+          "author": "T Chamorro-Premuzic",
+          "year": "2017",
+          "unstructured": "Chamorro-Premuzic, T., Akhtar, R., Winsborough, D., & Sherman, R. A. (2017). The datafication of talent: How technology is advancing the science of human potential at work. Current Opinion in Behavioral Sciences, 18, 13–16. https://doi.org/10.1016/j.cobeha.2017.04.007",
+          "journal-title": "Current Opinion in Behavioral Sciences"
+        },
+        {
+          "key": "5049_CR17",
+          "unstructured": "Chamorro-Premuzic, T., Polli, F., & Dattner, B. (2019). Building ethical AI for talent management. Harvard Business Review, November 21."
+        },
+        {
+          "issue": "3",
+          "key": "5049_CR18",
+          "doi-asserted-by": "publisher",
+          "first-page": "621",
+          "DOI": "10.1017/iop.2016.6",
+          "volume": "9",
+          "author": "T Chamorro-Premuzic",
+          "year": "2016",
+          "unstructured": "Chamorro-Premuzic, T., Winsborough, D., Sherman, R., & A., & Hogan, R. (2016). New talent signals: Shiny new objects or a brave new world? Industrial and Organizational Psychology, 9(3), 621–640.",
+          "journal-title": "Industrial and Organizational Psychology"
+        },
+        {
+          "key": "5049_CR19",
+          "doi-asserted-by": "publisher",
+          "first-page": "944",
+          "DOI": "10.1037/0021-9010.88.5.944",
+          "volume": "88",
+          "author": "DS Chapman",
+          "year": "2003",
+          "unstructured": "Chapman, D. S., Uggerslev, K. L., & Webster, J. (2003). Applicant reactions to face-to-face and technology-mediated interviews: A field investigation. The Journal of Applied Psychology, 88, 944–953. https://doi.org/10.1037/0021-9010.88.5.944",
+          "journal-title": "The Journal of Applied Psychology"
+        },
+        {
+          "key": "5049_CR20",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chwastek, R. (2017). Cognitive systems in human resources. In Y. Demazeau, J. Gao, G. Xu, J. Kozlak, K. Muller, I. Razzak, et al. (Eds.), 4th international conference on behavioral, economic advance in behavioral, economic, sociocultural computing, Krakow, Poland, October 16–18, 2017. New York: IEEE.",
+          "DOI": "10.1109/BESC.2017.8256384"
+        },
+        {
+          "key": "5049_CR21",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Corbett-Davies, S., Pierson, E., Feller, A., Goel, S., & Huq, A. (2017). Algorithmic decision making and the cost of fairness. In S. Matwin, S. Yu, & F. Farooq (Eds.), International conference on knowledge discovery and data mining, Halifax, NS, Canada, August 13–17 (pp. 797–806). New York: ACM. https://doi.org/10.1145/3097983.3098095.",
+          "DOI": "10.1145/3097983.3098095"
+        },
+        {
+          "key": "5049_CR22",
+          "unstructured": "Dattner, B., Chamorro-Premuzic, T., Buchband, R., & Schettler, L. (2019). The legal and ethical implications of using AI in hiring. Harvard Business Review, April 25."
+        },
+        {
+          "key": "5049_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "319",
+          "DOI": "10.2307/249008",
+          "volume": "13",
+          "author": "FD Davis",
+          "year": "1989",
+          "unstructured": "Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13, 319–340. https://doi.org/10.2307/249008",
+          "journal-title": "MIS Quarterly"
+        },
+        {
+          "key": "5049_CR24",
+          "doi-asserted-by": "publisher",
+          "first-page": "8",
+          "DOI": "10.1002/per.2092",
+          "volume": "31",
+          "author": "J De Cuyper",
+          "year": "2017",
+          "unstructured": "De Cuyper, J., De Houwer, J., Vansteelandt, K., Perugini, M., Pieters, G., Claes, L., et al. (2017). Using indirect measurement tasks to assess the self–concept of personality: A systematic review and meta–analyses. European Journal of Personality, 31, 8–41. https://doi.org/10.1002/per.2092",
+          "journal-title": "European Journal of Personality"
+        },
+        {
+          "issue": "2",
+          "key": "5049_CR25",
+          "doi-asserted-by": "publisher",
+          "first-page": "252",
+          "DOI": "10.2307/258705",
+          "volume": "19",
+          "author": "T Donaldson",
+          "year": "1994",
+          "unstructured": "Donaldson, T., & Dunfee, T. W. (1994). Toward a unified conception of business ethics: Integrative social contracts theory. Academy of Management Review, 19(2), 252–284.",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "5049_CR26",
+          "volume-title": "Ties that bind: A social contracts approach to business ethics",
+          "author": "T Donaldson",
+          "year": "1999",
+          "unstructured": "Donaldson, T., & Dunfee, T. W. (1999). Ties that bind: A social contracts approach to business ethics. Harvard Business Press."
+        },
+        {
+          "key": "5049_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "436",
+          "DOI": "10.1111/0045-3609.00092",
+          "volume": "105",
+          "author": "T Donaldson",
+          "year": "2000",
+          "unstructured": "Donaldson, T., & Dunfee, T. W. (2000). Precis for ties that bind. Business and Society Review, 105, 436–443. https://doi.org/10.1111/0045-3609.00092",
+          "journal-title": "Business and Society Review"
+        },
+        {
+          "key": "5049_CR28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dwork, C., Hardt, M., Pitassi, T., & Reingold, O. (2012). Fairness through awareness. In 3rd conference on innovations in theoretical computer science, Cambridge, MA, USA, January 8–10 (pp. 214–226).",
+          "DOI": "10.1145/2090236.2090255"
+        },
+        {
+          "key": "5049_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "199",
+          "DOI": "10.1515/pjbr-2020-0030",
+          "volume": "11",
+          "author": "C Fernández-Martínez",
+          "year": "2020",
+          "unstructured": "Fernández-Martínez, C., & Fernández, A. (2020). AI and recruiting software: Ethical and legal implications. Paladyn: Journal of Behavioral Robotics, 11, 199–216. https://doi.org/10.1515/pjbr-2020-0030",
+          "journal-title": "Paladyn: Journal of Behavioral Robotics"
+        },
+        {
+          "key": "5049_CR30",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Fjeld, J., Achten, N., Hilligoss, H., Nagy, A. C., & Srikumar, M. (2020). Principled artificial intelligence: Mapping consensus in ethical and rights-based approaches to principles for AI. Berkman Klein Center for Internet & Society.",
+          "DOI": "10.2139/ssrn.3518482"
+        },
+        {
+          "key": "5049_CR31",
+          "unstructured": "Florentine, S. (2016, December 22). How artificial intelligence can eliminate bias in hiring. CIO. . Retrieved Jul 20, 2020 from https://www.cio.com/article/3152798/how-artificial-intelligence-can-eliminate-bias-in-hiring.html."
+        },
+        {
+          "key": "5049_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "689",
+          "DOI": "10.1007/s11023-018-9482-5",
+          "volume": "28",
+          "author": "L Floridi",
+          "year": "2018",
+          "unstructured": "Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., et al. (2018). AI4People-An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations. Minds and Machines, 28, 689–707. https://doi.org/10.1007/s11023-018-9482-5",
+          "journal-title": "Minds and Machines"
+        },
+        {
+          "key": "5049_CR33",
+          "unstructured": "Gelles, R., McElfresh, D., & Mittu, A. (2018). Project report: Perceptions of AI in hiring. University of Maryland. Retrieved Dec 18, 2020 from https://anjali.mittudev.com/content/Fairness_in_AI.pdf."
+        },
+        {
+          "key": "5049_CR34",
+          "unstructured": "Giang, V. (2018, May 8). The potential hidden bias in automated hiring systems. Fast Company. . Retrieved Aug 13, 2020 from https://www.fastcompany.com/40566971/the-potential-hidden-bias-in-automated-hiring-systems."
+        },
+        {
+          "key": "5049_CR35",
+          "doi-asserted-by": "publisher",
+          "first-page": "99",
+          "DOI": "10.1007/s11023-020-09517-8",
+          "volume": "30",
+          "author": "T Hagendorff",
+          "year": "2020",
+          "unstructured": "Hagendorff, T. (2020). The ethics of AI ethics: An evaluation of guidelines. Minds and Machines, 30, 99–120. https://doi.org/10.1007/s11023-020-09517-8",
+          "journal-title": "Minds and Machines"
+        },
+        {
+          "key": "5049_CR36",
+          "unstructured": "Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. In 30th conference on neural information processing systems (NIPS), Barcelona, Spain, Dec 4–9 ."
+        },
+        {
+          "key": "5049_CR37",
+          "unstructured": "Hickok, M. (2020). Why was your job application rejected: Bias in recruitment algorithms? (Part 1). Retrieved Aug 13, 2020 from https://montrealethics.ai/why-was-your-job-application-rejected-bias-in-recruitment-algorithms-part-1/."
+        },
+        {
+          "key": "5049_CR38",
+          "unstructured": "High-Level Expert Group on Artificial Intelligence. (2019). Ethics guidelines for trustworthy AI. Retrieved Aug 13, 2020 from https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai."
+        },
+        {
+          "key": "5049_CR39",
+          "unstructured": "Hipps, C. (2019). Can AI reduce bias in talent selection? Training Journal, December, 22–24."
+        },
+        {
+          "key": "5049_CR40",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hoofnagle, C. J., King, J., Li, S., & Turow, J. (2010). How different are young adults from older adults when it comes to information privacy attitudes & policies? Retrieved Aug 13, 2020 from http://repository.upenn.edu/ascpapers/399.",
+          "DOI": "10.2139/ssrn.1589864"
+        },
+        {
+          "key": "5049_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "115345",
+          "DOI": "10.1109/ACCESS.2020.3004002",
+          "volume": "8",
+          "author": "M Jayaratne",
+          "year": "2020",
+          "unstructured": "Jayaratne, M., & Jayatilleke, B. (2020). Predicting personality using answers to open-ended interview questions. IEEE Access, 8, 115345–115355. https://doi.org/10.1109/ACCESS.2020.3004002",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "5049_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "73",
+          "DOI": "10.1108/IJM-06-2017-0138",
+          "volume": "40",
+          "author": "D Jeske",
+          "year": "2019",
+          "unstructured": "Jeske, D., & Shultz, K. S. (2019). Social media screening and content effects: Implications for job applicant reactions. International Journal of Manpower, 40, 73–86. https://doi.org/10.1108/IJM-06-2017-0138",
+          "journal-title": "International Journal of Manpower"
+        },
+        {
+          "key": "5049_CR43",
+          "doi-asserted-by": "publisher",
+          "first-page": "389",
+          "DOI": "10.1038/s42256-019-0088-2",
+          "volume": "1",
+          "author": "A Jobin",
+          "year": "2019",
+          "unstructured": "Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1, 389–399. https://doi.org/10.1038/s42256-019-0088-2",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "5049_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "707",
+          "DOI": "10.1007/s10551-014-2180-1",
+          "volume": "127",
+          "author": "DG Johnson",
+          "year": "2015",
+          "unstructured": "Johnson, D. G. (2015). Technology with no human responsibility? Journal of Business Ethics, 127, 707–715. https://doi.org/10.1007/s10551-014-2180-1",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/AMBPP.2019.210",
+          "author": "C Kaibel",
+          "year": "2019",
+          "unstructured": "Kaibel, C., Koch-Bayram, I., Biemann, T., & Mühlenbock, M. (2019). Applicant perceptions of hiring algorithms - Uniqueness and discrimination experiences as moderators. Academy of Management Proceedings. https://doi.org/10.5465/AMBPP.2019.210",
+          "journal-title": "Academy of Management Proceedings"
+        },
+        {
+          "key": "5049_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1016/j.bushor.2018.08.004",
+          "volume": "62",
+          "author": "A Kaplan",
+          "year": "2019",
+          "unstructured": "Kaplan, A., & Haenlein, M. (2019). Siri, Siri, in my hand: Who’s the fairest in the land? On the interpretations, illustrations, and implications of artificial intelligence. Business Horizons, 62, 15–25. https://doi.org/10.1016/j.bushor.2018.08.004",
+          "journal-title": "Business Horizons"
+        },
+        {
+          "issue": "3",
+          "key": "5049_CR47",
+          "first-page": "857",
+          "volume": "58",
+          "author": "PT Kim",
+          "year": "2017",
+          "unstructured": "Kim, P. T. (2017). Data-driven discrimination at work. William & Mary Law Review, 58(3), 857–937.",
+          "journal-title": "William & Mary Law Review"
+        },
+        {
+          "key": "5049_CR48",
+          "first-page": "93",
+          "volume": "63",
+          "author": "PT Kim",
+          "year": "2018",
+          "unstructured": "Kim, P. T., & Scott, S. (2018). Discrimination in online employment recruiting. Saint Louis University Law Journal, 63, 93.",
+          "journal-title": "Saint Louis University Law Journal"
+        },
+        {
+          "key": "5049_CR49",
+          "doi-asserted-by": "publisher",
+          "first-page": "1143",
+          "DOI": "10.1111/j.1559-1816.2011.00881.x",
+          "volume": "42",
+          "author": "DH Kluemper",
+          "year": "2012",
+          "unstructured": "Kluemper, D. H., Rosen, P. A., & Mossholder, K. W. (2012). Social networking websites, personality ratings, and the organizational context: More than meets the eye? Journal of Applied Social Psychology, 42, 1143–1172. https://doi.org/10.1111/j.1559-1816.2011.00881.x",
+          "journal-title": "Journal of Applied Social Psychology"
+        },
+        {
+          "key": "5049_CR50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12599-020-00673-w",
+          "author": "A Köchling",
+          "year": "2020",
+          "unstructured": "Köchling, A., Riazy, S., Wehner, M. C., & Simbeck, K. (2020). Highly accurate, but still discriminatory: A fairness evaluation of algorithmic video analysis in the recruitment context. Business & Information Systems Engineering. https://doi.org/10.1007/s12599-020-00673-w",
+          "journal-title": "Business & Information Systems Engineering"
+        },
+        {
+          "issue": "2",
+          "key": "5049_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "155",
+          "DOI": "10.1111/ijsa.12026",
+          "volume": "21",
+          "author": "U Konradt",
+          "year": "2013",
+          "unstructured": "Konradt, U., Warszta, T., & Ellwart, T. (2013). Fairness perceptions in web-based selection: Impact on applicants’ pursuit intentions, recommendation intentions, and intentions to reapply. International Journal of Selection and Assessment, 21(2), 155–169.",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "5049_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.2307/2529310",
+          "volume": "33",
+          "author": "JR Landis",
+          "year": "1977",
+          "unstructured": "Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. Biometrics, 33(1), 159–174.",
+          "journal-title": "Biometrics"
+        },
+        {
+          "key": "5049_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "19",
+          "DOI": "10.1016/j.chb.2017.11.036",
+          "volume": "81",
+          "author": "M Langer",
+          "year": "2018",
+          "unstructured": "Langer, M., König, C. J., & Fitili, A. (2018). Information as a double-edged sword: The role of computer experience and information on applicant reactions towards novel technologies for personnel selection. Computers in Human Behavior, 81, 19–30. https://doi.org/10.1016/j.chb.2017.11.036",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "5049_CR54",
+          "doi-asserted-by": "publisher",
+          "first-page": "271",
+          "DOI": "10.1108/JMP-03-2019-0156",
+          "volume": "35",
+          "author": "M Langer",
+          "year": "2020",
+          "unstructured": "Langer, M., König, C. J., & Hemsing, V. (2020). Is anybody listening? The impact of automatically evaluated job interviews on impression management and applicant reactions. Journal of Managerial Psychology, 35, 271–284. https://doi.org/10.1108/JMP-03-2019-0156",
+          "journal-title": "Journal of Managerial Psychology"
+        },
+        {
+          "key": "5049_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "217",
+          "DOI": "10.1111/ijsa.12246",
+          "volume": "27",
+          "author": "M Langer",
+          "year": "2019",
+          "unstructured": "Langer, M., König, C. J., & Papathanasiou, M. (2019a). Highly automated job interviews: Acceptance under the influence of stakes. International Journal of Selection and Assessment, 27, 217–234. https://doi.org/10.1111/ijsa.12246",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "5049_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "301",
+          "DOI": "10.1108/JMP-09-2018-0402",
+          "volume": "35",
+          "author": "M Langer",
+          "year": "2019",
+          "unstructured": "Langer, M., König, C. J., Sanchez, D.R.-P., & Samadi, S. (2019b). Highly automated interviews: Applicant reactions and the organizational context. Journal of Managerial Psychology, 35, 301–314. https://doi.org/10.1108/JMP-09-2018-0402",
+          "journal-title": "Journal of Managerial Psychology"
+        },
+        {
+          "key": "5049_CR57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2053951718756684",
+          "author": "MK Lee",
+          "year": "2018",
+          "unstructured": "Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. Big Data & Society. https://doi.org/10.1177/2053951718756684",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "key": "5049_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1007/s10551-019-04204-w",
+          "volume": "160",
+          "author": "U Leicht-Deobald",
+          "year": "2019",
+          "unstructured": "Leicht-Deobald, U., Busch, T., Schank, C., Weibel, A., Schafheitle, S., Wildhaber, I., et al. (2019). The challenges of algorithm-based HR decision-making for personal integrity. Journal of Business Ethics, 160, 377–392. https://doi.org/10.1007/s10551-019-04204-w",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "issue": "4",
+          "key": "5049_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "611",
+          "DOI": "10.1007/s13347-017-0279-x",
+          "volume": "31",
+          "author": "B Lepri",
+          "year": "2018",
+          "unstructured": "Lepri, B., Oliver, N., Letouzé, E., Pentland, A., & Vinck, P. (2018). Fair, transparent, and accountable algorithmic decision-making processes. Philosophy & Technology, 31(4), 611–627.",
+          "journal-title": "Philosophy & Technology"
+        },
+        {
+          "key": "5049_CR60",
+          "unstructured": "Lewis, N. (2018, November 12). Will AI remove hiring bias? Strategic HR Review. Retrieved July 20, 2020 from https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/will-ai-remove-hiring-bias-hr-technology.aspx."
+        },
+        {
+          "key": "5049_CR61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s13347-020-00406-7",
+          "author": "Y-T Lin",
+          "year": "2020",
+          "unstructured": "Lin, Y.-T., Hung, T.-W., & Huang, L.T.-L. (2020). Engineering equity: How AI can help reduce the harm of implicit bias. Philosophy & Technology. https://doi.org/10.1007/s13347-020-00406-7",
+          "journal-title": "Philosophy & Technology"
+        },
+        {
+          "key": "5049_CR62",
+          "unstructured": "Mann, G., & O’Neil, C. (2016). Hiring algorithms are not neutral. Harvard Business Review, December 9."
+        },
+        {
+          "key": "5049_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "551",
+          "DOI": "10.1007/s10551-015-2565-9",
+          "volume": "137",
+          "author": "K Martin",
+          "year": "2016",
+          "unstructured": "Martin, K. (2016). Understanding privacy online: Development of a social contract approach to privacy. Journal of Business Ethics, 137, 551–569. https://doi.org/10.1007/s10551-015-2565-9",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "835",
+          "DOI": "10.1007/s10551-018-3921-3",
+          "volume": "160",
+          "author": "K Martin",
+          "year": "2018",
+          "unstructured": "Martin, K. (2018). Ethical implications and accountability of algorithms. Journal of Business Ethics, 160, 835–850. https://doi.org/10.1007/s10551-018-3921-3",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "501",
+          "DOI": "10.1038/s42256-019-0114-4",
+          "volume": "1",
+          "author": "B Mittelstadt",
+          "year": "2019",
+          "unstructured": "Mittelstadt, B. (2019). Principles alone cannot guarantee ethical AI. Nature Machine Intelligence, 1, 501–507. https://doi.org/10.1038/s42256-019-0114-4",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "5049_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "205395171667967",
+          "DOI": "10.1177/2053951716679679",
+          "volume": "3",
+          "author": "BD Mittelstadt",
+          "year": "2016",
+          "unstructured": "Mittelstadt, B. D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. Big Data & Society, 3, 205395171667967. https://doi.org/10.1177/2053951716679679",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "key": "5049_CR67",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Mujtaba, D. F., & Mahapatra, N. R. (2019). Ethical considerations in AI-based recruitment. In M. Cunningham & P. Cunningham (Eds.), IEEE International Symposium on Technology in Society, Medford, MA, USA, November 15–16 (pp. 1–7). IEEE. https://doi.org/10.1109/ISTAS48451.2019.8937920.",
+          "DOI": "10.1109/ISTAS48451.2019.8937920"
+        },
+        {
+          "key": "5049_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1016/j.obhdp.2020.03.008",
+          "volume": "160",
+          "author": "DT Newman",
+          "year": "2020",
+          "unstructured": "Newman, D. T., Fast, N. J., & Harmon, D. J. (2020). When eliminating bias isn’t fair: Algorithmic reductionism and procedural justice in human resource decisions. Organizational Behavior and Human Decision Processes, 160, 149–167. https://doi.org/10.1016/j.obhdp.2020.03.008",
+          "journal-title": "Organizational Behavior and Human Decision Processes"
+        },
+        {
+          "issue": "1",
+          "key": "5049_CR69",
+          "first-page": "119",
+          "volume": "79",
+          "author": "H Nissenbaum",
+          "year": "2004",
+          "unstructured": "Nissenbaum, H. (2004). Privacy as contextual integrity. Washington Law Review, 79(1), 119–158.",
+          "journal-title": "Washington Law Review"
+        },
+        {
+          "key": "5049_CR70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1515/9780804772891",
+          "volume-title": "Privacy in context: Technology, policy, and the integrity of social life",
+          "author": "H Nissenbaum",
+          "year": "2009",
+          "unstructured": "Nissenbaum, H. (2009). Privacy in context: Technology, policy, and the integrity of social life. Stanford University."
+        },
+        {
+          "key": "5049_CR71",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4135/9781412985000",
+          "volume-title": "Meta-ethnography: Synthesizing qualitative studies",
+          "author": "GW Noblit",
+          "year": "1988",
+          "unstructured": "Noblit, G. W., & Hare, R. D. (1988). Meta-ethnography: Synthesizing qualitative studies. Sage."
+        },
+        {
+          "key": "5049_CR72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551-019-04143-6",
+          "author": "A North-Samardzic",
+          "year": "2019",
+          "unstructured": "North-Samardzic, A. (2019). Biometric technology and ethics: Beyond security applications. Journal of Business Ethics. https://doi.org/10.1007/s10551-019-04143-6",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "505",
+          "DOI": "10.1146/annurev-orgpsych-032117-104553",
+          "volume": "7",
+          "author": "FL Oswald",
+          "year": "2020",
+          "unstructured": "Oswald, F. L., Behrend, T. S., Putka, D. J., & Sinar, E. (2020). Big data in industrial-organizational psychology and human resource management: Forward progress for organizational research and practice. Annual Review of Organizational Psychology and Organizational Behavior, 7, 505–533. https://doi.org/10.1146/annurev-orgpsych-032117-104553",
+          "journal-title": "Annual Review of Organizational Psychology and Organizational Behavior"
+        },
+        {
+          "key": "5049_CR74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/MD-02-2019-0244",
+          "author": "B Ozkazanc-Pan",
+          "year": "2019",
+          "unstructured": "Ozkazanc-Pan, B. (2019). Diversity and future of work: Inequality abound or opportunities for all? Management Decision. https://doi.org/10.1108/MD-02-2019-0244",
+          "journal-title": "Management Decision"
+        },
+        {
+          "key": "5049_CR75",
+          "doi-asserted-by": "publisher",
+          "first-page": "215",
+          "DOI": "10.1177/0093650211418338",
+          "volume": "40",
+          "author": "YJ Park",
+          "year": "2013",
+          "unstructured": "Park, Y. J. (2013). Digital literacy and privacy behavior online. Communication Research, 40, 215–236. https://doi.org/10.1177/0093650211418338",
+          "journal-title": "Communication Research"
+        },
+        {
+          "key": "5049_CR76",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Pena, A., Serna, I., Morales, A., & Fierrez, J. (2020). Bias in multimodal AI: Testbed for fair automatic recruitment. In 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, June 14–19 (pp. 129–137). IEEE. https://doi.org/10.1109/CVPRW50498.2020.00022.",
+          "DOI": "10.1109/CVPRW50498.2020.00022"
+        },
+        {
+          "key": "5049_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "212",
+          "DOI": "10.1007/978-3-319-55783-0_15",
+          "volume-title": "Privacy and identity management. Facing up to next steps",
+          "author": "A Persson",
+          "year": "2016",
+          "unstructured": "Persson, A. (2016). Implicit bias in predictive data profiling within recruitments. In A. Lehmann, D. Whitehouse, S. Fischer-Hübner, L. Fritsch, & C. Raab (Eds.), Privacy and identity management. Facing up to next steps (Vol. 498, pp. 212–230). Cham: Springer."
+        },
+        {
+          "key": "5049_CR78",
+          "doi-asserted-by": "publisher",
+          "first-page": "733",
+          "DOI": "10.1111/j.1744-6570.2003.tb00757.x",
+          "volume": "56",
+          "author": "RE Ployhart",
+          "year": "2003",
+          "unstructured": "Ployhart, R. E., Weekley, J. A., Holtz, B. C., & Kemp, C. (2003). Web-based and paper-and-pencil testing of applicants in a proctored setting: Are personality, biodata, and situational judgement tests comparable? Personnel Psychology, 56, 733–752.",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "5049_CR79",
+          "unstructured": "Polli, F. (2019). Using AI to eliminate bias from hiring. Harvard Business Review, October 29."
+        },
+        {
+          "issue": "4",
+          "key": "5049_CR80",
+          "first-page": "13",
+          "volume": "10",
+          "author": "F Polli",
+          "year": "2019",
+          "unstructured": "Polli, F., Dolphin, J., & Kassir, S. (2019). On the basis of brains: How neuroscience and AI advance ethical hiring. Workforce Solutions Review, 10(4), 13–15.",
+          "journal-title": "Workforce Solutions Review"
+        },
+        {
+          "key": "5049_CR81",
+          "doi-asserted-by": "publisher",
+          "first-page": "105",
+          "DOI": "10.1515/mspe-2019-0018",
+          "volume": "27",
+          "author": "K Rąb-Kettler",
+          "year": "2019",
+          "unstructured": "Rąb-Kettler, K., & Lehnervp, B. (2019). Recruitment in the times of machine learning. Management Systems in Production Engineering, 27, 105–109. https://doi.org/10.1515/mspe-2019-0018",
+          "journal-title": "Management Systems in Production Engineering"
+        },
+        {
+          "key": "5049_CR82",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Raghavan, M., Barocas, S., Kleinberg, J., & Levy, K. (2020). Mitigating bias in algorithmic hiring: Evaluating claims and practices. In Conference on fairness, accountability, and transparency, Barcelona, Spain, January 27–30. New York: Association for Computing Machinery.",
+          "DOI": "10.1145/3351095.3372828"
+        },
+        {
+          "key": "5049_CR83",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Raji, I. D., & Buolamwini, J. (2019). Actionable auditing. In V. Conitzer, G. Hadfield, & S. Vallor (Eds.), AAAI/ACM conference on AI, ethics, and society, Honolulu, HI, USA, January 27–28 (pp. 429–435). New York: ACM. https://doi.org/10.1145/3306618.3314244.",
+          "DOI": "10.1145/3306618.3314244"
+        },
+        {
+          "issue": "04",
+          "key": "5049_CR84",
+          "first-page": "2020",
+          "volume": "17",
+          "author": "Recruitment & Employment Confederation",
+          "year": "2020",
+          "unstructured": "Recruitment & Employment Confederation. (2020). Indiscriminate robots. Recruiter - News & Business Intelligence for Recruiters, 17(04), 2020.",
+          "journal-title": "Recruiter - News & Business Intelligence for Recruiters"
+        },
+        {
+          "key": "5049_CR85",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Rhue, L. (2018). Racial influence on automated perceptions of emotions. Social Science Research Network. SSRN 3281765.",
+          "DOI": "10.2139/ssrn.3281765"
+        },
+        {
+          "issue": "2",
+          "key": "5049_CR86",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.5093/jwop2019a10",
+          "volume": "35",
+          "author": "AM Ryan",
+          "year": "2019",
+          "unstructured": "Ryan, A. M., & Derous, E. (2019). The unrealized potential of technology in selection assessment. Journal of Work and Organizational Psychology, 35(2), 85–92.",
+          "journal-title": "Journal of Work and Organizational Psychology"
+        },
+        {
+          "key": "5049_CR87",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Sánchez-Monedero, J., Dencik, L., & Edwards, L. (2020). What does it mean to ‘solve’ the problem of discrimination in hiring? Social, technical and legal perspectives from the UK on automated hiring systems. In Conference on Fairness, Accountability, and Transparency, Barcelona, Spain, January 27–30 (pp. 458–468). New York: Association for Computing Machinery. https://doi.org/10.1145/3351095.3372849.",
+          "DOI": "10.1145/3351095.3372849"
+        },
+        {
+          "key": "5049_CR88",
+          "first-page": "34",
+          "volume": "32",
+          "author": "DD Savage",
+          "year": "2017",
+          "unstructured": "Savage, D. D., & Bales, R. (2017). Video games in job interviews: Using algorithms to minimize discrimination and unconscious bias. ABA Journal of Labor & Employment Law, 32, 34.",
+          "journal-title": "ABA Journal of Labor & Employment Law"
+        },
+        {
+          "key": "5049_CR89",
+          "unstructured": "Schumann, C., Foster, J. S., Mattei, N., & Dickerson, J. P. (2020). We need fairness and explainability in algorithmic hiring. In B. An, N. Yorke-Smith, A. El Fallah Seghrouchni, & G. Sukthankar (Eds.), 19th international conference on autonomous agents and multiagent systems (AAMAS 2020), Auckland, New Zealand, May 9–13 ."
+        },
+        {
+          "key": "5049_CR90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551-019-04371-w",
+          "author": "P Seele",
+          "year": "2019",
+          "unstructured": "Seele, P., Dierksmeier, C., Hofstetter, R., & Schultz, M. D. (2019). Mapping the ethicality of algorithmic pricing: A review of dynamic and personalized pricing. Journal of Business Ethics. https://doi.org/10.1007/s10551-019-04371-w",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "issue": "4/5",
+          "key": "5049_CR91",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1147/JRD.2019.2915067",
+          "volume": "63",
+          "author": "K Simbeck",
+          "year": "2019",
+          "unstructured": "Simbeck, K. (2019). HR analytics and ethics. IBM Journal of Research and Development, 63(4/5), 1–12.",
+          "journal-title": "IBM Journal of Research and Development"
+        },
+        {
+          "key": "5049_CR92",
+          "doi-asserted-by": "publisher",
+          "first-page": "185",
+          "DOI": "10.1023/A:1006457810654",
+          "volume": "30",
+          "author": "MJ Somers",
+          "year": "2001",
+          "unstructured": "Somers, M. J. (2001). Ethical codes of conduct and organizational context: A study of the relationship between codes of conduct, employee behavior and organizational values. Journal of Business Ethics, 30, 185–195.",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "5049_CR93",
+          "doi-asserted-by": "publisher",
+          "first-page": "451",
+          "DOI": "10.5465/annals.2015.0101",
+          "volume": "11",
+          "author": "R Suddaby",
+          "year": "2017",
+          "unstructured": "Suddaby, R., Bitektine, A., & Haack, P. (2017). Legitimacy. Academy of Management Annals, 11, 451–478. https://doi.org/10.5465/annals.2015.0101",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "key": "5049_CR94",
+          "doi-asserted-by": "publisher",
+          "first-page": "93",
+          "DOI": "10.1016/j.chb.2019.04.012",
+          "volume": "98",
+          "author": "H-Y Suen",
+          "year": "2019",
+          "unstructured": "Suen, H.-Y., Chen, M.Y.-C., & Lu, S.-H. (2019). Does the use of synchrony and artificial intelligence in video interviews affect interview ratings and applicant attitudes? Computers in Human Behavior, 98, 93–101. https://doi.org/10.1016/j.chb.2019.04.012",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "5049_CR95",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "volume": "61",
+          "author": "P Tambe",
+          "year": "2019",
+          "unstructured": "Tambe, P., Cappelli, P., & Yakubovich, V. (2019). Artificial intelligence in human resources management: Challenges and a path forward. California Management Review, 61, 15–42. https://doi.org/10.1177/0008125619867910",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "5049_CR96",
+          "doi-asserted-by": "publisher",
+          "first-page": "59",
+          "DOI": "10.1007/s10799-012-0117-x",
+          "volume": "13",
+          "author": "MT Thielsch",
+          "year": "2012",
+          "unstructured": "Thielsch, M. T., Träumer, L., & Pytlik, L. (2012). E-recruiting and fairness: The applicant’s point of view. Information Technology and Management, 13, 59–67. https://doi.org/10.1007/s10799-012-0117-x",
+          "journal-title": "Information Technology and Management"
+        },
+        {
+          "key": "5049_CR97",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Tolmeijer, S., Kneer, M., Sarasua, C., Christen, M., & Bernstein, A. (2020). Implementations in machine ethics: A survey. ACM Computing Surveys, 53, Article 132. https://doi.org/10.1145/3419633.",
+          "DOI": "10.1145/3419633"
+        },
+        {
+          "key": "5049_CR98",
+          "unstructured": "University of Montreal. (2018). Montreal declaration for a responsible development of artificial intelligence. https://www.montrealdeclaration-responsibleai.com/the-declaration."
+        },
+        {
+          "key": "5049_CR99",
+          "unstructured": "van den Broek, E., Sergeeva, A., & Huysman, M. (2019). Hiring algorithms: An ethnography of fairness in practice. In 40th international conference on information systems, Munich, Germany, December 15–18 (Vol. 6)."
+        },
+        {
+          "key": "5049_CR100",
+          "doi-asserted-by": "publisher",
+          "first-page": "729",
+          "DOI": "10.1016/j.bushor.2019.07.004",
+          "volume": "62",
+          "author": "P van Esch",
+          "year": "2019",
+          "unstructured": "van Esch, P., & Black, J. S. (2019). Factors that influence new generation candidates to engage with and complete digital, AI-enabled recruiting. Business Horizons, 62, 729–739. https://doi.org/10.1016/j.bushor.2019.07.004",
+          "journal-title": "Business Horizons"
+        },
+        {
+          "key": "5049_CR101",
+          "doi-asserted-by": "publisher",
+          "first-page": "1811",
+          "DOI": "10.1177/0149206313515524",
+          "volume": "42",
+          "author": "CH van Iddekinge",
+          "year": "2016",
+          "unstructured": "van Iddekinge, C. H., Lanivich, S. E., Roth, P. L., & Junco, E. (2016). Social media for selection? Validity and adverse impact potential of a Facebook-based assessment. Journal of Management, 42, 1811–1835. https://doi.org/10.1177/0149206313515524",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "5049_CR102",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Vasconcelos, M., Cardonha, C., & Gonçalves, B. (2018). Modeling epistemological principles for bias mitigation in AI systems: An illustration in hiring decisions. In J. Furman, G. Marchant, H. Price, & F. Rossi (Eds.), AAAI/ACM Conference on AI, Ethics, and Society, New Orleans, LA, USA, February 2–3 (pp. 323–329). New York: ACM. https://doi.org/10.1145/3278721.3278751.",
+          "DOI": "10.1145/3278721.3278751"
+        },
+        {
+          "issue": "3",
+          "key": "5049_CR103",
+          "doi-asserted-by": "publisher",
+          "first-page": "425",
+          "DOI": "10.2307/30036540",
+          "volume": "27",
+          "author": "V Venkatesh",
+          "year": "2003",
+          "unstructured": "Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478.",
+          "journal-title": "MIS Quarterly"
+        },
+        {
+          "key": "5049_CR104",
+          "doi-asserted-by": "publisher",
+          "first-page": "215",
+          "DOI": "10.1111/1468-2389.00245",
+          "volume": "11",
+          "author": "D Wiechmann",
+          "year": "2003",
+          "unstructured": "Wiechmann, D., & Ryan, A. M. (2003). Reactions to computerized testing in selection contexts. International Journal of Selection and Assessment, 11, 215–229.",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "key": "5049_CR105",
+          "unstructured": "Wiggers, K. (2020, March 13). AI weekly: Coronavirus spurs adoption of AI-powered candidate recruitment and screening tools. VentureBeat. Retrieved July 20, 2020 from https://venturebeat.com/2020/03/13/ai-weekly-coronavirus-spurs-adoption-of-ai-powered-candidate-recruitment-and-screening-tools/."
+        },
+        {
+          "key": "5049_CR106",
+          "doi-asserted-by": "publisher",
+          "first-page": "78",
+          "DOI": "10.5325/jinfopoli.8.2018.0078",
+          "volume": "8",
+          "author": "B Williams",
+          "year": "2018",
+          "unstructured": "Williams, B., Brooks, C. F., & Shmargad, Y. (2018). How algorithms discriminate based on data they lack: Challenges, solutions, and policy implications. Journal of Information Policy, 8, 78. https://doi.org/10.5325/jinfopoli.8.2018.0078",
+          "journal-title": "Journal of Information Policy"
+        },
+        {
+          "key": "5049_CR107",
+          "doi-asserted-by": "publisher",
+          "first-page": "64",
+          "DOI": "10.1080/1359432X.2019.1681401",
+          "volume": "29",
+          "author": "SA Woods",
+          "year": "2020",
+          "unstructured": "Woods, S. A., Ahmed, S., Nikolaou, I., Costa, A. C., & Anderson, N. R. (2020). Personnel selection in the digital age: A review of validity and applicant reactions, and future research challenges. European Journal of Work and Organizational Psychology, 29, 64–77. https://doi.org/10.1080/1359432X.2019.1681401",
+          "journal-title": "European Journal of Work and Organizational Psychology"
+        },
+        {
+          "key": "5049_CR108",
+          "doi-asserted-by": "publisher",
+          "first-page": "383",
+          "DOI": "10.1108/OIR-10-2018-0334",
+          "volume": "44",
+          "author": "L Yarger",
+          "year": "2020",
+          "unstructured": "Yarger, L., Cobb Payton, F., & Neupane, B. (2020). Algorithmic equity in the hiring of underrepresented IT job candidates. Online Information Review, 44, 383–395. https://doi.org/10.1108/OIR-10-2018-0334",
+          "journal-title": "Online Information Review"
+        },
+        {
+          "key": "5049_CR109",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Zafar, M. B., Valera, I., Gomez Rodriguez, M., & Gummadi, K. P. (2017). Fairness beyond disparate treatment & disparate impact: Learning classification without disparate mistreatment. In R. Barrett, R. Cummings, E. Agichtein, & E. Gabrilovich (Eds.), 26th International World Wide Web Conference, Perth, Australia, April 3-7 (pp. 1171–1180). Geneva, Switzerland: International World Wide Web Conferences Steering Committee. https://doi.org/10.1145/3038912.3052660.",
+          "DOI": "10.1145/3038912.3052660"
+        }
+      ],
+      "container-title": [
+        "Journal of Business Ethics"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s10551-022-05049-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s10551-022-05049-6/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s10551-022-05049-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2023,
+            11,
+            17
+          ]
+        ],
+        "date-time": "2023-11-17T00:28:01Z",
+        "timestamp": 1700180881000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s10551-022-05049-6"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            8
+          ]
+        ]
+      },
+      "references-count": 109,
+      "journal-issue": {
+        "issue": "4",
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              7
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "5049"
+      ],
+      "URL": "https://doi.org/10.1007/s10551-022-05049-6",
+      "relation": {},
+      "ISSN": [
+        "0167-4544",
+        "1573-0697"
+      ],
+      "issn-type": [
+        {
+          "value": "0167-4544",
+          "type": "print"
+        },
+        {
+          "value": "1573-0697",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "24 September 2020",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "25 January 2022",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "8 February 2022",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Declarations"
+          }
+        },
+        {
+          "value": "The authors declare they have no conflict of interest.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Conflict of interest"
+          }
+        },
+        {
+          "value": "This article does not contain studies with human participants performed by the authors.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethical Approval"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1165 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+    "checked_at": "2026-10-24T02:10:11.876467Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            9
+          ]
+        ],
+        "date-time": "2026-10-09T04:40:37Z",
+        "timestamp": 1791520837014,
+        "version": "4.3.4"
+      },
+      "reference-count": 82,
+      "publisher": "Springer Science and Business Media LLC",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                8
+              ]
+            ],
+            "date-time": "2026-01-08T00:00:00Z",
+            "timestamp": 1767830400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                8
+              ]
+            ],
+            "date-time": "2026-01-08T00:00:00Z",
+            "timestamp": 1767830400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100009594",
+          "name": "Pécsi Tudományegyetem",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "Open Access Fund"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "Open Access Fund"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100009594",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100012550",
+          "name": "Nemzeti Kutatási, Fejlesztési és Innovaciós Alap",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "TKP2021-NKTA-19"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "TKP2021-NKTA-19"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100012550",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "link.springer.com"
+        ],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Manag Rev Q"
+      ],
+      "DOI": "10.1007/s11301-025-00580-y",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            8
+          ]
+        ],
+        "date-time": "2026-01-08T07:31:49Z",
+        "timestamp": 1767857509000
+      },
+      "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 23,
+      "title": [
+        "Artificial Intelligence (AI) in human resource management (HRM): a systematic review of its dual impact on diversity, equity, and inclusion (DEI)"
+      ],
+      "prefix": "10.1007",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0001-0930-8744",
+          "authenticated-orcid": false,
+          "given": "Rawia Fuad",
+          "family": "Naoum",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0001-0763-5119",
+          "authenticated-orcid": false,
+          "given": "Tamás",
+          "family": "Szakadáti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1060-2414",
+          "authenticated-orcid": false,
+          "given": "Gábor",
+          "family": "Balogh",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "297",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            8
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "580_CR1",
+          "doi-asserted-by": "publisher",
+          "first-page": "399",
+          "DOI": "10.1111/ijsa.12306",
+          "volume": "28",
+          "author": "Y Acikgoz",
+          "year": "2020",
+          "unstructured": "Acikgoz Y, Davison KH, Compagnone M, Laske M (2020) Justice perceptions of artificial intelligence in selection. Int J Sel Assess 28:399–416. https://doi.org/10.1111/ijsa.12306",
+          "journal-title": "Int J Sel Assess"
+        },
+        {
+          "key": "580_CR2",
+          "doi-asserted-by": "publisher",
+          "first-page": "267",
+          "DOI": "10.1016/S0065-2601(08)60108-2",
+          "volume": "2",
+          "author": "JS Adams",
+          "year": "1965",
+          "unstructured": "Adams JS (1965) Inequity in social exchange. Adv Exp Soc Psychol 2:267–299. https://doi.org/10.1016/S0065-2601(08)60108-2",
+          "journal-title": "Adv Exp Soc Psychol"
+        },
+        {
+          "key": "580_CR3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/jmp-05-2024-0379",
+          "author": "K Asante",
+          "year": "2024",
+          "unstructured": "Asante K, Sarpong D, Boakye D (2024) On the consequences of AI bias: when moral values supersede algorithm bias. J Manag Psychol. https://doi.org/10.1108/jmp-05-2024-0379",
+          "journal-title": "J Manag Psychol"
+        },
+        {
+          "key": "580_CR4",
+          "doi-asserted-by": "publisher",
+          "first-page": "240",
+          "DOI": "10.3390/admsci14100240",
+          "volume": "14",
+          "author": "E Aydin",
+          "year": "2024",
+          "unstructured": "Aydin E, Rahman M, Bulut C, Biloslavo R (2024) Technological advancements and organizational discrimination: the dual impact of industry 5.0 on migrant workers. Adm Sci 14:240. https://doi.org/10.3390/admsci14100240",
+          "journal-title": "Adm Sci"
+        },
+        {
+          "key": "580_CR5",
+          "doi-asserted-by": "publisher",
+          "first-page": "857",
+          "DOI": "10.1007/s10796-021-10223-8",
+          "volume": "24",
+          "author": "S Bankins",
+          "year": "2022",
+          "unstructured": "Bankins S, Formosa P, Griep Y, Richards D (2022) AI decision making with dignity? Contrasting workers’ justice perceptions of human and AI decision making in a human resource management context. Inf Syst Front 24:857–875. https://doi.org/10.1007/s10796-021-10223-8",
+          "journal-title": "Inf Syst Front"
+        },
+        {
+          "key": "580_CR6",
+          "doi-asserted-by": "publisher",
+          "first-page": "525",
+          "DOI": "10.1007/s00187-022-00347-6",
+          "volume": "33",
+          "author": "M Barati",
+          "year": "2022",
+          "unstructured": "Barati M, Ansari B (2022) Effects of algorithmic control on power asymmetry and inequality within organizations. J Manag Control 33:525–544. https://doi.org/10.1007/s00187-022-00347-6",
+          "journal-title": "J Manag Control"
+        },
+        {
+          "key": "580_CR7",
+          "unstructured": "Barocas S, Hardt M, Narayanan A (2023) Fairness and machine learning: limitations and opportunities. MIT Press"
+        },
+        {
+          "key": "580_CR8",
+          "doi-asserted-by": "publisher",
+          "first-page": "47",
+          "DOI": "10.1111/1748-8583.12339",
+          "volume": "33",
+          "author": "T Biemann",
+          "year": "2021",
+          "unstructured": "Biemann T, Mayrhofer W, Koch-Bayram I (2021) Embedded in context: how time and distance affect the convergence of personnel selection practices. Hum Resour Manag J 33:47–68. https://doi.org/10.1111/1748-8583.12339",
+          "journal-title": "Hum Resour Manag J"
+        },
+        {
+          "key": "580_CR83",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Braveman P, Gruskin S (2003) Defining Equity in Health. J Epidemiol Community Health 57:254–258. https://doi.org/10.1136/jech.57.4.254",
+          "DOI": "10.1136/jech.57.4.254"
+        },
+        {
+          "key": "580_CR9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7551/mitpress/11022.001.0001",
+          "volume-title": "Artificial unintelligence: how computers misunderstand the world",
+          "author": "M Broussard",
+          "year": "2018",
+          "unstructured": "Broussard M (2018) Artificial unintelligence: how computers misunderstand the world. MIT Press, Cambridge"
+        },
+        {
+          "key": "580_CR10",
+          "doi-asserted-by": "publisher",
+          "first-page": "606",
+          "DOI": "10.1111/1748-8583.12524",
+          "volume": "33",
+          "author": "P Budhwar",
+          "year": "2023",
+          "unstructured": "Budhwar P, Chowdhury S, Wood G et al (2023) Human resource management in the age of generative artificial intelligence: perspectives and research directions on ChatGPT. Hum Resour Manag J 33:606–659. https://doi.org/10.1111/1748-8583.12524",
+          "journal-title": "Hum Resour Manag J"
+        },
+        {
+          "key": "580_CR11",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Burrell J (2016) How the machine thinks: understanding opacity in machine learning algorithms. Big Data Soc 3. https://doi.org/10.1177/2053951715622512",
+          "DOI": "10.1177/2053951715622512"
+        },
+        {
+          "key": "580_CR12",
+          "doi-asserted-by": "publisher",
+          "first-page": "3840",
+          "DOI": "10.3390/su16093840",
+          "volume": "16",
+          "author": "F Cai",
+          "year": "2024",
+          "unstructured": "Cai F, Zhang J, Zhang L (2024) The impact of artificial intelligence replacing humans in making human resource management decisions on fairness: a case of resume screening. Sustainability 16:3840. https://doi.org/10.3390/su16093840",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "580_CR13",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1145/3616865",
+          "volume": "56",
+          "author": "S Caton",
+          "year": "2024",
+          "unstructured": "Caton S, Haas C (2024) Fairness in machine learning: a survey. ACM Comput Surv 56:1–35. https://doi.org/10.1145/3616865",
+          "journal-title": "ACM Comput Surv"
+        },
+        {
+          "key": "580_CR14",
+          "doi-asserted-by": "publisher",
+          "first-page": "729",
+          "DOI": "10.1111/1748-8583.12433",
+          "volume": "32",
+          "author": "A Charlwood",
+          "year": "2022",
+          "unstructured": "Charlwood A, Guenole N (2022) Can HR adapt to the paradoxes of artificial intelligence? Hum Resour Manag J 32:729–742. https://doi.org/10.1111/1748-8583.12433",
+          "journal-title": "Hum Resour Manag J"
+        },
+        {
+          "key": "580_CR15",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1057/s41599-023-02079-x",
+          "volume": "10",
+          "author": "Z Chen",
+          "year": "2023",
+          "unstructured": "Chen Z (2023) Ethics and discrimination in artificial intelligence-enabled recruitment practices. Humanit Soc Sci Commun 10:1–12. https://doi.org/10.1057/s41599-023-02079-x",
+          "journal-title": "Humanit Soc Sci Commun"
+        },
+        {
+          "key": "580_CR84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1136/qshc.2006.017749",
+          "author": "M H Chin",
+          "year": "2006",
+          "unstructured": "Chin MH, Chien AT (2006) Reducing racial and ethnic disparities in health care: an integral part of quality improvement scholarship. Qual Saf Health Care 15:79–80. https://doi.org/10.1136/qshc.2006.017749",
+          "journal-title": "Qual. Saf. Health Care"
+        },
+        {
+          "key": "580_CR16",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Chun JS, Cremer DD, Oh E-J, Kim Y (2024) What algorithmic evaluation fails to deliver: respectful treatment and individualized consideration. Sci Rep 14. https://doi.org/10.1038/s41598-024-76320-1",
+          "DOI": "10.1038/s41598-024-76320-1"
+        },
+        {
+          "key": "580_CR17",
+          "doi-asserted-by": "publisher",
+          "first-page": "386",
+          "DOI": "10.1037/0021-9010.86.3.386",
+          "volume": "86",
+          "author": "JA Colquitt",
+          "year": "2001",
+          "unstructured": "Colquitt JA (2001) On the dimensionality of organizational justice: a construct validation of a measure. J Appl Psychol 86:386–400. https://doi.org/10.1037/0021-9010.86.3.386",
+          "journal-title": "J Appl Psychol"
+        },
+        {
+          "key": "580_CR18",
+          "unstructured": "Crenshaw K (1989) Demarginalizing the Intersection of Race and Sex: a Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics. In: Chicago Unbound. https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8/"
+        },
+        {
+          "key": "580_CR19",
+          "unstructured": "Delgado R, Stefancic J (2017) Critical race theory: an introduction. New York University"
+        },
+        {
+          "key": "580_CR20",
+          "doi-asserted-by": "publisher",
+          "first-page": "1183",
+          "DOI": "10.1007/978-3-031-25984-5_100",
+          "volume-title": "Encyclopedia of sustainable management",
+          "author": "GG Desteli",
+          "year": "2023",
+          "unstructured": "Desteli GG (2023) Diversity. In: Idowu SO, Schmidpeter R, Capaldi N et al (eds) Encyclopedia of sustainable management. Springer International Publishing, Cham, pp 1183–1185"
+        },
+        {
+          "key": "580_CR21",
+          "unstructured": "European Commission (2021) Proposal for a Regulation of the European Parliament and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts. COM(2021) 206 final"
+        },
+        {
+          "key": "580_CR22",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1177/2053951719860542",
+          "volume": "6",
+          "author": "H Felzmann",
+          "year": "2019",
+          "unstructured": "Felzmann H, Villaronga EF, Lutz C, Tamò-Larrieux A (2019) Transparency you can trust: transparency requirements for artificial intelligence between legal norms and contextual concerns. Big Data Soc 6:1–14. https://doi.org/10.1177/2053951719860542",
+          "journal-title": "Big Data Soc"
+        },
+        {
+          "key": "580_CR23",
+          "doi-asserted-by": "publisher",
+          "first-page": "103",
+          "DOI": "10.1007/s11301-018-0142-x",
+          "volume": "68",
+          "author": "C Fisch",
+          "year": "2018",
+          "unstructured": "Fisch C, Block J (2018) Six tips for your (systematic) literature review in business and management research. Manag Rev Q 68:103–106. https://doi.org/10.1007/s11301-018-0142-x",
+          "journal-title": "Manag Rev Q"
+        },
+        {
+          "key": "580_CR24",
+          "volume-title": "Strategic management: a stakeholder approach",
+          "author": "RE Freeman",
+          "year": "1984",
+          "unstructured": "Freeman RE (1984) Strategic management: a stakeholder approach. Cambridge University Press, Cambridge"
+        },
+        {
+          "key": "580_CR25",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Hanna A, Denton E, Smart A, Smith-Loud J (2020) Towards a critical race methodology in algorithmic fairness. In: Proceedings of the 2020 conference on fairness, accountability, and transparency. https://doi.org/10.1145/3351095.3372826",
+          "DOI": "10.1145/3351095.3372826"
+        },
+        {
+          "key": "580_CR26",
+          "doi-asserted-by": "publisher",
+          "first-page": "108403",
+          "DOI": "10.1016/j.chb.2024.108403",
+          "volume": "161",
+          "author": "P Hu",
+          "year": "2024",
+          "unstructured": "Hu P, Zeng Y, Wang D, Teng H (2024) Too much light blinds: the transparency-resistance paradox in algorithmic management. Comput Hum Behav 161:108403. https://doi.org/10.1016/j.chb.2024.108403",
+          "journal-title": "Comput Hum Behav"
+        },
+        {
+          "key": "580_CR27",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1371/journal.pone.0284840",
+          "volume": "18",
+          "author": "L Jiang",
+          "year": "2023",
+          "unstructured": "Jiang L, Qin XS, Yam KC et al (2023) Who should be first? How and when AI-human order influences procedural justice in a multistage decision-making process. PLoS ONE 18:1–21. https://doi.org/10.1371/journal.pone.0284840",
+          "journal-title": "PLoS ONE"
+        },
+        {
+          "key": "580_CR28",
+          "doi-asserted-by": "publisher",
+          "first-page": "538",
+          "DOI": "10.1177/00910260221126498",
+          "volume": "51",
+          "author": "BAM Johnson",
+          "year": "2022",
+          "unstructured": "Johnson BAM, Coggburn JD, Llorens JJ (2022) Artificial intelligence and public human resource management: questions for research and practice. Public Pers Manag 51:538–562. https://doi.org/10.1177/00910260221126498",
+          "journal-title": "Public Pers Manag"
+        },
+        {
+          "key": "580_CR29",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1111/1748-8583.12511",
+          "volume": "34",
+          "author": "EK Kelan",
+          "year": "2024",
+          "unstructured": "Kelan EK (2024) Algorithmic inclusion: shaping the predictive algorithms of artificial intelligence in hiring. Hum Resour Manag J 34:1–14. https://doi.org/10.1111/1748-8583.12511",
+          "journal-title": "Hum Resour Manag J"
+        },
+        {
+          "key": "580_CR30",
+          "doi-asserted-by": "publisher",
+          "first-page": "182",
+          "DOI": "10.1186/s12939-022-01795-1",
+          "volume": "21",
+          "author": "C Kelly",
+          "year": "2022",
+          "unstructured": "Kelly C, Dansereau L, Sebring J et al (2022) Intersectionality, health equity, and EDI: what’s the difference for health researchers? Int J Equity Health 21:182. https://doi.org/10.1186/s12939-022-01795-1",
+          "journal-title": "Int J Equity Health"
+        },
+        {
+          "key": "580_CR31",
+          "doi-asserted-by": "publisher",
+          "first-page": "356",
+          "DOI": "10.1055/s-0043-1764343",
+          "volume": "5",
+          "author": "E King-Mullins",
+          "year": "2023",
+          "unstructured": "King-Mullins E, Maccou E, Miller P (2023) Intersectionality: understanding the interdependent systems of discrimination and disadvantage. Clin Colon Rectal Surg 5:356–364. https://doi.org/10.1055/s-0043-1764343",
+          "journal-title": "Clin Colon Rectal Surg"
+        },
+        {
+          "key": "580_CR33",
+          "doi-asserted-by": "publisher",
+          "first-page": "795",
+          "DOI": "10.1007/s40685-020-00134-w",
+          "volume": "13",
+          "author": "A Köchling",
+          "year": "2020",
+          "unstructured": "Köchling A, Wehner MC (2020) Discriminated by an algorithm: a systematic review of discrimination and fairness by algorithmic decision-making in the context of HR recruitment and HR development. Bus Res 13:795–848. https://doi.org/10.1007/s40685-020-00134-w",
+          "journal-title": "Bus Res"
+        },
+        {
+          "key": "580_CR34",
+          "doi-asserted-by": "publisher",
+          "first-page": "45",
+          "DOI": "10.1111/ijsa.12412",
+          "volume": "31",
+          "author": "A Köchling",
+          "year": "2023",
+          "unstructured": "Köchling A, Wehner MC (2023) Better explaining the benefits why AI? Analyzing the impact of explaining the benefits of ai-supported selection on applicant responses. Int J Sel Assess 31:45–62. https://doi.org/10.1111/ijsa.12412",
+          "journal-title": "Int J Sel Assess"
+        },
+        {
+          "key": "580_CR32",
+          "doi-asserted-by": "publisher",
+          "first-page": "39",
+          "DOI": "10.1007/s12599-020-00673-w",
+          "volume": "63",
+          "author": "A Köchling",
+          "year": "2021",
+          "unstructured": "Köchling A, Riazy S, Wehner MC, Simbeck K (2021) Highly accurate, but still discriminatory. Bus Inf Syst Eng 63:39–54. https://doi.org/10.1007/s12599-020-00673-w",
+          "journal-title": "Bus Inf Syst Eng"
+        },
+        {
+          "key": "580_CR36",
+          "doi-asserted-by": "publisher",
+          "first-page": "88",
+          "DOI": "10.24234/wisdom.v2i1.763",
+          "volume": "2",
+          "author": "V Konovalova",
+          "year": "2022",
+          "unstructured": "Konovalova V, Mitrofanova E, Mitrofanova A, Gevorgyan R (2022) The impact of artificial intelligence on human resources management strategy: opportunities for the humanisation and risks. WISDOM 2:88–96. https://doi.org/10.24234/wisdom.v2i1.763",
+          "journal-title": "WISDOM"
+        },
+        {
+          "key": "580_CR37",
+          "doi-asserted-by": "publisher",
+          "first-page": "970",
+          "DOI": "10.1108/mrr-03-2020-0168",
+          "volume": "44",
+          "author": "N Kshetri",
+          "year": "2021",
+          "unstructured": "Kshetri N (2021) Evolving uses of artificial intelligence in human resource management in emerging economies in the global south: some preliminary evidence. Manag Res Rev 44:970–990. https://doi.org/10.1108/mrr-03-2020-0168",
+          "journal-title": "Manag Res Rev"
+        },
+        {
+          "key": "580_CR38",
+          "doi-asserted-by": "publisher",
+          "first-page": "100881",
+          "DOI": "10.1016/j.hrmr.2021.100881",
+          "volume": "33",
+          "author": "M Langer",
+          "year": "2023",
+          "unstructured": "Langer M, König CJ (2023) Introducing a multi-stakeholder perspective on opacity, transparency and strategies to reduce opacity in algorithm-based human resource management. Hum Resour Manag Rev 33:100881. https://doi.org/10.1016/j.hrmr.2021.100881",
+          "journal-title": "Hum Resour Manag Rev"
+        },
+        {
+          "key": "580_CR39",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Lee MK (2018) Understanding perception of algorithmic decisions: fairness, trust, and emotion in response to algorithmic management. Big Data Soc 5. https://doi.org/10.1177/2053951718756684",
+          "DOI": "10.1177/2053951718756684"
+        },
+        {
+          "key": "580_CR40",
+          "doi-asserted-by": "publisher",
+          "first-page": "377",
+          "DOI": "10.1007/s10551-019-04204-w",
+          "volume": "160",
+          "author": "U Leicht-Deobald",
+          "year": "2019",
+          "unstructured": "Leicht-Deobald U, Busch T, Schank C et al (2019) The challenges of algorithm-based HR decision-making for personal integrity. J Bus Ethics 160:377–392. https://doi.org/10.1007/s10551-019-04204-w",
+          "journal-title": "J Bus Ethics"
+        },
+        {
+          "key": "580_CR41",
+          "doi-asserted-by": "publisher",
+          "first-page": "2760",
+          "DOI": "10.52783/jisem.v9i4s.13251",
+          "volume": "9",
+          "author": "SA Lima",
+          "year": "2024",
+          "unstructured": "Lima SA, Rahman MM (2024) Algorithmic fairness in HRM balancing AI-driven decision making with inclusive workforce practices. J Inf Syst Eng Manag 9:2760–2769. https://doi.org/10.52783/jisem.v9i4s.13251",
+          "journal-title": "J Inf Syst Eng Manag"
+        },
+        {
+          "key": "580_CR42",
+          "doi-asserted-by": "publisher",
+          "first-page": "101033",
+          "DOI": "10.1016/j.orgdyn.2024.101033",
+          "volume": "53",
+          "author": "KM Lukaszewski",
+          "year": "2024",
+          "unstructured": "Lukaszewski KM, Stone DL (2024) Will the use of AI in human resources create a digital frankenstein? Organ Dyn 53:101033. https://doi.org/10.1016/j.orgdyn.2024.101033",
+          "journal-title": "Organ Dyn"
+        },
+        {
+          "key": "580_CR44",
+          "doi-asserted-by": "publisher",
+          "first-page": "284",
+          "DOI": "10.1108/bpmj-11-2023-0884",
+          "volume": "30",
+          "author": "CD Malin",
+          "year": "2024",
+          "unstructured": "Malin CD, Fleiß J, Seeber I et al (2024) The application of AI in digital HRM—an experiment on human decision-making in personnel selection. Bus Process Manag J 30:284–312. https://doi.org/10.1108/bpmj-11-2023-0884",
+          "journal-title": "Bus Process Manag J"
+        },
+        {
+          "key": "580_CR43",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Malin C, Fleiß J, Thalmann S (2025) Stakeholder-specific adoption of AI in HRM: workers’ representatives’ perspective on concerns, requirements, and measures. Front Artif Intell 8. https://doi.org/10.3389/frai.2025.1561322",
+          "DOI": "10.3389/frai.2025.1561322"
+        },
+        {
+          "key": "580_CR45",
+          "doi-asserted-by": "publisher",
+          "first-page": "844",
+          "DOI": "10.1108/pr-04-2023-0300",
+          "volume": "54",
+          "author": "M Marabelli",
+          "year": "2025",
+          "unstructured": "Marabelli M, Lirio P (2025) AI and the metaverse in the workplace: DEI opportunities and challenges. Pers Rev 54:844–853. https://doi.org/10.1108/pr-04-2023-0300",
+          "journal-title": "Pers Rev"
+        },
+        {
+          "key": "580_CR46",
+          "doi-asserted-by": "publisher",
+          "first-page": "01039",
+          "DOI": "10.1016/j.orgdyn.2024.101039",
+          "volume": "53",
+          "author": "JH Marler",
+          "year": "2024",
+          "unstructured": "Marler JH (2024) Artificial intelligence, algorithms, and compensation strategy: challenges and opportunities. Organ Dyn 53:01039. https://doi.org/10.1016/j.orgdyn.2024.101039",
+          "journal-title": "Organ Dyn"
+        },
+        {
+          "key": "580_CR47",
+          "doi-asserted-by": "publisher",
+          "first-page": "355",
+          "DOI": "10.1002/hrm.22205",
+          "volume": "63",
+          "author": "W Mayrhofer",
+          "year": "2024",
+          "unstructured": "Mayrhofer W, Biemann T, Koch-Bayram I, Rapp M (2024) Context is key: a 34‐country analysis investigating how similar HRM systems emerge from similar contexts. Hum Resour Manag 63:355–371. https://doi.org/10.1002/hrm.22205",
+          "journal-title": "Hum Resour Manag"
+        },
+        {
+          "key": "580_CR48",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1145/3457607",
+          "volume": "54",
+          "author": "N Mehrabi",
+          "year": "2021",
+          "unstructured": "Mehrabi N, Morstatter F, Saxena N et al (2021) A survey on bias and fairness in machine learning. ACM Comput Surv 54:1–35. https://doi.org/10.1145/3457607",
+          "journal-title": "ACM Comput Surv"
+        },
+        {
+          "key": "580_CR49",
+          "unstructured": "Merriam Webster Definition of INTERSECTIONALITY In: Merriam-webster.com. https://www.merriam-webster.com/dictionary/intersectionality. Accessed 5 May 2025"
+        },
+        {
+          "key": "580_CR50",
+          "doi-asserted-by": "publisher",
+          "first-page": "264",
+          "DOI": "10.1136/bmj.b2535",
+          "volume": "339",
+          "author": "D Moher",
+          "year": "2009",
+          "unstructured": "Moher D, Liberati A, Tetzlaff J, Altman DG (2009) Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. BMJ 339:264–269. https://doi.org/10.1136/bmj.b2535",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "580_CR51",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.32674/66c03968",
+          "volume": "8",
+          "author": "R Nacheva",
+          "year": "2024",
+          "unstructured": "Nacheva R (2024) Hired by artificial intelligence: digital inclusion practices for people with disabilities. J Underrep Minor Prog 8:10–41. https://doi.org/10.32674/66c03968",
+          "journal-title": "J Underrep Minor Prog"
+        },
+        {
+          "key": "580_CR52",
+          "doi-asserted-by": "publisher",
+          "first-page": "149",
+          "DOI": "10.1016/j.obhdp.2020.03.008",
+          "volume": "160",
+          "author": "DT Newman",
+          "year": "2020",
+          "unstructured": "Newman DT, Fast NJ, Harmon DJ (2020) When eliminating bias isn’t fair: algorithmic reductionism and procedural justice in human resource decisions. Organ Behav Hum Decis Process 160:149–167. https://doi.org/10.1016/j.obhdp.2020.03.008",
+          "journal-title": "Organ Behav Hum Decis Process"
+        },
+        {
+          "key": "580_CR53",
+          "doi-asserted-by": "publisher",
+          "first-page": "1754",
+          "DOI": "10.5465/amj.2009.0823",
+          "volume": "56",
+          "author": "LH Nishii",
+          "year": "2013",
+          "unstructured": "Nishii LH (2013) The benefits of climate for inclusion for gender-diverse groups. Acad Manag J 56:1754–1774. https://doi.org/10.5465/amj.2009.0823",
+          "journal-title": "Acad Manag J"
+        },
+        {
+          "key": "580_CR54",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Oravec JA (2022) The emergence of truth machines? Artificial intelligence approaches to lie detection. Ethics Inf Technol 24. https://doi.org/10.1007/s10676-022-09621-6",
+          "DOI": "10.1007/s10676-022-09621-6"
+        },
+        {
+          "key": "580_CR55",
+          "doi-asserted-by": "publisher",
+          "first-page": "159",
+          "DOI": "10.26650/jecs2023-1415085",
+          "volume": "69",
+          "author": "M Özer",
+          "year": "2024",
+          "unstructured": "Özer M, Perc M, Suna H (2024) Artificial intelligence bias and the amplification of inequalities in the labor market. J Econ Cult Soc 69:159–168. https://doi.org/10.26650/jecs2023-1415085",
+          "journal-title": "J Econ Cult Soc"
+        },
+        {
+          "key": "580_CR56",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1136/bmj.n71",
+          "volume": "372",
+          "author": "MJ Page",
+          "year": "2021",
+          "unstructured": "Page MJ, McKenzie JE, Bossuyt PM et al (2021) The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 372:1–9. https://doi.org/10.1136/bmj.n71",
+          "journal-title": "BMJ"
+        },
+        {
+          "key": "580_CR57",
+          "doi-asserted-by": "publisher",
+          "first-page": "108",
+          "DOI": "10.1108/ijoa-09-2023-3992",
+          "volume": "32",
+          "author": "D Paramita",
+          "year": "2024",
+          "unstructured": "Paramita D, Okwir S, Nuur C (2024) Artificial intelligence in talent acquisition: exploring organisational and operational dimensions. Int J Organ Anal 32:108–131. https://doi.org/10.1108/ijoa-09-2023-3992",
+          "journal-title": "Int J Organ Anal"
+        },
+        {
+          "key": "580_CR58",
+          "doi-asserted-by": "publisher",
+          "first-page": "226",
+          "DOI": "10.1108/ijm-03-2021-0118",
+          "volume": "43",
+          "author": "V Prikshat",
+          "year": "2022",
+          "unstructured": "Prikshat V, Patel P, Varma A, Ishizaka A (2022) A multi-stakeholder ethical framework for AI-augmented HRM. Int J Manpow 43:226–250. https://doi.org/10.1108/ijm-03-2021-0118",
+          "journal-title": "Int J Manpow"
+        },
+        {
+          "key": "580_CR59",
+          "doi-asserted-by": "publisher",
+          "first-page": "174",
+          "DOI": "10.1108/pr-02-2024-0111",
+          "volume": "54",
+          "author": "E Rabenu",
+          "year": "2025",
+          "unstructured": "Rabenu E, Baruch Y (2025) Cyborging HRM theory: from evolution to revolution—the challenges and trajectories of AI for the future role of HRM. Pers Rev 54:174–198. https://doi.org/10.1108/pr-02-2024-0111",
+          "journal-title": "Pers Rev"
+        },
+        {
+          "key": "580_CR60",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Raghavan M, Barocas S, Kleinberg J, Levy K (2020) Mitigating bias in algorithmic hiring: evaluating claims and practices. In: Proceedings of the 2020 conference on fairness, accountability, and transparency, pp 469–481",
+          "DOI": "10.1145/3351095.3372828"
+        },
+        {
+          "key": "580_CR61",
+          "doi-asserted-by": "publisher",
+          "first-page": "105966",
+          "DOI": "10.1016/j.clsr.2024.105966",
+          "volume": "53",
+          "author": "C Rigotti",
+          "year": "2024",
+          "unstructured": "Rigotti C, Fosch-Villaronga E (2024) Fairness, AI & recruitment. Comput Law Secur Rev 53:105966. https://doi.org/10.1016/j.clsr.2024.105966",
+          "journal-title": "Comput Law Secur Rev"
+        },
+        {
+          "key": "580_CR62",
+          "doi-asserted-by": "publisher",
+          "first-page": "69",
+          "DOI": "10.1146/annurev-orgpsych-012218-015243",
+          "volume": "6",
+          "author": "QM Roberson",
+          "year": "2019",
+          "unstructured": "Roberson QM (2019) Diversity in the workplace: a review, synthesis, and future research agenda. Annu Rev Organ Psychol Organ Behav 6:69–88. https://doi.org/10.1146/annurev-orgpsych-012218-015243",
+          "journal-title": "Annu Rev Organ Psychol Organ Behav"
+        },
+        {
+          "key": "580_CR63",
+          "doi-asserted-by": "publisher",
+          "first-page": "100925",
+          "DOI": "10.1016/j.hrmr.2022.100925",
+          "volume": "33",
+          "author": "W Rodgers",
+          "year": "2023",
+          "unstructured": "Rodgers W, Murray JM, Stefanidis A et al (2023) An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes. Hum Resour Manag Rev 33:100925. https://doi.org/10.1016/j.hrmr.2022.100925",
+          "journal-title": "Hum Resour Manag Rev"
+        },
+        {
+          "key": "580_CR64",
+          "doi-asserted-by": "publisher",
+          "first-page": "191",
+          "DOI": "10.1111/ijmr.12245",
+          "volume": "23",
+          "author": "C Rojon",
+          "year": "2021",
+          "unstructured": "Rojon C, Okupe A, McDowall A (2021) Utilization and development of systematic reviews in management research: what do we know and where do we go from here? Int J Manag Rev 23:191–223. https://doi.org/10.1111/ijmr.12245",
+          "journal-title": "Int J Manag Rev"
+        },
+        {
+          "key": "580_CR65",
+          "doi-asserted-by": "publisher",
+          "first-page": "1899",
+          "DOI": "10.1007/s11846-023-00668-3",
+          "volume": "17",
+          "author": "PC Sauer",
+          "year": "2023",
+          "unstructured": "Sauer PC, Seuring S (2023) How to conduct systematic literature reviews in management research: a guide in 6 steps and 14 decisions. Rev Manag Sci 17:1899–1933. https://doi.org/10.1007/s11846-023-00668-3",
+          "journal-title": "Rev Manag Sci"
+        },
+        {
+          "issue": "9",
+          "key": "580_CR82",
+          "doi-asserted-by": "publisher",
+          "first-page": "1708",
+          "DOI": "10.1007/s00247-022-05356-0",
+          "volume": "52",
+          "author": "Sabah Servaes",
+          "year": "2022",
+          "unstructured": "Servaes S, Choudhury P, Parikh AK (2022) What is diversity? Pediatr Radiol 52:1708–1710. https://doi.org/10.1007/s00247-022-05356-0",
+          "journal-title": "Pediatr. Radiol."
+        },
+        {
+          "key": "580_CR66",
+          "doi-asserted-by": "publisher",
+          "first-page": "1039",
+          "DOI": "10.1080/07421222.2023.2267316",
+          "volume": "40",
+          "author": "MQ Shaojun",
+          "year": "2023",
+          "unstructured": "Shaojun MQ, Jia N, Luo X et al (2023) Perceived fairness of human managers compared with artificial intelligence in employee performance evaluation. J Manag Inf Syst 40:1039–1070. https://doi.org/10.1080/07421222.2023.2267316",
+          "journal-title": "J Manag Inf Syst"
+        },
+        {
+          "key": "580_CR67",
+          "doi-asserted-by": "publisher",
+          "first-page": "1009",
+          "DOI": "10.1007/s10551-022-05058-5",
+          "volume": "178",
+          "author": "MM Sharif",
+          "year": "2022",
+          "unstructured": "Sharif MM, Ghodoosi F (2022) The ethics of blockchain in organizations. J Bus Ethics 178:1009–1025. https://doi.org/10.1007/s10551-022-05058-5",
+          "journal-title": "J Bus Ethics"
+        },
+        {
+          "key": "580_CR68",
+          "doi-asserted-by": "publisher",
+          "first-page": "495",
+          "DOI": "10.1080/10447318.2020.1741118",
+          "volume": "36",
+          "author": "B Shneiderman",
+          "year": "2020",
+          "unstructured": "Shneiderman B (2020) Human-centered artificial intelligence: reliable, safe & trustworthy. Int J Hum Comput Interact 36:495–504. https://doi.org/10.1080/10447318.2020.1741118",
+          "journal-title": "Int J Hum Comput Interact"
+        },
+        {
+          "key": "580_CR69",
+          "doi-asserted-by": "publisher",
+          "first-page": "747",
+          "DOI": "10.1146/annurev-psych-010418-102803",
+          "volume": "70",
+          "author": "AP Siddaway",
+          "year": "2019",
+          "unstructured": "Siddaway AP, Wood AM, Hedges LV (2019) How to do a systematic review: a best practice guide for conducting and reporting narrative reviews, meta-analyses, and meta-syntheses. Annu Rev Psychol 70:747–770. https://doi.org/10.1146/annurev-psych-010418-102803",
+          "journal-title": "Annu Rev Psychol"
+        },
+        {
+          "key": "580_CR70",
+          "doi-asserted-by": "publisher",
+          "first-page": "5327",
+          "DOI": "10.3390/su16135327",
+          "volume": "16",
+          "author": "N Takahashi",
+          "year": "2024",
+          "unstructured": "Takahashi N, Javed A, Kohda Y (2024) How Low-code tools contribute to diversity, equity, and inclusion (DEI) in the workplace: a case study of a large Japanese corporation. Sustainability 16:5327. https://doi.org/10.3390/su16135327",
+          "journal-title": "Sustainability"
+        },
+        {
+          "key": "580_CR71",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "volume": "61",
+          "author": "P Tambe",
+          "year": "2019",
+          "unstructured": "Tambe P, Cappelli P, Yakubovich V (2019) Artificial intelligence in human resources management: challenges and a path forward. Calif Manag Rev 61:15–42. https://doi.org/10.1177/0008125619867910",
+          "journal-title": "Calif Manag Rev"
+        },
+        {
+          "key": "580_CR72",
+          "doi-asserted-by": "publisher",
+          "first-page": "263",
+          "DOI": "10.1007/s41469-023-00153-x",
+          "volume": "12",
+          "author": "PN Tinguely",
+          "year": "2023",
+          "unstructured": "Tinguely PN, Lee J-H, He VF (2023) Designing human resource management systems in the age of AI. J Organ Des 12:263–269. https://doi.org/10.1007/s41469-023-00153-x",
+          "journal-title": "J Organ Des"
+        },
+        {
+          "key": "580_CR73",
+          "doi-asserted-by": "publisher",
+          "first-page": "121081",
+          "DOI": "10.1016/j.techfore.2021.121081",
+          "volume": "173",
+          "author": "C Trocin",
+          "year": "2021",
+          "unstructured": "Trocin C, Hovland IV, Mikalef P, Dremel C (2021) How artificial intelligence affords digital innovation: a cross-case analysis of Scandinavian companies. Technol Forecast Soc Change 173:121081. https://doi.org/10.1016/j.techfore.2021.121081",
+          "journal-title": "Technol Forecast Soc Change"
+        },
+        {
+          "key": "580_CR74",
+          "doi-asserted-by": "publisher",
+          "first-page": "239",
+          "DOI": "10.21272/mmi.2023.4-18",
+          "volume": "14",
+          "author": "R Tsiskaridze",
+          "year": "2023",
+          "unstructured": "Tsiskaridze R, Reinhold K, Jarvis M (2023) Innovating HRM recruitment: a comprehensive review of AI deployment. Mark Manag Innov 14:239–254. https://doi.org/10.21272/mmi.2023.4-18",
+          "journal-title": "Mark Manag Innov"
+        },
+        {
+          "key": "580_CR76",
+          "doi-asserted-by": "publisher",
+          "first-page": "100923",
+          "DOI": "10.1016/j.hrmr.2022.100923",
+          "volume": "33",
+          "author": "A Varma",
+          "year": "2023",
+          "unstructured": "Varma A, Dawkins C, Chaudhuri K (2023) Artificial intelligence and people management: a critical assessment through the ethical lens. Hum Resour Manag Rev 33:100923. https://doi.org/10.1016/j.hrmr.2022.100923",
+          "journal-title": "Hum Resour Manag Rev"
+        },
+        {
+          "key": "580_CR77",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/23311975.2024.2432550",
+          "volume": "11",
+          "author": "M Venugopal",
+          "year": "2024",
+          "unstructured": "Venugopal M, Madhavan V, Prasad R, Raman R (2024) Transformative AI in human resource management: enhancing workforce planning with topic modeling. Cogent Bus Manag 11:1–23. https://doi.org/10.1080/23311975.2024.2432550",
+          "journal-title": "Cogent Bus Manag"
+        },
+        {
+          "key": "580_CR78",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wilson K, Caliskan A (2025) Gender, race, and intersectional bias in AI resume screening via language model retrieval. In: Brookings. https://www.brookings.edu/articles/gender-race-and-intersectional-bias-in-ai-resume-screening-via-language-model-retrieval/",
+          "DOI": "10.1609/aies.v7i1.31748"
+        },
+        {
+          "key": "580_CR79",
+          "doi-asserted-by": "publisher",
+          "first-page": "401",
+          "DOI": "10.1080/0144929x.2022.2164214",
+          "volume": "43",
+          "author": "L Zhang",
+          "year": "2023",
+          "unstructured": "Zhang L, Amos C (2023) Dignity and use of algorithm in performance evaluation. Behav Inf Technol 43:401–418. https://doi.org/10.1080/0144929x.2022.2164214",
+          "journal-title": "Behav Inf Technol"
+        },
+        {
+          "key": "580_CR80",
+          "doi-asserted-by": "publisher",
+          "first-page": "14155",
+          "DOI": "10.1109/tem.2024.3442618",
+          "volume": "71",
+          "author": "F Zheng",
+          "year": "2024",
+          "unstructured": "Zheng F, Zhao C, Usman M, Poulova P (2024) From bias to brilliance: the impact of artificial intelligence usage on recruitment biases in China. IEEE Trans Eng Manag 71:14155–14167. https://doi.org/10.1109/tem.2024.3442618",
+          "journal-title": "IEEE Trans Eng Manag"
+        },
+        {
+          "key": "580_CR81",
+          "doi-asserted-by": "publisher",
+          "first-page": "1222",
+          "DOI": "10.1108/jocm-10-2022-0308",
+          "volume": "36",
+          "author": "Y Zhou",
+          "year": "2023",
+          "unstructured": "Zhou Y, Li-jun W, Chen W (2023) The dark side of AI-enabled HRM on employees based on AI algorithmic features. J Organ Change Manag 36:1222–1241. https://doi.org/10.1108/jocm-10-2022-0308",
+          "journal-title": "J Organ Change Manag"
+        }
+      ],
+      "container-title": [
+        "Management Review Quarterly"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11301-025-00580-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s11301-025-00580-y",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s11301-025-00580-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            8
+          ]
+        ],
+        "date-time": "2026-01-08T07:31:51Z",
+        "timestamp": 1767857511000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://link.springer.com/10.1007/s11301-025-00580-y"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            8
+          ]
+        ]
+      },
+      "references-count": 82,
+      "alternative-id": [
+        "580"
+      ],
+      "URL": "https://doi.org/10.1007/s11301-025-00580-y",
+      "relation": {},
+      "ISSN": [
+        "2198-1620",
+        "2198-1639"
+      ],
+      "issn-type": [
+        {
+          "value": "2198-1620",
+          "type": "print"
+        },
+        {
+          "value": "2198-1639",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            1,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "22 May 2025",
+          "order": 1,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "9 December 2025",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "value": "8 January 2026",
+          "order": 3,
+          "name": "first_online",
+          "label": "First Online",
+          "group": {
+            "name": "ArticleHistory",
+            "label": "Article History"
+          }
+        },
+        {
+          "order": 1,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "<!--Emphasis Type='Bold' removed-->Declarations"
+          }
+        },
+        {
+          "value": "The authors have no relevant financial or non-financial interests to disclose.",
+          "order": 2,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Competing interests"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 3,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Ethics approval"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 4,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent to participate"
+          }
+        },
+        {
+          "value": "Not applicable.",
+          "order": 5,
+          "name": "Ethics",
+          "group": {
+            "name": "EthicsHeading",
+            "label": "Consent to publish"
+          }
+        }
+      ]
+    }
+  }
+}

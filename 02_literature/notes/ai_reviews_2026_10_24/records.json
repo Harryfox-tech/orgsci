@@ -1,0 +1,3049 @@
+[
+  {
+    "review_id": "A01",
+    "title": "AI virtual assistance in recruitment: a systematic literature review and bibliometric analysis",
+    "authors": [
+      "M. Eshaq Stanikzai",
+      "Ella Mittal"
+    ],
+    "year": 2026,
+    "publication_date": "2026-10-15",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-10-15",
+      "published": "2026-10-15"
+    },
+    "publication_type": "journal-article",
+    "venue": "SAM Advanced Management Journal",
+    "volume": null,
+    "issue": null,
+    "pages": "1-31",
+    "article_number": null,
+    "doi": "10.1108/SAMAMJ-06-2026-0038",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:07.113253Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/SAMAMJ-06-2026-0038"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+          "checked_at": "2026-10-24T02:14:52.472426Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/SAMAMJ-06-2026-0038",
+          "checked_at": "2026-10-24T02:10:07.113253Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/SAMAMJ-06-2026-0038",
+          "checked_at": "2026-10-24T02:10:07.113253Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "A02",
+    "title": "A systematic review and descriptive analysis of artificial intelligence applied to recruitment and personnel selection in the present and possible future",
+    "authors": [
+      "Antonio González-Morales",
+      "M. Milagro Martín-López",
+      "Fernando Góngora-Larequi"
+    ],
+    "year": 2026,
+    "publication_date": "2026-06-04",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-06-04",
+      "published": "2026-06-04"
+    },
+    "publication_type": "journal-article",
+    "venue": "Discover Artificial Intelligence",
+    "volume": "6",
+    "issue": "1",
+    "pages": null,
+    "article_number": "762",
+    "doi": "10.1007/s44163-026-01488-6",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:07.161851Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-01488-6"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:06.335347Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:07.161851Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-01488-6",
+          "checked_at": "2026-10-24T02:10:07.161851Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "A03",
+    "title": "Mapping the use of large language models in hiring decisions: a scoping review",
+    "authors": [
+      "Arpit Tripathi",
+      "Ankit Tripathi",
+      "Frantisek Darena",
+      "Pawan Kumar Mishra"
+    ],
+    "year": 2026,
+    "publication_date": "2026-03-13",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-03-13",
+      "published": "2026-03-13"
+    },
+    "publication_type": "journal-article",
+    "venue": "Frontiers in Artificial Intelligence",
+    "volume": "9",
+    "issue": null,
+    "pages": null,
+    "article_number": "1798519",
+    "doi": "10.3389/frai.2026.1798519",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 2,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 2,
+        "checked_at": "2026-10-24T02:10:08.441486Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.3389/frai.2026.1798519"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1798519/pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:07.726656Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:08.441486Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:08.441486Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.3389/frai.2026.1798519",
+          "checked_at": "2026-10-24T02:10:08.441486Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "A04",
+    "title": "AI-Driven Research in the Recruitment and Selection Process: Application of an AI Taxonomy With a Systematic Literature Review",
+    "authors": [
+      "Marcel Herold",
+      "Marc R.H. Roedenbeck"
+    ],
+    "year": 2025,
+    "publication_date": "2025-08-29",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2025-08-29",
+      "published-print": "2025-01",
+      "published": "2025-01"
+    },
+    "publication_type": "journal-article",
+    "venue": "SAGE Open",
+    "volume": "15",
+    "issue": "3",
+    "pages": null,
+    "article_number": "21582440251361746",
+    "doi": "10.1177/21582440251361746",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 7,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 7,
+        "checked_at": "2026-10-24T02:10:08.568774Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/21582440251361746"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:07.779127Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:08.568774Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1177/21582440251361746",
+          "checked_at": "2026-10-24T02:10:08.568774Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "A05",
+    "title": "Ethics of AI-Enabled Recruiting and Selection: A Review and Research Agenda",
+    "authors": [
+      "Anna Lena Hunkenschroer",
+      "Christoph Luetge"
+    ],
+    "year": 2022,
+    "publication_date": "2022-02-08",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2022-02-08",
+      "published-print": "2022-07",
+      "published": "2022-02-08"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Business Ethics",
+    "volume": "178",
+    "issue": "4",
+    "pages": "977-1007",
+    "article_number": null,
+    "doi": "10.1007/s10551-022-05049-6",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 444,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 444,
+        "checked_at": "2026-10-24T02:10:09.956884Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10551-022-05049-6"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10551-022-05049-6.pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.022194Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.956884Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.956884Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10551-022-05049-6",
+          "checked_at": "2026-10-24T02:10:09.956884Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B01",
+    "title": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+    "authors": [
+      "Thomas K. Dasaklis",
+      "Panagiotis G. Giannopoulos",
+      "Dimitris Koutras",
+      "Vangelis Malamas",
+      "Panos T. Chountalas"
+    ],
+    "year": 2026,
+    "publication_date": null,
+    "publication_date_partial": "2026-10",
+    "publication_dates": {
+      "published-print": "2026-10",
+      "published": "2026-10"
+    },
+    "publication_type": "journal-article",
+    "venue": "Technological Forecasting and Social Change",
+    "volume": "231",
+    "issue": null,
+    "pages": "124800",
+    "article_number": "124800",
+    "doi": "10.1016/j.techfore.2026.124800",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 7,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 7,
+        "checked_at": "2026-10-24T02:10:10.055987Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.techfore.2026.124800"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:09.115345Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:10.055987Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.techfore.2026.124800",
+          "checked_at": "2026-10-24T02:10:10.055987Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2026-10；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B02",
+    "title": "Augmentative or autonomous? Reframing artificial intelligence in talent management through a systematic review",
+    "authors": [
+      "Unnar Theodorsson",
+      "Kenneth Singh Dosanjh"
+    ],
+    "year": 2026,
+    "publication_date": "2026-02-23",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-02-23",
+      "published-print": "2026-05-05",
+      "published": "2026-02-23"
+    },
+    "publication_type": "journal-article",
+    "venue": "Organization Management Journal",
+    "volume": "23",
+    "issue": "2",
+    "pages": "183-197",
+    "article_number": null,
+    "doi": "10.1108/OMJ-09-2025-2716",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 4,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 4,
+        "checked_at": "2026-10-24T02:10:11.372050Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716"
+      }
+    ],
+    "open_access_status": "diamond",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://www.emerald.com/omj/article-pdf/doi/10.1108/OMJ-09-2025-2716/11246451/omj-09-2025-2716en.pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:11.372050Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:11.372050Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/OMJ-09-2025-2716",
+          "checked_at": "2026-10-24T02:10:11.372050Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B03",
+    "title": "Artificial intelligence and the reconfiguration of competency management systems in organizations",
+    "authors": [
+      "Maryann Osadebamwen Asemota"
+    ],
+    "year": 2026,
+    "publication_date": "2026-08-24",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-08-24",
+      "published": "2026-08-24"
+    },
+    "publication_type": "journal-article",
+    "venue": "Discover Artificial Intelligence",
+    "volume": "6",
+    "issue": "1",
+    "pages": null,
+    "article_number": "892",
+    "doi": "10.1007/s44163-026-02055-9",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:11.376148Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02055-9.pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:10.593131Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:11.376148Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:11.376148Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s44163-026-02055-9",
+          "checked_at": "2026-10-24T02:10:11.376148Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B04",
+    "title": "Artificial Intelligence (AI) in human resource management (HRM): a systematic review of its dual impact on diversity, equity, and inclusion (DEI)",
+    "authors": [
+      "Rawia Fuad Naoum",
+      "Tamás Szakadáti",
+      "Gábor Balogh"
+    ],
+    "year": 2026,
+    "publication_date": "2026-01-08",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-01-08",
+      "published": "2026-01-08"
+    },
+    "publication_type": "journal-article",
+    "venue": "Management Review Quarterly",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": "10.1007/s11301-025-00580-y",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 22,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 22,
+        "checked_at": "2026-10-24T02:10:12.688811Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11301-025-00580-y"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11301-025-00580-y.pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:11.876467Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:12.688811Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:12.688811Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s11301-025-00580-y",
+          "checked_at": "2026-10-24T02:10:12.688811Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B05",
+    "title": "Factors that facilitate artificial intelligence integration into global talent management: A systematic review",
+    "authors": [
+      "Godfrey Maake",
+      "Cecilia M. Schultz",
+      "Adele Bezuidenhout",
+      "Pieter K. Smit"
+    ],
+    "year": 2026,
+    "publication_date": "2026-10-14",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-10-14",
+      "published": "2026-10-14"
+    },
+    "publication_type": "journal-article",
+    "venue": "SA Journal of Human Resource Management",
+    "volume": "24",
+    "issue": null,
+    "pages": null,
+    "article_number": "a3649",
+    "doi": "10.4102/sajhrm.v24i0.3649",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:12.827043Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.4102/sajhrm.v24i0.3649"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:11.997677Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:12.827043Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.4102/sajhrm.v24i0.3649",
+          "checked_at": "2026-10-24T02:10:12.827043Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B06",
+    "title": "A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice",
+    "authors": [
+      "Sarah Bankins",
+      "Anna Carmella Ocampo",
+      "Mauricio Marrone",
+      "Simon Lloyd D. Restubog",
+      "Sang Eun Woo"
+    ],
+    "year": 2024,
+    "publication_date": "2023-08-02",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2023-08-02",
+      "published-print": "2024-02",
+      "published": "2023-08-02"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Organizational Behavior",
+    "volume": "45",
+    "issue": "2",
+    "pages": "159-182",
+    "article_number": null,
+    "doi": "10.1002/job.2735",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 790,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 790,
+        "checked_at": "2026-10-24T02:10:14.072400Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.2735",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:13.259961Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:14.072400Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:14.072400Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/job.2735",
+          "checked_at": "2026-10-24T02:10:14.072400Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B07",
+    "title": "An interdisciplinary review of AI and HRM: Challenges and future directions",
+    "authors": [
+      "Yuan Pan",
+      "Fabian J. Froese"
+    ],
+    "year": 2023,
+    "publication_date": null,
+    "publication_date_partial": "2023-03",
+    "publication_dates": {
+      "published-print": "2023-03",
+      "published": "2023-03"
+    },
+    "publication_type": "journal-article",
+    "venue": "Human Resource Management Review",
+    "volume": "33",
+    "issue": "1",
+    "pages": "100924",
+    "article_number": "100924",
+    "doi": "10.1016/j.hrmr.2022.100924",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 220,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 220,
+        "checked_at": "2026-10-24T02:10:14.389357Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.hrmr.2022.100924"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:13.408395Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:14.389357Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.hrmr.2022.100924",
+          "checked_at": "2026-10-24T02:10:14.389357Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2023-03；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B08",
+    "title": "A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics",
+    "authors": [
+      "Chuan Qin",
+      "Le Zhang",
+      "Yihang Cheng",
+      "Rui Zha",
+      "Dazhong Shen",
+      "Qi Zhang",
+      "Xi Chen",
+      "Ying Sun",
+      "Chen Zhu",
+      "Hengshu Zhu",
+      "Hui Xiong"
+    ],
+    "year": 2025,
+    "publication_date": null,
+    "publication_date_partial": "2025-02",
+    "publication_dates": {
+      "published-print": "2025-02",
+      "published": "2025-02"
+    },
+    "publication_type": "journal-article",
+    "venue": "Proceedings of the IEEE",
+    "volume": "113",
+    "issue": "2",
+    "pages": "125-171",
+    "article_number": null,
+    "doi": "10.1109/JPROC.2025.3572744",
+    "arxiv_id": "2307.03195v3",
+    "abstract": null,
+    "citation_count": 56,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 56,
+        "checked_at": "2026-10-24T02:10:15.323860Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744"
+      }
+    ],
+    "open_access_status": "green",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://arxiv.org/pdf/2307.03195",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:14.529666Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:15.323860Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:15.323860Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1109/JPROC.2025.3572744",
+          "checked_at": "2026-10-24T02:10:15.323860Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2025-02；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "B09",
+    "title": "Algorithms at Work: The New Contested Terrain of Control",
+    "authors": [
+      "Katherine C. Kellogg",
+      "Melissa A. Valentine",
+      "Angéle Christin"
+    ],
+    "year": 2020,
+    "publication_date": null,
+    "publication_date_partial": "2020-01",
+    "publication_dates": {
+      "published-print": "2020-01",
+      "published": "2020-01"
+    },
+    "publication_type": "journal-article",
+    "venue": "Academy of Management Annals",
+    "volume": "14",
+    "issue": "1",
+    "pages": "366-410",
+    "article_number": null,
+    "doi": "10.5465/annals.2018.0174",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 2692,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 2692,
+        "checked_at": "2026-10-24T02:10:15.931494Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2018.0174"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:14.969585Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:15.931494Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.5465/annals.2018.0174",
+          "checked_at": "2026-10-24T02:10:15.931494Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2020-01；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C01",
+    "title": "The Future of Selection Enabled by Artificial Intelligence",
+    "authors": [
+      "Anthony S Boyce",
+      "Louis Hickman",
+      "Christine E Boyce"
+    ],
+    "year": 2026,
+    "publication_date": "2026-05-21",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-print": "2026-05-21",
+      "published": "2026-05-21"
+    },
+    "publication_type": "book-chapter",
+    "venue": "The Oxford Handbook of Personnel Assessment and Selection",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": null,
+    "doi": "10.1093/9780197809013.003.0018",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:16.894665Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/9780197809013.003.0018"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:15.968731Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:16.894665Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1093/9780197809013.003.0018",
+          "checked_at": "2026-10-24T02:10:16.894665Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C02",
+    "title": "Can Legal and Professional Personnel Selection Principles be Met With Machine Learning (Artificial Intelligence)?",
+    "authors": [
+      "Michael A. Campion"
+    ],
+    "year": 2026,
+    "publication_date": "2025-09-19",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2025-09-19",
+      "published-print": "2026-01",
+      "published": "2025-09-19"
+    },
+    "publication_type": "journal-article",
+    "venue": "Human Resource Management",
+    "volume": "65",
+    "issue": "1",
+    "pages": "235-255",
+    "article_number": null,
+    "doi": "10.1002/hrm.70025",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 4,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 4,
+        "checked_at": "2026-10-24T02:10:17.333048Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.70025"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:16.495275Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:17.333048Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1002/hrm.70025",
+          "checked_at": "2026-10-24T02:10:17.333048Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C03",
+    "title": "Artificial intelligence applied to potential assessment and talent identification in an organisational context",
+    "authors": [
+      "Tiago Jacob Fernandes França",
+      "Henrique São Mamede",
+      "João Manuel Pereira Barroso",
+      "Vítor Manuel Pereira Duarte dos Santos"
+    ],
+    "year": 2023,
+    "publication_date": null,
+    "publication_date_partial": "2023-04",
+    "publication_dates": {
+      "published-print": "2023-04",
+      "published": "2023-04"
+    },
+    "publication_type": "journal-article",
+    "venue": "Heliyon",
+    "volume": "9",
+    "issue": "4",
+    "pages": "e14694",
+    "article_number": "e14694",
+    "doi": "10.1016/j.heliyon.2023.e14694",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 86,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 86,
+        "checked_at": "2026-10-24T02:10:18.131653Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "open_pdf",
+    "pdf_url": "http://www.cell.com/article/S2405844023019011/pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:17.334060Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:18.131653Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:18.131653Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.heliyon.2023.e14694",
+          "checked_at": "2026-10-24T02:10:18.131653Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2023-04；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C04",
+    "title": "Analysis of the potential of artificial intelligence for professional development and talent management: A systematic literature review",
+    "authors": [
+      "Natalia Tusquellas",
+      "Ramon Palau",
+      "Raúl Santiago"
+    ],
+    "year": 2024,
+    "publication_date": null,
+    "publication_date_partial": "2024-11",
+    "publication_dates": {
+      "published-print": "2024-11",
+      "published": "2024-11"
+    },
+    "publication_type": "journal-article",
+    "venue": "International Journal of Information Management Data Insights",
+    "volume": "4",
+    "issue": "2",
+    "pages": "100288",
+    "article_number": "100288",
+    "doi": "10.1016/j.jjimei.2024.100288",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 63,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 63,
+        "checked_at": "2026-10-24T02:10:18.701343Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.jjimei.2024.100288"
+      }
+    ],
+    "open_access_status": "gold",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:17.919953Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:18.701343Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1016/j.jjimei.2024.100288",
+          "checked_at": "2026-10-24T02:10:18.701343Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。",
+      "publication_date": "来源仅给到年/月：2024-11；保留部分日期，不编造具体日。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C05",
+    "title": "A systematic literature review of artificial intelligence (AI) in coaching: insights for future research and product development",
+    "authors": [
+      "Jonathan Passmore",
+      "Bergsveinn Olafsson",
+      "David Tee"
+    ],
+    "year": 2026,
+    "publication_date": "2025-02-20",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2025-02-20",
+      "published-print": "2026-05-05",
+      "published": "2025-02-20"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Work-Applied Management",
+    "volume": "18",
+    "issue": "1",
+    "pages": "110-129",
+    "article_number": null,
+    "doi": "10.1108/JWAM-11-2024-0164",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 49,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 49,
+        "checked_at": "2026-10-24T02:10:19.601945Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/JWAM-11-2024-0164"
+      }
+    ],
+    "open_access_status": "diamond",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:18.749541Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:19.601945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/JWAM-11-2024-0164",
+          "checked_at": "2026-10-24T02:10:19.601945Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C06",
+    "title": "Designing AI coaches: a scoping review",
+    "authors": [
+      "Abongile Sipondo",
+      "Nicky Terblanche"
+    ],
+    "year": 2026,
+    "publication_date": "2026-03-06",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-03-06",
+      "published-print": "2026-07-03",
+      "published": "2026-03-06"
+    },
+    "publication_type": "journal-article",
+    "venue": "Coaching: An International Journal of Theory, Research and Practice",
+    "volume": "19",
+    "issue": "2",
+    "pages": "292-310",
+    "article_number": null,
+    "doi": "10.1080/17521882.2026.2640932",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 2,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 2,
+        "checked_at": "2026-10-24T02:10:19.939914Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/17521882.2026.2640932?needAccess=true",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.279589Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.939914Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.939914Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/17521882.2026.2640932",
+          "checked_at": "2026-10-24T02:10:19.939914Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C07",
+    "title": "Personalised AI Coaching Technology: A Systematic Mapping Review",
+    "authors": [
+      "Jonathan Vitale",
+      "Filippo Cenacchi",
+      "Matthias Kraus",
+      "Fidelia Orji",
+      "Deborah Richards",
+      "Rita Orji",
+      "Cristina Conati",
+      "Shlomo Berkovsky"
+    ],
+    "year": 2026,
+    "publication_date": "2026-06-19",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-06-19",
+      "published": "2026-06-19"
+    },
+    "publication_type": "journal-article",
+    "venue": "ACM Transactions on Interactive Intelligent Systems",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "article_number": "3820900",
+    "doi": "10.1145/3820900",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 1,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 1,
+        "checked_at": "2026-10-24T02:10:21.038635Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3820900"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:20.230570Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:21.038635Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1145/3820900",
+          "checked_at": "2026-10-24T02:10:21.038635Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "C08",
+    "title": "Rethinking virtual feedback in working environments: a systematic literature review",
+    "authors": [
+      "Luisa Koloch",
+      "Paul Goldmann",
+      "Björn Schäfer",
+      "Max Ringlstetter"
+    ],
+    "year": 2026,
+    "publication_date": "2026-08-25",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-08-25",
+      "published": "2026-08-25"
+    },
+    "publication_type": "journal-article",
+    "venue": "Personnel Review",
+    "volume": null,
+    "issue": null,
+    "pages": "1-31",
+    "article_number": null,
+    "doi": "10.1108/PR-01-2024-0077",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 0,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 0,
+        "checked_at": "2026-10-24T02:10:21.348702Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/PR-01-2024-0077"
+      }
+    ],
+    "open_access_status": "green",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://edoc.ku.de/id/eprint/37191/1/pr-01-2024-0077en.pdf",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:20.527460Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:21.348702Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:21.348702Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1108/PR-01-2024-0077",
+          "checked_at": "2026-10-24T02:10:21.348702Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "D01",
+    "title": "Effects of Artificial Intelligence Feedback on Students’ Self-Regulated Learning in Higher Education: A Three-Level Meta-Analysis",
+    "authors": [
+      "Chang-Qin Huang",
+      "Ling-Nuo Lu",
+      "Qiong-Hao Huang",
+      "Yin-Rong Zhang",
+      "Tao He",
+      "Yun-Fang Tu",
+      "Gwo-Jen Hwang"
+    ],
+    "year": 2026,
+    "publication_date": "2026-05-04",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2026-05-04",
+      "published-print": "2026-12",
+      "published": "2026-05-04"
+    },
+    "publication_type": "journal-article",
+    "venue": "Educational Psychology Review",
+    "volume": "38",
+    "issue": "1",
+    "pages": null,
+    "article_number": "64",
+    "doi": "10.1007/s10648-026-10166-z",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 2,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 2,
+        "checked_at": "2026-10-24T02:10:22.594954Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10648-026-10166-z"
+      }
+    ],
+    "open_access_status": "closed",
+    "full_text_status": "unknown",
+    "pdf_url": null,
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:21.639203Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:22.594954Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1007/s10648-026-10166-z",
+          "checked_at": "2026-10-24T02:10:22.594954Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  },
+  {
+    "review_id": "D02",
+    "title": "How does artificial intelligence compare to human feedback? A meta-analysis of performance, feedback perception, and learning dispositions",
+    "authors": [
+      "Rogers Kaliisa",
+      "Kamila Misiejuk",
+      "Sonsoles López-Pernas",
+      "Mohammed Saqr"
+    ],
+    "year": 2026,
+    "publication_date": "2025-09-24",
+    "publication_date_partial": null,
+    "publication_dates": {
+      "published-online": "2025-09-24",
+      "published-print": "2026-01-02",
+      "published": "2025-09-24"
+    },
+    "publication_type": "journal-article",
+    "venue": "Educational Psychology",
+    "volume": "46",
+    "issue": "1",
+    "pages": "80-111",
+    "article_number": null,
+    "doi": "10.1080/01443410.2025.2553639",
+    "arxiv_id": null,
+    "abstract": null,
+    "citation_count": 32,
+    "citation_counts": [
+      {
+        "platform": "openalex",
+        "count": 32,
+        "checked_at": "2026-10-24T02:10:22.699187Z",
+        "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639"
+      }
+    ],
+    "open_access_status": "hybrid",
+    "full_text_status": "open_pdf",
+    "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/01443410.2025.2553639?needAccess=true",
+    "download_status": "not_requested",
+    "pdf_verification_status": "unverified",
+    "paper_identity_status": "unverified",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:21.907607Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "open_access_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:22.699187Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:22.699187Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "openalex",
+          "source_url": "https://api.openalex.org/works/https://doi.org/10.1080/01443410.2025.2553639",
+          "checked_at": "2026-10-24T02:10:22.699187Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "source_platforms": [
+      "crossref",
+      "openalex"
+    ],
+    "missing_fields": {
+      "abstract": "未请求逐字摘要；范围与阅读建议另见人工核验清单。"
+    },
+    "fetched_at": "2026-10-24"
+  }
+]

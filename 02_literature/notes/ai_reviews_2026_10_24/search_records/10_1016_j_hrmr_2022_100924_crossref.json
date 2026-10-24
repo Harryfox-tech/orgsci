@@ -1,0 +1,1960 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.hrmr.2022.100924",
+    "checked_at": "2026-10-24T02:10:13.408395Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T18:51:35Z",
+        "timestamp": 1792695095672,
+        "version": "4.5.0"
+      },
+      "reference-count": 145,
+      "publisher": "Elsevier BV",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2023-03-01T00:00:00Z",
+            "timestamp": 1677628800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Human Resource Management Review"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.hrmr.2022.100924",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            16
+          ]
+        ],
+        "date-time": "2022-06-16T07:55:20Z",
+        "timestamp": 1655366120000
+      },
+      "page": "100924",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 194,
+      "title": [
+        "An interdisciplinary review of AI and HRM: Challenges and future directions"
+      ],
+      "prefix": "10.1016",
+      "volume": "33",
+      "author": [
+        {
+          "given": "Yuan",
+          "family": "Pan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Fabian J.",
+          "family": "Froese",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0005",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/17620",
+          "article-title": "Health care employees' perceptions of the use of artificial intelligence applications: Survey study",
+          "volume": "22",
+          "author": "Abdullah",
+          "year": "2020",
+          "journal-title": "Journal of Medical Internet Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "45",
+          "DOI": "10.1016/j.ijinfomgt.2019.02.006",
+          "article-title": "Applying artificial intelligence technique to predict knowledge hiding behavior",
+          "volume": "49",
+          "author": "Abubakar",
+          "year": "2019",
+          "journal-title": "International Journal of Information Management"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "2188",
+          "DOI": "10.1086/705716",
+          "article-title": "Robots and jobs: Evidence from US labor markets",
+          "volume": "128",
+          "author": "Acemoglu",
+          "year": "2020",
+          "journal-title": "Journal of Political Economy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1093/cjres/rsz022",
+          "article-title": "The wrong kind of AI? Artificial intelligence and the future of labour demand",
+          "volume": "13",
+          "author": "Acemoglu",
+          "year": "2020",
+          "journal-title": "Cambridge Journal of Regions, Economy and Society"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "243",
+          "DOI": "10.1080/07421222.2002.11045711",
+          "article-title": "Profiling web usage in the workplace: A behavior-based artificial intelligence approach",
+          "volume": "19",
+          "author": "Anandarajan",
+          "year": "2002",
+          "journal-title": "Journal of Management Information Systems"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1257/jep.29.3.3",
+          "article-title": "Why are there still so many jobs? The history and future of workplace automation",
+          "volume": "29",
+          "author": "Autor",
+          "year": "2015",
+          "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "55",
+          "DOI": "10.1016/j.ssci.2016.06.001",
+          "article-title": "An intelligent framework for productivity assessment and analysis of human resource from resilience engineering, motivational factors, HSE and ergonomics perspectives",
+          "volume": "89",
+          "author": "Azadeh",
+          "year": "2016",
+          "journal-title": "Safety Science"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.hrmr.2022.100924_bb0040",
+          "doi-asserted-by": "crossref",
+          "first-page": "4607",
+          "DOI": "10.1287/mnsc.2018.3166",
+          "article-title": "Erlang-S: A data-based model of servers in queueing networks",
+          "volume": "65",
+          "author": "Azriel",
+          "year": "2019",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "1448",
+          "DOI": "10.1287/orsc.1100.0639",
+          "article-title": "Reconfiguring boundary relations: Robotic innovations in pharmacy work",
+          "volume": "23",
+          "author": "Barrett",
+          "year": "2012",
+          "journal-title": "Organization Science"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0050",
+          "first-page": "22",
+          "article-title": "People and machines: Partners in innovation",
+          "volume": "60",
+          "author": "Barro",
+          "year": "2019",
+          "journal-title": "MIT Sloan Management Review"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "951",
+          "DOI": "10.1287/opre.38.6.951",
+          "article-title": "Scheduling interviews for a job fair",
+          "volume": "38",
+          "author": "Bartholdi",
+          "year": "1990",
+          "journal-title": "Operations Research"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0060",
+          "first-page": "140",
+          "article-title": "Learning to work with intelligent machines",
+          "volume": "97",
+          "author": "Beane",
+          "year": "2019",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1177/0001839217751692",
+          "article-title": "Shadow learning: Building robotic surgical skill when approved means fail",
+          "volume": "64",
+          "author": "Beane",
+          "year": "2019",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "1553",
+          "DOI": "10.1287/orsc.2015.1004",
+          "article-title": "What difference does a robot make? The material enactment of distributed coordination",
+          "volume": "26",
+          "author": "Beane",
+          "year": "2015",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "95",
+          "DOI": "10.1016/j.knosys.2018.03.025",
+          "article-title": "On the predictive analysis of behavioral massive job data using embedded clustering and deep recurrent neural networks",
+          "volume": "151",
+          "author": "Benabderrahmane",
+          "year": "2018",
+          "journal-title": "Knowledge-Based Systems"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.1016/0378-7206(95)00008-K",
+          "article-title": "Robots: A boon for working man?",
+          "volume": "28",
+          "author": "Benders",
+          "year": "1995",
+          "journal-title": "Information & Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "117",
+          "DOI": "10.1016/j.jmoneco.2018.05.014",
+          "article-title": "Should we fear the robot revolution? (the correct answer is yes)",
+          "volume": "97",
+          "author": "Berg",
+          "year": "2018",
+          "journal-title": "Journal of Monetary Economics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/2053951718808553",
+          "article-title": "Listening without ears: Artificial intelligence in audio mastering",
+          "volume": "5",
+          "author": "Birtchnell",
+          "year": "2018",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "issue": "100",
+          "key": "10.1016/j.hrmr.2022.100924_bb0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "627",
+          "DOI": "10.1093/epolic/eiaa005",
+          "article-title": "Who is afraid of machines?",
+          "volume": "34",
+          "author": "Blanas",
+          "year": "2019",
+          "journal-title": "Economic Policy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0100",
+          "first-page": "415",
+          "article-title": "Algorithmic advertising discrimination",
+          "volume": "114",
+          "author": "Blass",
+          "year": "2019",
+          "journal-title": "Northwestern University Law Review"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0105",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/12802",
+          "article-title": "Artificial intelligence and the future of primary care: Exploratory qualitative study of UK general practitioners’ views",
+          "volume": "21",
+          "author": "Blease",
+          "year": "2019",
+          "journal-title": "Journal of Medical Internet Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0110",
+          "first-page": "1",
+          "article-title": "In search of a job: Forecasting employment growth using Google trends",
+          "author": "Borup",
+          "year": "2020",
+          "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0115",
+          "doi-asserted-by": "crossref",
+          "first-page": "319",
+          "DOI": "10.1016/j.future.2018.03.035",
+          "article-title": "Classifying online job advertisements through machine learning",
+          "volume": "86",
+          "author": "Boselli",
+          "year": "2018",
+          "journal-title": "Future Generation Computer Systems"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "581",
+          "DOI": "10.1108/JOSM-06-2019-0163",
+          "article-title": "Using AI to predict service agent stress from emotion patterns in service interactions",
+          "volume": "32",
+          "author": "Bromuri",
+          "year": "2021",
+          "journal-title": "Journal of Service Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0125",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2020.120276",
+          "article-title": "Technological disruption and employment: The influence on job insecurity and turnover intentions: A multi-country study",
+          "volume": "161",
+          "author": "Brougham",
+          "year": "2020",
+          "journal-title": "Technological Forecasting and Social Change"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0130",
+          "first-page": "86",
+          "article-title": "Leadership development in the age of the algorithm",
+          "volume": "90",
+          "author": "Buckingham",
+          "year": "2012",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0135",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2019.119828",
+          "article-title": "Automation technologies: Long-term effects for Spanish industrial firms",
+          "volume": "151",
+          "author": "Camiña",
+          "year": "2020",
+          "journal-title": "Technological Forecasting and Social Change"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.hrmr.2022.100924_bb0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "958",
+          "DOI": "10.1037/apl0000108",
+          "article-title": "Initial investigation into computer scoring of candidate essays for personnel selection",
+          "volume": "101",
+          "author": "Campion",
+          "year": "2016",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0145",
+          "first-page": "47",
+          "article-title": "Your approach to hiring is all wrong: Outsourcing and algorithm won’t get you the people you need",
+          "volume": "97",
+          "author": "Cappelli",
+          "year": "2019",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "820",
+          "DOI": "10.1287/opre.46.6.820",
+          "article-title": "Modeling and solving the crew rostering problem",
+          "volume": "46",
+          "author": "Caprara",
+          "year": "1998",
+          "journal-title": "Operations Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.1016/j.neucom.2016.05.105",
+          "article-title": "A multi-modal architecture for non-intrusive analysis of performance in the workplace",
+          "volume": "231",
+          "author": "Carneiro",
+          "year": "2017",
+          "journal-title": "Neurocomputing"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "732",
+          "DOI": "10.1037/a0033593",
+          "article-title": "The impact of subgroup type and subgroup configurational properties on work team performance",
+          "volume": "98",
+          "author": "Carton",
+          "year": "2013",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0165",
+          "doi-asserted-by": "crossref",
+          "first-page": "694",
+          "DOI": "10.1016/j.ejor.2004.03.040",
+          "article-title": "Agent-based simulation for computational experimentation: Developing an artificial labor market",
+          "volume": "166",
+          "author": "Chaturvedi",
+          "year": "2005",
+          "journal-title": "European Journal of Operational Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0170",
+          "doi-asserted-by": "crossref",
+          "first-page": "354",
+          "DOI": "10.1007/s10926-020-09886-y",
+          "article-title": "Smart work injury management (SWIM) system: Artificial intelligence in work disability management",
+          "volume": "30",
+          "author": "Cheng",
+          "year": "2020",
+          "journal-title": "Journal of Occupational Rehabilitation"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "30",
+          "DOI": "10.1002/smj.3215",
+          "article-title": "Machine learning for pattern discovery in management research",
+          "volume": "42",
+          "author": "Choudhury",
+          "year": "2021",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.hrmr.2022.100924_bb0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "1381",
+          "DOI": "10.1002/smj.3152",
+          "article-title": "Machine learning and human capital complementarities: Experimental evidence on bias mitigation",
+          "volume": "41",
+          "author": "Choudhury",
+          "year": "2020",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "issue": "12",
+          "key": "10.1016/j.hrmr.2022.100924_bb0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "1753",
+          "DOI": "10.1016/j.jacr.2017.12.021",
+          "article-title": "The role of artificial intelligence in diagnostic radiology: A survey at a single radiology residency training program",
+          "volume": "15",
+          "author": "Collado-Mesa",
+          "year": "2018",
+          "journal-title": "Journal of the American College of Radiology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "12",
+          "DOI": "10.5465/amr.2009.0486",
+          "article-title": "Building theory about theory building: What constitutes a theoretical contribution?",
+          "volume": "36",
+          "author": "Corley",
+          "year": "2011",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "615",
+          "DOI": "10.1016/j.clsr.2017.11.009",
+          "article-title": "Preventing discrimination in the automated targeting of job advertisements",
+          "volume": "34",
+          "author": "Dalenberg",
+          "year": "2018",
+          "journal-title": "Computer Law and Security Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1016/j.eswa.2012.07.013",
+          "article-title": "Modeling the leadership–project performance relation: Radial basis function, Gaussian and Kriging methods as alternatives to linear regression",
+          "volume": "40",
+          "author": "De Oliveira",
+          "year": "2013",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "539",
+          "DOI": "10.1093/ser/mwx005",
+          "article-title": "Fear of robots at work: The role of economic self-interest",
+          "volume": "15",
+          "author": "Dekker",
+          "year": "2017",
+          "journal-title": "Socio-Economic Review"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "655",
+          "DOI": "10.1177/0162243920943665",
+          "article-title": "Humanly extended automation or the future of work seen through Amazon patents",
+          "volume": "46",
+          "author": "Delfanti",
+          "year": "2021",
+          "journal-title": "Science, Technology & Human Values"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "5129",
+          "DOI": "10.1016/j.eswa.2010.10.003",
+          "article-title": "Improving sale performance prediction using support vector machines",
+          "volume": "38",
+          "author": "Delgado-Gómez",
+          "year": "2011",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0220",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.artmed.2019.101753",
+          "article-title": "Artificial intelligence and the future of psychiatry: Insights from a global physician survey",
+          "volume": "102",
+          "author": "Doraiswamy",
+          "year": "2020",
+          "journal-title": "Artificial Intelligence in Medicine"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1007/s10462-013-9414-y",
+          "article-title": "On-line consistent ranking on e-recruitment: Seeking the truth behind a well-formed CV",
+          "volume": "42",
+          "author": "Faliagka",
+          "year": "2014",
+          "journal-title": "Artificial Intelligence Review"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.hrmr.2022.100924_bb0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "8844",
+          "DOI": "10.1016/j.eswa.2012.02.005",
+          "article-title": "Using hybrid data mining and machine learning clustering analysis to predict the turnover rate for technology professionals",
+          "volume": "39",
+          "author": "Fan",
+          "year": "2012",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0235",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.compind.2020.103222",
+          "article-title": "Estimating industry 4.0 impact on job profiles and skills using text mining",
+          "volume": "118",
+          "author": "Fareri",
+          "year": "2020",
+          "journal-title": "Computers in Industry"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0240",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1177/0170840618765568",
+          "article-title": "Robots and organization studies: Why robots might not want to steal your job",
+          "volume": "40",
+          "author": "Fleming",
+          "year": "2019",
+          "journal-title": "Organization Studies"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0245",
+          "first-page": "62",
+          "article-title": "Building the AI-powered organization technology isn't the biggest challenge, culture is",
+          "volume": "97",
+          "author": "Fountaine",
+          "year": "2019",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "issue": "14",
+          "key": "10.1016/j.hrmr.2022.100924_bb0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "6531",
+          "DOI": "10.1073/pnas.1900949116",
+          "article-title": "Toward understanding the impact of artificial intelligence on labor",
+          "volume": "116",
+          "author": "Frank",
+          "year": "2019",
+          "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0255",
+          "first-page": "1",
+          "article-title": "Big data contributions to human resource management: A systematic review",
+          "author": "Garcia-Arroyo",
+          "year": "2019",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "127",
+          "DOI": "10.1111/poms.13260",
+          "article-title": "Who is a better decision maker? Data-driven expert ranking under unobserved quality",
+          "volume": "30",
+          "author": "Geva",
+          "year": "2021",
+          "journal-title": "Production and Operations Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0265",
+          "doi-asserted-by": "crossref",
+          "first-page": "39403",
+          "DOI": "10.1109/ACCESS.2020.2975485",
+          "article-title": "A process for human resource performance evaluation using computational intelligence: An approach using a combination of rule-based classifiers and supervised learning algorithms",
+          "volume": "8",
+          "author": "Góes",
+          "year": "2020",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.hrmr.2022.100924_bb0270",
+          "doi-asserted-by": "crossref",
+          "first-page": "1062",
+          "DOI": "10.1038/s41562-019-0670-y",
+          "article-title": "Psychological reactions to human versus robotic job replacement",
+          "volume": "3",
+          "author": "Granulo",
+          "year": "2019",
+          "journal-title": "Nature Human Behaviour"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0275",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2020.120323",
+          "article-title": "Forecasting extreme labor displacement: A survey of AI practitioners",
+          "volume": "161",
+          "author": "Gruetzemacher",
+          "year": "2020",
+          "journal-title": "Technological Forecasting and Social Change"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.hrmr.2022.100924_bb0280",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.im.2019.04.005",
+          "article-title": "Impacts of case-based health knowledge system in hospital management: The mediating role of group effectiveness",
+          "volume": "56",
+          "author": "Gu",
+          "year": "2019",
+          "journal-title": "Information & Management"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1177/0008125619864925",
+          "article-title": "A brief history of artificial intelligence: On the past, present, and future of artificial intelligence",
+          "volume": "61",
+          "author": "Haenlein",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0290",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techsoc.2019.05.006",
+          "article-title": "The new division of labor between human and machine and its educational implications",
+          "volume": "59",
+          "author": "Hammershøj",
+          "year": "2019",
+          "journal-title": "Technology in Society"
+        },
+        {
+          "issue": "1–2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0295",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1207/s15327051hci1901&2_7",
+          "article-title": "Whose job is it anyway? A study of human-robot interaction in a collaborative task",
+          "volume": "19",
+          "author": "Hinds",
+          "year": "2004",
+          "journal-title": "Human Computer Interaction"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0300",
+          "doi-asserted-by": "crossref",
+          "first-page": "657",
+          "DOI": "10.1287/mnsc.39.6.657",
+          "article-title": "Solving airline crew scheduling problems by branch-and-cut",
+          "volume": "39",
+          "author": "Hoffman",
+          "year": "1993",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0305",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1287/opre.1040.0155",
+          "article-title": "Navy personnel planning and the optimal partition",
+          "volume": "53",
+          "author": "Holder",
+          "year": "2005",
+          "journal-title": "Operations Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0310",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1007/s10551-020-04640-z",
+          "article-title": "An ethical inquiry of the effect of cockpit automation on the responsibilities of airline pilots: Dissonance or meaningful control?",
+          "volume": "176",
+          "author": "Holford",
+          "year": "2022",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0315",
+          "first-page": "425",
+          "article-title": "Use of an expert system in a personnel selection process",
+          "volume": "14",
+          "author": "Hooper",
+          "year": "1998",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0320",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1177/0008125619863436",
+          "article-title": "The feeling economy: Managing in the next generation of artificial intelligence (AI)",
+          "volume": "61",
+          "author": "Huang",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0325",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1177/1094670517752459",
+          "article-title": "Artificial intelligence in service",
+          "volume": "21",
+          "author": "Huang",
+          "year": "2018",
+          "journal-title": "Journal of Service Research"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.hrmr.2022.100924_bb0330",
+          "doi-asserted-by": "crossref",
+          "first-page": "969",
+          "DOI": "10.1037/amp0000582",
+          "article-title": "Could a rising robot workforce make humans less prejudiced?",
+          "volume": "75",
+          "author": "Jackson",
+          "year": "2020",
+          "journal-title": "American Psychologist"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0335",
+          "doi-asserted-by": "crossref",
+          "first-page": "115345",
+          "DOI": "10.1109/ACCESS.2020.3004002",
+          "article-title": "Predicting personality using answers to open-ended interview questions",
+          "volume": "8",
+          "author": "Jayaratne",
+          "year": "2020",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0340",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2020.120202",
+          "article-title": "Industrial robots, employment growth, and labor cost: A simultaneous equation analysis",
+          "volume": "159",
+          "author": "Jung",
+          "year": "2020",
+          "journal-title": "Technological Forecasting and Social Change"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0345",
+          "doi-asserted-by": "crossref",
+          "first-page": "3017",
+          "DOI": "10.1016/j.eswa.2008.01.090",
+          "article-title": "Separating the wheat from the chaff: An intelligent sales recruitment and benchmarking system",
+          "volume": "36",
+          "author": "Khosla",
+          "year": "2009",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0350",
+          "doi-asserted-by": "crossref",
+          "first-page": "1431",
+          "DOI": "10.1287/opre.2015.1421",
+          "article-title": "A two-stage stochastic integer programming approach to integrated staffing and scheduling with application to nurse management",
+          "volume": "63",
+          "author": "Kim",
+          "year": "2015",
+          "journal-title": "Operations Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1016/j.futures.2017.01.003",
+          "article-title": "The rise of technological unemployment and its implications on the future macroeconomic landscape",
+          "volume": "87",
+          "author": "Kim",
+          "year": "2017",
+          "journal-title": "Futures"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0360",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1007/s12599-020-00673-w",
+          "article-title": "Highly accurate, but still discriminatory: A fairness evaluation of algorithmic video analysis in the recruitment context",
+          "volume": "63",
+          "author": "Köchling",
+          "year": "2021",
+          "journal-title": "Business & Information Systems Engineering"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1016/S0925-7535(99)00027-2",
+          "article-title": "Stress and team performance: Principles and challenges for intelligent decision aids",
+          "volume": "33",
+          "author": "Kontogiannis",
+          "year": "1999",
+          "journal-title": "Safety Science"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "647",
+          "DOI": "10.1287/mnsc.40.5.647",
+          "article-title": "A network model to maximize navy personnel readiness and its solution",
+          "volume": "40",
+          "author": "Krass",
+          "year": "1994",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.hrmr.2022.100924_bb0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "2966",
+          "DOI": "10.1287/mnsc.2018.3093",
+          "article-title": "Algorithmic bias? An empirical study of apparent gender-based discrimination in the display of stem career ads",
+          "volume": "65",
+          "author": "Lambrecht",
+          "year": "2019",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0380",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1177/014920639602200104",
+          "article-title": "Artificial intelligence in HRM: An experimental study of an expert system",
+          "volume": "22",
+          "author": "Lawler",
+          "year": "1996",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0385",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.cie.2020.106463",
+          "article-title": "Industrial human resource management optimization based on skills and characteristics",
+          "volume": "144",
+          "author": "Lee",
+          "year": "2020",
+          "journal-title": "Computers & Industrial Engineering"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0390",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/2053951718756684",
+          "article-title": "Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management",
+          "volume": "5",
+          "author": "Lee",
+          "year": "2018",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "377",
+          "DOI": "10.1007/s10551-019-04204-w",
+          "article-title": "The challenges of algorithm-based HR decision-making for personal integrity",
+          "volume": "160",
+          "author": "Leicht-Deobald",
+          "year": "2019",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0400",
+          "doi-asserted-by": "crossref",
+          "first-page": "393",
+          "DOI": "10.1093/oxrep/gry004",
+          "article-title": "Computers and populism: Artificial intelligence, jobs, and politics in the near term",
+          "volume": "34",
+          "author": "Levy",
+          "year": "2018",
+          "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.hrmr.2022.100924_bb0405",
+          "doi-asserted-by": "crossref",
+          "first-page": "2462",
+          "DOI": "10.1007/s40815-019-00758-z",
+          "article-title": "An integrated model of rough set and radial basis function neural network for early warning of enterprise human resource crisis",
+          "volume": "21",
+          "author": "Li",
+          "year": "2019",
+          "journal-title": "International Journal of Fuzzy Systems"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0410",
+          "doi-asserted-by": "crossref",
+          "first-page": "172",
+          "DOI": "10.1016/j.tourman.2019.02.006",
+          "article-title": "Hotel employee’s artificial intelligence and robotics awareness and its impact on turnover intention: The moderating roles of perceived organizational support and competitive psychological climate",
+          "volume": "73",
+          "author": "Li",
+          "year": "2019",
+          "journal-title": "Tourism Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0415",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.1016/j.dss.2014.06.007",
+          "article-title": "An ontology-based web mining method for unemployment rate prediction",
+          "volume": "66",
+          "author": "Li",
+          "year": "2014",
+          "journal-title": "Decision Support Systems"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.hrmr.2022.100924_bb0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "5841",
+          "DOI": "10.1016/j.eswa.2010.11.038",
+          "article-title": "An empirical analysis on auto corporation training program planning by data mining techniques",
+          "volume": "38",
+          "author": "Lin",
+          "year": "2011",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0425",
+          "doi-asserted-by": "crossref",
+          "first-page": "123",
+          "DOI": "10.1080/21670811.2016.1160791",
+          "article-title": "Decades of automation in the newsroom: Why are there still so many jobs in journalism?",
+          "volume": "5",
+          "author": "Linden",
+          "year": "2017",
+          "journal-title": "Digital Journalism"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0430",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.techfore.2020.120302",
+          "article-title": "The contingent effect of job automating technology awareness on perceived job insecurity: Exploring the moderating role of organizational culture",
+          "volume": "161",
+          "author": "Lingmont",
+          "year": "2020",
+          "journal-title": "Technological Forecasting and Social Change"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0435",
+          "doi-asserted-by": "crossref",
+          "first-page": "1443",
+          "DOI": "10.1287/isre.2020.0954",
+          "article-title": "Predicting labor market competition: Leveraging interfirm network and employee skills",
+          "volume": "31",
+          "author": "Liu",
+          "year": "2020",
+          "journal-title": "Information Systems Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0440",
+          "doi-asserted-by": "crossref",
+          "first-page": "318",
+          "DOI": "10.1016/j.eswa.2017.08.034",
+          "article-title": "Portfolio model for analyzing human resources: An approach based on neuro-fuzzy modeling and the simulated annealing algorithm",
+          "volume": "90",
+          "author": "Lukovac",
+          "year": "2017",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0445",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.1016/j.jbusres.2020.07.045",
+          "article-title": "Rising with the machines: A sociotechnical framework for bringing artificial intelligence into the organization",
+          "volume": "120",
+          "author": "Makarius",
+          "year": "2020",
+          "journal-title": "Journal of Business Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0450",
+          "first-page": "1",
+          "article-title": "May the bots be with you! Delivering HR cost-effectiveness and individualised employee experiences in an MNE",
+          "author": "Malik",
+          "year": "2020",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0455",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.intman.2021.100871",
+          "article-title": "Elevating talents’ experience through innovative artificial intelligence-mediated knowledge sharing: Evidence from an IT-multinational enterprise",
+          "volume": "27",
+          "author": "Malik",
+          "year": "2021",
+          "journal-title": "Journal of International Management"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.hrmr.2022.100924_bb0460",
+          "doi-asserted-by": "crossref",
+          "first-page": "1077",
+          "DOI": "10.1016/j.jacr.2019.01.026",
+          "article-title": "Artificial intelligence may cause a significant disruption to the radiology workforce",
+          "volume": "16",
+          "author": "Mazurowski",
+          "year": "2019",
+          "journal-title": "Journal of the American College of Radiology"
+        },
+        {
+          "issue": "1–4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0465",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.1016/0360-8352(92)90100-X",
+          "article-title": "A fuzzy linguistics model for job related injury risk assessment",
+          "volume": "23",
+          "author": "McCauley-Bell",
+          "year": "1992",
+          "journal-title": "Computers & Industrial Engineering"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0470",
+          "doi-asserted-by": "crossref",
+          "first-page": "540",
+          "DOI": "10.1177/1094428109335658",
+          "article-title": "A comparison of artificial neural networks and multiple regression in the context of research on personality and work performance",
+          "volume": "13",
+          "author": "Minbashian",
+          "year": "2010",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0475",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1186/s12960-018-0329-1",
+          "article-title": "Application of machine learning models in predicting length of stay among healthcare workers in underserved communities in South Africa",
+          "volume": "16",
+          "author": "Moyo",
+          "year": "2018",
+          "journal-title": "Human Resources for Health"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0480",
+          "first-page": "1",
+          "article-title": "Algorithmic surveillance in the gig economy: The organization of work through Lefebvrian conceived space",
+          "author": "Newlands",
+          "year": "2020",
+          "journal-title": "Organization Studies"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0485",
+          "doi-asserted-by": "crossref",
+          "first-page": "149",
+          "DOI": "10.1016/j.obhdp.2020.03.008",
+          "article-title": "When eliminating bias isn’t fair: Algorithmic reductionism and procedural justice in human resource decisions",
+          "volume": "160",
+          "author": "Newman",
+          "year": "2020",
+          "journal-title": "Organizational Behavior and Human Decision Processes"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0490",
+          "first-page": "1",
+          "article-title": "A two-wave cross-lagged study on AI service quality: The moderating effects of the job level and job role",
+          "author": "Nguyen",
+          "year": "2021",
+          "journal-title": "British Journal of Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0495",
+          "series-title": "The quest for artificial intelligence: A history of ideas and achievements",
+          "author": "Nilsson",
+          "year": "2010"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0500",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/12422",
+          "article-title": "Physician confidence in artificial intelligence: An online mobile survey",
+          "volume": "21",
+          "author": "Oh",
+          "year": "2019",
+          "journal-title": "Journal of Medical Internet Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1016/j.chb.2018.07.022",
+          "article-title": "The importance of procedural justice in human–machine interactions: Intelligent systems as new decision agents in organizations",
+          "volume": "89",
+          "author": "Ötting",
+          "year": "2018",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0510",
+          "first-page": "1",
+          "article-title": "The adoption of artificial intelligence in employee recruitment: The influence of contextual factors",
+          "author": "Pan",
+          "year": "2021",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0515",
+          "doi-asserted-by": "crossref",
+          "first-page": "416",
+          "DOI": "10.1016/j.ijinfomgt.2019.07.014",
+          "article-title": "Text mining of industry 4.0 job advertisements",
+          "volume": "50",
+          "author": "Pejic-Bach",
+          "year": "2020",
+          "journal-title": "International Journal of Information Management"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "1058",
+          "DOI": "10.1177/0950017018817489",
+          "article-title": "Why artificial intelligence will not outsmart complex knowledge work",
+          "volume": "33",
+          "author": "Pettersen",
+          "year": "2019",
+          "journal-title": "Work, Employment and Society"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0525",
+          "doi-asserted-by": "crossref",
+          "first-page": "651",
+          "DOI": "10.1007/s11187-019-00208-y",
+          "article-title": "Data science for entrepreneurship research: Studying demand dynamics for entrepreneurial skills in the Netherlands",
+          "volume": "55",
+          "author": "Prüfer",
+          "year": "2020",
+          "journal-title": "Small Business Economics"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "148",
+          "DOI": "10.1287/opre.1030.0076",
+          "article-title": "Class scheduling for pilot training",
+          "volume": "52",
+          "author": "Qi",
+          "year": "2004",
+          "journal-title": "Operations Research"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "68",
+          "DOI": "10.1016/j.jbusres.2020.05.019",
+          "article-title": "Robot will take your job: Innovation for an era of artificial intelligence",
+          "volume": "116",
+          "author": "Rampersad",
+          "year": "2020",
+          "journal-title": "Journal of Business Research"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0540",
+          "doi-asserted-by": "crossref",
+          "first-page": "250",
+          "DOI": "10.1177/1363459319874115",
+          "article-title": "How do team experience and relationships shape new divisions of labour in robot-assisted surgery? A realist investigation",
+          "volume": "25",
+          "author": "Randell",
+          "year": "2021",
+          "journal-title": "Health"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.hrmr.2022.100924_bb0545",
+          "doi-asserted-by": "crossref",
+          "first-page": "1476",
+          "DOI": "10.1016/j.jacr.2017.07.007",
+          "article-title": "Artificial intelligence: Threat or boon to radiologists?",
+          "volume": "14",
+          "author": "Recht",
+          "year": "2017",
+          "journal-title": "Journal of the American College of Radiology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0550",
+          "doi-asserted-by": "crossref",
+          "first-page": "177",
+          "DOI": "10.1097/SLA.0b013e3181e464fb",
+          "article-title": "Eye metrics as an objective assessment of surgical skill",
+          "volume": "252",
+          "author": "Richstone",
+          "year": "2010",
+          "journal-title": "Annals of Surgery"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0555",
+          "first-page": "1",
+          "article-title": "Designing fair AI for managing employees in organizations: A review, critique, and design agenda",
+          "author": "Robert",
+          "year": "2020",
+          "journal-title": "Human Computer Interaction"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0560",
+          "doi-asserted-by": "crossref",
+          "first-page": "748",
+          "DOI": "10.1257/aer.89.4.748",
+          "article-title": "The redesign of the matching market for American physicians: Some engineering aspects of economic design",
+          "volume": "89",
+          "author": "Roth",
+          "year": "1999",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0565",
+          "doi-asserted-by": "crossref",
+          "first-page": "122",
+          "DOI": "10.1177/1094670520940407",
+          "article-title": "A strategic framework for task automation in professional services",
+          "volume": "24",
+          "author": "Sampson",
+          "year": "2021",
+          "journal-title": "Journal of Service Research"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.hrmr.2022.100924_bb0570",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/22421",
+          "article-title": "Integrating a machine learning system into clinical workflows: Qualitative study",
+          "volume": "22",
+          "author": "Sandhu",
+          "year": "2020",
+          "journal-title": "Journal of Medical Internet Research"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0575",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.im.2019.103174",
+          "article-title": "Machines as teammates: A research agenda on AI in team collaboration",
+          "volume": "57",
+          "author": "Seeber",
+          "year": "2020",
+          "journal-title": "Information & Management"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0580",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1093/neuros/nyx384",
+          "article-title": "Natural and artificial intelligence in neurosurgery: A systematic review",
+          "volume": "83",
+          "author": "Senders",
+          "year": "2018",
+          "journal-title": "Neurosurgery"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0585",
+          "doi-asserted-by": "crossref",
+          "first-page": "471",
+          "DOI": "10.1016/j.cirp.2013.03.061",
+          "article-title": "A method for human resource evaluation to realise high-quality PSSs",
+          "volume": "62",
+          "author": "Shimomura",
+          "year": "2013",
+          "journal-title": "CIRP Annals - Manufacturing Technology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0590",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1177/1094428107309326",
+          "article-title": "Using artificial neural networks to model nonlinearity: The case of the job satisfaction—Job performance relationship",
+          "volume": "12",
+          "author": "Somers",
+          "year": "2009",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0595",
+          "first-page": "1",
+          "article-title": "Scoring dimension-level job performance from narrative comments: Validity and generalizability when using natural language processing",
+          "author": "Speer",
+          "year": "2020",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0600",
+          "doi-asserted-by": "crossref",
+          "first-page": "417",
+          "DOI": "10.1016/j.leaqua.2019.05.005",
+          "article-title": "Finding the right fuel for the analytical engine: Expanding the leader trait paradigm through machine learning?",
+          "volume": "30",
+          "author": "Spisak",
+          "year": "2019",
+          "journal-title": "The Leadership Quarterly"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0605",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1016/j.chb.2019.04.012",
+          "article-title": "Does the use of synchrony and artificial intelligence in video interviews affect interview ratings and applicant attitudes?",
+          "volume": "98",
+          "author": "Suen",
+          "year": "2019",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0610",
+          "doi-asserted-by": "crossref",
+          "first-page": "61018",
+          "DOI": "10.1109/ACCESS.2019.2902863",
+          "article-title": "TensorFlow-based automatic personality recognition used in asynchronous video interviews",
+          "volume": "7",
+          "author": "Suen",
+          "year": "2019",
+          "journal-title": "IEEE Access"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0615",
+          "doi-asserted-by": "crossref",
+          "first-page": "Article 3",
+          "DOI": "10.1186/s13673-020-0208-3",
+          "article-title": "Intelligent video interview agent used to predict communication skill and perceived personality traits",
+          "volume": "10",
+          "author": "Suen",
+          "year": "2020",
+          "journal-title": "Human-centric Computing and Information Sciences"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0620",
+          "doi-asserted-by": "crossref",
+          "first-page": "371",
+          "DOI": "10.2307/2393788",
+          "article-title": "What theory is not",
+          "volume": "40",
+          "author": "Sutton",
+          "year": "1995",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0625",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial intelligence in human resources management: Challenges and a path forward",
+          "volume": "61",
+          "author": "Tambe",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0630",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.1109/TASE.2009.2025364",
+          "article-title": "Skill evaluation of human operators in partly automated mobile working machines",
+          "volume": "7",
+          "author": "Tervo",
+          "year": "2010",
+          "journal-title": "IEEE Transactions on Automation Science and Engineering"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0635",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1111/1467-8551.00375",
+          "article-title": "Towards a methodology for developing evidence-informed management knowledge by means of systematic review",
+          "volume": "14",
+          "author": "Tranfield",
+          "year": "2003",
+          "journal-title": "British Journal of Management"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/2053951720919776",
+          "article-title": "The trainer, the verifier, the imitator: Three ways in which human platform workers support artificial intelligence",
+          "volume": "7",
+          "author": "Tubaro",
+          "year": "2020",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "783",
+          "DOI": "10.1016/j.eswa.2005.06.012",
+          "article-title": "Mining the generation Xers’ job attitudes by artificial neural network and decision tree—Empirical evidence in Taiwan",
+          "volume": "29",
+          "author": "Tung",
+          "year": "2005",
+          "journal-title": "Expert Systems with Applications"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0650",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.annals.2020.102978",
+          "article-title": "X=(tourism_work) y=(sdg8) while y= true: automate (x)",
+          "volume": "84",
+          "author": "Tuomi",
+          "year": "2020",
+          "journal-title": "Annals of Tourism Research"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0655",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.1016/S0933-3657(00)00062-2",
+          "article-title": "Hybrid optimization techniques for the workshift and rest assignment of nursing personnel",
+          "volume": "20",
+          "author": "Valouxis",
+          "year": "2000",
+          "journal-title": "Artificial Intelligence in Medicine"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0660",
+          "doi-asserted-by": "crossref",
+          "first-page": "215",
+          "DOI": "10.1016/j.chb.2018.09.009",
+          "article-title": "Marketing AI recruitment: The next phase in job application and selection",
+          "volume": "90",
+          "author": "Van Esch",
+          "year": "2019",
+          "journal-title": "Computers in Human Behavior"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0665",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1016/j.hrmr.2015.12.003",
+          "article-title": "Corporate social responsibility and human resource management: A systematic review and conceptual analysis",
+          "volume": "26",
+          "author": "Voegtlin",
+          "year": "2016",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.hrmr.2022.100924_bb0670",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1111/1468-4446.12239",
+          "article-title": "Automation: Is it really different this time?",
+          "volume": "68",
+          "author": "Wajcman",
+          "year": "2017",
+          "journal-title": "The British Journal of Sociology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0675",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1037/0021-9010.77.3.353",
+          "article-title": "Operator work design and robotics system performance: A serendipitous field study",
+          "volume": "77",
+          "author": "Wall",
+          "year": "1992",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0680",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1177/1035304620941272",
+          "article-title": "The fourth industrial revolution and labour market regulation in Singapore",
+          "volume": "31",
+          "author": "Waring",
+          "year": "2020",
+          "journal-title": "The Economic and Labour Relations Review"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.hrmr.2022.100924_bb0685",
+          "doi-asserted-by": "crossref",
+          "first-page": "434",
+          "DOI": "10.1037/a0036054",
+          "article-title": "Botsourcing and outsourcing: Robot, British, Chinese, and German workers are for thinking-not feeling-jobs",
+          "volume": "14",
+          "author": "Waytz",
+          "year": "2014",
+          "journal-title": "Emotion"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0690",
+          "doi-asserted-by": "crossref",
+          "first-page": "286",
+          "DOI": "10.1177/0268396220925830",
+          "article-title": "Robo-apocalypse cancelled? Reframing the automation and future of work debate",
+          "volume": "35",
+          "author": "Willcocks",
+          "year": "2020",
+          "journal-title": "Journal of Information Technology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.hrmr.2022.100924_bb0695",
+          "first-page": "14",
+          "article-title": "The jobs that artificial intelligence will create",
+          "volume": "58",
+          "author": "Wilson",
+          "year": "2017",
+          "journal-title": "MIT Sloan Management Review"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0700",
+          "doi-asserted-by": "crossref",
+          "first-page": "331",
+          "DOI": "10.1080/14672715.2019.1612765",
+          "article-title": "Robots vs migrants? Reconfiguring the future of Japanese institutional eldercare",
+          "volume": "51",
+          "author": "Wright",
+          "year": "2019",
+          "journal-title": "Critical Asian Studies"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.hrmr.2022.100924_bb0705",
+          "doi-asserted-by": "crossref",
+          "first-page": "1926",
+          "DOI": "10.1109/TKDE.2018.2873341",
+          "article-title": "Dynamic talent flow analysis with deep sequence prediction modeling",
+          "volume": "31",
+          "author": "Xu",
+          "year": "2019",
+          "journal-title": "IEEE Transactions on Knowledge and Data Engineering"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.hrmr.2022.100924_bb0710",
+          "doi-asserted-by": "crossref",
+          "first-page": "2217",
+          "DOI": "10.1108/IJCHM-05-2019-0505",
+          "article-title": "How will service robots redefine leadership in hotel management? A Delphi approach",
+          "volume": "32",
+          "author": "Xu",
+          "year": "2020",
+          "journal-title": "International Journal of Contemporary Hospitality Management"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.hrmr.2022.100924_bb0715",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/17857",
+          "article-title": "An app for classifying personal mental illness at workplace using fit statistics and convolutional neural networks: Survey-based quantitative study",
+          "volume": "8",
+          "author": "Yan",
+          "year": "2020",
+          "journal-title": "JMIR mHealth and uHealth"
+        },
+        {
+          "key": "10.1016/j.hrmr.2022.100924_bb0720",
+          "doi-asserted-by": "crossref",
+          "first-page": "161",
+          "DOI": "10.1016/j.autcon.2018.09.008",
+          "article-title": "Enhancing perceived safety in human–robot collaborative construction using immersive virtual environments",
+          "volume": "96",
+          "author": "You",
+          "year": "2018",
+          "journal-title": "Automation in Construction"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.hrmr.2022.100924_bb0725",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1177/1035304620921569",
+          "article-title": "Task content routinisation, technological change and labour turnover: Evidence from China",
+          "volume": "31",
+          "author": "Yuhong",
+          "year": "2020",
+          "journal-title": "The Economic and Labour Relations Review"
+        }
+      ],
+      "container-title": [
+        "Human Resource Management Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1053482222000420?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1053482222000420?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2025-10-20T09:04:49Z",
+        "timestamp": 1760951089000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1053482222000420"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      },
+      "references-count": 145,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              3
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S1053482222000420"
+      ],
+      "URL": "https://doi.org/10.1016/j.hrmr.2022.100924",
+      "relation": {},
+      "ISSN": [
+        "1053-4822"
+      ],
+      "issn-type": [
+        {
+          "value": "1053-4822",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "An interdisciplinary review of AI and HRM: Challenges and future directions",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Human Resource Management Review",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.hrmr.2022.100924",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2022 Elsevier Inc. All rights reserved.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "100924"
+    }
+  }
+}

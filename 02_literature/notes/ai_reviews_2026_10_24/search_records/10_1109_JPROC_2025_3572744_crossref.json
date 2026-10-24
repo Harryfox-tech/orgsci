@@ -1,0 +1,2146 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1109/JPROC.2025.3572744",
+    "checked_at": "2026-10-24T02:10:14.529666Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T21:19:05Z",
+        "timestamp": 1792790345886,
+        "version": "4.5.0"
+      },
+      "reference-count": 305,
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2025-02-01T00:00:00Z",
+            "timestamp": 1738368000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2025-02-01T00:00:00Z",
+            "timestamp": 1738368000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2025-02-01T00:00:00Z",
+            "timestamp": 1738368000000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100012166",
+          "name": "National Key Research and Development Program of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2023YFF0725001"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2023YFF0725001"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100012166",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "92370204"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "92370204"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "62406141"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62406141"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100001809",
+          "name": "National Natural Science Foundation of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "62306255"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "62306255"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100001809",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100021171",
+          "name": "Basic and Applied Basic Research Foundation of Guangdong Province",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2023B1515120057"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2023B1515120057"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100021171",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100010819",
+          "name": "Education Bureau of Guangzhou Municipality",
+          "doi-asserted-by": "publisher",
+          "id": [
+            {
+              "id": "10.13039/501100010819",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Proc. IEEE"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      },
+      "DOI": "10.1109/jproc.2025.3572744",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            6
+          ]
+        ],
+        "date-time": "2025-06-06T13:42:40Z",
+        "timestamp": 1749217360000
+      },
+      "page": "125-171",
+      "source": "Crossref",
+      "is-referenced-by-count": 36,
+      "title": [
+        "A Comprehensive Survey of Artificial Intelligence Techniques for Talent Analytics"
+      ],
+      "prefix": "10.1109",
+      "volume": "113",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-5354-8630",
+          "authenticated-orcid": false,
+          "given": "Chuan",
+          "family": "Qin",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0894-9651",
+          "authenticated-orcid": false,
+          "given": "Le",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Business Intelligence Laboratory, Baidu Inc., Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2396-0306",
+          "authenticated-orcid": false,
+          "given": "Yihang",
+          "family": "Cheng",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rui",
+          "family": "Zha",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3947-4153",
+          "authenticated-orcid": false,
+          "given": "Dazhong",
+          "family": "Shen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, Nanjing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Qi",
+          "family": "Zhang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Shanghai Artificial Intelligence Laboratory, Shanghai, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Xi",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Computer Science and Technology, University of Science and Technology of China, Hefei, Anhui, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4763-6060",
+          "authenticated-orcid": false,
+          "given": "Ying",
+          "family": "Sun",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chen",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Management, University of Science and Technology of China, Hefei, Anhui, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4570-643X",
+          "authenticated-orcid": false,
+          "given": "Hengshu",
+          "family": "Zhu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Computer Network Information Center, Chinese Academy of Sciences, Beijing, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6016-6465",
+          "authenticated-orcid": false,
+          "given": "Hui",
+          "family": "Xiong",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Thrust of Artificial Intelligence, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "263",
+      "reference": [
+        {
+          "key": "ref1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/IJOA-01-2019-1634"
+        },
+        {
+          "issue": "3",
+          "key": "ref2",
+          "first-page": "515",
+          "article-title": "Talent analytics: A strategic tool for talent management outcomes",
+          "volume": "52",
+          "author": "Sharma",
+          "year": "2017",
+          "journal-title": "Indian J. Ind. Relations"
+        },
+        {
+          "key": "ref3",
+          "volume-title": "Trends and practices in talent analytics",
+          "volume": "20",
+          "author": "Kaur",
+          "year": "2017"
+        },
+        {
+          "key": "ref4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3209978.3210025"
+        },
+        {
+          "key": "ref5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDE53745.2022.00325"
+        },
+        {
+          "key": "ref6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3097983.3098107"
+        },
+        {
+          "key": "ref7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2022.3140866"
+        },
+        {
+          "key": "ref8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/EMR.2012.6172769"
+        },
+        {
+          "key": "ref9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2939672.2939689"
+        },
+        {
+          "key": "ref10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3447548.3467131"
+        },
+        {
+          "key": "ref11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.ps.46.020195.001321"
+        },
+        {
+          "issue": "2",
+          "key": "ref12",
+          "first-page": "83",
+          "article-title": "A survey of the human resource information systems (HRIS) of major companies",
+          "volume": "5",
+          "author": "Mathys",
+          "year": "1982",
+          "journal-title": "Hum. Resource Planning"
+        },
+        {
+          "key": "ref13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206318818718"
+        },
+        {
+          "key": "ref14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/256705"
+        },
+        {
+          "key": "ref15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744-6570.2000.tb02418.x"
+        },
+        {
+          "key": "ref16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/248875"
+        },
+        {
+          "key": "ref17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/ame.1992.4274391"
+        },
+        {
+          "key": "ref18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/EUM0000000005979"
+        },
+        {
+          "key": "ref19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0960085X.2021.1927213"
+        },
+        {
+          "key": "ref20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-18794-0_5"
+        },
+        {
+          "key": "ref21",
+          "volume-title": "January 2022 Jolts Report: Workers Quitting Jobs at Elevated Rates",
+          "author": "Bunker",
+          "year": "2022"
+        },
+        {
+          "key": "ref22",
+          "volume-title": "About Linkedin",
+          "year": "2022"
+        },
+        {
+          "key": "ref23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-29739-8_11"
+        },
+        {
+          "key": "ref24",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/D19-1487"
+        },
+        {
+          "key": "ref25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3292500.3330849"
+        },
+        {
+          "key": "ref26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2021.3115620"
+        },
+        {
+          "key": "ref27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v31i1.10751"
+        },
+        {
+          "key": "ref28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3392734"
+        },
+        {
+          "key": "ref29",
+          "article-title": "Network formation and dynamics among multi-LLMs",
+          "author": "Papachristou",
+          "year": "2024",
+          "journal-title": "arXiv:2402.10659"
+        },
+        {
+          "key": "ref30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17705/1jais.00662"
+        },
+        {
+          "key": "ref31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3469654"
+        },
+        {
+          "key": "ref32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2352/ISSN.2470-1173.2016.17.DRR-064"
+        },
+        {
+          "key": "ref33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDE55515.2023.00242"
+        },
+        {
+          "key": "ref34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3459637.3482319"
+        },
+        {
+          "key": "ref35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/CVPRW50498.2020.00022"
+        },
+        {
+          "key": "ref36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3234465"
+        },
+        {
+          "key": "ref37",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3230707"
+        },
+        {
+          "key": "ref38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3292500.3330969"
+        },
+        {
+          "key": "ref39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3336191.3371771"
+        },
+        {
+          "key": "ref40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09720510.2020.1799583"
+        },
+        {
+          "key": "ref41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3376927"
+        },
+        {
+          "key": "ref42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3292500.3330706"
+        },
+        {
+          "key": "ref43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3604552"
+        },
+        {
+          "key": "ref44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3539597.3570476"
+        },
+        {
+          "key": "ref45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/PAC.2017.9"
+        },
+        {
+          "key": "ref46",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDM.2018.00049"
+        },
+        {
+          "key": "ref47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v32i1.11847"
+        },
+        {
+          "key": "ref48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-021-22215-y"
+        },
+        {
+          "key": "ref49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/ijcai.2018/492"
+        },
+        {
+          "key": "ref50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2993148.2993203"
+        },
+        {
+          "key": "ref51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v33i01.3301573"
+        },
+        {
+          "key": "ref52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s13042-022-01540-8"
+        },
+        {
+          "key": "ref53",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18178/ijmlc.2021.11.2.1022"
+        },
+        {
+          "key": "ref54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/IACS.2019.8809154"
+        },
+        {
+          "key": "ref55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDM.2019.00082"
+        },
+        {
+          "key": "ref56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v33i01.33011166"
+        },
+        {
+          "key": "ref57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3488560.3498483"
+        },
+        {
+          "key": "ref58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3366423.3380236"
+        },
+        {
+          "key": "ref59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s41019-018-0076-2"
+        },
+        {
+          "key": "ref60",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3414274.3414489"
+        },
+        {
+          "key": "ref61",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BICTA.2009.5338100"
+        },
+        {
+          "key": "ref62",
+          "volume-title": "Organization Theory: Selected Classic Readings",
+          "author": "Pugh",
+          "year": "2007"
+        },
+        {
+          "key": "ref63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-64266-2_8"
+        },
+        {
+          "key": "ref64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3432929"
+        },
+        {
+          "key": "ref65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3439770"
+        },
+        {
+          "key": "ref66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/snams.2018.8554619"
+        },
+        {
+          "key": "ref67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.12691/jfe-9-3-3"
+        },
+        {
+          "key": "ref68",
+          "article-title": "Aspect-sentiment embeddings for company profiling and employee opinion mining",
+          "author": "Bajpai",
+          "year": "2019",
+          "journal-title": "arXiv:1902.08342"
+        },
+        {
+          "key": "ref69",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1094428118773858"
+        },
+        {
+          "key": "ref70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41467-019-11380-w"
+        },
+        {
+          "key": "ref71",
+          "article-title": "Job-SDF: A multi-granularity dataset for job skill demand forecasting and benchmarking",
+          "author": "Chen",
+          "year": "2024",
+          "journal-title": "arXiv:2406.11920"
+        },
+        {
+          "key": "ref72",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021-9010.93.5.1062"
+        },
+        {
+          "key": "ref73",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2022.3145396"
+        },
+        {
+          "key": "ref74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3132847.3132869"
+        },
+        {
+          "key": "ref75",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData.2018.8622275"
+        },
+        {
+          "key": "ref76",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1057/s41266-018-0042-x"
+        },
+        {
+          "key": "ref77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3397271.3401118"
+        },
+        {
+          "key": "ref78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-01057-7_56"
+        },
+        {
+          "key": "ref79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3224207.3224210"
+        },
+        {
+          "key": "ref80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2020.acl-main.281"
+        },
+        {
+          "key": "ref81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2022.gem-1.18"
+        },
+        {
+          "key": "ref82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2022.gebnlp-1.22"
+        },
+        {
+          "key": "ref83",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3378539.3393862"
+        },
+        {
+          "key": "ref84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData59044.2023.10386083"
+        },
+        {
+          "key": "ref85",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2305016120"
+        },
+        {
+          "key": "ref86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/ijcai.2024/222"
+        },
+        {
+          "key": "ref87",
+          "article-title": "MiniGPT-v2: Large language model as a unified interface for vision-language multi-task learning",
+          "author": "Chen",
+          "year": "2023",
+          "journal-title": "arXiv:2310.09478"
+        },
+        {
+          "key": "ref88",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2872518.2890549"
+        },
+        {
+          "key": "ref89",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/PIC.2010.5687428"
+        },
+        {
+          "key": "ref90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3115/1219840.1219902"
+        },
+        {
+          "key": "ref91",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/CETIC4.2018.8530883"
+        },
+        {
+          "key": "ref92",
+          "article-title": "Study of information extraction in resume",
+          "author": "Van",
+          "year": "2018"
+        },
+        {
+          "key": "ref93",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACCESS.2019.2942433"
+        },
+        {
+          "key": "ref94",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICCT52962.2021.9657937"
+        },
+        {
+          "key": "ref95",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3397271.3401442"
+        },
+        {
+          "key": "ref96",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICME57554.2024.10687439"
+        },
+        {
+          "key": "ref97",
+          "article-title": "LayoutXLM: Multimodal pre-training for multilingual visually-rich document understanding",
+          "author": "Xu",
+          "year": "2021",
+          "journal-title": "arXiv:2104.08836"
+        },
+        {
+          "key": "ref98",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3394486.3403172"
+        },
+        {
+          "key": "ref99",
+          "first-page": "1",
+          "article-title": "Analysing CV corpus for finding suitable candidates using knowledge graph and BERT",
+          "volume-title": "Proc. 13th Int. Conf. Adv. Databases, Knowl., Data Appl.",
+          "author": "Wang"
+        },
+        {
+          "issue": "4",
+          "key": "ref100",
+          "first-page": "16",
+          "article-title": "Machine-learning based application for staff recruiting",
+          "volume": "58",
+          "author": "Apatean",
+          "year": "2017",
+          "journal-title": "Acta Technica Napocensis"
+        },
+        {
+          "key": "ref101",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3308558.3313672"
+        },
+        {
+          "key": "ref102",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3269206.3272012"
+        },
+        {
+          "key": "ref103",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3269206.3272030"
+        },
+        {
+          "key": "ref104",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3459637.3481899"
+        },
+        {
+          "key": "ref105",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10489-023-04775-2"
+        },
+        {
+          "key": "ref106",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3624918.3625314"
+        },
+        {
+          "key": "ref107",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-73197-7_24"
+        },
+        {
+          "key": "ref108",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/HICSS.2006.266"
+        },
+        {
+          "key": "ref109",
+          "article-title": "Embedding-based recommender system for job to candidate matching on scale",
+          "author": "Zhao",
+          "year": "2021",
+          "journal-title": "arXiv:2107.00221"
+        },
+        {
+          "key": "ref110",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.neucom.2022.06.012"
+        },
+        {
+          "key": "ref111",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3357384.3357899"
+        },
+        {
+          "key": "ref112",
+          "article-title": "ConSultantBERT: Fine-tuned Siamese sentence-BERT for matching jobs and job seekers",
+          "author": "Lavi",
+          "year": "2021",
+          "journal-title": "arXiv:2109.06501"
+        },
+        {
+          "key": "ref113",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/CSCI54926.2021.00091"
+        },
+        {
+          "key": "ref114",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2022.3180593"
+        },
+        {
+          "key": "ref115",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3604915.3610657"
+        },
+        {
+          "key": "ref116",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3580305.3599894"
+        },
+        {
+          "key": "ref117",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3340531.3411929"
+        },
+        {
+          "key": "ref118",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3640457.3688108"
+        },
+        {
+          "key": "ref119",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3340531.3412717"
+        },
+        {
+          "key": "ref120",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigDIA53151.2021.9619599"
+        },
+        {
+          "key": "ref121",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TCSS.2021.3134458"
+        },
+        {
+          "key": "ref122",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-00123-9_3"
+        },
+        {
+          "key": "ref123",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-00126-0_54"
+        },
+        {
+          "key": "ref124",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3607875"
+        },
+        {
+          "key": "ref125",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10462-013-9414-y"
+        },
+        {
+          "key": "ref126",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2018.09.009"
+        },
+        {
+          "key": "ref127",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDM59182.2024.00066"
+        },
+        {
+          "key": "ref128",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3523227.3546752"
+        },
+        {
+          "key": "ref129",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TEVC.2021.3091615"
+        },
+        {
+          "key": "ref130",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/bdcc6040120"
+        },
+        {
+          "key": "ref131",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData52589.2021.9672057"
+        },
+        {
+          "key": "ref132",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.eswa.2021.114764"
+        },
+        {
+          "key": "ref133",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3604915.3608817"
+        },
+        {
+          "key": "ref134",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fdata.2023.1245198"
+        },
+        {
+          "key": "ref135",
+          "article-title": "Generative job recommendations with large language model",
+          "author": "Zheng",
+          "year": "2023",
+          "journal-title": "arXiv:2307.02157"
+        },
+        {
+          "key": "ref136",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v38i8.28678"
+        },
+        {
+          "key": "ref137",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2021.naacl-main.160"
+        },
+        {
+          "key": "ref138",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2022.gem-1.4"
+        },
+        {
+          "key": "ref139",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-981-97-5562-2_18"
+        },
+        {
+          "key": "ref140",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40747-023-01019-1"
+        },
+        {
+          "key": "ref141",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/FG.2015.7163127"
+        },
+        {
+          "key": "ref142",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACII.2017.8273646"
+        },
+        {
+          "key": "ref143",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACII.2019.8925439"
+        },
+        {
+          "key": "ref144",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TMM.2014.2307169"
+        },
+        {
+          "key": "ref145",
+          "article-title": "Grading video interviews with fairness considerations",
+          "author": "Singhania",
+          "year": "2020",
+          "journal-title": "arXiv:2007.05461"
+        },
+        {
+          "key": "ref146",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACII52823.2021.9597443"
+        },
+        {
+          "key": "ref147",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TAFFC.2024.3374875"
+        },
+        {
+          "key": "ref148",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDM58522.2023.00095"
+        },
+        {
+          "key": "ref149",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2024.3352640"
+        },
+        {
+          "key": "ref150",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.knosys.2022.108546"
+        },
+        {
+          "key": "ref151",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICCICT50803.2021.9510056"
+        },
+        {
+          "key": "ref152",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3604915.3608795"
+        },
+        {
+          "key": "ref153",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3597022"
+        },
+        {
+          "key": "ref154",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3637528.3671711"
+        },
+        {
+          "key": "ref155",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.58496/MJCSC/2023/013"
+        },
+        {
+          "key": "ref156",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICMI55296.2022.9873744"
+        },
+        {
+          "issue": "1",
+          "key": "ref157",
+          "first-page": "1264",
+          "article-title": "Prediction of employee promotion using hybrid sampling method with machine learning architecture",
+          "volume": "8",
+          "author": "Shafie",
+          "year": "2023",
+          "journal-title": "Malaysian J. Comput."
+        },
+        {
+          "key": "ref158",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.physa.2015.10.039"
+        },
+        {
+          "key": "ref159",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TCSS.2020.3046726"
+        },
+        {
+          "key": "ref160",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.eswa.2022.118302"
+        },
+        {
+          "key": "ref161",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACMLC58173.2022.00013"
+        },
+        {
+          "key": "ref162",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICCECE51049.2023.10085402"
+        },
+        {
+          "key": "ref163",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICCIT58132.2023.10273889"
+        },
+        {
+          "issue": "1",
+          "key": "ref164",
+          "first-page": "17",
+          "article-title": "Analyzing employee attrition using decision tree algorithms",
+          "volume": "4",
+          "author": "Alao",
+          "year": "2013",
+          "journal-title": "Comput., Inf. Syst., Develop. Informat. Allied Res. J."
+        },
+        {
+          "issue": "2",
+          "key": "ref165",
+          "first-page": "81",
+          "article-title": "Establishing a link between employee turnover and withdrawal behaviours: Application of data mining techniques",
+          "volume": "16",
+          "author": "Nagadevara",
+          "year": "2008",
+          "journal-title": "Res. Pract. Hum. Resource Manage."
+        },
+        {
+          "key": "ref166",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/KST51265.2021.9415794"
+        },
+        {
+          "key": "ref167",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICIEM54221.2022.9853181"
+        },
+        {
+          "key": "ref168",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11277-021-08408-0"
+        },
+        {
+          "key": "ref169",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3447548.3467388"
+        },
+        {
+          "key": "ref170",
+          "first-page": "914",
+          "article-title": "Predictive analysis of employee turnover in IT using a hybrid CRF-BiLSTM and CNN model",
+          "volume-title": "Proc. Int. Conf. Sustain. Commun. Netw. Appl. (ICSCNA)",
+          "author": "Shaikh"
+        },
+        {
+          "key": "ref171",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/SCSE53661.2021.9568331"
+        },
+        {
+          "key": "ref172",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3449241"
+        },
+        {
+          "key": "ref173",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACIT52158.2021.9548364"
+        },
+        {
+          "key": "ref174",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00131911.2023.2200594"
+        },
+        {
+          "key": "ref175",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICACTA54488.2022.9753135"
+        },
+        {
+          "key": "ref176",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jvb.2012.04.002"
+        },
+        {
+          "key": "ref177",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3041021.3054200"
+        },
+        {
+          "key": "ref178",
+          "first-page": "1",
+          "article-title": "Looking further into the future: Career pathway prediction",
+          "author": "Yamashita",
+          "year": "2022",
+          "journal-title": "WSDM Comput. Jobs Marketplace"
+        },
+        {
+          "key": "ref179",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3442381.3449959"
+        },
+        {
+          "key": "ref180",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3490725.3490753"
+        },
+        {
+          "key": "ref181",
+          "article-title": "Career path prediction using resume representation learning and skill-based matching",
+          "author": "Decorte",
+          "year": "2023",
+          "journal-title": "arXiv:2310.15636"
+        },
+        {
+          "key": "ref182",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3651158"
+        },
+        {
+          "key": "ref183",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-022-11872-8"
+        },
+        {
+          "key": "ref184",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s44284-023-00022-4"
+        },
+        {
+          "key": "ref185",
+          "first-page": "7",
+          "article-title": "Explainable career path predictions using neural models",
+          "volume-title": "Proc. HR@ RecSys",
+          "volume": "3218",
+          "author": "Schellingerhout"
+        },
+        {
+          "key": "ref186",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0090-2616(79)90027-5"
+        },
+        {
+          "key": "ref187",
+          "first-page": "2763",
+          "article-title": "Job2 Vec: Job title benchmarking with collective multi-view representation learning",
+          "volume-title": "Proc. 28th ACM Int. Conf. Inf. Knowl. Manage.",
+          "author": "Zhang"
+        },
+        {
+          "key": "ref188",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2623330.2623732"
+        },
+        {
+          "key": "ref189",
+          "first-page": "213",
+          "article-title": "Identifying and assessing high-potential talent",
+          "volume-title": "Strategy-Driven Talent Management: A Leadership Imperative",
+          "volume": "28",
+          "author": "Silzer",
+          "year": "2010"
+        },
+        {
+          "key": "ref190",
+          "article-title": "Companies are bad at identifying high-potential employees",
+          "author": "Zenger",
+          "year": "2017",
+          "journal-title": "Harvard Bus. Rev."
+        },
+        {
+          "key": "ref191",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748-8583.12029"
+        },
+        {
+          "key": "ref192",
+          "first-page": "1437",
+          "article-title": "Understanding and predicting innovative potential of scholars based on deep learning method",
+          "volume-title": "Proc. PACIS",
+          "author": "Yin"
+        },
+        {
+          "key": "ref193",
+          "first-page": "1498",
+          "article-title": "Effectiveness of AI in strategic decision making: An empirical study on identifying high-potential talents",
+          "volume-title": "Proc. 42nd Int. Conf. Inf. Syst.",
+          "author": "Cheng"
+        },
+        {
+          "key": "ref194",
+          "volume-title": "Organization Theory: Selected Readings",
+          "author": "Pugh",
+          "year": "1971"
+        },
+        {
+          "key": "ref195",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/1557019.1557074"
+        },
+        {
+          "key": "ref196",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-642-33486-3_31"
+        },
+        {
+          "key": "ref197",
+          "article-title": "Authority-based team discovery in social networks",
+          "author": "Zihayat",
+          "year": "2016",
+          "journal-title": "arXiv:1611.02992"
+        },
+        {
+          "key": "ref198",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TBDATA.2016.2546303"
+        },
+        {
+          "key": "ref199",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3340531.3412140"
+        },
+        {
+          "key": "ref200",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3589762"
+        },
+        {
+          "key": "ref201",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-56027-9_20"
+        },
+        {
+          "key": "ref202",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3511808.3557590"
+        },
+        {
+          "key": "ref203",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICC.2015.7248382"
+        },
+        {
+          "key": "ref204",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3308560.3317587"
+        },
+        {
+          "key": "ref205",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3219819.3220056"
+        },
+        {
+          "key": "ref206",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3459637.3481969"
+        },
+        {
+          "key": "ref207",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2736277.2741132"
+        },
+        {
+          "key": "ref208",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2016.2633464"
+        },
+        {
+          "key": "ref209",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData52589.2021.9671359"
+        },
+        {
+          "key": "ref210",
+          "article-title": "GENIUS: A novel solution for subteam replacement with clustering-based graph neural network",
+          "author": "Hu",
+          "year": "2022",
+          "journal-title": "arXiv:2211.04100"
+        },
+        {
+          "key": "ref211",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-319-93040-4_56"
+        },
+        {
+          "key": "ref212",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData47090.2019.9006078"
+        },
+        {
+          "key": "ref213",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/ijoc.2023.1274"
+        },
+        {
+          "key": "ref214",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/jvbe.2001.1807"
+        },
+        {
+          "key": "ref215",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/md-12-2023-2295"
+        },
+        {
+          "key": "ref216",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/2022.findings-naacl.164"
+        },
+        {
+          "key": "ref217",
+          "article-title": "Learning job titles similarity from noisy skill labels",
+          "author": "Zbib",
+          "year": "2022",
+          "journal-title": "arXiv:2207.00494"
+        },
+        {
+          "key": "ref218",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.compind.2020.103341"
+        },
+        {
+          "key": "ref219",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TCSS.2023.3239038"
+        },
+        {
+          "key": "ref220",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/DSAA60987.2023.10302559"
+        },
+        {
+          "key": "ref221",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/eb022915"
+        },
+        {
+          "key": "ref222",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/info13100495"
+        },
+        {
+          "key": "ref223",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/ijoc.2022.1182"
+        },
+        {
+          "key": "ref224",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ACCESS.2021.3066204"
+        },
+        {
+          "issue": "2",
+          "key": "ref225",
+          "first-page": "110",
+          "article-title": "Exploring the dynamics of New Zealand’s talent flow",
+          "volume": "34",
+          "author": "Jackson",
+          "year": "2005",
+          "journal-title": "New Zealand J. Psychol."
+        },
+        {
+          "key": "ref226",
+          "article-title": "Concentration in us local labor markets: Evidence from vacancy and employment data",
+          "author": "Hershbein",
+          "year": "1336"
+        },
+        {
+          "key": "ref227",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.20161570"
+        },
+        {
+          "key": "ref228",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-319-06028-6_51"
+        },
+        {
+          "key": "ref229",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3366423.3380299"
+        },
+        {
+          "key": "ref230",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3308558.3313525"
+        },
+        {
+          "key": "ref231",
+          "first-page": "115",
+          "article-title": "Talent flow model based on graph attention network",
+          "volume-title": "Proc. 4th Int. Conf. Big Data Artif. Intell. Softw. Eng. (ICBASE)",
+          "author": "Liu"
+        },
+        {
+          "key": "ref232",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2487575.2487704"
+        },
+        {
+          "key": "ref233",
+          "article-title": "Mining and understanding professional social networks: Challenges and solutions",
+          "author": "Cheng",
+          "year": "2015"
+        },
+        {
+          "key": "ref234",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICDMW.2017.172"
+        },
+        {
+          "key": "ref235",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s41019-018-0070-8"
+        },
+        {
+          "key": "ref236",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2939672.2939732"
+        },
+        {
+          "key": "ref237",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11135-019-00940-3"
+        },
+        {
+          "key": "ref238",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.is.2016.10.009"
+        },
+        {
+          "key": "ref239",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3534678.3539139"
+        },
+        {
+          "key": "ref240",
+          "article-title": "Applying machine learning tools on web vacancies for labour market and skill analysis",
+          "volume-title": "Terminator or the Jetsons? The Economics and Policy Implications of Artificial Intelligence",
+          "author": "Colombo",
+          "year": "2018"
+        },
+        {
+          "key": "ref241",
+          "first-page": "24",
+          "article-title": "Constructing recommendation about skills combinations frequently sought in IT industries based on Apriori algorithm",
+          "volume-title": "Proc. Math., Informat., Sci., Educ. Int. Conf. (MISEIC)",
+          "author": "Akhriza"
+        },
+        {
+          "key": "ref242",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.11591/eei.v10i5.2590"
+        },
+        {
+          "key": "ref243",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/informatics2040031"
+        },
+        {
+          "key": "ref244",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/ijcai.2019/540"
+        },
+        {
+          "key": "ref245",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/IJCNN52387.2021.9533402"
+        },
+        {
+          "key": "ref246",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/math9192475"
+        },
+        {
+          "key": "ref247",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/info15030151"
+        },
+        {
+          "key": "ref248",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3479511"
+        },
+        {
+          "key": "ref249",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3555114"
+        },
+        {
+          "key": "ref250",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3514094.3534183"
+        },
+        {
+          "key": "ref251",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/AIC57670.2023.10263811"
+        },
+        {
+          "key": "ref252",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v38i18.29956"
+        },
+        {
+          "key": "ref253",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.14778/2809974.2809977"
+        },
+        {
+          "key": "ref254",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.respol.2023.104898"
+        },
+        {
+          "key": "ref255",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v35i5.16594"
+        },
+        {
+          "key": "ref256",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.21203/rs.3.rs-2348427/v1",
+          "article-title": "Sentiment analysis of it companies-features and feelings profiling, as well as data mining for employee input",
+          "author": "Bose",
+          "year": "2022"
+        },
+        {
+          "key": "ref257",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11187-022-00609-6"
+        },
+        {
+          "key": "ref258",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/su10072231"
+        },
+        {
+          "key": "ref259",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s43039-022-00050-3"
+        },
+        {
+          "key": "ref260",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24251/HICSS.2023.268"
+        },
+        {
+          "key": "ref261",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-35783-1_7"
+        },
+        {
+          "key": "ref262",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/IJCHM-06-2020-0576"
+        },
+        {
+          "key": "ref263",
+          "first-page": "1",
+          "article-title": "Employees satisfaction in different industries: An exploratory review of the literature",
+          "volume": "7",
+          "author": "Ganga",
+          "year": "2022",
+          "journal-title": "Int. J. Econ. Manage. Syst."
+        },
+        {
+          "key": "ref264",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7717/peerj-cs.712"
+        },
+        {
+          "key": "ref265",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12652-021-03149-1"
+        },
+        {
+          "key": "ref266",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICCIT60459.2023.10441631"
+        },
+        {
+          "key": "ref267",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2018.2873341"
+        },
+        {
+          "key": "ref268",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41598-020-62114-8"
+        },
+        {
+          "key": "ref269",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.dss.2023.114079",
+          "article-title": "Measuring employer attractiveness in diverse talent markets",
+          "volume": "177",
+          "author": "Li",
+          "year": "2024",
+          "journal-title": "Decis. Support Syst."
+        },
+        {
+          "key": "ref270",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3106426.3109035"
+        },
+        {
+          "key": "ref271",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICAIBDA53487.2021.9689768"
+        },
+        {
+          "key": "ref272",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3500868.3561397"
+        },
+        {
+          "key": "ref273",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1057/bm.1996.42"
+        },
+        {
+          "key": "ref274",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/ICT-10-2018-0086"
+        },
+        {
+          "key": "ref275",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/IJBM-11-2014-0166"
+        },
+        {
+          "key": "ref276",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3390/su131910698"
+        },
+        {
+          "key": "ref277",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40547-024-00143-4"
+        },
+        {
+          "key": "ref278",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.18653/v1/S18-2005"
+        },
+        {
+          "key": "ref279",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2023.108128"
+        },
+        {
+          "key": "ref280",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/JPROC.2015.2460697"
+        },
+        {
+          "key": "ref281",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TPAMI.2018.2798607"
+        },
+        {
+          "key": "ref282",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/13673279710800682"
+        },
+        {
+          "key": "ref283",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TNNLS.2021.3070843"
+        },
+        {
+          "key": "ref284",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3490476"
+        },
+        {
+          "key": "ref285",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.respol.2020.104008"
+        },
+        {
+          "key": "ref286",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jfineco.2023.103745"
+        },
+        {
+          "key": "ref287",
+          "first-page": "1499",
+          "article-title": "Ai labor markets: Toward a dynamic skills-based approach to measurement",
+          "volume-title": "Proc. Int. Conf. Inf. Syst.",
+          "author": "Kim"
+        },
+        {
+          "key": "ref288",
+          "volume-title": "The Leader’s Guide to Corporate Culture",
+          "author": "Groysberg",
+          "year": "2018"
+        },
+        {
+          "key": "ref289",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.leaqua.2020.101426"
+        },
+        {
+          "key": "ref290",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5772/intechopen.78660"
+        },
+        {
+          "key": "ref291",
+          "volume-title": "Amazon Scraps Secret Ai Recruiting Tool That Showed Bias Against Women",
+          "author": "Dastin",
+          "year": "2018"
+        },
+        {
+          "key": "ref292",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3382507.3418889"
+        },
+        {
+          "key": "ref293",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11280-024-01291-2"
+        },
+        {
+          "key": "ref294",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3626772.3657680"
+        },
+        {
+          "key": "ref295",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/ijcai.2024/890"
+        },
+        {
+          "key": "ref296",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.25300/MISQ/2023/17690"
+        },
+        {
+          "key": "ref297",
+          "article-title": "A dynamic LLM-powered agent network for task-oriented agent collaboration",
+          "author": "Liu",
+          "year": "2023",
+          "journal-title": "arXiv:2310.02170"
+        },
+        {
+          "key": "ref298",
+          "article-title": "Can large language model agents simulate human trust behavior?",
+          "author": "Xie",
+          "year": "2024",
+          "journal-title": "arXiv:2402.04559"
+        },
+        {
+          "key": "ref299",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/jpim.12656"
+        },
+        {
+          "key": "ref300",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.32996/jbms.2024.6.1.14"
+        },
+        {
+          "key": "ref301",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.im.2021.103587"
+        },
+        {
+          "key": "ref302",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijmedinf.2021.104434"
+        },
+        {
+          "key": "ref303",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s44163-022-00037-1"
+        },
+        {
+          "key": "ref304",
+          "article-title": "Applying a chatbot for assistance in the onboarding process: A process of requirements elicitation and prototype creation",
+          "author": "Westberg",
+          "year": "2019"
+        },
+        {
+          "key": "ref305",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2020.1871398"
+        }
+      ],
+      "container-title": [
+        "Proceedings of the IEEE"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx8/5/11082589/11027075.pdf?arnumber=11027075",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            21
+          ]
+        ],
+        "date-time": "2025-07-21T18:09:09Z",
+        "timestamp": 1753121349000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://ieeexplore.ieee.org/document/11027075/"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      },
+      "references-count": 305,
+      "journal-issue": {
+        "issue": "2"
+      },
+      "URL": "https://doi.org/10.1109/jproc.2025.3572744",
+      "relation": {},
+      "ISSN": [
+        "0018-9219",
+        "1558-2256"
+      ],
+      "issn-type": [
+        {
+          "value": "0018-9219",
+          "type": "print"
+        },
+        {
+          "value": "1558-2256",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      }
+    }
+  }
+}

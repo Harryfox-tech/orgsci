@@ -1,0 +1,1107 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1108/samamj-06-2026-0038",
+    "checked_at": "2026-10-24T02:14:52.472426Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T11:50:35Z",
+        "timestamp": 1791978635261,
+        "version": "4.4.0"
+      },
+      "reference-count": 85,
+      "publisher": "Emerald",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This study investigates the integration of artificial intelligence (AI) into recruitment, focusing on the underexplored role of AI virtual assistants (AIVA). This study aims to evaluate how AIVA transforms recruitment practices and to provide a systematic research agenda for future applications.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The authors conducted a systematic literature review (SLR) and a bibliometric analysis (BA) to assess the use of AIVA in recruitment over the past decade, following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. A structured search of the Scopus and Web of Science databases identified 5,301 publications from 2015 to June 1, 2026. After screening, the authors selected 255 papers for full-text review and BA, using R and VOSviewer. They systematically summarized and guided the exploration of current research.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The findings suggest that AIVA affects every phase of the recruitment process, from identifying staffing requirements to onboarding new personnel, with publications increasing significantly after 2023. The thematic analysis identified four key themes: isolated mature areas, innovation drivers, transitional uncertainties and broad foundational concepts. In addition, this SLR and BA critically examined the existing literature, highlighting advances and identifying gaps for future research. It also proposed a research agenda to guide subsequent investigations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>This study is limited to publications indexed in Scopus and Web of Science, which potentially excludes relevant literature. Future research should expand to diverse data sets and explore the longitudinal impacts of AIVA adoption.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>The findings provide actionable pathways for Human Resources (HR) practitioners to integrate AIVA into recruitment, thereby improving decision-making and reducing inefficiencies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Social implications</jats:title>\n                    <jats:p>AIVA adoption may improve recruitment equity, fairness, inclusivity and efficiency.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This paper uniquely synthesizes recruitment literature on AIVA through a dual SLR and BA approach. It advances theory by operationalizing broad AI research directions into domain-specific insights and offers practical implications for reducing recruitment costs, enhancing efficiency and guiding stakeholders in adopting AIVA.</jats:p>\n                  </jats:sec>",
+      "DOI": "10.1108/samamj-06-2026-0038",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T11:07:38Z",
+        "timestamp": 1791976058000
+      },
+      "page": "1-31",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "AI virtual assistance in recruitment: a systematic literature review and bibliometric analysis"
+      ],
+      "prefix": "10.1108",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0002-5641-1733",
+          "authenticated-orcid": true,
+          "given": "M. Eshaq",
+          "family": "Stanikzai",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Punjabi University School of Management Studies, , Patiala,",
+              "place": [
+                "India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ella",
+          "family": "Mittal",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Punjabi University School of Management Studies, , Patiala,",
+              "place": [
+                "India"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "140",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            15
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "2026101407073156800_ref001",
+          "doi-asserted-by": "publisher",
+          "first-page": "369",
+          "DOI": "10.1007/978-3-031-67531-7_31",
+          "volume-title": "Artificial Intelligence, Digitalization and Regulation",
+          "author": "Abdelhay",
+          "year": "2024"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref002",
+          "doi-asserted-by": "publisher",
+          "first-page": "100692",
+          "DOI": "10.1016/j.hrmr.2019.100692",
+          "article-title": "Recruitment and selection in the digital age: a review and research agenda",
+          "volume": "30",
+          "author": "Acikgoz",
+          "year": "2020",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref003",
+          "doi-asserted-by": "publisher",
+          "first-page": "107",
+          "DOI": "10.1108/RAMJ-05-2020-0016",
+          "article-title": "Attracting and recruiting quality talent: firm perspectives",
+          "volume": "14",
+          "author": "Adeosun",
+          "year": "2020",
+          "journal-title": "Rajagiri Management Journal"
+        },
+        {
+          "issue": "6",
+          "key": "2026101407073156800_ref004",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s00779-024-01826-4",
+          "article-title": "Recruitment chatbot acceptance in a company: a mixed-method study on the human-centered technology acceptance model",
+          "volume": "28",
+          "author": "Akram",
+          "year": "2024",
+          "journal-title": "Personal and Ubiquitous Computing"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref005",
+          "doi-asserted-by": "publisher",
+          "first-page": "383",
+          "DOI": "10.3390/ai5010019",
+          "article-title": "A comprehensive review of AI techniques for addressing algorithmic bias in job hiring",
+          "volume": "5",
+          "author": "Albaroudi",
+          "year": "2024",
+          "journal-title": "AI"
+        },
+        {
+          "issue": "5",
+          "key": "2026101407073156800_ref006",
+          "doi-asserted-by": "publisher",
+          "first-page": "215",
+          "DOI": "10.1108/SHR-04-2019-0024",
+          "article-title": "AI in talent acquisition: a review of AI applications used in recruitment and selection",
+          "volume": "18",
+          "author": "Albert",
+          "year": "2019",
+          "journal-title": "Strategic HR Review"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref007",
+          "doi-asserted-by": "publisher",
+          "first-page": "12499",
+          "DOI": "10.1111/ijsa.12499",
+          "article-title": "Sourcing algorithms: rethinking fairness in hiring in the era of algorithmic recruitment",
+          "volume": "33",
+          "author": "Alexander",
+          "year": "2024",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref008",
+          "doi-asserted-by": "publisher",
+          "first-page": "2758",
+          "DOI": "10.11591/eei.v13i4.7645",
+          "article-title": "An inquiry smart chatbot system for Al-Zaytoonah University of Jordan",
+          "volume": "13",
+          "author": "Al-Madi",
+          "year": "2024",
+          "journal-title": "Bulletin of Electrical Engineering and Informatics"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref009",
+          "doi-asserted-by": "publisher",
+          "first-page": "38",
+          "DOI": "10.3390/informatics11020038",
+          "article-title": "Chatbot technology use and acceptance using educational personas",
+          "volume": "11",
+          "author": "Amer Jid Almahri",
+          "year": "2024",
+          "journal-title": "Informatics"
+        },
+        {
+          "key": "2026101407073156800_ref010",
+          "unstructured": "Balasundaram, S., Venkatagiri, S. and Sathiyaseelan, A. (2022), “Using AI to enhance candidate experience in high-volume hiring: a conceptual review and case study”, working paper, School of Business and Management, Christ University, doi: 10.2139/ssrn.4234567 (accessed9 September 2026)."
+        },
+        {
+          "issue": "5",
+          "key": "2026101407073156800_ref011",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1002/joe.22248",
+          "article-title": "Artificial intelligence in employee recruitment",
+          "volume": "43",
+          "author": "Balcioğlu",
+          "year": "2024",
+          "journal-title": "Global Business and Organizational Excellence"
+        },
+        {
+          "key": "2026101407073156800_ref012",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1142/14380",
+          "volume-title": "Agentic Artificial Intelligence: Harnessing AI Agents to Reinvent Business, Work, and Life",
+          "author": "Bornet",
+          "year": "2025"
+        },
+        {
+          "key": "2026101407073156800_ref013",
+          "unstructured": "Boston Consulting Group\n           (2024), “HR perspectives on AI adoption: concerns and opportunities”, BCG Insights, available at:Link to a PDF of the cited article (accessed9 September 2026)."
+        },
+        {
+          "issue": "sup1",
+          "key": "2026101407073156800_ref014",
+          "doi-asserted-by": "publisher",
+          "first-page": "37",
+          "DOI": "10.1080/17434440.2021.2013200",
+          "article-title": "ly intelligent chatbots in digital mental health interventions: a review",
+          "volume": "18",
+          "author": "Boucher",
+          "year": "2021",
+          "journal-title": "Expert Review of Medical Devices"
+        },
+        {
+          "issue": "12",
+          "key": "2026101407073156800_ref015",
+          "doi-asserted-by": "publisher",
+          "first-page": "2389",
+          "DOI": "10.1002/asi.21419",
+          "article-title": "Co-citation analysis, bibliographic coupling, and direct citation: which citation approach represents the research front most accurately?",
+          "volume": "61",
+          "author": "Boyack",
+          "year": "2010",
+          "journal-title": "Journal of the American Society for Information Science and Technology"
+        },
+        {
+          "key": "2026101407073156800_ref016",
+          "doi-asserted-by": "publisher",
+          "first-page": "101203",
+          "DOI": "10.1016/j.cogsys.2023.101203",
+          "article-title": "A formal understanding of computational empathy in interactive agents",
+          "volume": "85",
+          "author": "Brännström",
+          "year": "2024",
+          "journal-title": "Cognitive Systems Research"
+        },
+        {
+          "issue": "9",
+          "key": "2026101407073156800_ref017",
+          "doi-asserted-by": "publisher",
+          "first-page": "3840",
+          "DOI": "10.3390/su16093840",
+          "article-title": "The impact of artificial intelligence replacing humans in making human resource management decisions on fairness: a case of resume screening",
+          "volume": "16",
+          "author": "Cai",
+          "year": "2024",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref018",
+          "first-page": "65",
+          "article-title": "AI bias in resume screening: challenges and mitigation strategies",
+          "volume": "21",
+          "author": "Carv",
+          "year": "2024",
+          "journal-title": "AI and Employment Research Review"
+        },
+        {
+          "key": "2026101407073156800_ref019",
+          "doi-asserted-by": "publisher",
+          "first-page": "1078",
+          "DOI": "10.1007/978-3-030-44041-1_93",
+          "volume-title": "Advanced Information Networking and Applications",
+          "author": "Catone",
+          "year": "2020"
+        },
+        {
+          "issue": "22",
+          "key": "2026101407073156800_ref020",
+          "doi-asserted-by": "publisher",
+          "first-page": "7451",
+          "DOI": "10.1080/10447318.2023.2266244",
+          "article-title": "When AI is perceived to be fairer than a human: understanding perceptions of algorithmic decisions in a job application context",
+          "volume": "40",
+          "author": "Choung",
+          "year": "2024",
+          "journal-title": "International Journal of Human–Computer Interaction"
+        },
+        {
+          "issue": "5",
+          "key": "2026101407073156800_ref021",
+          "doi-asserted-by": "publisher",
+          "first-page": "2233",
+          "DOI": "10.1007/s00146-023-01715-z",
+          "article-title": "Measuring perceived empathy in dialogue systems",
+          "volume": "39",
+          "author": "Concannon",
+          "year": "2024",
+          "journal-title": "AI and Society"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref022",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.14742/ajet.8087",
+          "article-title": "The importance of choosing the right keywords for educational technology publications",
+          "volume": "38",
+          "author": "Corrin",
+          "year": "2022",
+          "journal-title": "Australasian Journal of Educational Technology"
+        },
+        {
+          "key": "2026101407073156800_ref023",
+          "doi-asserted-by": "publisher",
+          "first-page": "213",
+          "DOI": "10.1007/978-3-031-58704-7_13",
+          "volume-title": "Artificial Intelligence and Business Transformation",
+          "author": "Cuesta-Valiño",
+          "year": "2024"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref024",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s44282-025-00246-w",
+          "article-title": "Role of artificial intelligence in employee recruitment: systematic review and future research directions",
+          "volume": "3",
+          "author": "Dadaboyev",
+          "year": "2025",
+          "journal-title": "Discover Global Society"
+        },
+        {
+          "issue": "02",
+          "key": "2026101407073156800_ref025",
+          "doi-asserted-by": "publisher",
+          "first-page": "749",
+          "DOI": "10.4236/ojbm.2025.132039",
+          "article-title": "The impact of artificial intelligence (AI) on the recruitment process",
+          "volume": "13",
+          "author": "El Ouakili",
+          "year": "2025",
+          "journal-title": "Open Journal of Business and Management"
+        },
+        {
+          "key": "2026101407073156800_ref026",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12144-024-06795-8",
+          "article-title": "AI-based chatbot interactions and critical thinking skills: an exploratory study",
+          "author": "Fabio",
+          "year": "2024",
+          "journal-title": "Current Psychology, Advance Online Publication"
+        },
+        {
+          "key": "2026101407073156800_ref027",
+          "doi-asserted-by": "publisher",
+          "first-page": "305",
+          "DOI": "10.1109/CINTI-MACRo57952.2022.10029478",
+          "article-title": "Cost-effectiveness of using chatbots in healthcare: a systematic review",
+          "author": "Fgaier",
+          "year": "2022"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref028",
+          "doi-asserted-by": "publisher",
+          "first-page": "182",
+          "DOI": "10.1111/ijsa.12456",
+          "article-title": "Reactions of applicants with disabilities to technology-enabled recruitment and selection: a research agenda",
+          "volume": "32",
+          "author": "Fisher",
+          "year": "2024",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref029",
+          "doi-asserted-by": "publisher",
+          "first-page": "56",
+          "DOI": "10.1145/3645057.3645062",
+          "article-title": "Mitigating algorithm aversion in recruiting: a study on explainable AI for conversational agents",
+          "volume": "55",
+          "author": "Fleiß",
+          "year": "2024",
+          "journal-title": "ACM SIGMIS Database: The DATABASE for Advances in Information Systems"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref030",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1007/s10115-020-01522-8",
+          "article-title": "E-recruitment recommender systems: a systematic review",
+          "volume": "63",
+          "author": "Freire",
+          "year": "2021",
+          "journal-title": "Knowledge and Information Systems"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref031",
+          "doi-asserted-by": "publisher",
+          "first-page": "277",
+          "DOI": "10.1080/15228053.2023.2233814",
+          "article-title": "Generative AI and ChatGPT: applications, challenges, and AI-human collaboration",
+          "volume": "25",
+          "author": "Fui-Hoon Nah",
+          "year": "2023",
+          "journal-title": "Journal of Information Technology Case and Application Research"
+        },
+        {
+          "key": "2026101407073156800_ref032",
+          "doi-asserted-by": "publisher",
+          "first-page": "197",
+          "DOI": "10.1007/978-3-031-51726-6_8",
+          "volume-title": "A Scientometrics Research Perspective in Applied Linguistics",
+          "author": "Ghorbani",
+          "year": "2024"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref033",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1177/21582440251361746",
+          "article-title": "AI-driven research in the recruitment and selection process: application of an AI taxonomy with a systematic literature review",
+          "volume": "15",
+          "author": "Herold",
+          "year": "2025",
+          "journal-title": "SAGE Open"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref034",
+          "doi-asserted-by": "publisher",
+          "first-page": "499",
+          "DOI": "10.1111/ijsa.12479",
+          "article-title": "The performance of large language models on quantitative and verbal ability tests: initial evidence and implications for unproctored high-stakes testing",
+          "volume": "32",
+          "author": "Hickman",
+          "year": "2024",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "5",
+          "key": "2026101407073156800_ref035",
+          "doi-asserted-by": "publisher",
+          "first-page": "671",
+          "DOI": "10.38124/ijisrt/25may671",
+          "article-title": "The digital shift in hiring: a critical review of traditional and contemporary recruitment techniques",
+          "volume": "10",
+          "author": "Hukkeri",
+          "year": "2025",
+          "journal-title": "International Journal of Innovative Science and Research Technology"
+        },
+        {
+          "key": "2026101407073156800_ref036",
+          "unstructured": "IBM\n           (2024), “Assessing soft skills through AI-driven interviews: limitations and improvements”, IBM Research White Paper, available at:Link to a PDF of the cited article (accessed9 September 2026)."
+        },
+        {
+          "issue": "9",
+          "key": "2026101407073156800_ref037",
+          "doi-asserted-by": "publisher",
+          "first-page": "389",
+          "DOI": "10.1038/s42256-019-0088-2",
+          "article-title": "The global landscape of AI ethics guidelines",
+          "volume": "1",
+          "author": "Jobin",
+          "year": "2019",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref038",
+          "doi-asserted-by": "publisher",
+          "first-page": "1151",
+          "DOI": "10.46328/ijres.2344",
+          "article-title": "The impact of self-assessment on academic performance: a meta-analysis study",
+          "volume": "7",
+          "author": "Karaman",
+          "year": "2021",
+          "journal-title": "International Journal of Research in Education and Science"
+        },
+        {
+          "issue": "6",
+          "key": "2026101407073156800_ref039",
+          "doi-asserted-by": "publisher",
+          "first-page": "131",
+          "DOI": "10.1287/orsc.2020.1373",
+          "article-title": "Algorithms at work: the new contested terrain of control",
+          "volume": "31",
+          "author": "Kellogg",
+          "year": "2020",
+          "journal-title": "Organization Science"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref040",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.1080/00207543.2024.2424976",
+          "article-title": "Theory of AI-driven scheduling (TAIS): a service-oriented scheduling framework that integrates the theory of constraints and AI",
+          "volume": "64",
+          "author": "Khakifirooz",
+          "year": "2024",
+          "journal-title": "International Journal of Production Research"
+        },
+        {
+          "issue": "8",
+          "key": "2026101407073156800_ref041",
+          "doi-asserted-by": "publisher",
+          "first-page": "182",
+          "DOI": "10.3390/admsci14080182",
+          "article-title": "AI-driven chatbots in CRM: economic and managerial implications across industries",
+          "volume": "14",
+          "author": "Khneyzer",
+          "year": "2024",
+          "journal-title": "Administrative Sciences"
+        },
+        {
+          "issue": "17",
+          "key": "2026101407073156800_ref042",
+          "doi-asserted-by": "publisher",
+          "first-page": "4674",
+          "DOI": "10.1080/10447318.2023.2219961",
+          "article-title": "What makes people feel empathy for AI chatbots? Assessing the role of competence and warmth",
+          "volume": "40",
+          "author": "Kim",
+          "year": "2024",
+          "journal-title": "International Journal of Human–Computer Interaction"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref043",
+          "doi-asserted-by": "publisher",
+          "first-page": "10",
+          "DOI": "10.3390/publications11010010",
+          "article-title": "Exploratory bibliometrics: using VOSviewer as a preliminary research tool",
+          "volume": "11",
+          "author": "Kirby",
+          "year": "2023",
+          "journal-title": "Publications"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref044",
+          "doi-asserted-by": "publisher",
+          "first-page": "435",
+          "DOI": "10.1093/iwc/iwad018",
+          "article-title": "Pitfalls and tensions in digitalizing talent acquisition: an analysis of HRM professionals’ considerations related to digital ethics",
+          "volume": "35",
+          "author": "Koivunen",
+          "year": "2023",
+          "journal-title": "Interacting with Computers"
+        },
+        {
+          "issue": "7",
+          "key": "2026101407073156800_ref045",
+          "doi-asserted-by": "publisher",
+          "first-page": "970",
+          "DOI": "10.1108/MRR-03-2020-0168",
+          "article-title": "Evolving uses of artificial intelligence in human resource management in emerging economies in the global South: some preliminary evidence",
+          "volume": "44",
+          "author": "Kshetri",
+          "year": "2021",
+          "journal-title": "Management Research Review"
+        },
+        {
+          "key": "2026101407073156800_ref046",
+          "doi-asserted-by": "publisher",
+          "first-page": "516",
+          "DOI": "10.12688/f1000research.134244.2",
+          "article-title": "The Journey of F1000Research since its inception: through bibliometric analysis",
+          "volume": "12",
+          "author": "Kumar",
+          "year": "2023",
+          "journal-title": "F1000Research"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref047",
+          "doi-asserted-by": "publisher",
+          "first-page": "9",
+          "DOI": "10.1007/s10849-023-09409-x",
+          "article-title": "Assessing the strengths and weaknesses of large language models",
+          "volume": "33",
+          "author": "Lappin",
+          "year": "2024",
+          "journal-title": "Journal of Logic, Language and Information"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref048",
+          "doi-asserted-by": "publisher",
+          "first-page": "119",
+          "DOI": "10.1007/s10551-018-3994-1",
+          "article-title": "The challenges of algorithmic management: an ethical framework for HRM",
+          "volume": "160",
+          "author": "Leicht-Deobald",
+          "year": "2019",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref049",
+          "doi-asserted-by": "publisher",
+          "first-page": "469",
+          "DOI": "10.1287/mnsc.2018.2892",
+          "article-title": "Algorithm appreciation: people prefer algorithmic to human judgment",
+          "volume": "65",
+          "author": "Logg",
+          "year": "2019",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "11",
+          "key": "2026101407073156800_ref050",
+          "doi-asserted-by": "publisher",
+          "first-page": "2749",
+          "DOI": "10.1093/jamia/ocae243",
+          "article-title": "Artificial intelligence for optimizing recruitment and retention in clinical trials: a scoping review",
+          "volume": "31",
+          "author": "Lu",
+          "year": "2024",
+          "journal-title": "Journal of the American Medical Informatics Association"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref051",
+          "doi-asserted-by": "publisher",
+          "first-page": "567",
+          "DOI": "10.1111/1748-8583.12245",
+          "article-title": "Gender bias in agentic AI recruitment systems",
+          "volume": "29",
+          "author": "McDonnell",
+          "year": "2019",
+          "journal-title": "Human Resource Management Journal"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref052",
+          "doi-asserted-by": "publisher",
+          "first-page": "17",
+          "DOI": "10.1145/3510552",
+          "article-title": "Algorithmic hiring needs a human face",
+          "volume": "65",
+          "author": "Marks",
+          "year": "2022",
+          "journal-title": "Communications of the ACM"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref053",
+          "doi-asserted-by": "publisher",
+          "first-page": "12",
+          "DOI": "10.1111/1748-8583.12443",
+          "article-title": "When employees work under algorithmic management: toward an HRM perspective",
+          "volume": "33",
+          "author": "Meijerink",
+          "year": "2023",
+          "journal-title": "Human Resource Management Journal"
+        },
+        {
+          "key": "2026101407073156800_ref054",
+          "unstructured": "Morelli, N.A.\n           (2024), “Artificial intelligence in talent assessment and selection (SIOP white paper series)”, Society for Industrial and Organizational Psychology, available at:Link to a PDF of the cited article(accessed9 September 2026)."
+        },
+        {
+          "key": "2026101407073156800_ref055",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/PR-03-2023-0257",
+          "article-title": "A systematic literature review on artificial intelligence in recruiting and selection: a matter of ethics",
+          "author": "Mori",
+          "year": "2024",
+          "journal-title": "Personnel Review"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref056",
+          "doi-asserted-by": "publisher",
+          "first-page": "1",
+          "DOI": "10.4018/IJIIT.2016070101",
+          "article-title": "Using belief functions in software agents to test the strength of application controls: a conceptual framework",
+          "volume": "12",
+          "author": "Nehmer",
+          "year": "2016",
+          "journal-title": "International Journal of Intelligent Information Technologies"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref057",
+          "doi-asserted-by": "publisher",
+          "first-page": "139",
+          "DOI": "10.1111/ijsa.12320",
+          "article-title": "The procedural and interpersonal justice of automated application and resume screening",
+          "volume": "29",
+          "author": "Noble",
+          "year": "2021",
+          "journal-title": "International Journal of Selection and Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref058",
+          "doi-asserted-by": "publisher",
+          "first-page": "121",
+          "DOI": "10.1108/AJEMS-11-2021-0489",
+          "article-title": "Realizing performance gains for employees and organizations through electronic human resource management in developing countries",
+          "volume": "14",
+          "author": "Nyathi",
+          "year": "2023",
+          "journal-title": "African Journal of Economic and Management Studies"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref059",
+          "doi-asserted-by": "publisher",
+          "first-page": "980",
+          "DOI": "10.1287/orsc.2018.1215",
+          "article-title": "The organizing vision for AI in organizations: implications for work and collaboration",
+          "volume": "29",
+          "author": "Pachidi",
+          "year": "2018",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "2026101407073156800_ref060",
+          "doi-asserted-by": "publisher",
+          "first-page": "71",
+          "DOI": "10.1136/bmj.n71",
+          "article-title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+          "volume": "372",
+          "author": "Page",
+          "year": "2021",
+          "journal-title": "BMJ"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref061",
+          "doi-asserted-by": "publisher",
+          "first-page": "2145631",
+          "DOI": "10.1080/08839514.2022.2145631",
+          "article-title": "Artificial intelligence and human resources management: a bibliometric analysis",
+          "volume": "36",
+          "author": "Palos-Sánchez",
+          "year": "2022",
+          "journal-title": "Applied Artificial Intelligence"
+        },
+        {
+          "issue": "6",
+          "key": "2026101407073156800_ref062",
+          "doi-asserted-by": "publisher",
+          "first-page": "1125",
+          "DOI": "10.1080/09585192.2021.1879206",
+          "article-title": "Adopting artificial intelligence in employee recruitment: the influence of contextual factors",
+          "volume": "33",
+          "author": "Pan",
+          "year": "2022",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref063",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.33182/tmj.v9i1.1033",
+          "article-title": "The role of artificial intelligence in recruitment within the UAE’s hospitality industry",
+          "volume": "9",
+          "author": "Pandya",
+          "year": "2021",
+          "journal-title": "Transnational Marketing Journal"
+        },
+        {
+          "issue": "2",
+          "key": "2026101407073156800_ref064",
+          "doi-asserted-by": "publisher",
+          "first-page": "8390",
+          "DOI": "10.1007/s13132-023-01433-3",
+          "article-title": "Artificial intelligence (AI) and automation in administrative procedures: Potentials, limitations, and framework conditions",
+          "volume": "15",
+          "author": "Parycek",
+          "year": "2023",
+          "journal-title": "Journal of the Knowledge Economy"
+        },
+        {
+          "issue": "21",
+          "key": "2026101407073156800_ref065",
+          "doi-asserted-by": "publisher",
+          "first-page": "8950",
+          "DOI": "10.3390/su12218950",
+          "article-title": "Classifications of sustainable manufacturing practices in the ASEAN region: a systematic review and bibliometric analysis of the past decade of research",
+          "volume": "12",
+          "author": "Qureshi",
+          "year": "2020",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref066",
+          "doi-asserted-by": "publisher",
+          "first-page": "192",
+          "DOI": "10.5465/amr.2018.0072",
+          "article-title": "Artificial intelligence and management: the automation–augmentation paradox",
+          "volume": "46",
+          "author": "Raisch",
+          "year": "2021",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref067",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/23311975.2025.2454319",
+          "article-title": "Reimagining recruitment: traditional methods meet AI interventions – a 20-year assessment (2003–2023)",
+          "volume": "12",
+          "author": "Rukadikar",
+          "year": "2025",
+          "journal-title": "Cogent Business and Management"
+        },
+        {
+          "key": "2026101407073156800_ref068",
+          "unstructured": "SAP SuccessFactors\n           (2023), “Integrating AI-driven onboarding: system compatibility and challenges”, SAP Research & Innovation, available at:Link to a PDF of the cited article (accessed9 September 2026)."
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref069",
+          "doi-asserted-by": "publisher",
+          "first-page": "71",
+          "DOI": "10.1108/EJMS-01-2024-0008",
+          "article-title": "The technology shift impacts the recruitment management triangle",
+          "volume": "29",
+          "author": "Shellshear",
+          "year": "2024",
+          "journal-title": "European Journal of Management Studies"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref070",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.52783/jier.v5i1.2119",
+          "article-title": "A study of the role of online platforms in the modern recruitment process",
+          "volume": "5",
+          "author": "Shrivastav",
+          "year": "2025",
+          "journal-title": "Journal of Informatics Education and Research"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref071",
+          "doi-asserted-by": "publisher",
+          "first-page": "202",
+          "DOI": "10.1016/j.joi.2018.12.005",
+          "article-title": "Comparing journal and paper-level classifications of science",
+          "volume": "13",
+          "author": "Shu",
+          "year": "2019",
+          "journal-title": "Journal of Informetrics"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref072",
+          "doi-asserted-by": "publisher",
+          "first-page": "226",
+          "DOI": "10.3390/info15040226",
+          "article-title": "Chatbot design and implementation: towards an operational model for chatbots",
+          "volume": "15",
+          "author": "Skuridin",
+          "year": "2024",
+          "journal-title": "Information"
+        },
+        {
+          "key": "2026101407073156800_ref073",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/ITP-02-2023-0189",
+          "volume-title": "Comparing Job Applicant Deception in Asynchronous Vs Synchronous Video Interviews, with and without AI-Assisted Assessments",
+          "author": "Suen",
+          "year": "2023"
+        },
+        {
+          "key": "2026101407073156800_ref074",
+          "doi-asserted-by": "publisher",
+          "first-page": "61",
+          "DOI": "10.1007/978-981-16-0666-3_7",
+          "volume-title": "Next Generation of Internet of Things",
+          "author": "Swapna",
+          "year": "2021"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref075",
+          "doi-asserted-by": "publisher",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial intelligence in human resources management: Challenges and a path forward",
+          "volume": "61",
+          "author": "Tambe",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "2026101407073156800_ref076",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/978-1-80382-027-920231008",
+          "volume-title": "The Adoption and Effect of Artificial Intelligence on Human Resources Management, Part A",
+          "author": "Uma",
+          "year": "2023"
+        },
+        {
+          "key": "2026101407073156800_ref077",
+          "doi-asserted-by": "publisher",
+          "first-page": "43",
+          "DOI": "10.1016/j.jbusres.2018.05.038",
+          "article-title": "Marketing AI recruitment: the effect of a chatbot recruiter on candidate reactions",
+          "volume": "94",
+          "author": "Van Esch",
+          "year": "2019",
+          "journal-title": "Journal of Business Research"
+        },
+        {
+          "issue": "10",
+          "key": "2026101407073156800_ref078",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17148/IARJSET.2024.111023",
+          "article-title": "Integrating AI in recruitment: pathways to inclusive and diverse talent management",
+          "volume": "11",
+          "author": "Venkata Aditya",
+          "year": "2024",
+          "journal-title": "International Advanced Research Journal in Science, Engineering and Technology (IARJSET)"
+        },
+        {
+          "key": "2026101407073156800_ref079",
+          "doi-asserted-by": "publisher",
+          "first-page": "102566",
+          "DOI": "10.1016/j.techsoc.2024.102566",
+          "article-title": "Societal impacts of chatbot and mitigation strategies for negative impacts: a large-scale qualitative survey of ChatGPT users",
+          "volume": "77",
+          "author": "Wei",
+          "year": "2024",
+          "journal-title": "Technology in Society"
+        },
+        {
+          "key": "2026101407073156800_ref080",
+          "doi-asserted-by": "publisher",
+          "first-page": "1054",
+          "DOI": "10.30919/es1054",
+          "article-title": "Exploring the factors influencing the adoption and continuous engagement in unlocking the potential of technology-driven chatbots in banking and financial institutions",
+          "volume": "28",
+          "author": "Yadav",
+          "year": "2024",
+          "journal-title": "Engineered Science"
+        },
+        {
+          "issue": "1",
+          "key": "2026101407073156800_ref081",
+          "doi-asserted-by": "publisher",
+          "first-page": "152",
+          "DOI": "10.1186/s12909-022-03872-z",
+          "article-title": "A novel use of an artificial intelligence chatbot and a live, synchronous virtual question-and-answer session for fellowship recruitment",
+          "volume": "23",
+          "author": "Yi",
+          "year": "2023",
+          "journal-title": "BMC Medical Education"
+        },
+        {
+          "issue": "24",
+          "key": "2026101407073156800_ref082",
+          "doi-asserted-by": "publisher",
+          "first-page": "1181",
+          "DOI": "10.1080/10447318.2023.2288730",
+          "article-title": "Generative artificial intelligence acceptance scale: a validity and reliability study",
+          "volume": "40",
+          "author": "Yilmaz",
+          "year": "2023",
+          "journal-title": "International Journal of Human–Computer Interaction"
+        },
+        {
+          "issue": "14",
+          "key": "2026101407073156800_ref083",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2025.2564235",
+          "article-title": "A multi-stage HR-in-the-loop approach to enhance fairness perceptions of AI selection systems",
+          "volume": "36",
+          "author": "Yuan",
+          "year": "2025",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "3",
+          "key": "2026101407073156800_ref084",
+          "doi-asserted-by": "publisher",
+          "first-page": "429",
+          "DOI": "10.1177/1094428114562629",
+          "article-title": "Bibliometric methods in management and organization",
+          "volume": "18",
+          "author": "Zupic",
+          "year": "2015",
+          "journal-title": "Organizational Research Methods"
+        },
+        {
+          "issue": "4",
+          "key": "2026101407073156800_ref085",
+          "doi-asserted-by": "publisher",
+          "first-page": "329",
+          "DOI": "10.1017/S0269888906000397",
+          "article-title": "User profiling in personal information agents: a survey",
+          "volume": "20",
+          "author": "Godoy",
+          "year": "2005",
+          "journal-title": "The Knowledge Engineering Review"
+        }
+      ],
+      "container-title": [
+        "SAM Advanced Management Journal"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.emerald.com/samamj/article-pdf/doi/10.1108/SAMAMJ-06-2026-0038/11910453/samamj-06-2026-0038en.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://www.emerald.com/samamj/article-pdf/doi/10.1108/SAMAMJ-06-2026-0038/11910453/samamj-06-2026-0038en.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T11:07:42Z",
+        "timestamp": 1791976062000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.emerald.com/samamj/article/doi/10.1108/SAMAMJ-06-2026-0038/1402260/AI-virtual-assistance-in-recruitment-a-systematic"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            15
+          ]
+        ]
+      },
+      "references-count": 85,
+      "URL": "https://doi.org/10.1108/samamj-06-2026-0038",
+      "relation": {},
+      "ISSN": [
+        "2996-6078"
+      ],
+      "issn-type": [
+        {
+          "value": "2996-6078",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            15
+          ]
+        ]
+      }
+    }
+  }
+}

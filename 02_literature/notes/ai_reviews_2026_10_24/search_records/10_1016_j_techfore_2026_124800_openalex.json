@@ -1,0 +1,1262 @@
+{
+  "request": {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.techfore.2026.124800",
+    "checked_at": "2026-10-24T02:10:10.055987Z",
+    "http_status": 200
+  },
+  "data": {
+    "id": "https://openalex.org/W4411597866",
+    "doi": "https://doi.org/10.1016/j.techfore.2026.124800",
+    "title": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+    "display_name": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+    "publication_year": 2026,
+    "publication_date": "2026-06-27",
+    "ids": {
+      "openalex": "https://openalex.org/W4411597866",
+      "doi": "https://doi.org/10.1016/j.techfore.2026.124800"
+    },
+    "language": "en",
+    "primary_location": {
+      "id": "doi:10.1016/j.techfore.2026.124800",
+      "doi": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S39307421",
+        "display_name": "Technological Forecasting and Social Change",
+        "issn_l": "0040-1625",
+        "issn": [
+          "0040-1625",
+          "1873-5509"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-2",
+          "jufo-3",
+          "ki-jl-2",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Technological Forecasting and Social Change",
+      "raw_type": "journal-article"
+    },
+    "volume": null,
+    "type": "review",
+    "indexed_in": [
+      "crossref"
+    ],
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "any_repository_has_fulltext": true
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "author": {
+          "id": "https://openalex.org/A5043923219",
+          "display_name": "Thomas K. Dasaklis",
+          "orcid": "https://orcid.org/0000-0003-1240-4822",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-1240-4822"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I231025917",
+            "display_name": "Hellenic Open University",
+            "ror": "https://ror.org/02kq26x23",
+            "country_code": "GR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I231025917"
+            ]
+          }
+        ],
+        "countries": [
+          "GR"
+        ],
+        "is_corresponding": true,
+        "raw_author_name": "Thomas K. Dasaklis",
+        "raw_affiliation_strings": [
+          "School of Social Sciences, Hellenic Open University, 18 Aristotelous St., 26335 Patras, Greece"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Social Sciences, Hellenic Open University, 18 Aristotelous St., 26335 Patras, Greece",
+            "institution_ids": [
+              "https://openalex.org/I231025917"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5103011344",
+          "display_name": "Panagiotis G. Giannopoulos",
+          "orcid": "https://orcid.org/0000-0001-7530-2458",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-7530-2458"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I231025917",
+            "display_name": "Hellenic Open University",
+            "ror": "https://ror.org/02kq26x23",
+            "country_code": "GR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I231025917"
+            ]
+          }
+        ],
+        "countries": [
+          "GR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Panagiotis G. Giannopoulos",
+        "raw_affiliation_strings": [
+          "School of Social Sciences, Hellenic Open University, 18 Aristotelous St., 26335 Patras, Greece"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "School of Social Sciences, Hellenic Open University, 18 Aristotelous St., 26335 Patras, Greece",
+            "institution_ids": [
+              "https://openalex.org/I231025917"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5034762784",
+          "display_name": "Dimitris Koutras",
+          "orcid": "https://orcid.org/0000-0002-9154-8340",
+          "observed_orcids": [
+            "https://orcid.org/0000-0002-9154-8340"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154757721",
+            "display_name": "University of Piraeus",
+            "ror": "https://ror.org/02qs84g94",
+            "country_code": "GR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ],
+        "countries": [
+          "GR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Dimitris Koutras",
+        "raw_affiliation_strings": [
+          "Department of Informatics, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Informatics, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece",
+            "institution_ids": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "middle",
+        "author": {
+          "id": "https://openalex.org/A5063658235",
+          "display_name": "Vangelis Malamas",
+          "orcid": "https://orcid.org/0000-0001-9238-6796",
+          "observed_orcids": [
+            "https://orcid.org/0000-0001-9238-6796"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154757721",
+            "display_name": "University of Piraeus",
+            "ror": "https://ror.org/02qs84g94",
+            "country_code": "GR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ],
+        "countries": [
+          "GR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Vangelis Malamas",
+        "raw_affiliation_strings": [
+          "Department of Informatics, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece"
+        ],
+        "raw_orcid": "https://orcid.org/0000-0001-9238-6796",
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Informatics, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece",
+            "institution_ids": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ]
+      },
+      {
+        "author_position": "last",
+        "author": {
+          "id": "https://openalex.org/A5073619624",
+          "display_name": "Panos T. Chountalas",
+          "orcid": "https://orcid.org/0000-0003-3538-5791",
+          "observed_orcids": [
+            "https://orcid.org/0000-0003-3538-5791"
+          ]
+        },
+        "institutions": [
+          {
+            "id": "https://openalex.org/I154757721",
+            "display_name": "University of Piraeus",
+            "ror": "https://ror.org/02qs84g94",
+            "country_code": "GR",
+            "type": "education",
+            "lineage": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ],
+        "countries": [
+          "GR"
+        ],
+        "is_corresponding": false,
+        "raw_author_name": "Panos T. Chountalas",
+        "raw_affiliation_strings": [
+          "Department of Business Administration, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece"
+        ],
+        "raw_orcid": null,
+        "affiliations": [
+          {
+            "raw_affiliation_string": "Department of Business Administration, University of Piraeus, 80 Karaoli & Dimitriou St., 18534 Piraeus, Greece",
+            "institution_ids": [
+              "https://openalex.org/I154757721"
+            ]
+          }
+        ]
+      }
+    ],
+    "institutions": [],
+    "countries_distinct_count": 1,
+    "institutions_distinct_count": 2,
+    "corresponding_author_ids": [
+      "https://openalex.org/A5043923219"
+    ],
+    "corresponding_institution_ids": [
+      "https://openalex.org/I231025917"
+    ],
+    "apc_list": {
+      "value": 3490,
+      "currency": "USD",
+      "value_usd": 3490
+    },
+    "apc_paid": {
+      "value": 3490,
+      "currency": "USD",
+      "value_usd": 3490
+    },
+    "fwci": 18.4368,
+    "has_fulltext": false,
+    "cited_by_count": 7,
+    "citation_normalized_percentile": {
+      "value": 0.99250936,
+      "is_in_top_1_percent": true,
+      "is_in_top_10_percent": true
+    },
+    "cited_by_percentile_year": {
+      "min": 90,
+      "max": 99
+    },
+    "biblio": {
+      "volume": "231",
+      "issue": null,
+      "first_page": "124800",
+      "last_page": "124800"
+    },
+    "is_retracted": false,
+    "is_paratext": false,
+    "is_xpac": false,
+    "primary_topic": {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    "topics": [
+      {
+        "id": "https://openalex.org/T13812",
+        "display_name": "AI and HR Technologies",
+        "score": 1.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 9.999999747378752e-05,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12415",
+        "display_name": "Employer Branding and e-HRM",
+        "score": 0.0,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1407",
+          "display_name": "Organizational Behavior and Human Resource Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      }
+    ],
+    "keywords": [
+      {
+        "id": "https://openalex.org/keywords/large-language-models",
+        "display_name": "large language models",
+        "score": 1.0
+      },
+      {
+        "id": "https://openalex.org/keywords/human-resource-management",
+        "display_name": "human resource management",
+        "score": 0.9950000047683716
+      },
+      {
+        "id": "https://openalex.org/keywords/recruitment-and-selection",
+        "display_name": "recruitment and selection",
+        "score": 0.8389999866485596
+      },
+      {
+        "id": "https://openalex.org/keywords/automated-screening",
+        "display_name": "automated screening",
+        "score": 0.734000027179718
+      },
+      {
+        "id": "https://openalex.org/keywords/employee-training",
+        "display_name": "employee training",
+        "score": 0.8169999718666077
+      },
+      {
+        "id": "https://openalex.org/keywords/performance-evaluation-human-resources",
+        "display_name": "performance evaluation (human resources)",
+        "score": 0.9879999756813049
+      },
+      {
+        "id": "https://openalex.org/keywords/sentiment-analysis",
+        "display_name": "sentiment analysis",
+        "score": 0.8029999732971191
+      },
+      {
+        "id": "https://openalex.org/keywords/generative-vs-discriminative-models",
+        "display_name": "generative vs discriminative models",
+        "score": 0.7730000019073486
+      },
+      {
+        "id": "https://openalex.org/keywords/algorithmic-bias-mitigation",
+        "display_name": "algorithmic bias mitigation",
+        "score": 0.7559999823570251
+      },
+      {
+        "id": "https://openalex.org/keywords/data-privacy",
+        "display_name": "data privacy",
+        "score": 0.9850000143051147
+      },
+      {
+        "id": "https://openalex.org/keywords/transparency",
+        "display_name": "transparency",
+        "score": 0.8069999814033508
+      },
+      {
+        "id": "https://openalex.org/keywords/user-acceptance",
+        "display_name": "user acceptance",
+        "score": 0.8429999947547913
+      },
+      {
+        "id": "https://openalex.org/keywords/explainability",
+        "display_name": "explainability",
+        "score": 0.7360000014305115
+      },
+      {
+        "id": "https://openalex.org/keywords/workforce-management",
+        "display_name": "workforce management",
+        "score": 0.5910000205039978
+      }
+    ],
+    "concepts": [
+      {
+        "id": "https://openalex.org/C189708586",
+        "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+        "display_name": "Systematic review",
+        "level": 3,
+        "score": 0.556300938129425
+      },
+      {
+        "id": "https://openalex.org/C41008148",
+        "wikidata": "https://www.wikidata.org/wiki/Q21198",
+        "display_name": "Computer science",
+        "level": 0,
+        "score": 0.47148820757865906
+      },
+      {
+        "id": "https://openalex.org/C2778464652",
+        "wikidata": "https://www.wikidata.org/wiki/Q309849",
+        "display_name": "Open research",
+        "level": 2,
+        "score": 0.46443068981170654
+      },
+      {
+        "id": "https://openalex.org/C2522767166",
+        "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+        "display_name": "Data science",
+        "level": 1,
+        "score": 0.41649648547172546
+      },
+      {
+        "id": "https://openalex.org/C539667460",
+        "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+        "display_name": "Management science",
+        "level": 1,
+        "score": 0.40851640701293945
+      },
+      {
+        "id": "https://openalex.org/C56739046",
+        "wikidata": "https://www.wikidata.org/wiki/Q192060",
+        "display_name": "Knowledge management",
+        "level": 1,
+        "score": 0.3845365047454834
+      },
+      {
+        "id": "https://openalex.org/C17744445",
+        "wikidata": "https://www.wikidata.org/wiki/Q36442",
+        "display_name": "Political science",
+        "level": 0,
+        "score": 0.23383361101150513
+      },
+      {
+        "id": "https://openalex.org/C127413603",
+        "wikidata": "https://www.wikidata.org/wiki/Q11023",
+        "display_name": "Engineering",
+        "level": 0,
+        "score": 0.1865377426147461
+      },
+      {
+        "id": "https://openalex.org/C136764020",
+        "wikidata": "https://www.wikidata.org/wiki/Q466",
+        "display_name": "World Wide Web",
+        "level": 1,
+        "score": 0.12277781963348389
+      },
+      {
+        "id": "https://openalex.org/C2779473830",
+        "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+        "display_name": "MEDLINE",
+        "level": 2,
+        "score": 0.08983707427978516
+      },
+      {
+        "id": "https://openalex.org/C199539241",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748",
+        "display_name": "Law",
+        "level": 1,
+        "score": 0.0
+      }
+    ],
+    "mesh": [],
+    "locations_count": 2,
+    "locations": [
+      {
+        "id": "doi:10.1016/j.techfore.2026.124800",
+        "doi": "https://doi.org/10.1016/j.techfore.2026.124800",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.techfore.2026.124800",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S39307421",
+          "display_name": "Technological Forecasting and Social Change",
+          "issn_l": "0040-1625",
+          "issn": [
+            "0040-1625",
+            "1873-5509"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "erih-plus",
+            "fnege-2",
+            "jufo-3",
+            "ki-jl-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Technological Forecasting and Social Change",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "doi:10.2139/ssrn.5314976",
+        "doi": "https://doi.org/10.2139/ssrn.5314976",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2139/ssrn.5314976",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      }
+    ],
+    "best_oa_location": {
+      "id": "doi:10.1016/j.techfore.2026.124800",
+      "doi": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.techfore.2026.124800",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S39307421",
+        "display_name": "Technological Forecasting and Social Change",
+        "issn_l": "0040-1625",
+        "issn": [
+          "0040-1625",
+          "1873-5509"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "listed_in": [
+          "abdc-a",
+          "anvur-class-a",
+          "anvur-scientific",
+          "cwts-core",
+          "erih-plus",
+          "fnege-2",
+          "jufo-3",
+          "ki-jl-2",
+          "norway-2",
+          "poland-140",
+          "russia-white-list-1",
+          "vabb-shw"
+        ],
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Technological Forecasting and Social Change",
+      "raw_type": "journal-article"
+    },
+    "sustainable_development_goals": [
+      {
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.7257999777793884,
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "sustainable_development_goals_aurora": [
+      {
+        "id": "https://metadata.un.org/sdg/8",
+        "score": 0.4300000071525574,
+        "display_name": "Decent work and economic growth"
+      }
+    ],
+    "study_designs": [
+      {
+        "id": "https://openalex.org/study-designs/systematic-review",
+        "display_name": "Systematic Review"
+      }
+    ],
+    "awards": [],
+    "funders": [
+      {
+        "id": "https://openalex.org/F4320318628",
+        "display_name": "Hellenic Academic Libraries Link",
+        "ror": "https://ror.org/01wbw2607"
+      },
+      {
+        "id": "https://openalex.org/F4320331361",
+        "display_name": "University of Piraeus Research Centre",
+        "ror": "https://ror.org/02qs84g94"
+      }
+    ],
+    "has_content": {
+      "pdf": false,
+      "grobid_xml": false
+    },
+    "content_urls": null,
+    "referenced_works_count": 99,
+    "referenced_works": [
+      "https://openalex.org/W1497199863",
+      "https://openalex.org/W2067404301",
+      "https://openalex.org/W2150220236",
+      "https://openalex.org/W2890588440",
+      "https://openalex.org/W2901669506",
+      "https://openalex.org/W2964523010",
+      "https://openalex.org/W3126911807",
+      "https://openalex.org/W3173865241",
+      "https://openalex.org/W3206946287",
+      "https://openalex.org/W3210421449",
+      "https://openalex.org/W4213092729",
+      "https://openalex.org/W4214877918",
+      "https://openalex.org/W4281488121",
+      "https://openalex.org/W4294215472",
+      "https://openalex.org/W4313417987",
+      "https://openalex.org/W4383913712",
+      "https://openalex.org/W4383959808",
+      "https://openalex.org/W4384154918",
+      "https://openalex.org/W4385245566",
+      "https://openalex.org/W4386089120",
+      "https://openalex.org/W4386499024",
+      "https://openalex.org/W4386745445",
+      "https://openalex.org/W4387232979",
+      "https://openalex.org/W4387899023",
+      "https://openalex.org/W4388131288",
+      "https://openalex.org/W4388526260",
+      "https://openalex.org/W4388818693",
+      "https://openalex.org/W4389210014",
+      "https://openalex.org/W4390807379",
+      "https://openalex.org/W4391176904",
+      "https://openalex.org/W4391361874",
+      "https://openalex.org/W4391781688",
+      "https://openalex.org/W4391855109",
+      "https://openalex.org/W4392131943",
+      "https://openalex.org/W4392173880",
+      "https://openalex.org/W4392240262",
+      "https://openalex.org/W4392343510",
+      "https://openalex.org/W4392593090",
+      "https://openalex.org/W4392607660",
+      "https://openalex.org/W4392865036",
+      "https://openalex.org/W4393060602",
+      "https://openalex.org/W4394586018",
+      "https://openalex.org/W4394749801",
+      "https://openalex.org/W4394759815",
+      "https://openalex.org/W4394779317",
+      "https://openalex.org/W4396561331",
+      "https://openalex.org/W4398778429",
+      "https://openalex.org/W4399023669",
+      "https://openalex.org/W4399969696",
+      "https://openalex.org/W4400402543",
+      "https://openalex.org/W4400491162",
+      "https://openalex.org/W4400769352",
+      "https://openalex.org/W4400850027",
+      "https://openalex.org/W4401114032",
+      "https://openalex.org/W4401358104",
+      "https://openalex.org/W4401367140",
+      "https://openalex.org/W4402209448",
+      "https://openalex.org/W4402319732",
+      "https://openalex.org/W4402393776",
+      "https://openalex.org/W4402926938",
+      "https://openalex.org/W4403195732",
+      "https://openalex.org/W4403346544",
+      "https://openalex.org/W4403384238",
+      "https://openalex.org/W4404021845",
+      "https://openalex.org/W4404024323",
+      "https://openalex.org/W4404348086",
+      "https://openalex.org/W4404383270",
+      "https://openalex.org/W4404483910",
+      "https://openalex.org/W4404486687",
+      "https://openalex.org/W4404585691",
+      "https://openalex.org/W4404858203",
+      "https://openalex.org/W4404894187",
+      "https://openalex.org/W4405473483",
+      "https://openalex.org/W4405893295",
+      "https://openalex.org/W4406329790",
+      "https://openalex.org/W4406859873",
+      "https://openalex.org/W4407217751",
+      "https://openalex.org/W4407570777",
+      "https://openalex.org/W4407573838",
+      "https://openalex.org/W4407701298",
+      "https://openalex.org/W4407706198",
+      "https://openalex.org/W4408129237",
+      "https://openalex.org/W4408148834",
+      "https://openalex.org/W4408357561",
+      "https://openalex.org/W4408497810",
+      "https://openalex.org/W4409172519",
+      "https://openalex.org/W4409370300",
+      "https://openalex.org/W4409564068",
+      "https://openalex.org/W4409635084",
+      "https://openalex.org/W4409811881",
+      "https://openalex.org/W4409989142",
+      "https://openalex.org/W4410086347",
+      "https://openalex.org/W4410306394",
+      "https://openalex.org/W4410614684",
+      "https://openalex.org/W4410639681",
+      "https://openalex.org/W4410825339",
+      "https://openalex.org/W4410849871",
+      "https://openalex.org/W4416035861",
+      "https://openalex.org/W6964168434"
+    ],
+    "related_works": [
+      "https://openalex.org/W2395691387",
+      "https://openalex.org/W2792383399",
+      "https://openalex.org/W3024289321",
+      "https://openalex.org/W4230169674",
+      "https://openalex.org/W2135054431",
+      "https://openalex.org/W2081307663",
+      "https://openalex.org/W2290480557",
+      "https://openalex.org/W2242910500",
+      "https://openalex.org/W4313893854",
+      "https://openalex.org/W4313246833"
+    ],
+    "abstract_inverted_index": {
+      "Rapid": [
+        0
+      ],
+      "adoption": [
+        1
+      ],
+      "of": [
+        2,
+        48,
+        59,
+        124,
+        139,
+        159
+      ],
+      "large": [
+        3
+      ],
+      "language": [
+        4
+      ],
+      "models": [
+        5,
+        131
+      ],
+      "(LLM)": [
+        6
+      ],
+      "in": [
+        7,
+        41,
+        142,
+        156
+      ],
+      "human": [
+        8,
+        140
+      ],
+      "resource": [
+        9
+      ],
+      "management": [
+        10
+      ],
+      "(HRM)": [
+        11
+      ],
+      "is": [
+        12,
+        44
+      ],
+      "transforming": [
+        13
+      ],
+      "core": [
+        14
+      ],
+      "functions": [
+        15
+      ],
+      "that": [
+        16
+      ],
+      "include": [
+        17
+      ],
+      "recruitment": [
+        18
+      ],
+      "and": [
+        19,
+        22,
+        24,
+        35,
+        69,
+        83,
+        104,
+        106,
+        116,
+        136
+      ],
+      "selection,": [
+        20
+      ],
+      "training": [
+        21
+      ],
+      "development,": [
+        23
+      ],
+      "performance": [
+        25,
+        93
+      ],
+      "evaluation.": [
+        26
+      ],
+      "Although": [
+        27
+      ],
+      "prior": [
+        28
+      ],
+      "work": [
+        29
+      ],
+      "offers": [
+        30
+      ],
+      "conceptual": [
+        31,
+        67
+      ],
+      "insights,": [
+        32
+      ],
+      "empirical": [
+        33,
+        70
+      ],
+      "evaluations,": [
+        34
+      ],
+      "a": [
+        36,
+        56
+      ],
+      "methodological": [
+        37
+      ],
+      "debate": [
+        38
+      ],
+      "on": [
+        39,
+        62
+      ],
+      "AI": [
+        40
+      ],
+      "HRM,": [
+        42,
+        64
+      ],
+      "there": [
+        43
+      ],
+      "no": [
+        45
+      ],
+      "unified": [
+        46
+      ],
+      "synthesis": [
+        47
+      ],
+      "LLM-specific": [
+        49
+      ],
+      "contributions.": [
+        50
+      ],
+      "In": [
+        51,
+        72
+      ],
+      "this": [
+        52
+      ],
+      "paper,": [
+        53
+      ],
+      "we": [
+        54,
+        74,
+        107,
+        126,
+        147
+      ],
+      "present": [
+        55
+      ],
+      "systematic": [
+        57
+      ],
+      "review": [
+        58
+      ],
+      "the": [
+        60,
+        121,
+        137,
+        143,
+        157
+      ],
+      "literature": [
+        61
+      ],
+      "LLM-enabled": [
+        63
+      ],
+      "integrating": [
+        65
+      ],
+      "both": [
+        66
+      ],
+      "frameworks": [
+        68
+      ],
+      "findings.": [
+        71
+      ],
+      "particular,": [
+        73
+      ],
+      "categorize": [
+        75
+      ],
+      "studies": [
+        76
+      ],
+      "by": [
+        77
+      ],
+      "LLM": [
+        78
+      ],
+      "architecture": [
+        79
+      ],
+      "(discriminative": [
+        80
+      ],
+      "vs.": [
+        81
+      ],
+      "generative)": [
+        82
+      ],
+      "functional": [
+        84
+      ],
+      "HRM": [
+        85
+      ],
+      "application": [
+        86
+      ],
+      "(e.g.,": [
+        87
+      ],
+      "automated": [
+        88
+      ],
+      "screening,": [
+        89
+      ],
+      "sentiment": [
+        90
+      ],
+      "analysis": [
+        91
+      ],
+      "for": [
+        92
+      ],
+      "reviews).": [
+        94
+      ],
+      "We": [
+        95
+      ],
+      "also": [
+        96
+      ],
+      "examine": [
+        97
+      ],
+      "ethical": [
+        98
+      ],
+      "considerations-including": [
+        99
+      ],
+      "bias": [
+        100
+      ],
+      "mitigation,": [
+        101
+      ],
+      "data": [
+        102
+      ],
+      "privacy": [
+        103
+      ],
+      "transparency": [
+        105
+      ],
+      "further": [
+        108
+      ],
+      "assess": [
+        109
+      ],
+      "organizational": [
+        110
+      ],
+      "impact,": [
+        111
+      ],
+      "such": [
+        112
+      ],
+      "as": [
+        113
+      ],
+      "workflow": [
+        114
+      ],
+      "integration": [
+        115
+      ],
+      "user": [
+        117
+      ],
+      "acceptance.": [
+        118
+      ],
+      "By": [
+        119
+      ],
+      "mapping": [
+        120
+      ],
+      "current": [
+        122
+      ],
+      "state": [
+        123
+      ],
+      "knowledge,": [
+        125
+      ],
+      "identify": [
+        127
+      ],
+      "open": [
+        128
+      ],
+      "issues": [
+        129
+      ],
+      "around": [
+        130
+      ],
+      "reliability,": [
+        132
+      ],
+      "explainability,": [
+        133
+      ],
+      "reasoning": [
+        134
+      ],
+      "capabilities": [
+        135
+      ],
+      "pertinence": [
+        138
+      ],
+      "workforce": [
+        141,
+        161
+      ],
+      "agentic": [
+        144
+      ],
+      "era.": [
+        145
+      ],
+      "Finally,": [
+        146
+      ],
+      "outline": [
+        148
+      ],
+      "future": [
+        149
+      ],
+      "research": [
+        150
+      ],
+      "directions": [
+        151
+      ],
+      "to": [
+        152
+      ],
+      "advance": [
+        153
+      ],
+      "evidence-based": [
+        154
+      ],
+      "practice": [
+        155
+      ],
+      "era": [
+        158
+      ],
+      "AI-enhanced": [
+        160
+      ],
+      "management.": [
+        162
+      ]
+    },
+    "counts_by_year": [
+      {
+        "year": 2026,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2025,
+        "cited_by_count": 1
+      }
+    ],
+    "updated_date": "2026-10-21T09:56:26.102985",
+    "created_date": "2025-10-10T00:00:00"
+  }
+}

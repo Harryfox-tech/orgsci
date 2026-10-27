@@ -1,0 +1,11 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/ijsa.70060",
+    "checked_at": "2026-10-24T02:39:06.224430Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  "data": null
+}

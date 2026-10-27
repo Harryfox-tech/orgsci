@@ -1,0 +1,11 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.18653/v1/2025.acl-long.649",
+    "checked_at": "2026-10-24T03:13:31.743232Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  "data": null
+}

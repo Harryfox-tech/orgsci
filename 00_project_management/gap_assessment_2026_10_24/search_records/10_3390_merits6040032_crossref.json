@@ -1,0 +1,529 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3390/merits6040032",
+    "checked_at": "2026-10-24T02:27:41.712243Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2026-10-21T04:39:28Z",
+        "timestamp": 1792557568228,
+        "version": "4.5.0"
+      },
+      "reference-count": 34,
+      "publisher": "MDPI AG",
+      "issue": "4",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2026-10-21T00:00:00Z",
+            "timestamp": 1792540800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2026-10-21T00:00:00Z",
+            "timestamp": 1792540800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Merits"
+      ],
+      "abstract": "<jats:p>This study examines how interconnected artificial intelligence (AI) tools can turn early human resource (HR) allocations into evidence for later career decisions. A counterfactual-twin Monte Carlo simulation compares isolated and linked systems, alongside periodic record resets and opportunity equalization. Paired employees share fixed capability and random shocks but receive slightly different initial scores. Linking decisions amplifies this initial difference through opportunity allocation, observed performance and reusable records. Periodic resets reduce final-career sensitivity, while opportunity equalization affects access more strongly than terminal outcomes. Near parity in average group outcomes can coexist with positive sensitivity among matched individuals. Additional tests preserve the direction of the architecture and intervention contrasts across the examined coefficient settings, although their magnitudes vary. The findings motivate evaluating decision lineage, opportunity access and record reuse across HR systems. They identify mechanisms within a synthetic, uncalibrated model and do not estimate effects in real organizations.</jats:p>",
+      "DOI": "10.3390/merits6040032",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2026-10-21T03:47:51Z",
+        "timestamp": 1792554471000
+      },
+      "page": "32",
+      "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Algorithmic Path Dependence in Linked HR Decision Systems"
+      ],
+      "prefix": "10.3390",
+      "volume": "6",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0005-8096-4428",
+          "authenticated-orcid": false,
+          "given": "Afyaa",
+          "family": "Alessa",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Management Department, Prince Sultan University, Riyadh 12435, Saudi Arabia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maha",
+          "family": "AlDalahmeh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Management Department, Prince Sultan University, Riyadh 12435, Saudi Arabia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            },
+            {
+              "role": "methodology",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-review-editing",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "writing-original-draft",
+              "vocabulary": "credit"
+            },
+            {
+              "role": "conceptualization",
+              "vocabulary": "credit"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "first-page": "100893",
+          "article-title": "Artificial intelligence-HRM interactions and outcomes: A systematic review and causal configurational explanation",
+          "volume": "33",
+          "author": "Basu",
+          "year": "2023",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "key": "ref_2",
+          "first-page": "100698",
+          "article-title": "A critical review of algorithms in HRM: Definition, theory, and practice",
+          "volume": "31",
+          "author": "Cheng",
+          "year": "2021",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.5465/annals.2018.0174",
+          "article-title": "Algorithms at work: The new contested terrain of control",
+          "volume": "14",
+          "author": "Kellogg",
+          "year": "2020",
+          "journal-title": "Acad. Manag. Ann."
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "795",
+          "DOI": "10.1007/s40685-020-00134-w",
+          "article-title": "Discriminated by an algorithm: A systematic review of discrimination and fairness by algorithmic decision-making in the context of HR recruitment and HR development",
+          "volume": "13",
+          "author": "Wehner",
+          "year": "2020",
+          "journal-title": "Bus. Res."
+        },
+        {
+          "key": "ref_5",
+          "first-page": "1195",
+          "article-title": "This (AI)n’t fair? Employee reactions to artificial intelligence (AI) in career development systems",
+          "volume": "19",
+          "author": "Wehner",
+          "year": "2025",
+          "journal-title": "Rev. Manag. Sci."
+        },
+        {
+          "key": "ref_6",
+          "first-page": "100876",
+          "article-title": "The duality of algorithmic management: Toward a research agenda on HRM algorithms, autonomy and value creation",
+          "volume": "33",
+          "author": "Meijerink",
+          "year": "2023",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "2545",
+          "DOI": "10.1080/09585192.2021.1925326",
+          "article-title": "Algorithmic human resource management: Synthesizing developments and cross-disciplinary insights on digital HRM",
+          "volume": "32",
+          "author": "Meijerink",
+          "year": "2021",
+          "journal-title": "Int. J. Hum. Resour. Manag."
+        },
+        {
+          "key": "ref_8",
+          "first-page": "101135",
+          "article-title": "A meta-analysis on reactions to algorithmic decision-making in human resource management",
+          "volume": "36",
+          "author": "Moritz",
+          "year": "2026",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "key": "ref_9",
+          "first-page": "100924",
+          "article-title": "An interdisciplinary review of AI and HRM: Challenges and future directions",
+          "volume": "33",
+          "author": "Pan",
+          "year": "2023",
+          "journal-title": "Hum. Resour. Manag. Rev."
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial intelligence in human resources management: Challenges and a path forward",
+          "volume": "61",
+          "author": "Tambe",
+          "year": "2019",
+          "journal-title": "Calif. Manag. Rev."
+        },
+        {
+          "key": "ref_11",
+          "first-page": "462",
+          "article-title": "Exploring the nexus of artificial intelligence in talent acquisition: Unravelling cost-benefit dynamics, seizing opportunities, and mitigating risks",
+          "volume": "22",
+          "author": "Khan",
+          "year": "2024",
+          "journal-title": "Probl. Perspect. Manag."
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "e12499",
+          "DOI": "10.1111/ijsa.12499",
+          "article-title": "Sourcing algorithms: Rethinking fairness in hiring in the era of algorithmic recruitment",
+          "volume": "33",
+          "author": "Alexander",
+          "year": "2025",
+          "journal-title": "Int. J. Sel. Assess."
+        },
+        {
+          "key": "ref_13",
+          "unstructured": "Arunachaleswaran, E.R., Kannan, S., Roth, A., and Ziani, J. (2021, January 6–8). Pipeline interventions. Proceedings of the 12th Innovations in Theoretical Computer Science Conference (ITCS 2021), Virtually. Leibniz International Proceedings in Informatics (LIPIcs)."
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "226",
+          "DOI": "10.1287/isre.2023.1217",
+          "article-title": "Mirror, mirror on the wall: Algorithmic assessments, transparency, and self-fulfilling prophecies",
+          "volume": "35",
+          "author": "Bauer",
+          "year": "2024",
+          "journal-title": "Inf. Syst. Res."
+        },
+        {
+          "key": "ref_15",
+          "unstructured": "Bower, A., Kitchen, S.N., Niss, L., Strauss, M.J., Vargas, A., and Venkatasubramanian, S. (2017). Fair pipelines. arXiv."
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1145/3696457",
+          "article-title": "Fairness and bias in algorithmic hiring: A multidisciplinary survey",
+          "volume": "16",
+          "author": "Fabris",
+          "year": "2025",
+          "journal-title": "ACM Trans. Intell. Syst. Technol."
+        },
+        {
+          "key": "ref_17",
+          "unstructured": "Gohar, U., Tang, Z., Wang, J., Zhang, K., Spirtes, P.L., Liu, Y., and Cheng, L. (2025). Long-term fairness inquiries and pursuits in machine learning: A survey of notions, methods, and challenges. Trans. Mach. Learn. Res., Available online: https://openreview.net/forum?id=mYi6EWvFlR."
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hu, L., and Chen, Y. (2018, January 23–27). A short-term intervention for long-term fairness in the labor market. Proceedings of the 2018 World Wide Web Conference, Lyon, France.",
+          "DOI": "10.1145/3178876.3186044"
+        },
+        {
+          "key": "ref_19",
+          "unstructured": "Liu, L.T., Dean, S., Rolf, E., Simchowitz, M., and Hardt, M. (2018, January 10–15). Delayed impact of fair machine learning. Proceedings of the 35th International Conference on Machine Learning, Stockholm, Sweden. Available online: https://proceedings.mlr.press/v80/liu18c.html."
+        },
+        {
+          "key": "ref_20",
+          "unstructured": "Perdomo, J., Zrnic, T., Mendler-Dünner, C., and Hardt, M. (2020, January 13–18). Performative prediction. Proceedings of the 37th International Conference on Machine Learning, Virtually. Available online: https://proceedings.mlr.press/v119/perdomo20a.html."
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Song, B. (2026). Algorithmic bias in HR recruitment systems: A qualitative analysis of managerial risk and sociological implications. PLoS ONE, 21.",
+          "DOI": "10.1371/journal.pone.0349400"
+        },
+        {
+          "key": "ref_22",
+          "first-page": "689",
+          "article-title": "Organizational path dependence: Opening the black box",
+          "volume": "34",
+          "author": "Sydow",
+          "year": "2009",
+          "journal-title": "Acad. Manag. Rev."
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1146/annurev.soc.32.061604.123127",
+          "article-title": "Cumulative advantage as a mechanism for inequality: A review of theoretical and empirical developments",
+          "volume": "32",
+          "author": "DiPrete",
+          "year": "2006",
+          "journal-title": "Annu. Rev. Sociol."
+        },
+        {
+          "key": "ref_24",
+          "doi-asserted-by": "crossref",
+          "first-page": "220",
+          "DOI": "10.2307/2392495",
+          "article-title": "Tournament mobility: Career patterns in a corporation",
+          "volume": "24",
+          "author": "Rosenbaum",
+          "year": "1979",
+          "journal-title": "Adm. Sci. Q."
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Shandera, S., Matsick, J.L., Hunter, D.R., and Leblond, L. (2021). RASE: Modeling cumulative disadvantage due to marginalized group status in academia. PLoS ONE, 16.",
+          "DOI": "10.1371/journal.pone.0260567"
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "102560",
+          "DOI": "10.1016/j.lrp.2025.102560",
+          "article-title": "Breaking organizational paths for strategic renewal: Towards a dialectical perspective",
+          "volume": "58",
+          "author": "Sydow",
+          "year": "2025",
+          "journal-title": "Long Range Plan."
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "84",
+          "DOI": "10.5465/annals.2016.0103",
+          "article-title": "Integrating psychological contracts and ecosystems in career studies and management",
+          "volume": "13",
+          "author": "Baruch",
+          "year": "2019",
+          "journal-title": "Acad. Manag. Ann."
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "103989",
+          "DOI": "10.1016/j.jvb.2024.103989",
+          "article-title": "Introducing a sustainable career ecosystem: Theoretical perspectives, conceptualization, and future research agenda",
+          "volume": "151",
+          "author": "Donald",
+          "year": "2024",
+          "journal-title": "J. Vocat. Behav."
+        },
+        {
+          "key": "ref_29",
+          "unstructured": "Ensign, D., Friedler, S.A., Neville, S., Scheidegger, C., and Venkatasubramanian, S. (2018, January 23–24). Runaway feedback loops in predictive policing. Proceedings of the 1st Conference on Fairness, Accountability and Transparency, New York, NY, USA. Available online: https://proceedings.mlr.press/v81/ensign18a.html."
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "694",
+          "DOI": "10.1111/1748-8583.12511",
+          "article-title": "Algorithmic inclusion: Shaping the predictive algorithms of artificial intelligence in hiring",
+          "volume": "34",
+          "author": "Kelan",
+          "year": "2024",
+          "journal-title": "Hum. Resour. Manag. J."
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Chaney, A.J.B., Stewart, B.M., and Engelhardt, B.E. (2018, January 2–7). How algorithmic confounding in recommendation systems increases homogeneity and decreases utility. Proceedings of the 12th ACM Conference on Recommender Systems, Vancouver, BC, Canada.",
+          "DOI": "10.1145/3240323.3240370"
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.4018/JOEUC.342603",
+          "article-title": "Analyzing the impact on talent acquisition and performance management: HR and data analysis",
+          "volume": "36",
+          "author": "Wenting",
+          "year": "2024",
+          "journal-title": "J. Organ. End User Comput."
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "first-page": "141",
+          "DOI": "10.1146/annurev-statistics-042720-125902",
+          "article-title": "Algorithmic fairness: Choices, assumptions, and definitions",
+          "volume": "8",
+          "author": "Mitchell",
+          "year": "2021",
+          "journal-title": "Annu. Rev. Stat. Its Appl."
+        },
+        {
+          "key": "ref_34",
+          "first-page": "2473",
+          "article-title": "Unveiling the impact of artificial intelligence on economic performance: The mediating roles of leadership and employee engagement",
+          "volume": "8",
+          "author": "Alateeg",
+          "year": "2025",
+          "journal-title": "Int. J. Innov. Res. Sci. Stud."
+        }
+      ],
+      "container-title": [
+        "Merits"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2673-8104/6/4/32/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ],
+        "date-time": "2026-10-21T03:54:50Z",
+        "timestamp": 1792554890000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2673-8104/6/4/32"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      },
+      "references-count": 34,
+      "journal-issue": {
+        "issue": "4",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "merits6040032"
+      ],
+      "URL": "https://doi.org/10.3390/merits6040032",
+      "relation": {},
+      "ISSN": [
+        "2673-8104"
+      ],
+      "issn-type": [
+        {
+          "value": "2673-8104",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            21
+          ]
+        ]
+      }
+    }
+  }
+}

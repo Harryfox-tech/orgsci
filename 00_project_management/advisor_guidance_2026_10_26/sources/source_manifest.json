@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26T11:11:22.834618+00:00",
+  "documents": [
+    {
+      "original_path": "C:\\Users\\shiqing peng\\.codex\\codex-remote-attachments\\01a0a394-57f8-76f1-bf40-8a7b0652d4af\\5B971FDF-4A53-4D5E-A075-3EE8F7CA9476\\1-AI人才评估与招聘研究_候选选题及文献空白讨论整理稿.docx",
+      "archived_path": "sources\\01_发导师的候选选题整理稿.docx",
+      "sha256": "3256d94821abb4766d71d7e1c3f4df01abaa8dce4efa5bc6e5cc28fe64e6457e",
+      "archive_sha256": "3256d94821abb4766d71d7e1c3f4df01abaa8dce4efa5bc6e5cc28fe64e6457e",
+      "structure": {
+        "paragraphs_including_tables": 117,
+        "tables": 2,
+        "tracked_insertions": 0,
+        "tracked_deletions": 0,
+        "comment_parts": [],
+        "nonempty_auxiliary_text": {
+          "word/footnotes.xml": [],
+          "word/endnotes.xml": []
+        }
+      }
+    },
+    {
+      "original_path": "C:\\Users\\shiqing peng\\.codex\\codex-remote-attachments\\01a0a394-57f8-76f1-bf40-8a7b0652d4af\\5B971FDF-4A53-4D5E-A075-3EE8F7CA9476\\2-261026-AI人才评估与招聘__-研究-选题指导意见-王哲.docx",
+      "archived_path": "sources\\02_王哲导师选题指导意见.docx",
+      "sha256": "a0698b486ffe6f6072dae0bf77f7e7602aa08e2a42d959587d277508fa4c6ea0",
+      "archive_sha256": "a0698b486ffe6f6072dae0bf77f7e7602aa08e2a42d959587d277508fa4c6ea0",
+      "structure": {
+        "paragraphs_including_tables": 43,
+        "tables": 0,
+        "tracked_insertions": 0,
+        "tracked_deletions": 0,
+        "comment_parts": [],
+        "nonempty_auxiliary_text": {
+          "word/footnotes.xml": [],
+          "word/endnotes.xml": []
+        }
+      }
+    }
+  ],
+  "email_screenshot": {
+    "original_path": "C:\\Users\\shiqing peng\\.codex\\codex-remote-attachments\\01a0a394-57f8-76f1-bf40-8a7b0652d4af\\5B971FDF-4A53-4D5E-A075-3EE8F7CA9476\\3-照片-3.jpg",
+    "sha256": "ddbb8fd7ad1254569329e288ba75f6d8d3564966ba90a8c14869559263e3b999",
+    "copied": false,
+    "reason": "Keep original attachment; do not propagate signature contact details."
+  }
+}

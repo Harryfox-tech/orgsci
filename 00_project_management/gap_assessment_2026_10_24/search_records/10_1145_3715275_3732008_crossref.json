@@ -1,0 +1,721 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+    "checked_at": "2026-10-24T02:39:06.225431Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            30
+          ]
+        ],
+        "date-time": "2026-06-30T06:42:24Z",
+        "timestamp": 1782801744282,
+        "version": "3.54.5"
+      },
+      "publisher-location": "New York, NY, USA",
+      "reference-count": 83,
+      "publisher": "ACM",
+      "funder": [
+        {
+          "DOI": "10.13039/100018693",
+          "name": "HORIZON EUROPE Framework Programme",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "101120237, 101120763"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "101120237, 101120763"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100018693",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100021856",
+          "name": "Ministero dell'Università e della Ricerca",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "PE00000013"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "PE00000013"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100021856",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "dl.acm.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            23
+          ]
+        ]
+      },
+      "DOI": "10.1145/3715275.3732008",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            23
+          ]
+        ],
+        "date-time": "2025-06-23T17:01:18Z",
+        "timestamp": 1750698078000
+      },
+      "page": "89-107",
+      "update-policy": "https://doi.org/10.1145/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 4,
+      "title": [
+        "Time Can Invalidate Algorithmic Recourse"
+      ],
+      "prefix": "10.1145",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8387-9983",
+          "authenticated-orcid": false,
+          "given": "Giovanni",
+          "family": "De Toni",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Fondazione Bruno Kessler, University of Trento, Trento, Italy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2340-9461",
+          "authenticated-orcid": false,
+          "given": "Stefano",
+          "family": "Teso",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Trento, Trento, Italy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1275-2333",
+          "authenticated-orcid": false,
+          "given": "Bruno",
+          "family": "Lepri",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Fondazione Bruno Kessler, Trento, Italy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2765-5395",
+          "authenticated-orcid": false,
+          "given": "Andrea",
+          "family": "Passerini",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Trento, Trento, Italy"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "320",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            23
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_3_2_2_2",
+          "unstructured": "EU AI Act. 2021. Laying down harmonised rules on artificial intelligence (artificial intelligence act) and amending certain union legislative acts. Proposal for a regulation of the European parliament and of the council (2021)."
+        },
+        {
+          "key": "e_1_3_3_2_3_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/SaTML54575.2023.00036"
+        },
+        {
+          "key": "e_1_3_3_2_4_2",
+          "unstructured": "Julia Angwin Jeff Larson Surya Mattu and Lauren Kirchner. 2016. Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. ProPublica 23 (2016) 77–91."
+        },
+        {
+          "key": "e_1_3_3_2_5_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1201/9781003278290-37"
+        },
+        {
+          "key": "e_1_3_3_2_6_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/SSCI50451.2021.9660058"
+        },
+        {
+          "key": "e_1_3_3_2_7_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/ICAPAI49758.2021.9462056"
+        },
+        {
+          "key": "e_1_3_3_2_8_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Luca Barbaglia Sebastiano Manzan and Elisa Tosetti. 2021. Forecasting Loan Default in Europe with Machine Learning*. Journal of Financial Econometrics 21 2 (07 2021) 569–596. https://doi.org/10.1093/jjfinec/nbab010 arXiv:https://academic.oup.com/jfec/article-pdf/21/2/569/49676594/nbab010.pdf",
+          "DOI": "10.1093/jjfinec/nbab010"
+        },
+        {
+          "key": "e_1_3_3_2_9_2",
+          "unstructured": "Isacco Beretta and Martina Cinquini. 2023. The Importance of Time in Causal Algorithmic Recourse. arXiv preprint arXiv:https://arXiv.org/abs/2306.05082 (2023)."
+        },
+        {
+          "key": "e_1_3_3_2_10_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Neil Bhutta Steven Laufer and Daniel R Ringo. 2017. Residential mortgage lending in 2016: Evidence from the Home Mortgage Disclosure Act data. Fed. Res. Bull. 103 (2017) 1.",
+          "DOI": "10.17016/bulletin.2017.103-6"
+        },
+        {
+          "key": "e_1_3_3_2_11_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3173574.3173951"
+        },
+        {
+          "key": "e_1_3_3_2_12_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v37i12.26655"
+        },
+        {
+          "key": "e_1_3_3_2_13_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/BigData50022.2020.9377894"
+        },
+        {
+          "key": "e_1_3_3_2_14_2",
+          "unstructured": "Martina Cinquini Isacco Beretta Salvatore Ruggieri and Isabel Valera. 2024. A Practical Approach to Causal Inference over Time. arXiv preprint arXiv:https://arXiv.org/abs/2410.10502 (2024)."
+        },
+        {
+          "key": "e_1_3_3_2_15_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Marc Cowling Weixi Liu and Raffaella Calabrese. 2022. Has Previous Loan Rejection Scarred Firms from Applying for Loans during Covid-19?59 4 (2022) 1327–1350. https://doi.org/10.1007/s11187-021-00586-2 pmid:38624828",
+          "DOI": "10.1007/s11187-021-00586-2"
+        },
+        {
+          "key": "e_1_3_3_2_16_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Riccardo Crupi Alessandro Castelnovo Daniele Regoli and Beatriz San Miguel Gonzalez. 2024. Counterfactual explanations as interventions in latent space. Data Mining and Knowledge Discovery 38 5 (2024) 2733–2769.",
+          "DOI": "10.1007/s10618-022-00889-2"
+        },
+        {
+          "key": "e_1_3_3_2_17_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Giovanni De Toni Bruno Lepri and Andrea Passerini. 2023. Synthesizing explainable counterfactual policies for algorithmic recourse with program synthesis. Machine Learning 112 4 (2023) 1389–1409.",
+          "DOI": "10.1007/s10994-022-06293-7"
+        },
+        {
+          "key": "e_1_3_3_2_18_2",
+          "unstructured": "Giovanni De Toni Paolo Viappiani Stefano Teso Bruno Lepri and Andrea Passerini. 2024. Personalized Algorithmic Recourse with Preference Elicitation. Transactions on Machine Learning Research (2024). https://openreview.net/forum?id=8sg2I9zXgO"
+        },
+        {
+          "key": "e_1_3_3_2_19_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-030-86957-1_3"
+        },
+        {
+          "key": "e_1_3_3_2_20_2",
+          "first-page": "5324",
+          "volume-title": "International Conference on Machine Learning",
+          "author": "Dominguez-Olmedo Ricardo",
+          "year": "2022",
+          "unstructured": "Ricardo Dominguez-Olmedo, Amir H Karimi, and Bernhard Schölkopf. 2022. On the adversarial robustness of causal algorithmic recourse. In International Conference on Machine Learning. PMLR, 5324–5342."
+        },
+        {
+          "key": "e_1_3_3_2_21_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Julia Dressel and Hany Farid. 2018. The accuracy fairness and limits of predicting recidivism. Science advances 4 1 (2018) eaao5580.",
+          "DOI": "10.1126/sciadv.aao5580"
+        },
+        {
+          "key": "e_1_3_3_2_22_2",
+          "unstructured": "Dheeru Dua and Casey Graff. 2017. UCI Machine Learning Repository. http://archive.ics.uci.edu/ml"
+        },
+        {
+          "key": "e_1_3_3_2_23_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3627043.3659556"
+        },
+        {
+          "key": "e_1_3_3_2_24_2",
+          "unstructured": "EP EU Council. 2024. Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 Laying Down Harmonised Rules on Artificial Intelligence and Amending Regulations (EC) No 300/2008 (EU) No 167/2013 (EU) No 168/2013 (EU) 2018/858 (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) Off. J. Eur. Union 50 (2024) 202."
+        },
+        {
+          "key": "e_1_3_3_2_25_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "M. D. R. Evans Jonathan Kelley and Joanna Sikora. 2014. Scholarly Culture and Academic Performance in 42 Nations. Social Forces 92 4 (06 2014) 1573–1605. https://doi.org/10.1093/sf/sou030 arXiv:https://academic.oup.com/sf/article-pdf/92/4/1573/6889358/sou030.pdf",
+          "DOI": "10.1093/sf/sou030"
+        },
+        {
+          "key": "e_1_3_3_2_26_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Andrea Ferrario and Michele Loi. 2022. The robustness of counterfactual explanations over time. IEEE Access 10 (2022) 82736–82750.",
+          "DOI": "10.1109/ACCESS.2022.3196917"
+        },
+        {
+          "key": "e_1_3_3_2_27_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3617694.3623251"
+        },
+        {
+          "key": "e_1_3_3_2_28_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "João Gama Indrė Žliobaitė Albert Bifet Mykola Pechenizkiy and Abdelhamid Bouchachia. 2014. A survey on concept drift adaptation. ACM computing surveys (CSUR) 46 4 (2014) 1–37.",
+          "DOI": "10.1145/2523813"
+        },
+        {
+          "key": "e_1_3_3_2_29_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Clive WJ Granger. 1969. Investigating causal relations by econometric models and cross-spectral methods. Econometrica: journal of the Econometric Society (1969) 424–438.",
+          "DOI": "10.2307/1912791"
+        },
+        {
+          "key": "e_1_3_3_2_30_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Francis Green and Golo Henseke. 2021. Europe’s Evolving Graduate Labour Markets: Supply Demand Underemployment and Pay. 55 1 (2021) 2. https://doi.org/10.1186/s12651-021-00288-y",
+          "DOI": "10.1186/s12651-021-00288-y"
+        },
+        {
+          "key": "e_1_3_3_2_31_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3178876.3186138"
+        },
+        {
+          "key": "e_1_3_3_2_32_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Riccardo Guidotti. 2024. Counterfactual explanations and how to find them: literature review and benchmarking. Data Mining and Knowledge Discovery 38 5 (2024) 2770–2824.",
+          "DOI": "10.1007/s10618-022-00831-6"
+        },
+        {
+          "key": "e_1_3_3_2_33_2",
+          "first-page": "12351",
+          "volume-title": "International Conference on Machine Learning",
+          "author": "Hamman Faisal",
+          "year": "2023",
+          "unstructured": "Faisal Hamman, Erfaun Noorani, Saumitra Mishra, Daniele Magazzeni, and Sanghamitra Dutta. 2023. Robust counterfactual explanations for neural networks with probabilistic guarantees. In International Conference on Machine Learning. PMLR, 12351–12367."
+        },
+        {
+          "key": "e_1_3_3_2_34_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Charles R. Harris K. Jarrod Millman Stéfan J. van der Walt Ralf Gommers Pauli Virtanen David Cournapeau Eric Wieser Julian Taylor Sebastian Berg Nathaniel J. Smith Robert Kern Matti Picus Stephan Hoyer Marten H. van Kerkwijk Matthew Brett Allan Haldane Jaime Fernández del Río Mark Wiebe Pearu Peterson Pierre Gérard-Marchant Kevin Sheppard Tyler Reddy Warren Weckesser Hameer Abbasi Christoph Gohlke and Travis E. Oliphant. 2020. Array programming with NumPy. Nature 585 7825 (Sept. 2020) 357–362. https://doi.org/10.1038/s41586-020-2649-2",
+          "DOI": "10.1038/s41586-020-2649-2"
+        },
+        {
+          "key": "e_1_3_3_2_35_2",
+          "unstructured": "Melissa Heikkilä. 2022. Dutch scandal serves as a warning for Europe over risks of using algorithms. https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/. Accessed: 19-12-2024."
+        },
+        {
+          "key": "e_1_3_3_2_36_2",
+          "unstructured": "Hans Hofmann. 1994. Statlog (German Credit Data). UCI Machine Learning Repository. DOI: https://doi.org/10.24432/C5NC77."
+        },
+        {
+          "key": "e_1_3_3_2_37_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Don Hossler Emily Chung Jihye Kwon Jerry Lucido Nicholas Bowman and Michael Bastedo. 2019. A study of the use of nonacademic factors in holistic undergraduate admissions reviews. The Journal of Higher Education 90 6 (2019) 833–859.",
+          "DOI": "10.1080/00221546.2019.1574694"
+        },
+        {
+          "key": "e_1_3_3_2_38_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Yaowei Hu and Lu Zhang. 2022. Achieving Long-Term Fairness in Sequential Decision Making. 36 9 (2022) 9549–9557. Issue 9. https://doi.org/10.1609/aaai.v36i9.21188",
+          "DOI": "10.1609/aaai.v36i9.21188"
+        },
+        {
+          "key": "e_1_3_3_2_39_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/ijcai.2024/894"
+        },
+        {
+          "key": "e_1_3_3_2_40_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Anna Jobin Marcello Ienca and Effy Vayena. 2019. The global landscape of AI ethics guidelines. Nature machine intelligence 1 9 (2019) 389–399.",
+          "DOI": "10.1038/s42256-019-0088-2"
+        },
+        {
+          "key": "e_1_3_3_2_41_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Margot E Kaminski. 2018. Binary governance: Lessons from the GDPR’s approach to algorithmic accountability. S. Cal. L. Rev. 92 (2018) 1529.",
+          "DOI": "10.2139/ssrn.3351404"
+        },
+        {
+          "key": "e_1_3_3_2_42_2",
+          "first-page": "895",
+          "volume-title": "AISTATS",
+          "author": "Karimi A.",
+          "year": "2020",
+          "unstructured": "A. Karimi, G. Barthe, B. Balle, and I. Valera. 2020. Model-agnostic counterfactual explanations for consequential decisions. In AISTATS. PMLR, 895–905."
+        },
+        {
+          "key": "e_1_3_3_2_43_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Amir-Hossein Karimi Gilles Barthe Bernhard Schölkopf and Isabel Valera. 2022. A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. ACM Comput. Surv. 55 5 Article 95 (dec 2022) 29 pages. https://doi.org/10.1145/3527848",
+          "DOI": "10.1145/3527848"
+        },
+        {
+          "key": "e_1_3_3_2_44_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3442188.3445899"
+        },
+        {
+          "key": "e_1_3_3_2_45_2",
+          "unstructured": "Amir-Hossein Karimi Julius Von Kügelgen Bernhard Schölkopf and Isabel Valera. 2020. Algorithmic recourse under imperfect causal knowledge: a probabilistic approach. Advances in Neural Information Processing Systems 33 (2020) 265–277."
+        },
+        {
+          "key": "e_1_3_3_2_46_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9781139174084"
+        },
+        {
+          "key": "e_1_3_3_2_47_2",
+          "unstructured": "Finn Lattimore Daniel M Steinberg and Anna Zhu. 2023. The Economic Effect of Gaining a New Qualification Later in Life. arXiv preprint arXiv:https://arXiv.org/abs/2304.01490 (2023)."
+        },
+        {
+          "key": "e_1_3_3_2_48_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-3-031-63800-8_20"
+        },
+        {
+          "key": "e_1_3_3_2_49_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.24963/kr.2023/78"
+        },
+        {
+          "key": "e_1_3_3_2_50_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Henrietta Lyons Eduardo Velloso and Tim Miller. 2021. Conceptualising contestability: Perspectives on contesting algorithmic decisions. Proceedings of the ACM on Human-Computer Interaction 5 CSCW1 (2021) 1–25.",
+          "DOI": "10.1145/3449180"
+        },
+        {
+          "key": "e_1_3_3_2_51_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3630106.3659003"
+        },
+        {
+          "key": "e_1_3_3_2_52_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Spyros Makridakis Evangelos Spiliotis and Vassilios Assimakopoulos. 2020. The M4 Competition: 100 000 time series and 61 forecasting methods. International Journal of Forecasting 36 1 (2020) 54–74.",
+          "DOI": "10.1016/j.ijforecast.2019.04.014"
+        },
+        {
+          "key": "e_1_3_3_2_53_2",
+          "first-page": "1434",
+          "volume-title": "Uncertainty in Artificial Intelligence",
+          "author": "Meyer Anna P",
+          "year": "2023",
+          "unstructured": "Anna P Meyer, Dan Ley, Suraj Srinivas, and Himabindu Lakkaraju. 2023. On minimizing the impact of dataset shifts on actionable explanations. In Uncertainty in Artificial Intelligence. PMLR, 1434–1444."
+        },
+        {
+          "key": "e_1_3_3_2_54_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Susan A Murphy. 2003. Optimal dynamic treatment regimes. Journal of the Royal Statistical Society Series B: Statistical Methodology 65 2 (2003) 331–355.",
+          "DOI": "10.1111/1467-9868.00389"
+        },
+        {
+          "key": "e_1_3_3_2_55_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v32i1.11553"
+        },
+        {
+          "key": "e_1_3_3_2_56_2",
+          "volume-title": "The Eleventh International Conference on Learning Representations",
+          "author": "Nguyen Duy",
+          "year": "2023",
+          "unstructured": "Duy Nguyen, Ngoc Bui, and Viet Anh Nguyen. 2023. Distributionally Robust Recourse Action. In The Eleventh International Conference on Learning Representations."
+        },
+        {
+          "key": "e_1_3_3_2_57_2",
+          "unstructured": "Adam Paszke Sam Gross Francisco Massa Adam Lerer James Bradbury Gregory Chanan Trevor Killeen Zeming Lin Natalia Gimelshein Luca Antiga et al. 2019. Pytorch: An imperative style high-performance deep learning library. Advances in neural information processing systems 32 (2019)."
+        },
+        {
+          "key": "e_1_3_3_2_58_2",
+          "series-title": "Proceedings of Machine Learning Research",
+          "first-page": "809",
+          "volume-title": "Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)",
+          "volume": "124",
+          "author": "Pawelczyk Martin",
+          "year": "2020",
+          "unstructured": "Martin Pawelczyk, Klaus Broelemann, and Gjergji. Kasneci. 2020. On Counterfactual Explanations under Predictive Multiplicity. In Proceedings of the 36th Conference on Uncertainty in Artificial Intelligence (UAI)(Proceedings of Machine Learning Research, Vol. 124), Jonas Peters and David Sontag (Eds.). PMLR, 809–818. https://proceedings.mlr.press/v124/pawelczyk20a.html"
+        },
+        {
+          "key": "e_1_3_3_2_59_2",
+          "unstructured": "Martin Pawelczyk Teresa Datta Johannes van-den Heuvel Gjergji Kasneci and Himabindu Lakkaraju. 2022. Probabilistically robust recourse: Navigating the trade-offs between costs and robustness in algorithmic recourse. arXiv preprint arXiv:https://arXiv.org/abs/2203.06768 (2022)."
+        },
+        {
+          "key": "e_1_3_3_2_60_2",
+          "series-title": "Proceedings of Machine Learning Research",
+          "first-page": "9680",
+          "volume-title": "Proceedings of The 26th International Conference on Artificial Intelligence and Statistics",
+          "volume": "206",
+          "author": "Pawelczyk Martin",
+          "year": "2023",
+          "unstructured": "Martin Pawelczyk, Himabindu Lakkaraju, and Seth Neel. 2023. On the Privacy Risks of Algorithmic Recourse. In Proceedings of The 26th International Conference on Artificial Intelligence and Statistics(Proceedings of Machine Learning Research, Vol. 206), Francisco Ruiz, Jennifer Dy, and Jan-Willem van de Meent (Eds.). PMLR, 9680–9696. https://proceedings.mlr.press/v206/pawelczyk23a.html"
+        },
+        {
+          "key": "e_1_3_3_2_61_2",
+          "unstructured": "Martin Pawelczyk Tobias Leemann Asia Biega and Gjergji Kasneci. 2022. On the Trade-Off between actionable explanations and the right to be forgotten. arXiv preprint arXiv:https://arXiv.org/abs/2208.14137 (2022)."
+        },
+        {
+          "key": "e_1_3_3_2_62_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9780511803161"
+        },
+        {
+          "key": "e_1_3_3_2_63_2",
+          "unstructured": "Jonas Peters Dominik Janzing and Bernhard Schölkopf. 2013. Causal inference on time series using restricted structural equation models. Advances in neural information processing systems 26 (2013)."
+        },
+        {
+          "key": "e_1_3_3_2_64_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5555/3202377"
+        },
+        {
+          "key": "e_1_3_3_2_65_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Gabriella Pigozzi Alexis Tsoukias and Paolo Viappiani. 2016. Preferences in artificial intelligence. Annals of Mathematics and Artificial Intelligence 77 (2016) 361–401.",
+          "DOI": "10.1007/s10472-015-9475-5"
+        },
+        {
+          "key": "e_1_3_3_2_66_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3630106.3658538"
+        },
+        {
+          "key": "e_1_3_3_2_67_2",
+          "unstructured": "Kaivalya Rawal and Himabindu Lakkaraju. 2020. Beyond individualized recourse: Interpretable and interactive summaries of actionable recourses. Advances in Neural Information Processing Systems 33 (2020) 12187–12198."
+        },
+        {
+          "key": "e_1_3_3_2_68_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2939672.2939778"
+        },
+        {
+          "key": "e_1_3_3_2_69_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hidetoshi Shimodaira. 2000. Improving predictive inference under covariate shift by weighting the log-likelihood function. Journal of statistical planning and inference 90 2 (2000) 227–244.",
+          "DOI": "10.1016/S0378-3758(00)00115-4"
+        },
+        {
+          "key": "e_1_3_3_2_70_2",
+          "unstructured": "Karen Simonyan Andrea Vedaldi and Andrew Zisserman. 2013. Deep inside convolutional networks: Visualising image classification models and saliency maps. arXiv preprint arXiv:https://arXiv.org/abs/1312.6034 (2013)."
+        },
+        {
+          "key": "e_1_3_3_2_71_2",
+          "first-page": "62",
+          "volume-title": "Advances in Neural Information Processing Systems",
+          "author": "Slack Dylan",
+          "year": "2021",
+          "unstructured": "Dylan Slack, Anna Hilgard, Himabindu Lakkaraju, and Sameer Singh. 2021. Counterfactual Explanations Can Be Manipulated. In Advances in Neural Information Processing Systems, M. Ranzato, A. Beygelzimer, Y. Dauphin, P.S. Liang, and J. Wortman Vaughan (Eds.), Vol. 34. Curran Associates, Inc., 62–75. https://proceedings.neurips.cc/paper_files/paper/2021/file/009c434cab57de48a31f6b669e7ba266-Paper.pdf"
+        },
+        {
+          "key": "e_1_3_3_2_72_2",
+          "unstructured": "Kihyuk Sohn Honglak Lee and Xinchen Yan. 2015. Learning structured output representation using deep conditional generative models. Advances in neural information processing systems 28 (2015)."
+        },
+        {
+          "key": "e_1_3_3_2_73_2",
+          "unstructured": "Philip B Stark and Robert L Parker. 1995. Bounded-variable least-squares: an algorithm and applications. Computational Statistics 10 (1995) 129–129."
+        },
+        {
+          "key": "e_1_3_3_2_74_2",
+          "unstructured": "Bill Turque. 2012. ‘Creative... motivating’ and fired. https://www.washingtonpost.com/local/education/creative–motivating-and-fired/2012/02/04/gIQAwzZpvR_story.html. Accessed: 19-12-2024."
+        },
+        {
+          "key": "e_1_3_3_2_75_2",
+          "unstructured": "Sohini Upadhyay Shalmali Joshi and Himabindu Lakkaraju. 2021. Towards robust and reliable algorithmic recourse. Advances in Neural Information Processing Systems 34 (2021) 16926–16937."
+        },
+        {
+          "key": "e_1_3_3_2_76_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287566"
+        },
+        {
+          "key": "e_1_3_3_2_77_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372876"
+        },
+        {
+          "key": "e_1_3_3_2_78_2",
+          "unstructured": "Sahil Verma Varich Boonsanong Minh Hoang Keegan E Hines John P Dickerson and Chirag Shah. 2020. Counterfactual explanations and algorithmic recourses for machine learning: a review. (2020)."
+        },
+        {
+          "key": "e_1_3_3_2_79_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Marco Virgolin and Saverio Fracaros. 2023. On the robustness of sparse counterfactual explanations to adverse perturbations. Artificial Intelligence 316 (2023) 103840.",
+          "DOI": "10.1016/j.artint.2022.103840"
+        },
+        {
+          "key": "e_1_3_3_2_80_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v36i9.21192"
+        },
+        {
+          "key": "e_1_3_3_2_81_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sandra Wachter Brent Mittelstadt and Chris Russell. 2017. Counterfactual explanations without opening the black box: Automated decisions and the GDPR. Harv. JL & Tech. 31 (2017) 841.",
+          "DOI": "10.2139/ssrn.3063289"
+        },
+        {
+          "key": "e_1_3_3_2_82_2",
+          "first-page": "39110",
+          "volume-title": "International Conference on Machine Learning",
+          "author": "Yan Jingquan",
+          "year": "2023",
+          "unstructured": "Jingquan Yan and Hao Wang. 2023. Self-interpretable time series prediction with counterfactual explanations. In International Conference on Machine Learning. PMLR, 39110–39125."
+        },
+        {
+          "key": "e_1_3_3_2_83_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tae Keun Yoo Ik Hee Ryu Geunyoung Lee Youngnam Kim Jin Kuk Kim In Sik Lee Jung Sub Kim and Tyler Hyungtaek Rim. 2019. Adopting machine learning to automatically identify candidate patients for corneal refractive surgery. NPJ digital medicine 2 1 (2019) 1–9.",
+          "DOI": "10.1038/s41746-019-0135-8"
+        },
+        {
+          "key": "e_1_3_3_2_84_2",
+          "unstructured": "Eric Zivot and Jiahui Wang. 2006. Vector autoregressive models for multivariate time series. Modeling financial time series with S-PLUS® (2006) 385–429."
+        }
+      ],
+      "event": {
+        "name": "FAccT '25: The 2025 ACM Conference on Fairness, Accountability, and Transparency",
+        "location": "Athens Greece",
+        "acronym": "FAccT '25"
+      },
+      "container-title": [
+        "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/3715275.3732008",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            24
+          ]
+        ],
+        "date-time": "2025-06-24T11:12:39Z",
+        "timestamp": 1750763559000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dl.acm.org/doi/10.1145/3715275.3732008"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            23
+          ]
+        ]
+      },
+      "references-count": 83,
+      "alternative-id": [
+        "10.1145/3715275.3732008",
+        "10.1145/3715275"
+      ],
+      "URL": "https://doi.org/10.1145/3715275.3732008",
+      "relation": {},
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            23
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-06-23",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

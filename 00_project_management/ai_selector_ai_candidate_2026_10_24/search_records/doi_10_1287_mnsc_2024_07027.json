@@ -1,0 +1,713 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+    "checked_at": "2026-10-24T03:10:45.891522Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+    "content_type": "application/json"
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            30
+          ]
+        ],
+        "date-time": "2026-09-30T20:31:37Z",
+        "timestamp": 1790800297627,
+        "version": "4.1.0"
+      },
+      "reference-count": 97,
+      "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Management Science"
+      ],
+      "abstract": "<jats:p>Screening human capital based on signals such as job applications or entrepreneurial pitches is crucial for organizations. Signals are often informative insofar as they require differential knowledge and effort to produce. Generative AI (GAI) complicates screening by lowering the cost of producing impressive signals. We model the informational effects of GAI, showing that applicants’ access to GAI can increase—and also decrease—an evaluator’s screening mistakes. This result depends on how GAI affects experts’ signals compared with nonexperts’. Using experiments in hiring and start-up investing, we estimate that senders’ access to GAI (ChatGPT) lowers screening accuracy by 4%–9% for employers and start-up investors. Consistent with our model, senders’ access to GAI also improves screening accuracy in some settings, in our case, among senders from non–English-speaking countries. These results show that GAI can profoundly shape screening accuracy.</jats:p>\n                  <jats:p>This paper was accepted by Anindya Ghose, information systems.</jats:p>\n                  <jats:p>Funding: We are grateful for the Columbia Business School Digital Future Initiative Grant for helping fund this project. B. Cowgill thanks the Kauffman Foundation Emerging Scholars Program, the Columbia Center for Political Economy, the NET Institute, and the Stellar Development Foundation. P. Hernandez-Lagos thanks the Yeshiva University Sy Syms Dean’s Research Fund.</jats:p>\n                  <jats:p>Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.07027 .</jats:p>",
+      "DOI": "10.1287/mnsc.2024.07027",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2026-04-27T16:11:33Z",
+        "timestamp": 1777306293000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Does AI Cheapen Talk? Theory and Evidence from Global Entrepreneurship and Hiring"
+      ],
+      "prefix": "10.1287",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2525-2306",
+          "authenticated-orcid": false,
+          "given": "Bo",
+          "family": "Cowgill",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9082-3841",
+          "authenticated-orcid": false,
+          "given": "Pablo",
+          "family": "Hernández-Lagos",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sy Syms School of Business, Yeshiva University, New York, New York 10016"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0245-0035",
+          "authenticated-orcid": false,
+          "given": "Nataliya Langburd",
+          "family": "Wright",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Columbia Business School, New York, New York 10027"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "109",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "B1",
+          "unstructured": "Abram C (2022a) The REAL fight over AI art. Accessed November 19, 2024, https://www.youtube.com/watch?v=NiJeB2NJy1A."
+        },
+        {
+          "key": "B2",
+          "unstructured": "Abram C (2022b) Tweet by @cleoabram.\n                      Twitter\n                      (September 14), https://x.com/i/status/1570043396961476609."
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/qje/qjx028"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Agarwal D, Naaman M, Vashistha A (2025) AI suggestions homogenize writing toward western styles and diminish cultural nuances. Yamashita N, Evers V, Yatani K, Ding X(S), Lee B, Chetty M, Dugas PT, eds.\n                      Proc. 2025 CHI Conf. Human Factors Comput. Systems\n                      (Association for Computing Machinery, New York), 1–21.",
+          "DOI": "10.1145/3706598.3713564"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Agrawal AK, Gans JS, Goldfarb A (2021) AI adoption and system-wide change. NBER Working Paper No. 28811, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w28811"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2021.1554"
+        },
+        {
+          "issue": "1",
+          "key": "B7",
+          "first-page": "21461",
+          "volume": "12",
+          "author": "AlShebli B",
+          "year": "2022",
+          "journal-title": "Nature Sci. Rep."
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Athey SC, Bryan KA, Gans JS (2020) The allocation of decision authority to human and artificial intelligence.\n                      AEA Papers Proc.\n                      110:80–84.",
+          "DOI": "10.1257/pandp.20201034"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2017.2833"
+        },
+        {
+          "key": "B10",
+          "author": "Bhatia A",
+          "year": "2023",
+          "journal-title": "California Management Rev."
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3559"
+        },
+        {
+          "key": "B12",
+          "first-page": "993",
+          "volume": "3",
+          "author": "Blei DM",
+          "year": "2003",
+          "journal-title": "J. Machine Learn. Res."
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.102.1.167"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.1120.1609"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.52202/068431-0265"
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/qje/qjae044"
+        },
+        {
+          "key": "B17",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/05694345231218454"
+        },
+        {
+          "key": "B118",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Campante FR, Durante R, Hagemeister F, Sen A (2025) GenAI misinformation, trust, and news consumption: Evidence from a field experiment. NBER Working Paper No. 34100, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w34100"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3463"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2017.2756"
+        },
+        {
+          "key": "B20",
+          "unstructured": "Chayka K (2025) A.I. is homogenizing our thoughts.\n                      The New Yorker\n                      (January 25), https://www.newyorker.com/culture/infinite-scroll/ai-is-homogenizing-our-thoughts."
+        },
+        {
+          "key": "B21",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Choi JH, Schwarcz D  (2024) AI assistance in legal analysis: An empirical study.  73:384.",
+          "DOI": "10.2139/ssrn.4539836"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3152"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1162/rest_a_01068"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Conti A, Messinese D (2024) The selective tailwind effect of A.I. on startups: Predictions and anomalies. Preprint, submitted October 24, https://dx.doi.org/10.2139/ssrn.4958898.",
+          "DOI": "10.2139/ssrn.4958898"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cowgill B (2020) Bias and productivity in humans and algorithms: Theory and evidence from resume screening. Preprint, submitted March 21, https://conference.iza.org/conference_files/MacroEcon_2017/cowgill_b8981.pdf.",
+          "DOI": "10.17848/wp19-309"
+        },
+        {
+          "key": "B26",
+          "unstructured": "Cui J, Dias G, Ye J (2025) Signaling in the age of AI: Evidence from cover letters. Preprint, submitted September 29, https://arxiv.org/abs/2509.25054."
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0003-066X.34.7.571"
+        },
+        {
+          "key": "B28",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Del Giglio AD, da Costa MUP (2023) The use of artificial intelligence to improve the scientific writing of non-native English speakers.\n                      Revista da Associação Médica Brasileira\n                      69(9):e20230560.",
+          "DOI": "10.1590/1806-9282.20230560"
+        },
+        {
+          "key": "B29",
+          "unstructured": "Dell’Acqua F (2022) Falling asleep at the wheel: Human/AI collaboration in a field experiment on HR recruiters. Working paper, University of Michigan, Ross School of Business, Ann Arbor, MI."
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1162/rest_a_01328"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dell’Acqua F, McFowland E, Mollick ER, Lifshitz-Assaf H, Kellogg K, Rajendran S, Krayer L, Candelon F, Lakhani KR (2023) Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality. Preprint, submitted September 18, https://dx.doi.org/10.2139/ssrn.4573321.",
+          "DOI": "10.2139/ssrn.4573321"
+        },
+        {
+          "key": "B32",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/705880"
+        },
+        {
+          "key": "B33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/sciadv.adn5290"
+        },
+        {
+          "key": "B34",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adj0998"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Felten E, Raj M, Seamans R (2023) How will language modelers like ChatGPT affect occupations and industries? Preprint, submitted March 2, https://arxiv.org/abs/2303.01157.",
+          "DOI": "10.2139/ssrn.4375268"
+        },
+        {
+          "key": "B36",
+          "unstructured": "Filimonovic D, Rutzer C, Macher JT, Weder R (2025) Generative AI as a linguistic equalizer in global science. Working paper, Faculty of Business and Economics, University of Basel, Basel, Switzerland."
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Filippas A, Horton JJ, Golden J (2018) Reputation inflation. Tardos E, Elkind E, Vohra R, eds.\n                      Proc. 2018 ACM Conf. Econom. Comput\n                      . (Association for Computing Machinery, New York), 1–699.",
+          "DOI": "10.1145/3219166.3219222"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Flesch R (1948) A new readability yardstick.\n                      J. Appl. Psych.\n                      32(3):221.",
+          "DOI": "10.1037/h0057532"
+        },
+        {
+          "key": "B139",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Galdin A, Silbert J (2025) Making talk cheap: Generative AI and labor market signaling. Preprint, submitted November 11, https://arxiv.org/abs/2511.08785.",
+          "DOI": "10.2139/ssrn.5735785"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.econlet.2024.111872"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7551/mitpress/15248.001.0001"
+        },
+        {
+          "key": "B41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3010"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2010.188"
+        },
+        {
+          "key": "B43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2018.1241"
+        },
+        {
+          "key": "B44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s11229-023-04097-3"
+        },
+        {
+          "key": "B45",
+          "volume-title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+          "volume": "2",
+          "author": "Hastie T",
+          "year": "2017"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Hernández-Lagos P (2025) The transparency of AI and the profits of the firm. Preprint, submitted October 19, https://doi.org/10.2139/ssrn.5627150.",
+          "DOI": "10.2139/ssrn.5627150"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1467-937X.00083"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/jleo/7.special_issue.24"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/isre.2021.1003"
+        },
+        {
+          "key": "B50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/689213"
+        },
+        {
+          "key": "B51",
+          "unstructured": "Horton J (2024) Blockchain as a solution to trust issues.\n                      ThreadReaderApp\n                      . Accessed February 16, 2024, https://threadreaderapp.com/thread/1758537324709732549.html."
+        },
+        {
+          "key": "B52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2023.18441"
+        },
+        {
+          "key": "B53",
+          "unstructured": "James W, Stein C (1961) Estimation with quadratic loss. Neyman J, ed.\n                      Proc. Fourth Berkeley Sympos. Math. Statist. Probab. Vol. 1 Contributions Theory Statist\n                      ., vol. 4 (University of California Press, Cambridge University Press, Berkeley and Los Angeles, London), 767."
+        },
+        {
+          "key": "B54",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2022.0426"
+        },
+        {
+          "key": "B55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/255378"
+        },
+        {
+          "key": "B56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/jep.34.3.50"
+        },
+        {
+          "key": "B57",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3569"
+        },
+        {
+          "key": "B58",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2018340118"
+        },
+        {
+          "key": "B59",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2022.4426"
+        },
+        {
+          "key": "B60",
+          "unstructured": "Kosmyna N, Hauptmann E, Tong Yuan Y, Situ J, Liao X-H, Beresnitzky AV, Braunstein I, Maes P (2025) Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant for essay writing task. Preprint, submitted June 10, https://arxiv.org/abs/2506.08872."
+        },
+        {
+          "key": "B61",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Li D, Raymond LR, Bergman P (2020) Hiring as exploration. NBER Working Paper No. 27736, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w27736"
+        },
+        {
+          "key": "B62",
+          "doi-asserted-by": "crossref",
+          "unstructured": "List JA (2020) Non est disputandum de generalizability? A glimpse into the external validity trial. NBER Working Paper No. 27535, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w27535"
+        },
+        {
+          "key": "B63",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/705903"
+        },
+        {
+          "key": "B64",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2329490616671310"
+        },
+        {
+          "key": "B65",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021-9010.79.4.599"
+        },
+        {
+          "key": "B66",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/jems.12576"
+        },
+        {
+          "key": "B67",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2001682117"
+        },
+        {
+          "key": "B68",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jfineco.2020.01.004"
+        },
+        {
+          "key": "B69",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Nosko C, Tadelis S (2015) The limits of reputation in platform markets: An empirical analysis and field experiment. NBER Working Paper No. 20830, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w20830"
+        },
+        {
+          "key": "B70",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adh2586"
+        },
+        {
+          "key": "B71",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Otis NG, Cranney K, Delecourt S, Koning R (2024) Global evidence on gender gaps and generative AI. Technical report, Center for Open Science, Washington, DC.",
+          "DOI": "10.31219/osf.io/h6a7c"
+        },
+        {
+          "key": "B72",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Otis NG, Clarke R, Delecourt S, Holtz D, Koning R (2023) The uneven impact of generative AI on entrepreneurial performance. Working paper, University of Toronto, Rotman School of Management, Toronto.",
+          "DOI": "10.31219/osf.io/hdjpk"
+        },
+        {
+          "issue": "1",
+          "key": "B73",
+          "first-page": "1",
+          "volume": "12",
+          "author": "Prakash A",
+          "year": "2025",
+          "journal-title": "Humanities Soc. Sci. Comm."
+        },
+        {
+          "key": "B74",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/genetics/155.2.945"
+        },
+        {
+          "issue": "8",
+          "key": "B75",
+          "first-page": "9",
+          "volume": "1",
+          "author": "Radford A",
+          "year": "2019",
+          "journal-title": "OpenAI Blog"
+        },
+        {
+          "key": "B76",
+          "unstructured": "Raghavan M (2024) Competition and diversity in generative AI. Preprint, submitted December 11, https://arxiv.org/abs/2412.08610."
+        },
+        {
+          "key": "B77",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000994"
+        },
+        {
+          "key": "B78",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000405"
+        },
+        {
+          "key": "B79",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.4337/9781839104398.00013"
+        },
+        {
+          "key": "B80",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0033-2909.124.2.262"
+        },
+        {
+          "key": "B81",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2018.3244"
+        },
+        {
+          "key": "B82",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/1882010"
+        },
+        {
+          "key": "B83",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stein C (1956) Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. Neyman J, ed.\n                      Proc. Third Berkeley Sympos. Math. Statist. Probab.\n                      , vol. 1 (University of California Press, Cambridge University Press, Berkeley and Los Angeles, London), 208.",
+          "DOI": "10.1525/9780520313880-018"
+        },
+        {
+          "key": "B84",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pone.0283280"
+        },
+        {
+          "key": "B85",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Svanberg M, Li W, Fleming M, Goehring B, Thompson N (2024) Beyond AI exposure: Which tasks are cost-effective to automate with computer vision? Preprint, submitted February 8, https://doi.org/10.2139/ssrn.4700751.",
+          "DOI": "10.2139/ssrn.4700751"
+        },
+        {
+          "key": "B86",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2014.1899"
+        },
+        {
+          "key": "B87",
+          "volume": "36",
+          "author": "Toups C",
+          "year": "2023",
+          "journal-title": "Adv. Neural Inform. Processing Systems"
+        },
+        {
+          "key": "B88",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/d41586-023-02980-0"
+        },
+        {
+          "key": "B89",
+          "unstructured": "Weiser B (2023) Here’s what happens when your lawyer uses ChatGPT.\n                      The New York Times Online\n                      (May 27), https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html."
+        },
+        {
+          "key": "B90",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/cyber.2020.0863"
+        },
+        {
+          "key": "B91",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wiles E, Munyikwa ZT, Horton JJ (2023a) Algorithmic writing assistance on jobseekers’ resumes increases hires. NBER Working Paper No. 30886, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w30886"
+        },
+        {
+          "key": "B92",
+          "unstructured": "Wiles E, Munyikwa Z, Horton JJ (2023b) Generative AI and labor market matching efficiency. Working paper, Boston University, Questrom School of Business, Boston."
+        },
+        {
+          "key": "B93",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2023.17983"
+        },
+        {
+          "key": "B94",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.3490"
+        },
+        {
+          "key": "B95",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.respol.2023.104846"
+        }
+      ],
+      "container-title": [
+        "Management Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2024.07027",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ],
+        "date-time": "2026-04-27T16:12:02Z",
+        "timestamp": 1777306322000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://pubsonline.informs.org/doi/10.1287/mnsc.2024.07027"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ]
+      },
+      "references-count": 97,
+      "alternative-id": [
+        "10.1287/mnsc.2024.07027"
+      ],
+      "URL": "https://doi.org/10.1287/mnsc.2024.07027",
+      "relation": {},
+      "ISSN": [
+        "0025-1909",
+        "1526-5501"
+      ],
+      "issn-type": [
+        {
+          "value": "0025-1909",
+          "type": "print"
+        },
+        {
+          "value": "1526-5501",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            27
+          ]
+        ]
+      },
+      "article-number": "mnsc.2024.07027"
+    }
+  }
+}

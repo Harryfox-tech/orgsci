@@ -1,0 +1,841 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1177/0001839212453028",
+    "checked_at": "2026-10-24T02:27:42.519463Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T19:58:32Z",
+        "timestamp": 1792699112715,
+        "version": "4.5.0"
+      },
+      "reference-count": 110,
+      "publisher": "SAGE Publications",
+      "issue": "2",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2012-06-01T00:00:00Z",
+            "timestamp": 1338508800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "journals.sagepub.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Administrative Science Quarterly"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      },
+      "abstract": "<jats:p>Using data from embedded participant-observers and a field experiment at the second largest mobile phone factory in the world, located in China, I theorize and test the implications of transparent organizational design on workers’ productivity and organizational performance. Drawing from theory and research on learning and control, I introduce the notion of a transparency paradox, whereby maintaining observability of workers may counterintuitively reduce their performance by inducing those being observed to conceal their activities through codes and other costly means; conversely, creating zones of privacy may, under certain conditions, increase performance. Empirical evidence from the field shows that even a modest increase in group-level privacy sustainably and significantly improves line performance, while qualitative evidence suggests that privacy is important in supporting productive deviance, localized experimentation, distraction avoidance, and continuous improvement. I discuss implications of these results for theory on learning and control and suggest directions for future research.</jats:p>",
+      "DOI": "10.1177/0001839212453028",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            22
+          ]
+        ],
+        "date-time": "2012-06-22T12:28:27Z",
+        "timestamp": 1340368107000
+      },
+      "page": "181-216",
+      "update-policy": "https://doi.org/10.1177/sage-journals-update-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 352,
+      "title": [
+        "The Transparency Paradox"
+      ],
+      "prefix": "10.1177",
+      "volume": "57",
+      "author": [
+        {
+          "given": "Ethan S.",
+          "family": "Bernstein",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Harvard University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "179",
+      "published-online": {
+        "date-parts": [
+          [
+            2012,
+            6,
+            21
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "bibr1-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2393986"
+        },
+        {
+          "key": "bibr2-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.37.3.267"
+        },
+        {
+          "key": "bibr3-0001839212453028",
+          "volume-title": "The Environment and Social Behavior: Privacy, Personal Space, Territory, Crowding",
+          "author": "Altman I.",
+          "year": "1975"
+        },
+        {
+          "key": "bibr4-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1515/9781400828883"
+        },
+        {
+          "key": "bibr5-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1006/obhd.2000.2883"
+        },
+        {
+          "key": "bibr6-0001839212453028",
+          "first-page": "177",
+          "volume-title": "Groups, Leadership, and Men: Research in Human Relations",
+          "author": "Asch S. E.",
+          "year": "1951"
+        },
+        {
+          "key": "bibr7-0001839212453028",
+          "first-page": "70",
+          "author": "Asch S. E.",
+          "year": "1956",
+          "journal-title": "Psychological Monographs"
+        },
+        {
+          "key": "bibr8-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2393374"
+        },
+        {
+          "key": "bibr9-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1740-8784.2008.00102.x"
+        },
+        {
+          "key": "bibr10-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.9.5.605"
+        },
+        {
+          "key": "bibr11-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.14.3.312.15162"
+        },
+        {
+          "key": "bibr12-0001839212453028",
+          "volume-title": "Transparency: How Leaders Create a Culture of Candor",
+          "author": "Bennis W. G.",
+          "year": "2008"
+        },
+        {
+          "key": "bibr13-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1162/003355304772839588"
+        },
+        {
+          "key": "bibr14-0001839212453028",
+          "volume-title": "The Limits of Transparency: Ambiguity and the History of International Finance",
+          "author": "Best J.",
+          "year": "2005"
+        },
+        {
+          "key": "bibr15-0001839212453028",
+          "volume-title": "The Mafia of a Sicilian Village, 1860–1960: A Study of Violent Peasant Entrepreneurs",
+          "author": "Blok A.",
+          "year": "1975"
+        },
+        {
+          "key": "bibr16-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0033-2909.94.2.265"
+        },
+        {
+          "key": "bibr17-0001839212453028",
+          "volume-title": "Manufacturing Consent: Changes in the Labor Process Under Monopoly Capitalism",
+          "author": "Burawoy M.",
+          "year": "1979"
+        },
+        {
+          "key": "bibr18-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/026540758900600201"
+        },
+        {
+          "key": "bibr19-0001839212453028",
+          "volume-title": "Quiet: The Power of Introverts in a World That Can’t Stop Talking",
+          "author": "Cain S.",
+          "year": "2012"
+        },
+        {
+          "key": "bibr20-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2091087"
+        },
+        {
+          "key": "bibr21-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.1040.0094"
+        },
+        {
+          "key": "bibr22-0001839212453028",
+          "volume-title": "Factory Girls: From Village to City in a Changing China",
+          "author": "Chang L. T.",
+          "year": "2008"
+        },
+        {
+          "key": "bibr23-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/j.ctt1x07wdd"
+        },
+        {
+          "key": "bibr24-0001839212453028",
+          "volume-title": "Rational Ritual: Culture, Coordination, and Common Knowledge",
+          "author": "Chwe M. S.-Y.",
+          "year": "2001"
+        },
+        {
+          "key": "bibr25-0001839212453028",
+          "first-page": "185",
+          "volume-title": "”",
+          "author": "Cottrell N. B.",
+          "year": "1972"
+        },
+        {
+          "key": "bibr26-0001839212453028",
+          "first-page": "329",
+          "volume-title": "The Nature of Insight",
+          "author": "Csikszentmihalyi M.",
+          "year": "1995"
+        },
+        {
+          "key": "bibr27-0001839212453028",
+          "volume-title": "Men Who Manage: Fusions of Feeling and Theory in Administration",
+          "author": "Dalton M.",
+          "year": "1959"
+        },
+        {
+          "key": "bibr28-0001839212453028",
+          "volume-title": "Out of the Crisis",
+          "author": "Deming W. E.",
+          "year": "1986"
+        },
+        {
+          "key": "bibr29-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2011.61967925"
+        },
+        {
+          "key": "bibr30-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.4250171006"
+        },
+        {
+          "key": "bibr31-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0047-2484(92)90081-J"
+        },
+        {
+          "key": "bibr32-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.13.2.128.530"
+        },
+        {
+          "key": "bibr33-0001839212453028",
+          "first-page": "733",
+          "volume-title": "”",
+          "author": "Ellis C.",
+          "year": "2000"
+        },
+        {
+          "key": "bibr34-0001839212453028",
+          "volume-title": "Investigating Subjectivity: Research on Lived Experience",
+          "author": "Ellis C.",
+          "year": "1992"
+        },
+        {
+          "key": "bibr35-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2667087"
+        },
+        {
+          "key": "bibr36-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7208/chicago/9780226206851.001.0001"
+        },
+        {
+          "key": "bibr37-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9780511752247"
+        },
+        {
+          "key": "bibr38-0001839212453028",
+          "volume-title": "Discipline and Punish: The Birth of the Prison, 1st American ed",
+          "author": "Foucault M.",
+          "year": "1977"
+        },
+        {
+          "key": "bibr39-0001839212453028",
+          "volume-title": "Psychodynamic Psychiatry in Clinical Practice",
+          "author": "Gabbard G. O.",
+          "year": "2005",
+          "edition": "4"
+        },
+        {
+          "key": "bibr40-0001839212453028",
+          "volume-title": "The Sicilian Mafia: the Business of Private Protection",
+          "author": "Gambetta D.",
+          "year": "1996"
+        },
+        {
+          "key": "bibr41-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/3556657"
+        },
+        {
+          "key": "bibr42-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0022-3514.75.2.332"
+        },
+        {
+          "key": "bibr43-0001839212453028",
+          "volume-title": "The Discovery of Grounded Theory",
+          "author": "Glaser B. G.",
+          "year": "1967"
+        },
+        {
+          "key": "bibr44-0001839212453028",
+          "volume-title": "The Presentation of Self in Everyday Life",
+          "author": "Goffman E.",
+          "year": "1959"
+        },
+        {
+          "key": "bibr45-0001839212453028",
+          "volume-title": "The Visual Factory",
+          "author": "Greif M.",
+          "year": "1991"
+        },
+        {
+          "key": "bibr46-0001839212453028",
+          "first-page": "1455",
+          "volume-title": "”",
+          "author": "Hackman J. R.",
+          "year": "1976"
+        },
+        {
+          "key": "bibr47-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/h0076546"
+        },
+        {
+          "key": "bibr48-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2393640"
+        },
+        {
+          "key": "bibr49-0001839212453028",
+          "volume-title": "Rivethead: Tales From the Assembly Line",
+          "author": "Hamper B.",
+          "year": "1986"
+        },
+        {
+          "key": "bibr50-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2667032"
+        },
+        {
+          "key": "bibr51-0001839212453028",
+          "volume-title": "How Breakthroughs Happen: The Surprising Truth about How Companies Innovate",
+          "author": "Hargadon A.",
+          "year": "2003"
+        },
+        {
+          "key": "bibr52-0001839212453028",
+          "first-page": "633",
+          "volume": "28",
+          "author": "Hewlin P. F.",
+          "year": "2003",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "bibr53-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5871/bacad/9780197263839.001.0001"
+        },
+        {
+          "key": "bibr54-0001839212453028",
+          "first-page": "35",
+          "volume-title": "”",
+          "author": "Ingham R.",
+          "year": "1978"
+        },
+        {
+          "key": "bibr55-0001839212453028",
+          "volume-title": "Groupthink",
+          "author": "Janis I. L.",
+          "year": "1982",
+          "edition": "2"
+        },
+        {
+          "key": "bibr56-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/30040736"
+        },
+        {
+          "key": "bibr57-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/230046"
+        },
+        {
+          "key": "bibr58-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oxfordhb/9780199535231.003.0013"
+        },
+        {
+          "key": "bibr59-0001839212453028",
+          "volume-title": "The Chosen: The Hidden History of Admission and Exclusion at Harvard, Yale, and Princeton",
+          "author": "Karabel J.",
+          "year": "2006"
+        },
+        {
+          "key": "bibr60-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.soc.28.110601.141107"
+        },
+        {
+          "key": "bibr61-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2189/asqu.52.4.667"
+        },
+        {
+          "key": "bibr62-0001839212453028",
+          "first-page": "609",
+          "volume": "18",
+          "author": "Levinson A. A.",
+          "year": "2009",
+          "journal-title": "Cornell Journal of Law and Public Policy"
+        },
+        {
+          "key": "bibr63-0001839212453028",
+          "author": "Levitt S. D.",
+          "year": "2009",
+          "journal-title": "National Bureau of Economic Research"
+        },
+        {
+          "key": "bibr64-0001839212453028",
+          "volume-title": "The Toyota Way: 14 Management Principles from the World’s Greatest Manufacturer",
+          "author": "Liker J. K.",
+          "year": "2004"
+        },
+        {
+          "key": "bibr65-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2.1.71"
+        },
+        {
+          "key": "bibr66-0001839212453028",
+          "volume-title": "The CIA and the Cult of Intelligence",
+          "author": "Marchetti V.",
+          "year": "1974"
+        },
+        {
+          "key": "bibr67-0001839212453028",
+          "volume-title": "Cheats at Work: An Anthropology of Workplace Crime",
+          "author": "Mars G.",
+          "year": "1982"
+        },
+        {
+          "key": "bibr68-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.99.1.112"
+        },
+        {
+          "key": "bibr69-0001839212453028",
+          "volume-title": "The Human Problems of an Industrial Organization",
+          "author": "Mayo E.",
+          "year": "1933"
+        },
+        {
+          "key": "bibr70-0001839212453028",
+          "volume-title": "Interaction and Performance",
+          "author": "McGrath J. E.",
+          "year": "1984"
+        },
+        {
+          "key": "bibr71-0001839212453028",
+          "volume-title": "Qualitative Data Analysis",
+          "author": "Miles M. B.",
+          "year": "1994"
+        },
+        {
+          "key": "bibr72-0001839212453028",
+          "volume-title": "On Liberty",
+          "author": "Mill J. S.",
+          "year": "1859"
+        },
+        {
+          "key": "bibr73-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.17763/haer.49.1.b748n4133677245p"
+        },
+        {
+          "key": "bibr74-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/259200"
+        },
+        {
+          "key": "bibr75-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2189/asqu.53.3.422"
+        },
+        {
+          "key": "bibr76-0001839212453028",
+          "first-page": "269",
+          "volume": "12",
+          "author": "Parent W. A.",
+          "year": "1983",
+          "journal-title": "Philosophy and Public Affairs"
+        },
+        {
+          "key": "bibr77-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/001872678203501207"
+        },
+        {
+          "key": "bibr78-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1207/s15324834basp1701&2_15"
+        },
+        {
+          "key": "bibr79-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2667031"
+        },
+        {
+          "key": "bibr80-0001839212453028",
+          "volume-title": "In Search of Excellence: Lessons from America’s Best-Run Companies",
+          "author": "Peters T. J.",
+          "year": "1982"
+        },
+        {
+          "key": "bibr81-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/smj.4250150907"
+        },
+        {
+          "key": "bibr82-0001839212453028",
+          "volume-title": "Management and the Worker",
+          "author": "Roethlisberger F. J.",
+          "year": "1939"
+        },
+        {
+          "key": "bibr83-0001839212453028",
+          "volume-title": "Impression Management in Organizations: Theory, Measurement, Practice",
+          "author": "Rosenfeld P.",
+          "year": "1995"
+        },
+        {
+          "key": "bibr84-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/221011"
+        },
+        {
+          "key": "bibr85-0001839212453028",
+          "first-page": "156",
+          "volume": "18",
+          "author": "Roy D. F.",
+          "year": "1960",
+          "journal-title": "Human Organization"
+        },
+        {
+          "key": "bibr86-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2392359"
+        },
+        {
+          "key": "bibr87-0001839212453028",
+          "volume-title": "Uber Scham und Schamgeful (On Ethics and Theory of Knowledge)",
+          "author": "Scheler M.",
+          "year": "1957"
+        },
+        {
+          "key": "bibr88-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/CBO9780511625138.018"
+        },
+        {
+          "key": "bibr89-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/224567"
+        },
+        {
+          "key": "bibr90-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2393857"
+        },
+        {
+          "key": "bibr91-0001839212453028",
+          "volume-title": "The Sociology of Georg Simmel",
+          "author": "Simmel G.",
+          "year": "1950"
+        },
+        {
+          "key": "bibr92-0001839212453028",
+          "first-page": "1",
+          "volume-title": "Brücke und Tür: Essays des Philosophen zur Geschichte",
+          "author": "Simmel G.",
+          "year": "1957"
+        },
+        {
+          "key": "bibr93-0001839212453028",
+          "first-page": "345",
+          "volume-title": "”",
+          "author": "Simmel G.",
+          "year": "1964"
+        },
+        {
+          "key": "bibr94-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0033-2909.129.4.475"
+        },
+        {
+          "key": "bibr95-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.1994.9412271813"
+        },
+        {
+          "key": "bibr96-0001839212453028",
+          "volume-title": "Understanding Privacy",
+          "author": "Solove D. J.",
+          "year": "2008"
+        },
+        {
+          "key": "bibr97-0001839212453028",
+          "first-page": "96",
+          "volume": "77",
+          "author": "Spear S.",
+          "year": "1999",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "key": "bibr98-0001839212453028",
+          "volume-title": "Chasing the Rabbit: How Market Leaders Outdistance the Competition and How Great Companies Can Catch Up and Win",
+          "author": "Spear S. J.",
+          "year": "2009"
+        },
+        {
+          "key": "bibr99-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.1110.1482"
+        },
+        {
+          "key": "bibr100-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/030631289019003001"
+        },
+        {
+          "key": "bibr101-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/41165923"
+        },
+        {
+          "key": "bibr102-0001839212453028",
+          "volume-title": "The Naked Corporation: How the Age of Transparency Will Revolutionize Business",
+          "author": "Tapscott D.",
+          "year": "2003"
+        },
+        {
+          "key": "bibr103-0001839212453028",
+          "volume-title": "The Principles of Scientific Management",
+          "author": "Taylor F. W.",
+          "year": "1911"
+        },
+        {
+          "key": "bibr104-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S0048-7333(98)00041-9"
+        },
+        {
+          "key": "bibr105-0001839212453028",
+          "doi-asserted-by": "crossref",
+          "first-page": "605",
+          "DOI": "10.1353/sor.2003.0021",
+          "volume": "70",
+          "author": "Tilly C.",
+          "year": "2003",
+          "journal-title": "Social Research"
+        },
+        {
+          "key": "bibr106-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1740-8784.2007.00084.x"
+        },
+        {
+          "key": "bibr107-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1108/09534810210423008"
+        },
+        {
+          "key": "bibr108-0001839212453028",
+          "volume-title": "Privacy and Freedom",
+          "author": "Westin A. F.",
+          "year": "1967"
+        },
+        {
+          "key": "bibr109-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.149.3681.269"
+        },
+        {
+          "key": "bibr110-0001839212453028",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/256272"
+        }
+      ],
+      "container-title": [
+        "Administrative Science Quarterly"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0001839212453028",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0001839212453028",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0001839212453028",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            28
+          ]
+        ],
+        "date-time": "2026-04-28T12:23:09Z",
+        "timestamp": 1777378989000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://journals.sagepub.com/doi/10.1177/0001839212453028"
+        }
+      },
+      "subtitle": [
+        "A Role for Privacy in Organizational Learning and Operational Control"
+      ],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      },
+      "references-count": 110,
+      "journal-issue": {
+        "issue": "2",
+        "published-print": {
+          "date-parts": [
+            [
+              2012,
+              6
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1177/0001839212453028"
+      ],
+      "URL": "https://doi.org/10.1177/0001839212453028",
+      "relation": {},
+      "ISSN": [
+        "0001-8392",
+        "1930-3815"
+      ],
+      "issn-type": [
+        {
+          "value": "0001-8392",
+          "type": "print"
+        },
+        {
+          "value": "1930-3815",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            6
+          ]
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1675 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1002/hrm.70071",
+    "checked_at": "2026-10-24T02:27:43.386625Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            7
+          ]
+        ],
+        "date-time": "2026-10-07T11:33:07Z",
+        "timestamp": 1791372787685,
+        "version": "4.3.1"
+      },
+      "reference-count": 195,
+      "publisher": "Wiley",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                26
+              ]
+            ],
+            "date-time": "2026-03-26T00:00:00Z",
+            "timestamp": 1774483200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                26
+              ]
+            ],
+            "date-time": "2026-03-26T00:00:00Z",
+            "timestamp": 1774483200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Human Resource Management"
+      ],
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In today's polarized sociopolitical climate, diversity, equity, and inclusion (DEI) efforts increasingly face backlash, with equity in particular becoming marginalized in both scholarly and practitioner discourse despite its central importance for ensuring fair allocation of opportunities and resources across the employee lifecycle. These concerns are magnified as human resource (HR) decisions become increasingly mediated by artificial intelligence (AI), which shifts the locus of equity from individual judgment to systems design. In this paper, we introduce the concept of HR‐AI systems design, defined as the intentional planning and configuration of AI tools that support core HR functions in ways that reflect and embed focal organizational values. More specifically, we focus on equitable HR‐AI systems design, which concerns the design of AI‐mediated HR systems in which equity considerations are embedded in their underlying logics, evaluative criteria, and decision processes. Drawing on positive organizational scholarship (POS), we develop a values‐based framework for equitable HR‐AI systems design grounded in three core elements: a strengths‐based orientation, justice as a virtuous value, and high‐quality connections as a relational principle. These POS‐informed design elements can redirect dominant merit‐based, optimization‐based, and homophily‐based biasing logics embedded in existing HR‐AI systems toward more equitable outcomes. This paper contributes to DEI scholarship by theorizing equity as a designable systems feature, advances research on AI in HR by identifying equity‐oriented design logics, and extends POS scholarship to digitally mediated organizational contexts.</jats:p>",
+      "DOI": "10.1002/hrm.70071",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            26
+          ]
+        ],
+        "date-time": "2026-03-26T14:16:16Z",
+        "timestamp": 1774534576000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 2,
+      "title": [
+        "Equity by Design: A Positive Organizational Scholarship Approach to Human Resource‐Artificial Intelligence Systems Design"
+      ],
+      "prefix": "10.1002",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-1112-6381",
+          "authenticated-orcid": false,
+          "given": "Tiffany M.",
+          "family": "Trzebiatowski",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Management Colorado State University  Fort Collins Colorado USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2168-1250",
+          "authenticated-orcid": false,
+          "given": "Eileen Yeirim",
+          "family": "Suh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "College of Business Hankuk University of Foreign Studies  Seoul South Korea"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8720-7933",
+          "authenticated-orcid": false,
+          "given": "LaStarr",
+          "family": "Hollie",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Division of Business and Economics Morehouse College  Atlanta Georgia USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            26
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_13_2_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "267",
+          "DOI": "10.1016/S0065-2601(08)60108-2",
+          "article-title": "Inequity in Social Exchange",
+          "volume": "2",
+          "author": "Adams J. S.",
+          "year": "1965",
+          "journal-title": "Advances in Experimental Social Psychology"
+        },
+        {
+          "key": "e_1_2_13_3_1",
+          "volume-title": "SAGE Business Cases Originals",
+          "author": "Agnihotri A.",
+          "year": "2024"
+        },
+        {
+          "issue": "12",
+          "key": "e_1_2_13_4_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3390/app13127082",
+          "article-title": "Re‐Thinking Data Strategy and Integration for Artificial Intelligence: Concepts, Opportunities, and Challenges",
+          "volume": "13",
+          "author": "Aldoseri A.",
+          "year": "2023",
+          "journal-title": "Applied Sciences"
+        },
+        {
+          "key": "e_1_2_13_5_1",
+          "unstructured": "Amodei D. C.Olah J.Steinhardt P.Christiano J.Schulman andD.Mané.2016.“Concrete Problems in AI Safety (arXiv:1606.06565).”arXiv.https://doi.org/10.48550/arXiv.1606.06565."
+        },
+        {
+          "key": "e_1_2_13_6_1",
+          "unstructured": "Anderson D. M. V.Bjarnadóttir andD. G.Ross.2022.“Using People Analytics to Build an Equitable Workplace.”Harvard Business Review.https://hbr.org/2022/01/using‐people‐analytics‐to‐build‐an‐equitable‐workplace."
+        },
+        {
+          "key": "e_1_2_13_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/pspa0000482"
+        },
+        {
+          "key": "e_1_2_13_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41591‐023‐02608‐w"
+        },
+        {
+          "key": "e_1_2_13_9_1",
+          "volume-title": "Exclusive: GM, Pepsi, Disney, Others Scrub Some DEI References From Investor Reports",
+          "author": "Aspan M.",
+          "year": "2025"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_10_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "714",
+          "DOI": "10.1257/aer.20141734",
+          "article-title": "Gender Differences in Accepting and Receiving Requests for Tasks With Low Promotability",
+          "volume": "107",
+          "author": "Babcock L.",
+          "year": "2017",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "e_1_2_13_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/job.2735"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_12_1",
+          "first-page": "671",
+          "article-title": "Big Data's Disparate Impact",
+          "volume": "104",
+          "author": "Barocas S.",
+          "year": "2016",
+          "journal-title": "California Law Review"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_13_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.hrmr.2022.100893",
+          "article-title": "Artificial Intelligence–HRM Interactions and Outcomes: A Systematic Review and Causal Configurational Explanation",
+          "volume": "33",
+          "author": "Basu S.",
+          "year": "2023",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_14_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1433",
+          "DOI": "10.25300/MISQ/2021/16274",
+          "article-title": "Managing Artificial Intelligence",
+          "volume": "45",
+          "author": "Berente N.",
+          "year": "2021",
+          "journal-title": "MIS Quarterly"
+        },
+        {
+          "key": "e_1_2_13_15_1",
+          "first-page": "149",
+          "volume-title": "Conference on Fairness, Accountability and Transparency",
+          "author": "Binns R.",
+          "year": "2018"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_16_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "106",
+          "DOI": "10.1080/17439760.2010.545429",
+          "article-title": "A Dynamic Approach to Psychological Strength Development and Intervention",
+          "volume": "6",
+          "author": "Biswas‐Diener R.",
+          "year": "2011",
+          "journal-title": "Journal of Positive Psychology"
+        },
+        {
+          "key": "e_1_2_13_17_1",
+          "volume-title": "Help Wanted: An Examination of Hiring Algorithms, Equity, and Bias",
+          "author": "Bogen M.",
+          "year": "2018"
+        },
+        {
+          "key": "e_1_2_13_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2015.2186"
+        },
+        {
+          "key": "e_1_2_13_19_1",
+          "first-page": "4349",
+          "article-title": "Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings",
+          "volume": "29",
+          "author": "Bolukbasi T.",
+          "year": "2016",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "e_1_2_13_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0003122417725865"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_21_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "249",
+          "DOI": "10.1007/s10551-005-5904-4",
+          "article-title": "The Amplifying and Buffering Effects of Virtuousness in Downsized Organizations",
+          "volume": "64",
+          "author": "Bright D. S.",
+          "year": "2006",
+          "journal-title": "Journal of Business Ethics"
+        },
+        {
+          "key": "e_1_2_13_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748‐8583.12524"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_23_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1065",
+          "DOI": "10.1080/09585192.2022.2035161",
+          "article-title": "Artificial Intelligence–Challenges and Opportunities for International HRM: A Review and Research Agenda",
+          "volume": "33",
+          "author": "Budhwar P.",
+          "year": "2022",
+          "journal-title": "International Journal of Human Resource Management"
+        },
+        {
+          "key": "e_1_2_13_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2053951715622512"
+        },
+        {
+          "key": "e_1_2_13_25_1",
+          "unstructured": "Burwell M. andB.Maldonado.2022.“How Does Your Company Support ‘First‐Generation Professionals’?”Harvard Business Review.https://hbr.org/2022/01/how‐does‐your‐company‐support‐first‐generation‐professionals."
+        },
+        {
+          "key": "e_1_2_13_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.70023"
+        },
+        {
+          "key": "e_1_2_13_27_1",
+          "volume-title": "Does SHRM'S Removal of “Equity” From Inclusion, Equity and Diversity Point to a New Strategy or Signal Something Much Bigger?",
+          "author": "Callaham S.",
+          "year": "2024"
+        },
+        {
+          "key": "e_1_2_13_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551‐011‐1023‐6"
+        },
+        {
+          "key": "e_1_2_13_29_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cameron K. andA.Caza.2008.“Positive Organizational Scholarship: What Does It Achieve?”1st IESE Conference “Humanizing the Firm & Management Profession” Barcelona IESE Business School.https://doi.org/10.2139/ssrn.1295299.",
+          "DOI": "10.2139/ssrn.1295299"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_30_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "766",
+          "DOI": "10.1177/0002764203260209",
+          "article-title": "Exploring the Relationships Between Organizational Virtuousness and Performance",
+          "volume": "47",
+          "author": "Cameron K. S.",
+          "year": "2004",
+          "journal-title": "American Behavioral Scientist"
+        },
+        {
+          "key": "e_1_2_13_31_1",
+          "volume-title": "Positive Organizational Scholarship—Foundations of a New Discipline",
+          "author": "Cameron K. S.",
+          "year": "2003"
+        },
+        {
+          "key": "e_1_2_13_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0001144"
+        },
+        {
+          "key": "e_1_2_13_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.70025"
+        },
+        {
+          "key": "e_1_2_13_34_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1007/978-3-030-20680-2_5",
+          "volume-title": "The Future of Management in an AI World: Redefining Purpose and Strategy in the Fourth Industrial Revolution",
+          "author": "Cappelli P.",
+          "year": "2020"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_35_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1093/pnasnexus/pgae191",
+          "article-title": "The Impact of Generative Artificial Intelligence on Socioeconomic Inequalities and Policy Making",
+          "volume": "3",
+          "author": "Capraro V.",
+          "year": "2024",
+          "journal-title": "PNAS Nexus"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_36_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1002/sres.932",
+          "article-title": "Learning Behaviours in the Workplace: The Role of High‐Quality Interpersonal Relationships and Psychological Safety",
+          "volume": "26",
+          "author": "Carmeli A.",
+          "year": "2009",
+          "journal-title": "Systems Research and Behavioral Science: The Official Journal of the International Federation for Systems Research"
+        },
+        {
+          "key": "e_1_2_13_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0018726714550256"
+        },
+        {
+          "key": "e_1_2_13_38_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1146/annurev-orgpsych-041015-062352",
+          "article-title": "How Technology Is Changing Work and Organizations",
+          "volume": "3",
+          "author": "Cascio W. F.",
+          "year": "2016",
+          "journal-title": "Annual Review of Organizational Psychology and Organizational Behavior"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_39_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1479",
+          "DOI": "10.1086/588738",
+          "article-title": "Gender, Race, and Meritocracy in Organizational Careers",
+          "volume": "113",
+          "author": "Castilla E. J.",
+          "year": "2008",
+          "journal-title": "American Journal of Sociology"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_2_13_40_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "543",
+          "DOI": "10.2189/asqu.2010.55.4.543",
+          "article-title": "The Paradox of Meritocracy in Organizations",
+          "volume": "55",
+          "author": "Castilla E. J.",
+          "year": "2010",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "key": "e_1_2_13_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/orsc.2019.1335"
+        },
+        {
+          "key": "e_1_2_13_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/1056492607305907"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_43_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.infoandorg.2025.100587",
+          "article-title": "Ethics in the World of Automated Algorithmic Decision‐Making–A Posthumanist Perspective",
+          "volume": "35",
+          "author": "Cecez‐Kecmanovic D.",
+          "year": "2025",
+          "journal-title": "Information and Organization"
+        },
+        {
+          "key": "e_1_2_13_44_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.copsyc.2024.101874",
+          "article-title": "Can Nudges Be Leveraged to Enhance Diversity in Organizations? A Systematic Review",
+          "volume": "60",
+          "author": "Cervantez J. A.",
+          "year": "2024",
+          "journal-title": "Current Opinion in Psychology"
+        },
+        {
+          "key": "e_1_2_13_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748‐8583.12433"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_46_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.hrmr.2019.100698",
+          "article-title": "A Critical Review of Algorithms in HRM: Definition, Theory, and Practice",
+          "volume": "31",
+          "author": "Cheng M. M.",
+          "year": "2021",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_47_1",
+          "first-page": "1",
+          "article-title": "Age‐Related Bias and Artificial Intelligence: A Scoping Review",
+          "volume": "10",
+          "author": "Chu C. H.",
+          "year": "2023",
+          "journal-title": "Humanities and Social Sciences Communications"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_48_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "269",
+          "DOI": "10.52589/IJEBI-HET5STYK",
+          "article-title": "Strategic Role of Artificial Intelligence (AI) on Human Resource Management (HR) Employee Performance Evaluation Function",
+          "volume": "7",
+          "author": "Chukwuka E. J.",
+          "year": "2024",
+          "journal-title": "International Journal of Entrepreneurship and Business Innovation"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_49_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.1037/0021-9010.86.3.386",
+          "article-title": "On the Dimensionality of Organizational Justice: A Construct Validation of a Measure",
+          "volume": "86",
+          "author": "Colquitt J. A.",
+          "year": "2001",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "e_1_2_13_50_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12556"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_51_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1037/a0031757",
+          "article-title": "Justice at the Millennium, a Decade Later: A Meta‐Analytic Test of Social Exchange and Affect‐Based Perspectives",
+          "volume": "98",
+          "author": "Colquitt J. A.",
+          "year": "2013",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "e_1_2_13_52_1",
+          "unstructured": "Commisso C. H.McBride Leef B.Ammanath andT.Austin.2024.“Organizations Talk About Equity in AI but Are They Following Through?”Deloitte Insights.https://www.deloitte.com/us/en/insights/topics/business‐strategy‐growth/dei‐equity‐in‐ai.html."
+        },
+        {
+          "issue": "312",
+          "key": "e_1_2_13_53_1",
+          "first-page": "1",
+          "article-title": "The Measure and Mismeasure of Fairness",
+          "volume": "24",
+          "author": "Corbett‐Davies S.",
+          "year": "2023",
+          "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+          "key": "e_1_2_13_54_1",
+          "volume-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+          "author": "Corbett‐Davies S.",
+          "year": "2017"
+        },
+        {
+          "key": "e_1_2_13_55_1",
+          "first-page": "1",
+          "volume-title": "AI Now 2019 Report",
+          "author": "Crawford K.",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_13_56_1",
+          "unstructured": "Creary S. J. M.Baskerville Y. S.Bermiss et al.2025.“Merit‐Based Management Demands DEI.”MIT Sloan Management Review (Online) 1–4."
+        },
+        {
+          "key": "e_1_2_13_57_1",
+          "volume-title": "Bringing Out the Best in People: How to Apply the Astonishing Power of Positive Reinforcement",
+          "author": "Daniels A. C.",
+          "year": "2016"
+        },
+        {
+          "key": "e_1_2_13_58_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "296",
+          "DOI": "10.1201/9781003278290-44",
+          "volume-title": "Ethics of Data and Analytics",
+          "author": "Dastin J.",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_13_59_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "120",
+          "DOI": "10.1145/3287560.3287572",
+          "volume-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+          "author": "De‐Arteaga M.",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_13_60_1",
+          "unstructured": "Deloitte.2023.“2023 Global Human Capital Trends.”Deloitte Insights.https://www.deloitte.com/us/en/insights/topics/talent/human‐capital‐trends/2023.html#framing‐the‐challenge."
+        },
+        {
+          "key": "e_1_2_13_61_1",
+          "unstructured": "Dobbin F. andA.Kalev.2016.“Why Diversity Programs Fail.”Harvard Business Review.https://hbr.org/2016/07/why‐diversity‐programs‐fail."
+        },
+        {
+          "key": "e_1_2_13_62_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "808",
+          "DOI": "10.4135/9781446280669.n32",
+          "volume-title": "The SAGE Handbook of Organizational Instiutionalism",
+          "author": "Dobbin F.",
+          "year": "2017"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_63_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "386",
+          "DOI": "10.1177/0003122411409704",
+          "article-title": "You Can't Always Get What You Need: Organizational Determinants of Diversity Programs",
+          "volume": "76",
+          "author": "Dobbin F.",
+          "year": "2011",
+          "journal-title": "American Sociological Review"
+        },
+        {
+          "key": "e_1_2_13_64_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2347736.2347755"
+        },
+        {
+          "key": "e_1_2_13_65_1",
+          "unstructured": "Doshi‐Velez F. andB.Kim.2017.“Towards a Rigorous Science of Interpretable Machine Learning (arXiv:1702.08608).”arXiv.https://doi.org/10.48550/arXiv.1702.08608."
+        },
+        {
+          "key": "e_1_2_13_66_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/sipr.12059"
+        },
+        {
+          "key": "e_1_2_13_67_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "693",
+          "DOI": "10.4135/9781849200448.n37",
+          "volume-title": "The SAGE Handbook of Organizational Behavior: Volume I—Micro Approaches",
+          "author": "Dutton J. E.",
+          "year": "2008"
+        },
+        {
+          "key": "e_1_2_13_68_1",
+          "first-page": "263",
+          "volume-title": "Positive Organizational Scholarship: Foundations of a New Discipline",
+          "author": "Dutton J. E.",
+          "year": "2003"
+        },
+        {
+          "key": "e_1_2_13_69_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4324/9781315094199",
+          "volume-title": "Exploring Positive Relationships at Work: Building a Theoretical and Research Foundation",
+          "author": "Dutton J. E.",
+          "year": "2017"
+        },
+        {
+          "key": "e_1_2_13_70_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22147"
+        },
+        {
+          "key": "e_1_2_13_71_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/icwsm.v14i1.7288"
+        },
+        {
+          "key": "e_1_2_13_72_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3696457"
+        },
+        {
+          "key": "e_1_2_13_73_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1186/s40537‐019‐0177‐4"
+        },
+        {
+          "key": "e_1_2_13_74_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/frai.2023.1272823"
+        },
+        {
+          "key": "e_1_2_13_75_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/497257"
+        },
+        {
+          "key": "e_1_2_13_76_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s41469‐025‐00197‐1"
+        },
+        {
+          "key": "e_1_2_13_77_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "535",
+          "DOI": "10.1002/9781119815075.ch45",
+          "volume-title": "Machine Learning and the City: Applications in Architecture and Urban Design",
+          "author": "Floridi L.",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_13_78_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4135/9781452225777",
+          "volume-title": "Organizational Justice and Human Resource Management",
+          "author": "Folger R. G.",
+          "year": "1998"
+        },
+        {
+          "key": "e_1_2_13_79_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/1089‐2680.2.3.300"
+        },
+        {
+          "key": "e_1_2_13_80_1",
+          "volume-title": "Proceedings of the 38th International Conference on Information Systems (ICIS 2017)",
+          "author": "Gal U.",
+          "year": "2017"
+        },
+        {
+          "key": "e_1_2_13_81_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2425439122"
+        },
+        {
+          "key": "e_1_2_13_82_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.20402"
+        },
+        {
+          "key": "e_1_2_13_83_1",
+          "volume-title": "Companies Are Dropping the D or E From DEI to Avoid Criticism",
+          "author": "Green J.",
+          "year": "2024"
+        },
+        {
+          "key": "e_1_2_13_84_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/014920639001600208"
+        },
+        {
+          "key": "e_1_2_13_85_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jsis.2020.101614"
+        },
+        {
+          "key": "e_1_2_13_86_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1038/s41746‐025‐01503‐7"
+        },
+        {
+          "key": "e_1_2_13_87_1",
+          "unstructured": "Hatfield S. andL.Kirby.2023.“Taking Bold Action for Equitable Outcomes. The DEI Conversation Shifts From Activities to Outcomes.”Deloitte Insights.https://www.deloitte.com/us/en/insights/topics/talent/human‐capital‐trends/2023/diversity‐equity‐inclusion‐belonging.html."
+        },
+        {
+          "key": "e_1_2_13_88_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.2409854122"
+        },
+        {
+          "key": "e_1_2_13_89_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amp.2021.0206"
+        },
+        {
+          "key": "e_1_2_13_90_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.70060"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_91_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "49",
+          "DOI": "10.1016/j.obhdp.2013.11.002",
+          "article-title": "Support for Employment Equity Policies: A Self‐Enhancement Approach",
+          "volume": "123",
+          "author": "Hideg I.",
+          "year": "2014",
+          "journal-title": "Organizational Behavior and Human Decision Processes"
+        },
+        {
+          "key": "e_1_2_13_92_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0020969"
+        },
+        {
+          "key": "e_1_2_13_93_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2022.940456"
+        },
+        {
+          "key": "e_1_2_13_94_1",
+          "first-page": "1",
+          "volume-title": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+          "author": "Holstein K.",
+          "year": "2019"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_95_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "422",
+          "DOI": "10.2307/2393451",
+          "article-title": "Homophily and Differential Returns: Sex Differences in Network Structure and Access in an Advertising Firm",
+          "volume": "37",
+          "author": "Ibarra H.",
+          "year": "1992",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "issue": "9",
+          "key": "e_1_2_13_96_1",
+          "first-page": "80",
+          "article-title": "Why Men Still Get More Promotions Than Women",
+          "volume": "88",
+          "author": "Ibarra H.",
+          "year": "2010",
+          "journal-title": "Harvard Business Review"
+        },
+        {
+          "key": "e_1_2_13_97_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.aaa8415"
+        },
+        {
+          "key": "e_1_2_13_98_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/000312240607100404"
+        },
+        {
+          "key": "e_1_2_13_99_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10115‐011‐0463‐8"
+        },
+        {
+          "key": "e_1_2_13_100_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/annals.2023.0230"
+        },
+        {
+          "key": "e_1_2_13_101_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12436"
+        },
+        {
+          "key": "e_1_2_13_102_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/annals.2018.0174"
+        },
+        {
+          "key": "e_1_2_13_103_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22268"
+        },
+        {
+          "key": "e_1_2_13_104_1",
+          "unstructured": "Kleinberg J. S.Mullainathan andM.Raghavan.2016.“Inherent Trade‐Offs in the Fair Determination of Risk Scores (arXiv:1609.05807).”arXiv.https://doi.org/10.48550/arXiv.1609.05807."
+        },
+        {
+          "key": "e_1_2_13_105_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s12599‐020‐00673‐w"
+        },
+        {
+          "key": "e_1_2_13_106_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40685‐020‐00134‐w"
+        },
+        {
+          "key": "e_1_2_13_107_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12608"
+        },
+        {
+          "key": "e_1_2_13_108_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/joms.12752"
+        },
+        {
+          "key": "e_1_2_13_109_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0960085X.2021.1927212"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_110_1",
+          "first-page": "633",
+          "article-title": "Accountable Algorithms",
+          "volume": "165",
+          "author": "Kroll J.",
+          "year": "2017",
+          "journal-title": "University of Pennsylvania Law Review"
+        },
+        {
+          "key": "e_1_2_13_111_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2018.3093"
+        },
+        {
+          "key": "e_1_2_13_112_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2023.1307"
+        },
+        {
+          "key": "e_1_2_13_113_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551‐019‐04204‐w"
+        },
+        {
+          "key": "e_1_2_13_114_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0170840620970728"
+        },
+        {
+          "key": "e_1_2_13_115_1",
+          "unstructured": "Leong C. W. K.Roohr V.Ramanarayanan et al.2019.“To Trust or Not to Trust? A Study of Human Bias in Automated Video Interview Assessments (arXiv:1911.13248).”arXiv.https://doi.org/10.48550/arXiv.1911.13248."
+        },
+        {
+          "key": "e_1_2_13_116_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2017.0087"
+        },
+        {
+          "issue": "5",
+          "key": "e_1_2_13_117_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "5841",
+          "DOI": "10.1016/j.eswa.2010.11.038",
+          "article-title": "An Empirical Analysis on Auto Corporation Training Program Planning by Data Mining Techniques",
+          "volume": "38",
+          "author": "Lin W.‐T.",
+          "year": "2011",
+          "journal-title": "Expert Systems With Applications"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_118_1",
+          "first-page": "86",
+          "article-title": "Playing to Your Strengths",
+          "volume": "19",
+          "author": "Linley P. A.",
+          "year": "2006",
+          "journal-title": "Psychologist"
+        },
+        {
+          "key": "e_1_2_13_119_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.obhdp.2018.12.005"
+        },
+        {
+          "key": "e_1_2_13_120_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/jcr/ucz013"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_121_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "736",
+          "DOI": "10.1038/s41562-020-01033-0",
+          "article-title": "A Longer Shortlist Increases the Consideration of Female Candidates in Male‐Dominant Domains",
+          "volume": "5",
+          "author": "Lucas B. J.",
+          "year": "2021",
+          "journal-title": "Nature Human Behaviour"
+        },
+        {
+          "key": "e_1_2_13_122_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/ame.2002.6640181"
+        },
+        {
+          "key": "e_1_2_13_123_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0149206307300814"
+        },
+        {
+          "key": "e_1_2_13_124_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22133"
+        },
+        {
+          "key": "e_1_2_13_125_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.4324/9781003377085-4",
+          "volume-title": "Artificial Intelligence and International HRM",
+          "author": "Malik A.",
+          "year": "2023"
+        },
+        {
+          "key": "e_1_2_13_126_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0891243202016003003"
+        },
+        {
+          "key": "e_1_2_13_127_1",
+          "unstructured": "McLaren S.2018.“How Hilton Google and More Have Dramatically Reduced Their Time to Hire.”LinkedIn Talent Blog.https://www.linkedin.com/business/talent/blog/talent‐strategy/how‐these‐companies‐reduced‐time‐to‐hire."
+        },
+        {
+          "key": "e_1_2_13_128_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev.soc.27.1.415"
+        },
+        {
+          "key": "e_1_2_13_129_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3457607"
+        },
+        {
+          "key": "e_1_2_13_130_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2021.1925326"
+        },
+        {
+          "key": "e_1_2_13_131_1",
+          "first-page": "517",
+          "article-title": "Artificial Intelligence in the Workplace–Challenges, Opportunities and HRM Framework: A Critical Review and Research Agenda for Change",
+          "volume": "40",
+          "author": "Mendy J.",
+          "year": "2024",
+          "journal-title": "Journal of Managerial Psychology"
+        },
+        {
+          "key": "e_1_2_13_132_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2053951716679679"
+        },
+        {
+          "issue": "11",
+          "key": "e_1_2_13_133_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1822",
+          "DOI": "10.1038/s41562-023-01724-4",
+          "article-title": "Human Bias in Algorithm Design",
+          "volume": "7",
+          "author": "Morewedge C. K.",
+          "year": "2023",
+          "journal-title": "Nature Human Behaviour"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_134_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "87",
+          "DOI": "10.1257/jep.31.2.87",
+          "article-title": "Machine Learning: An Applied Econometric Approach",
+          "volume": "31",
+          "author": "Mullainathan S.",
+          "year": "2017",
+          "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+          "key": "e_1_2_13_135_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1085",
+          "DOI": "10.32628/CSEIT2494114",
+          "article-title": "Predictive HR Analytics: Forecasting Workforce Needs With AI and Big Data",
+          "volume": "10",
+          "author": "Nalla N.",
+          "year": "2024",
+          "journal-title": "International Journal of Scientific Research in Computer Science, Engineering and Information Technology"
+        },
+        {
+          "key": "e_1_2_13_136_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.obhdp.2020.03.008"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_137_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.5465/annals.2016.0044",
+          "article-title": "A Multi‐Level Process Model for Understanding Diversity Practice Effectiveness",
+          "volume": "12",
+          "author": "Nishii L. H.",
+          "year": "2018",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "issue": "3",
+          "key": "e_1_2_13_138_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "503",
+          "DOI": "10.1111/j.1744-6570.2008.00121.x",
+          "article-title": "Employee Attributions of the ‘Why’ of HR Practices: Their Effects on Employee Attitudes and Behaviors, and Customer Satisfaction",
+          "volume": "61",
+          "author": "Nishii L. H.",
+          "year": "2008",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "e_1_2_13_139_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2025.101119"
+        },
+        {
+          "key": "e_1_2_13_140_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/01492063251325188"
+        },
+        {
+          "key": "e_1_2_13_141_1",
+          "volume-title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+          "author": "O'neil C.",
+          "year": "2017"
+        },
+        {
+          "key": "e_1_2_13_142_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amp.2023.0230"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_143_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "181",
+          "DOI": "10.1146/annurev.soc.33.040406.131740",
+          "article-title": "The Sociology of Discrimination: Racial Discrimination in Employment, Housing, Credit, and Consumer Markets",
+          "volume": "34",
+          "author": "Pager D.",
+          "year": "2008",
+          "journal-title": "Annual Review of Sociology"
+        },
+        {
+          "key": "e_1_2_13_144_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2022.100924"
+        },
+        {
+          "key": "e_1_2_13_145_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Pan Y. F. J.Froese andS.Xue.2025.“The Role of AI in Performance Appraisal: A Mixed‐Method Study of Employee Experience Through a Relational Lens.”Human Resource Management.https://doi.org/10.1002/hrm.70049.",
+          "DOI": "10.1002/hrm.70049"
+        },
+        {
+          "key": "e_1_2_13_146_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Parasurama P. andP.Ipeirotis.2025.“Algorithmic Hiring and Diversity: Reducing Human‐Algorithm Similarity for Better Outcomes (arXiv:2505.14388).”arXiv.https://doi.org/10.48550/arXiv.2505.14388.",
+          "DOI": "10.2139/ssrn.5260807"
+        },
+        {
+          "key": "e_1_2_13_147_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22303"
+        },
+        {
+          "key": "e_1_2_13_148_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22226"
+        },
+        {
+          "key": "e_1_2_13_149_1",
+          "volume-title": "Character Strengths and Virtues: A Handbook and Classification",
+          "author": "Peterson C.",
+          "year": "2004"
+        },
+        {
+          "key": "e_1_2_13_150_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10551‐022‐05071‐8"
+        },
+        {
+          "key": "e_1_2_13_151_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2017.2901"
+        },
+        {
+          "key": "e_1_2_13_152_1",
+          "unstructured": "Psico‐Smart.2024.“The Role of Candidate Experience in Recruitment Automation: How Technology Can Enhance Engagement.”https://psico‐smart.com/en/blogs/blog‐the‐role‐of‐candidate‐experience‐in‐recruitment‐automation‐how‐technology‐can‐enhance‐engagement‐160706."
+        },
+        {
+          "key": "e_1_2_13_153_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.5848/BK.978-1-62656-563-0_3",
+          "volume-title": "The Positive Organization: Breaking Free From Conventional Cultures, Constraints, and Beliefs",
+          "author": "Quinn R. E.",
+          "year": "2015"
+        },
+        {
+          "key": "e_1_2_13_154_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "469",
+          "DOI": "10.1145/3351095.3372828",
+          "volume-title": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency",
+          "author": "Raghavan M.",
+          "year": "2020"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_155_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "482",
+          "DOI": "10.2307/259331",
+          "article-title": "Diversified Mentoring Relationships in Organizations: A Power Perspective",
+          "volume": "22",
+          "author": "Ragins B. R.",
+          "year": "1997",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "e_1_2_13_156_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amr.2018.0072"
+        },
+        {
+          "key": "e_1_2_13_157_1",
+          "volume-title": "Get Ready, This Year Your Next Job Interview May Be With an A.I. Robot",
+          "author": "Riley T.",
+          "year": "2018"
+        },
+        {
+          "key": "e_1_2_13_158_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0003122412463213"
+        },
+        {
+          "key": "e_1_2_13_159_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev‐orgpsych‐110721‐041934"
+        },
+        {
+          "key": "e_1_2_13_160_1",
+          "volume-title": "IBM Artificial Intelligence Can Predict With 95% Accuracy Which Workers Are About to Quit Their Jobs",
+          "author": "Rosenbaum E.",
+          "year": "2019"
+        },
+        {
+          "issue": "5",
+          "key": "e_1_2_13_161_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.1038/s42256-019-0048-x",
+          "article-title": "Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead",
+          "volume": "1",
+          "author": "Rudin C.",
+          "year": "2019",
+          "journal-title": "Nature Machine Intelligence"
+        },
+        {
+          "key": "e_1_2_13_162_1",
+          "unstructured": "Ruggs E. N. andO.HolmesIV.2024.“Why Dropping the E in DEI Is a Mistake.”Harvard Business Review.https://hbr.org/2024/08/why‐dropping‐the‐e‐in‐dei‐is‐a‐mistake."
+        },
+        {
+          "key": "e_1_2_13_163_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/09585192.2021.1996433"
+        },
+        {
+          "key": "e_1_2_13_164_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "59",
+          "DOI": "10.1145/3287560.3287598",
+          "volume-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+          "author": "Selbst A. D.",
+          "year": "2019"
+        },
+        {
+          "key": "e_1_2_13_165_1",
+          "volume-title": "Learned Optimism. Milsons Point",
+          "author": "Seligman M.",
+          "year": "1991"
+        },
+        {
+          "key": "e_1_2_13_166_1",
+          "volume-title": "Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment",
+          "author": "Seligman M.",
+          "year": "2002"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_167_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1037/0003-066X.55.1.5",
+          "article-title": "Positive Psychology: An Introduction",
+          "volume": "55",
+          "author": "Seligman M.",
+          "year": "2000",
+          "journal-title": "American Psychologist"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_168_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1007/s10869-024-09964-5",
+          "article-title": "Paternalism in the Performance Context: Evaluators Who Feel Social Pressure to Avoid Exhibiting Prejudice Deliver More Inflated Performance Feedback to Women",
+          "volume": "40",
+          "author": "Sheppard L. D.",
+          "year": "2025",
+          "journal-title": "Journal of Business and Psychology"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_2_13_169_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "66",
+          "DOI": "10.1177/0008125619862257",
+          "article-title": "Organizational Decision‐Making Structures in the Age of Artificial Intelligence",
+          "volume": "61",
+          "author": "Shrestha Y. R.",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "e_1_2_13_170_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.70039"
+        },
+        {
+          "key": "e_1_2_13_171_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.22158"
+        },
+        {
+          "key": "e_1_2_13_172_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "206",
+          "DOI": "10.18653/v1/2025.gebnlp-1.20",
+          "volume-title": "Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
+          "author": "Sorokovikova A.",
+          "year": "2025"
+        },
+        {
+          "issue": "2",
+          "key": "e_1_2_13_173_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1016/j.orgdyn.2012.01.001",
+          "article-title": "Applying a POS Lens to Bring Out the Best in Organizations",
+          "volume": "41",
+          "author": "Spreitzer G.",
+          "year": "2012",
+          "journal-title": "Organizational Dynamics"
+        },
+        {
+          "issue": "5",
+          "key": "e_1_2_13_174_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "537",
+          "DOI": "10.1287/orsc.1050.0153",
+          "article-title": "A Socially Embedded Model of Thriving at Work",
+          "volume": "16",
+          "author": "Spreitzer G.",
+          "year": "2005",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "e_1_2_13_175_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Stephens J. P. E.Heaphy andJ. E.Dutton.2011.“High‐Quality Connections.”",
+          "DOI": "10.1093/oxfordhb/9780199734610.013.0029"
+        },
+        {
+          "key": "e_1_2_13_176_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.4337/9781839107535",
+          "volume-title": "Handbook of Research on Artificial Intelligence in Human Resource Management",
+          "author": "Strohmeier S.",
+          "year": "2022"
+        },
+        {
+          "key": "e_1_2_13_177_1",
+          "first-page": "149",
+          "volume-title": "Intelligent Techniques in Enginnering Management",
+          "author": "Strohmeier S.",
+          "year": "2015"
+        },
+        {
+          "key": "e_1_2_13_178_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2019.04.012"
+        },
+        {
+          "key": "e_1_2_13_179_1",
+          "first-page": "1",
+          "volume-title": "Equity and Access in Algorithms, Mechanisms, and Optimization",
+          "author": "Suresh H.",
+          "year": "2021"
+        },
+        {
+          "issue": "4",
+          "key": "e_1_2_13_180_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1177/0008125619867910",
+          "article-title": "Artificial Intelligence in Human Resources Management: Challenges and a Path Forward",
+          "volume": "61",
+          "author": "Tambe P.",
+          "year": "2019",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "e_1_2_13_181_1",
+          "unstructured": "Tham I.2019.“The Age of Artificial Intelligence: Staff Planning to Quit? System in Singapore Can Tell.”https://www.straitstimes.com/tech/staff‐planning‐to‐quit‐system‐can‐tell#main‐content."
+        },
+        {
+          "key": "e_1_2_13_182_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2025.115298"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_183_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "145",
+          "DOI": "10.1002/hrm.22052",
+          "article-title": "Sixty Years of Discrimination and Diversity Research in Human Resource Management: A Review With Suggestions for Future Research Directions",
+          "volume": "60",
+          "author": "Triana M. d. C.",
+          "year": "2021",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "key": "e_1_2_13_184_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5465/amj.2020.1838"
+        },
+        {
+          "key": "e_1_2_13_185_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijinfomgt.2018.08.002"
+        },
+        {
+          "issue": "6",
+          "key": "e_1_2_13_186_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "474",
+          "DOI": "10.1111/j.0956-7976.2005.01559.x",
+          "article-title": "Constructed Criteria: Redefining Merit to Justify Discrimination",
+          "volume": "16",
+          "author": "Uhlmann E. L.",
+          "year": "2005",
+          "journal-title": "Psychological Science"
+        },
+        {
+          "key": "e_1_2_13_187_1",
+          "unstructured": "van denBroek E. A. V.Sergeeva andM.Huysman.2025a.“New Research on AI and Fairness in Hiring.”Harvard Business Review.https://hbr.org/2025/12/new‐research‐on‐ai‐and‐fairness‐in‐hiring."
+        },
+        {
+          "key": "e_1_2_13_188_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/joms.13276"
+        },
+        {
+          "key": "e_1_2_13_189_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3389/fpsyg.2021.769782",
+          "article-title": "Building Positive Organizations: A Typology of Positive Psychology Interventions",
+          "volume": "12",
+          "author": "Woerkom M.",
+          "year": "2021",
+          "journal-title": "Frontiers in Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_190_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "81",
+          "DOI": "10.1002/hrm.21623",
+          "article-title": "My Strengths Count! Effects of a Strengths‐Based Psychological Climate on Positive Affect and Job Performance",
+          "volume": "54",
+          "author": "Van Woerkom M.",
+          "year": "2015",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "key": "e_1_2_13_191_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/1748‐8583.12499"
+        },
+        {
+          "key": "e_1_2_13_192_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/hrm.70053"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_193_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1016/j.paid.2010.08.004",
+          "article-title": "Using Personal and Psychological Strengths Leads to Increases in Well‐Being Over Time: A Longitudinal Study and the Development of the Strengths Use Questionnaire",
+          "volume": "50",
+          "author": "Wood A. M.",
+          "year": "2011",
+          "journal-title": "Personality and Individual Differences"
+        },
+        {
+          "issue": "1",
+          "key": "e_1_2_13_194_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "64",
+          "DOI": "10.1080/1359432X.2019.1681401",
+          "article-title": "Personnel Selection in the Digital Age: A Review of Validity and Applicant Reactions, and Future Research Challenges",
+          "volume": "29",
+          "author": "Woods S. A.",
+          "year": "2020",
+          "journal-title": "European Journal of Work and Organizational Psychology"
+        },
+        {
+          "key": "e_1_2_13_195_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.copsyc.2024.101831",
+          "article-title": "Representations and Consequences of Race in AI Systems",
+          "volume": "58",
+          "author": "Yi A.",
+          "year": "2024",
+          "journal-title": "Current Opinion in Psychology"
+        },
+        {
+          "issue": "7714",
+          "key": "e_1_2_13_196_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1038/d41586-018-05707-8",
+          "article-title": "AI Can Be Sexist and Racist—It's Time to Make It Fair",
+          "volume": "559",
+          "author": "Zou J.",
+          "year": "2018",
+          "journal-title": "Nature"
+        }
+      ],
+      "container-title": [
+        "Human Resource Management"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hrm.70071",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/hrm.70071",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hrm.70071",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            26
+          ]
+        ],
+        "date-time": "2026-03-26T14:16:44Z",
+        "timestamp": 1774534604000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1002/hrm.70071"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            26
+          ]
+        ]
+      },
+      "references-count": 195,
+      "alternative-id": [
+        "10.1002/hrm.70071"
+      ],
+      "URL": "https://doi.org/10.1002/hrm.70071",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0090-4848",
+        "1099-050X"
+      ],
+      "issn-type": [
+        {
+          "value": "0090-4848",
+          "type": "print"
+        },
+        {
+          "value": "1099-050X",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            3,
+            26
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-01-04",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-03-11",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-03-26",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "hrm.70071"
+    }
+  }
+}

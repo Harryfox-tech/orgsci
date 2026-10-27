@@ -1,0 +1,1118 @@
+{
+  "results": [
+    {
+      "title": "Algorithmic Fairness in Performative Policy Learning: Escaping the Impossibility of Group Fairness",
+      "authors": [
+        "Seamus Somerstep",
+        "Ya'acov Ritov",
+        "Yuekai Sun"
+      ],
+      "year": 2024,
+      "publication_date": "2024-06-05",
+      "publication_dates": {
+        "published-online": "2024-06-05",
+        "published-print": "2024-06-03",
+        "published": "2024-06-03"
+      },
+      "publication_type": "proceedings-article",
+      "venue": "The 2024 ACM Conference on Fairness Accountability and Transparency",
+      "doi": "10.1145/3630106.3658929",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+            "checked_at": "2026-10-24T04:01:56.390303Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        0
+      ]
+    },
+    {
+      "title": "Certification of training and training outcomes",
+      "authors": [
+        "Daron Acemoglu",
+        "Jörn-Steffen Pischke"
+      ],
+      "year": 2000,
+      "publication_date": null,
+      "publication_dates": {
+        "published-print": "2000-05",
+        "published": "2000-05"
+      },
+      "publication_type": "journal-article",
+      "venue": "European Economic Review",
+      "doi": "10.1016/s0014-2921(99)00049-5",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+            "checked_at": "2026-10-24T04:01:57.186461Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        1
+      ]
+    },
+    {
+      "title": "Job Search and Hiring with Limited Information about Workseekers’ Skills",
+      "authors": [
+        "Eliana Carranza",
+        "Robert Garlick",
+        "Kate Orkin",
+        "Neil Rankin"
+      ],
+      "year": 2022,
+      "publication_date": "2022-11-01",
+      "publication_dates": {
+        "published-print": "2022-11-01",
+        "published": "2022-11-01"
+      },
+      "publication_type": "journal-article",
+      "venue": "American Economic Review",
+      "doi": "10.1257/aer.20200961",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1257/aer.20200961",
+            "checked_at": "2026-10-24T04:01:57.829007Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        2
+      ]
+    },
+    {
+      "title": "Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approach",
+      "authors": [
+        "Sohini Upadhyay",
+        "Himabindu Lakkaraju",
+        "Krzysztof Z. Gajos"
+      ],
+      "year": 2025,
+      "publication_date": "2025-03-24",
+      "publication_dates": {
+        "published-online": "2025-03-24",
+        "published-print": "2025-03-24",
+        "published": "2025-03-24"
+      },
+      "publication_type": "proceedings-article",
+      "venue": "Proceedings of the 30th International Conference on Intelligent User Interfaces",
+      "doi": "10.1145/3708359.3712095",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+            "checked_at": "2026-10-24T04:01:58.586147Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        3
+      ]
+    },
+    {
+      "title": "Testing Under Strategic Manipulation: Mechanism Design for Human and AI Institutions",
+      "authors": [
+        "Xiaoyun Qiu",
+        "Liren Shan"
+      ],
+      "year": 2026,
+      "publication_date": "2026-03-14",
+      "publication_dates": {
+        "published-online": "2026-03-14",
+        "published": "2026-03-14"
+      },
+      "publication_type": "journal-article",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "doi": "10.1609/aaai.v40i20.38772",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+            "checked_at": "2026-10-24T04:02:00.009198Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        4
+      ]
+    },
+    {
+      "title": "Personnel selection as a signaling game.",
+      "authors": [
+        "Adrian Bangerter",
+        "Nicolas Roulin",
+        "Cornelius J. König"
+      ],
+      "year": 2012,
+      "publication_date": null,
+      "publication_dates": {
+        "published-online": "2012",
+        "published": "2012"
+      },
+      "publication_type": "journal-article",
+      "venue": "Journal of Applied Psychology",
+      "doi": "10.1037/a0026078",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+            "checked_at": "2026-10-24T04:02:00.658547Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        5
+      ]
+    },
+    {
+      "title": "The disparate equilibria of algorithmic decision making when individuals invest rationally",
+      "authors": [
+        "Lydia T. Liu",
+        "Ashia Wilson",
+        "Nika Haghtalab",
+        "Adam Tauman Kalai",
+        "Christian Borgs",
+        "Jennifer Chayes"
+      ],
+      "year": 2020,
+      "publication_date": "2020-01-27",
+      "publication_dates": {
+        "published-online": "2020-01-27",
+        "published-print": "2020-01-27",
+        "published": "2020-01-27"
+      },
+      "publication_type": "proceedings-article",
+      "venue": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency",
+      "doi": "10.1145/3351095.3372861",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+            "checked_at": "2026-10-24T04:02:01.310691Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        6
+      ]
+    },
+    {
+      "title": "Rankings and Reactivity: How Public Measures Recreate Social Worlds",
+      "authors": [
+        "Wendy Nelson Espeland",
+        "Michael Sauder"
+      ],
+      "year": 2007,
+      "publication_date": null,
+      "publication_dates": {
+        "published-print": "2007-07",
+        "published": "2007-07"
+      },
+      "publication_type": "journal-article",
+      "venue": "American Journal of Sociology",
+      "doi": "10.1086/517897",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+            "checked_at": "2026-10-24T04:02:02.576422Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        7
+      ]
+    },
+    {
+      "title": "Why Do Temporary Help Firms Provide Free General Skills Training?",
+      "authors": [
+        "D. H. Autor"
+      ],
+      "year": 2001,
+      "publication_date": "2001-11-01",
+      "publication_dates": {
+        "published-print": "2001-11-01",
+        "published": "2001-11-01"
+      },
+      "publication_type": "journal-article",
+      "venue": "The Quarterly Journal of Economics",
+      "doi": "10.1162/003355301753265615",
+      "abstract": null,
+      "citation_count": null,
+      "download_status": "not_requested",
+      "source_platforms": [
+        "crossref"
+      ],
+      "fetched_at": "2026-10-24",
+      "missing_fields": {
+        "abstract": "Original response retained; no verbatim abstract exported.",
+        "citation_count": "Not queried; citation counts do not establish novelty."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "crossref",
+            "source_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+            "checked_at": "2026-10-24T04:02:03.382533Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        8
+      ]
+    },
+    {
+      "title": "On Classification of Strategic Agents Who Can Both Game and Improve",
+      "authors": [
+        "Saba Ahmadi",
+        "Hedyeh Beyhaghi",
+        "Avrim Blum",
+        "Keziah Naggita"
+      ],
+      "year": 2022,
+      "publication_date": "2022-07-15",
+      "publication_type": "proceedings-article",
+      "venue": "3rd Symposium on Foundations of Responsible Computing (FORC 2022)",
+      "doi": "10.4230/LIPIcs.FORC.2022.3",
+      "url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+      "source_platforms": [
+        "DROPS"
+      ],
+      "fetched_at": "2026-10-24",
+      "citation_count": null,
+      "abstract": null,
+      "download_status": "not_requested",
+      "missing_fields": {
+        "citation_count": "Not queried.",
+        "abstract": "Not exported verbatim."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "DROPS",
+            "source_url": "https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2022.3",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        9
+      ]
+    },
+    {
+      "title": "Strategic Classification is Causal Modeling in Disguise",
+      "authors": [
+        "John Miller",
+        "Smitha Milli",
+        "Moritz Hardt"
+      ],
+      "year": 2020,
+      "publication_date": null,
+      "publication_type": "proceedings-article",
+      "venue": "Proceedings of the 37th International Conference on Machine Learning",
+      "doi": null,
+      "url": "https://proceedings.mlr.press/v119/miller20b.html",
+      "source_platforms": [
+        "PMLR"
+      ],
+      "fetched_at": "2026-10-24",
+      "citation_count": null,
+      "abstract": null,
+      "download_status": "not_requested",
+      "missing_fields": {
+        "publication_date": "Only publication year used.",
+        "doi": "Not independently verified; use PMLR record URL.",
+        "citation_count": "Not queried.",
+        "abstract": "Not exported verbatim."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/miller20b.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/miller20b.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/miller20b.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/miller20b.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/miller20b.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        10
+      ]
+    },
+    {
+      "title": "Performative Prediction",
+      "authors": [
+        "Juan Perdomo",
+        "Tijana Zrnic",
+        "Celestine Mendler-Dünner",
+        "Moritz Hardt"
+      ],
+      "year": 2020,
+      "publication_date": null,
+      "publication_type": "proceedings-article",
+      "venue": "Proceedings of the 37th International Conference on Machine Learning",
+      "doi": null,
+      "url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+      "source_platforms": [
+        "PMLR"
+      ],
+      "fetched_at": "2026-10-24",
+      "citation_count": null,
+      "abstract": null,
+      "download_status": "not_requested",
+      "missing_fields": {
+        "publication_date": "Only publication year used.",
+        "doi": "Not independently verified; use PMLR record URL.",
+        "citation_count": "Not queried.",
+        "abstract": "Not exported verbatim."
+      },
+      "field_sources": {
+        "title": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "PMLR",
+            "source_url": "https://proceedings.mlr.press/v119/perdomo20a.html",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        11
+      ]
+    },
+    {
+      "title": "Collective dynamics of strategic classification",
+      "authors": [
+        "Marta C. Couto",
+        "Flavia Barsotti",
+        "Fernando P. Santos"
+      ],
+      "year": 2025,
+      "publication_date": "2025-08-12",
+      "publication_type": "preprint",
+      "venue": "arXiv",
+      "doi": "10.48550/arXiv.2508.09340",
+      "arxiv_id": "2508.09340",
+      "version": "v1",
+      "url": "https://arxiv.org/abs/2508.09340",
+      "source_platforms": [
+        "arxiv"
+      ],
+      "fetched_at": "2026-10-24",
+      "citation_count": null,
+      "abstract": null,
+      "download_status": "not_requested",
+      "missing_fields": {
+        "citation_count": "Not queried.",
+        "abstract": "Not exported verbatim.",
+        "journal_publication": "No journal venue verified in inspected arXiv record."
+      },
+      "source_notes": [
+        "Year/date follow arXiv submission history. HTML title block displays August 24, 2026, whereas the abstract page lists only v1 submitted August 12, 2025; do not infer a second publication or version from that header."
+      ],
+      "field_sources": {
+        "title": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "authors": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "year": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "venue": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_type": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "publication_date": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ],
+        "doi": [
+          {
+            "platform": "arxiv",
+            "source_url": "https://arxiv.org/abs/2508.09340",
+            "checked_at": "2026-10-24T04:07:52Z",
+            "evidence_type": "source_metadata"
+          }
+        ]
+      },
+      "source_indices": [
+        12
+      ]
+    }
+  ],
+  "groups": [],
+  "possible_duplicates": [],
+  "conflicts": [],
+  "summary": {
+    "input_records": 13,
+    "output_records": 13,
+    "duplicate_groups": 0,
+    "merged_records": 0,
+    "possible_duplicates": 0,
+    "conflicts": 0
+  }
+}

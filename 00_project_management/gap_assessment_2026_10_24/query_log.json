@@ -1,0 +1,118 @@
+[
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1002/hrm.70071",
+    "checked_at": "2026-10-24T02:27:43.386625Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+    "checked_at": "2026-10-24T02:27:40.861287Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+    "checked_at": "2026-10-24T02:27:44.066945Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1037/a0026078",
+    "checked_at": "2026-10-24T02:27:43.324366Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+    "checked_at": "2026-10-24T02:27:40.860319Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/ijsa.70060",
+    "checked_at": "2026-10-24T02:39:06.224430Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+    "checked_at": "2026-10-24T02:39:06.969564Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+    "checked_at": "2026-10-24T02:39:06.225431Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1177/0001839212453028",
+    "checked_at": "2026-10-24T02:27:42.519463Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+    "checked_at": "2026-10-24T02:39:07.105921Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3390/admsci16080372",
+    "checked_at": "2026-10-24T02:27:41.747640Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3390/merits6040032",
+    "checked_at": "2026-10-24T02:27:41.712243Z",
+    "http_status": 200
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+    "checked_at": "2026-10-24T02:27:42.581190Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=AI+feedback+skill+development+organizational+coordination&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:34.150411Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=AI+coaching+evaluative+feedback+confidentiality&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:35.320589Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=personnel+selection+generative+AI+coaching+validity&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:36.407223Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=algorithmic+hiring+skill+investment+performative+policy&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:37.539017Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=career+recommendations+skill+development+congestion&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:38.609464Z",
+    "http_status": 200
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=human+capital+complementary+skill+investment+coordination&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24&per-page=8",
+    "checked_at": "2026-10-24T02:27:39.708804Z",
+    "http_status": 200
+  }
+]

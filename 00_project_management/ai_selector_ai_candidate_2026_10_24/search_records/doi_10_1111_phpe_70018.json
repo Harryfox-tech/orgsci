@@ -1,0 +1,612 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/phpe.70018",
+    "checked_at": "2026-10-24T03:10:46.857977Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+    "content_type": "application/json"
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T06:58:27Z",
+        "timestamp": 1790405907772,
+        "version": "4.1.0"
+      },
+      "reference-count": 58,
+      "publisher": "Wiley",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                25
+              ]
+            ],
+            "date-time": "2026-09-25T00:00:00Z",
+            "timestamp": 1790294400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                25
+              ]
+            ],
+            "date-time": "2026-09-25T00:00:00Z",
+            "timestamp": 1790294400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Philosophical Perspectives"
+      ],
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Algorithmic decision‐making is replacing idiosyncratic human judgment in domains such as hiring, lending, and criminal justice. This shift promises increased consistency, but many scholars worry that it can go too far. They warn of the dangers of algorithmic monoculture, in which all decisions across a domain are made using a single algorithm. We systematically evaluate a range of objections to monoculture, formalizing and rigorously assessing familiar critiques alongside novel ones. These objections concern systemic exclusion, agency and gaming, and information aggregation and exploration. We conclude that monoculture is less problematic than its critics have supposed: commonly cited objections fail, and while other objections have some force, they are not decisive against monoculture in general.</jats:p>",
+      "DOI": "10.1111/phpe.70018",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T06:02:46Z",
+        "timestamp": 1790402566000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "Algorithmic Monoculture and Its Critics"
+      ],
+      "prefix": "10.1111",
+      "author": [
+        {
+          "given": "Brian",
+          "family": "Hedden",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "MIT Cambridge Massachusetts USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Manish",
+          "family": "Raghavan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "MIT Cambridge Massachusetts USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_8_2_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "1054",
+          "DOI": "10.2307/1427934",
+          "article-title": "Sample Mean Based Index Policies by O(log n) Regret for the Multi‐Armed Bandit Problem",
+          "volume": "27",
+          "author": "Agrawal R.",
+          "year": "1995",
+          "journal-title": "Advances in Applied Probability"
+        },
+        {
+          "key": "e_1_2_8_3_1",
+          "first-page": "621",
+          "article-title": "An Auditing Imperative for Automated Hiring Systems",
+          "volume": "34",
+          "author": "Ajunwa I.",
+          "year": "2021",
+          "journal-title": "Harvard Journal of Law & Technology"
+        },
+        {
+          "key": "e_1_2_8_4_1",
+          "unstructured": "Angwin J. J.Larson S.Mattu andL.Kirchner.2016. “Machine Bias.”ProPublica.https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing."
+        },
+        {
+          "key": "e_1_2_8_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.geb.2019.02.015"
+        },
+        {
+          "key": "e_1_2_8_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1023/A:1013689704352"
+        },
+        {
+          "key": "e_1_2_8_7_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/687476"
+        },
+        {
+          "key": "e_1_2_8_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3164539"
+        },
+        {
+          "key": "e_1_2_8_9_1",
+          "unstructured": "Baek J. H.Bastani andS.Chen.2025. “Strategic Hiring under Algorithmic Monoculture.”arXiv preprint arXiv:2502.20063."
+        },
+        {
+          "key": "e_1_2_8_10_1",
+          "first-page": "1",
+          "article-title": "The Algorithm Game",
+          "volume": "94",
+          "author": "Bambauer J.",
+          "year": "2018",
+          "journal-title": "Notre Dame Law Review"
+        },
+        {
+          "key": "e_1_2_8_11_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2118364"
+        },
+        {
+          "key": "e_1_2_8_12_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "10385",
+          "DOI": "10.52202/075280-0456",
+          "article-title": "Bandit Social Learning: Exploration Under Myopic Behavior",
+          "volume": "36",
+          "author": "Banihashem K.",
+          "year": "2023",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "e_1_2_8_13_1",
+          "first-page": "671",
+          "article-title": "Big Data's Disparate Impact",
+          "volume": "104",
+          "author": "Barocas S.",
+          "year": "2016",
+          "journal-title": "California Law Review"
+        },
+        {
+          "key": "e_1_2_8_14_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2020.3605"
+        },
+        {
+          "key": "e_1_2_8_15_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/261849"
+        },
+        {
+          "key": "e_1_2_8_16_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1109/MSP.2009.24",
+          "article-title": "The Monoculture Risk Put Into Context",
+          "volume": "7",
+          "author": "Birman K. P.",
+          "year": "2009",
+          "journal-title": "IEEE Security & Privacy"
+        },
+        {
+          "key": "e_1_2_8_17_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/978-1-4612-1880-7_5"
+        },
+        {
+          "key": "e_1_2_8_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.52202/068431-0265"
+        },
+        {
+          "key": "e_1_2_8_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/aristotelian/91.1.87"
+        },
+        {
+          "key": "e_1_2_8_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1468-0262.2006.00665.x"
+        },
+        {
+          "key": "e_1_2_8_21_1",
+          "volume-title": "Filterworld: How Algorithms Flattened Culture",
+          "author": "Chayka K.",
+          "year": "2025"
+        },
+        {
+          "key": "e_1_2_8_22_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/can.2022.3"
+        },
+        {
+          "key": "e_1_2_8_23_1",
+          "unstructured": "Creel K. A.manuscript. “Algorithmic Monoculture and Systemic Exclusion.”https://philpapers.org/rec/CREAMA."
+        },
+        {
+          "key": "e_1_2_8_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1017/S0305004100009580"
+        },
+        {
+          "key": "e_1_2_8_25_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/00029890.1962.11989827"
+        },
+        {
+          "key": "e_1_2_8_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/oso/9780198823452.001.0001"
+        },
+        {
+          "key": "e_1_2_8_27_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Ha‐Thuc V. G.Venkataraman M.Rodriguez S.Sinha S.Sundaram andL.Guo.2015. “Personalized Expertise Search at LinkedIn.” In2015 IEEE International Conference on Big Data (Big Data) 1238–1247.IEEE.",
+          "DOI": "10.1109/BigData.2015.7363878"
+        },
+        {
+          "key": "e_1_2_8_28_1",
+          "first-page": "1174",
+          "article-title": "Beauty and the Labor Market",
+          "volume": "84",
+          "author": "Hamermesh D. S.",
+          "year": "1994",
+          "journal-title": "American Economic Review"
+        },
+        {
+          "key": "e_1_2_8_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.0403723101"
+        },
+        {
+          "key": "e_1_2_8_30_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0034125"
+        },
+        {
+          "key": "e_1_2_8_31_1",
+          "unstructured": "Jain S. K.Creel andA.Wilson.2024a. “Position: Scarce Resource Allocations that Rely on Machine Learning Should be Randomized.” InProceedings of the 41st International Conference on Machine Learning vol. 235 ofProceedings of Machine Learning Research21148–21169."
+        },
+        {
+          "key": "e_1_2_8_32_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jain S. V.Suriyakumar K.Creel andA.Wilson.2024b. “Algorithmic Pluralism: A Structural Approach To Equal Opportunity.” InProceedings of the 2024 ACM Conference on Fairness Accountability and Transparency197–206.",
+          "DOI": "10.1145/3630106.3658899"
+        },
+        {
+          "key": "e_1_2_8_33_1",
+          "first-page": "2227",
+          "article-title": "A Smoothed Analysis of the Greedy Algorithm for the Linear Contextual Bandit Problem",
+          "volume": "31",
+          "author": "Kannan S.",
+          "year": "2018",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "e_1_2_8_34_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2026796"
+        },
+        {
+          "key": "e_1_2_8_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1912790117"
+        },
+        {
+          "key": "e_1_2_8_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3417742"
+        },
+        {
+          "key": "e_1_2_8_37_1",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1073/pnas.2018340118",
+          "article-title": "Algorithmic Monoculture and Social Welfare",
+          "volume": "118",
+          "author": "Kleinberg J.",
+          "year": "2021",
+          "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+          "key": "e_1_2_8_38_1",
+          "unstructured": "Kleinberg R. E.Sinanaj andÉ.Tardos.2025. “Price of Anarchy of Algorithmic Monoculture.” In21st Conference on Web and Internet Economics."
+        },
+        {
+          "key": "e_1_2_8_39_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1007/BF01454828",
+          "article-title": "Über das Gesetz des Iterierten Logarithmus",
+          "volume": "101",
+          "author": "Kolmogorov A. N.",
+          "year": "1929",
+          "journal-title": "Mathematische Annalen"
+        },
+        {
+          "key": "e_1_2_8_40_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Koutsoupias E. andC.Papadimitriou.1999. “Worst‐Case Equilibria.” InAnnual Symposium on Theoretical Aspects of Computer Science edited byC.Meinel andS.Tison.404–413.Springer.",
+          "DOI": "10.1007/3-540-49116-3_38"
+        },
+        {
+          "key": "e_1_2_8_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/0196-8858(85)90002-8"
+        },
+        {
+          "key": "e_1_2_8_42_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/restud/rdaf040"
+        },
+        {
+          "key": "e_1_2_8_43_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/2296233"
+        },
+        {
+          "key": "e_1_2_8_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.chb.2018.07.043"
+        },
+        {
+          "key": "e_1_2_8_45_1",
+          "volume-title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+          "author": "O'Neil C.",
+          "year": "2016"
+        },
+        {
+          "key": "e_1_2_8_46_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "81959",
+          "DOI": "10.52202/079017-2605",
+          "article-title": "Monoculture in Matching Markets",
+          "volume": "37",
+          "author": "Peng K.",
+          "year": "2024",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "e_1_2_8_47_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Peng K. andN.Garg.2024b. “Wisdom and Foolishness of Noisy Matching Markets.” InProceedings of the 25th ACM Conference on Economics and Computation675.",
+          "DOI": "10.1145/3670865.3673577"
+        },
+        {
+          "key": "e_1_2_8_48_1",
+          "unstructured": "Raghavan M.2024. “Competition and Diversity in Generative AI.”arXiv preprint arXiv:2412.08610."
+        },
+        {
+          "key": "e_1_2_8_49_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1137/19M1247115"
+        },
+        {
+          "key": "e_1_2_8_50_1",
+          "unstructured": "Redstone M.2025. “LLM Reality Check: The Hidden Instability of AI résumé Screening.”Tech. rep. Eunomia HR."
+        },
+        {
+          "key": "e_1_2_8_51_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.1121066"
+        },
+        {
+          "key": "e_1_2_8_52_1",
+          "volume-title": "What We Owe to Each Other",
+          "author": "Scanlon T.",
+          "year": "1998"
+        },
+        {
+          "key": "e_1_2_8_53_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2307/1911433"
+        },
+        {
+          "key": "e_1_2_8_54_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1561/2200000068"
+        },
+        {
+          "key": "e_1_2_8_55_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/asi.24552"
+        },
+        {
+          "key": "e_1_2_8_56_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Taveras Pena E. O.Tonguc M.Zhu andN.Miller.2025. “Foreign Accents and Employer Beliefs: Experimental Evidence on Hiring Discrimination.”IZA Discussion Paper No. 18239.",
+          "DOI": "10.2139/ssrn.5705390"
+        },
+        {
+          "key": "e_1_2_8_57_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "51178",
+          "DOI": "10.52202/075280-2228",
+          "article-title": "Ecosystem‐Level Analysis of Deployed Machine Learning Reveals Homogeneous Outcomes",
+          "volume": "36",
+          "author": "Toups C.",
+          "year": "2023",
+          "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+          "key": "e_1_2_8_58_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.185.4157.1124"
+        },
+        {
+          "key": "e_1_2_8_59_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10670-009-9194-6"
+        }
+      ],
+      "container-title": [
+        "Philosophical Perspectives"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/phpe.70018",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/phpe.70018",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/phpe.70018",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            26
+          ]
+        ],
+        "date-time": "2026-09-26T06:02:49Z",
+        "timestamp": 1790402569000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1111/phpe.70018"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ]
+      },
+      "references-count": 58,
+      "alternative-id": [
+        "10.1111/phpe.70018"
+      ],
+      "URL": "https://doi.org/10.1111/phpe.70018",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "1520-8583",
+        "1520-8583"
+      ],
+      "issn-type": [
+        {
+          "value": "1520-8583",
+          "type": "print"
+        },
+        {
+          "value": "1520-8583",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            25
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2026-08-29",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-08-29",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2026-09-25",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "phpe.70018"
+    }
+  }
+}

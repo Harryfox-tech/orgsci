@@ -1,0 +1,115 @@
+[
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=strategic+classification+human+capital+investment+evidence&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:48.364866Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=strategic+classification+human+capital+investment+evidence&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=certification+training+skills+signaling&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:49.693745Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=certification+training+skills+signaling&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=algorithmic+recourse+explanation+opportunity+constraints&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:50.808845Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=algorithmic+recourse+explanation+opportunity+constraints&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=recruitment+feedback+endogenous+talent+supply&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:51.891216Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=recruitment+feedback+endogenous+talent+supply&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=evaluation+feedback+skill+improvement+evidence+production&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:53.272147Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=evaluation+feedback+skill+improvement+evidence+production&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=testing+training+screening+worker+ability&per-page=8&filter=to_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T04:01:54.773987Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=testing+training+screening+worker+ability&per-page=8&filter=to_publication_date%3A2026-10-24"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3630106.3658929",
+    "checked_at": "2026-10-24T04:01:56.390303Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1145/3630106.3658929"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5",
+    "checked_at": "2026-10-24T04:01:57.186461Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016/S0014-2921%2899%2900049-5"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1257/aer.20200961",
+    "checked_at": "2026-10-24T04:01:57.829007Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1257/aer.20200961"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+    "checked_at": "2026-10-24T04:01:58.586147Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1145/3708359.3712095"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.4230/LIPIcs.FORC.2022.3",
+    "checked_at": "2026-10-24T04:01:59.356264Z",
+    "http_status": 404,
+    "error": "HTTP Error 404: Not Found",
+    "retry_after": null
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772",
+    "checked_at": "2026-10-24T04:02:00.009198Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1609/aaai.v40i20.38772"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1037/a0026078",
+    "checked_at": "2026-10-24T04:02:00.658547Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1037/a0026078"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+    "checked_at": "2026-10-24T04:02:01.310691Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3",
+    "checked_at": "2026-10-24T04:02:02.576422Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works?query.title=Rankings+and+Reactivity%3A+How+Public+Measures+Recreate+Social+Worlds&rows=3"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3",
+    "checked_at": "2026-10-24T04:02:03.382533Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works?query.title=Why+Do+Temporary+Help+Firms+Provide+Free+General+Skills+Training%3F&rows=3"
+  }
+]

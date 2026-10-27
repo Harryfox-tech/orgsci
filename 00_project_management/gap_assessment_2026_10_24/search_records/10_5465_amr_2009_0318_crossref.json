@@ -1,0 +1,1434 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+    "checked_at": "2026-10-24T02:27:42.581190Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            23
+          ]
+        ],
+        "date-time": "2026-10-23T00:05:08Z",
+        "timestamp": 1792713908191,
+        "version": "4.5.0"
+      },
+      "reference-count": 137,
+      "publisher": "Academy of Management",
+      "issue": "1",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "AMR"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "DOI": "10.5465/amr.2009.0318",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2016,
+            4,
+            13
+          ]
+        ],
+        "date-time": "2016-04-13T14:13:49Z",
+        "timestamp": 1460556829000
+      },
+      "page": "127-150",
+      "source": "Crossref",
+      "is-referenced-by-count": 829,
+      "title": [
+        "Emergence of the Human Capital Resource: A Multilevel Model"
+      ],
+      "prefix": "10.5465",
+      "volume": "36",
+      "author": [
+        {
+          "given": "Robert E.",
+          "family": "Ployhart",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of South Carolina"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thomas P.",
+          "family": "Moliterno",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of South Carolina"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "3433",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "crossref",
+          "first-page": "489",
+          "DOI": "10.1002/mde.1413",
+          "volume": "29",
+          "author": "Abell P.",
+          "year": "2008",
+          "journal-title": "Managerial and Decision Economics"
+        },
+        {
+          "key": "B2",
+          "doi-asserted-by": "crossref",
+          "first-page": "227",
+          "DOI": "10.1016/S0160-2896(96)90016-1",
+          "volume": "22",
+          "author": "Ackerman P. L.",
+          "year": "1996",
+          "journal-title": "Intelligence"
+        },
+        {
+          "key": "B3",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1037/0033-2909.121.2.219",
+          "volume": "121",
+          "author": "Ackerman P. L.",
+          "year": "1997",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.5465/amr.2002.5922314",
+          "volume": "27",
+          "author": "Adler P. S.",
+          "year": "2002",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "crossref",
+          "first-page": "33",
+          "DOI": "10.1002/smj.4250140105",
+          "volume": "14",
+          "author": "Amit R.",
+          "year": "1993",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B6",
+          "first-page": "251",
+          "volume": "19",
+          "author": "Ancona D.",
+          "year": "1996",
+          "journal-title": "Research in Organizational Behavior"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "crossref",
+          "first-page": "571",
+          "DOI": "10.1287/mnsc.49.4.571.14424",
+          "volume": "49",
+          "author": "Argote L.",
+          "year": "2003",
+          "journal-title": "Management Science"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "crossref",
+          "first-page": "1231",
+          "DOI": "10.1287/mnsc.32.10.1231",
+          "volume": "32",
+          "author": "Barney J. B.",
+          "year": "1986",
+          "journal-title": "Management Science"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1177/014920639101700108",
+          "volume": "17",
+          "author": "Barney J. B.",
+          "year": "1991",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B10",
+          "first-page": "41",
+          "volume": "26",
+          "author": "Barney J. B.",
+          "year": "2001",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B11",
+          "doi-asserted-by": "crossref",
+          "first-page": "31",
+          "DOI": "10.1002/(SICI)1099-050X(199821)37:1<31::AID-HRM4>3.0.CO;2-W",
+          "volume": "37",
+          "author": "Barney J. B.",
+          "year": "1998",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1111/j.1744-6570.1991.tb00688.x",
+          "volume": "44",
+          "author": "Barrick M. R.",
+          "year": "1991",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B13",
+          "first-page": "81",
+          "volume-title": "Composition: Research on managing groups and teams",
+          "volume": "1",
+          "author": "Barsade S. G.",
+          "year": "1998"
+        },
+        {
+          "key": "B14",
+          "doi-asserted-by": "crossref",
+          "first-page": "989",
+          "DOI": "10.1037/0021-9010.88.6.989",
+          "volume": "88",
+          "author": "Beal D. J.",
+          "year": "2003",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B15",
+          "doi-asserted-by": "crossref",
+          "first-page": "898",
+          "DOI": "10.1177/0149206306293668",
+          "volume": "32",
+          "author": "Becker B. E.",
+          "year": "2006",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B16",
+          "volume-title": "The differentiated workforce: Transforming talent into strategic impact",
+          "author": "Becker B. E.",
+          "year": "2009"
+        },
+        {
+          "key": "B17",
+          "volume-title": "Human capital",
+          "author": "Becker G. S.",
+          "year": "1964",
+          "edition": "3"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "crossref",
+          "first-page": "439",
+          "DOI": "10.1037/0022-3514.84.2.439",
+          "volume": "84",
+          "author": "Beier M. E.",
+          "year": "2003",
+          "journal-title": "Journal of Personality and Social Psychology"
+        },
+        {
+          "key": "B19",
+          "doi-asserted-by": "crossref",
+          "first-page": "14",
+          "DOI": "10.1177/1059601102027001003",
+          "volume": "27",
+          "author": "Bell B. S.",
+          "year": "2002",
+          "journal-title": "Group and Organization Management"
+        },
+        {
+          "key": "B20",
+          "first-page": "349",
+          "volume-title": "Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions",
+          "author": "Bliese P. D.",
+          "year": "2000"
+        },
+        {
+          "key": "B21",
+          "doi-asserted-by": "crossref",
+          "first-page": "129",
+          "DOI": "10.1002/hrm.20054",
+          "volume": "44",
+          "author": "Boudreau J. W.",
+          "year": "2005",
+          "journal-title": "Human Resource Management"
+        },
+        {
+          "key": "B22",
+          "first-page": "330",
+          "volume-title": "Team effectiveness and decision making in organizations",
+          "author": "Cannon-Bowers J. A.",
+          "year": "1995"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1017/CBO9780511571312",
+          "volume-title": "Human cognitive abilities",
+          "author": "Carroll J. B.",
+          "year": "1993"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "crossref",
+          "first-page": "234",
+          "DOI": "10.1037/0021-9010.83.2.234",
+          "volume": "83",
+          "author": "Chan D.",
+          "year": "1998",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "crossref",
+          "first-page": "374",
+          "DOI": "10.5465/amr.1997.9707154063",
+          "volume": "22",
+          "author": "Coff R. W.",
+          "year": "1997",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "crossref",
+          "first-page": "119",
+          "DOI": "10.1287/orsc.10.2.119",
+          "volume": "10",
+          "author": "Coff R. W.",
+          "year": "1999",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1177/014920630202800107",
+          "volume": "28",
+          "author": "Coff R. W.",
+          "year": "2002",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B28",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.2307/2393553",
+          "volume": "35",
+          "author": "Cohen W. M.",
+          "year": "1990",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "key": "B29",
+          "volume-title": "Essentials of psychological testing",
+          "author": "Cronbach L. J.",
+          "year": "1949"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "crossref",
+          "first-page": "165",
+          "DOI": "10.1016/S0742-7301(01)20003-6",
+          "volume": "20",
+          "author": "Delery J. E.",
+          "year": "2001",
+          "journal-title": "Research in Personnel and Human Resources Management"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "crossref",
+          "first-page": "977",
+          "DOI": "10.1002/smj.341",
+          "volume": "24",
+          "author": "Denrell J.",
+          "year": "2003",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B32",
+          "doi-asserted-by": "crossref",
+          "first-page": "1504",
+          "DOI": "10.1287/mnsc.35.12.1504",
+          "volume": "35",
+          "author": "Dierickx I.",
+          "year": "1989",
+          "journal-title": "Management Science"
+        },
+        {
+          "key": "B33",
+          "volume-title": "You never give me your money: The Beatles after the breakup",
+          "author": "Doggett P.",
+          "year": "2009"
+        },
+        {
+          "key": "B34",
+          "doi-asserted-by": "crossref",
+          "first-page": "1105",
+          "DOI": "10.1002/1097-0266(200010/11)21:10/11<1105::AID-SMJ133>3.0.CO;2-E",
+          "volume": "21",
+          "author": "Eisenhardt K. M.",
+          "year": "2000",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.5465/amr.2007.23464020",
+          "volume": "32",
+          "author": "Felin T.",
+          "year": "2007",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B36",
+          "first-page": "31",
+          "volume-title": "Teams: Their training and performance",
+          "author": "Fleishman E. A.",
+          "year": "1992"
+        },
+        {
+          "key": "B37",
+          "doi-asserted-by": "crossref",
+          "first-page": "965",
+          "DOI": "10.1111/j.1744-6570.2003.tb00246.x",
+          "volume": "56",
+          "author": "Fulmer I. S.",
+          "year": "2003",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "crossref",
+          "first-page": "107",
+          "DOI": "10.1037/0021-9010.75.2.107",
+          "volume": "75",
+          "author": "George J. M.",
+          "year": "1990",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "crossref",
+          "first-page": "174",
+          "DOI": "10.5771/0935-9915-2005-2-174",
+          "volume": "16",
+          "author": "Gerhart B.",
+          "year": "2005",
+          "journal-title": "Management Revue"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "crossref",
+          "first-page": "79",
+          "DOI": "10.1016/S0160-2896(97)90014-3",
+          "volume": "24",
+          "author": "Gottfredson L. S.",
+          "year": "1997",
+          "journal-title": "Intelligence"
+        },
+        {
+          "issue": "3",
+          "key": "B41",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.2307/41166664",
+          "volume": "33",
+          "author": "Grant R. M.",
+          "year": "1991",
+          "journal-title": "California Management Review"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1002/smj.4250171110",
+          "volume": "17",
+          "author": "Grant R. M.",
+          "year": "1996",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B43",
+          "first-page": "1455",
+          "volume-title": "Handbook of industrial and organizational psychology",
+          "author": "Hackman J. R.",
+          "year": "1976"
+        },
+        {
+          "key": "B44",
+          "first-page": "315",
+          "volume-title": "Handbook of organizational behavior",
+          "author": "Hackman J. R.",
+          "year": "1987"
+        },
+        {
+          "key": "B45",
+          "first-page": "199",
+          "volume-title": "Handbook of industrial and organizational psychology",
+          "volume": "3",
+          "author": "Hackman J. R.",
+          "year": "1992"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "crossref",
+          "first-page": "902",
+          "DOI": "10.3758/BF03196444",
+          "volume": "31",
+          "author": "Hambrick D. C.",
+          "year": "2003",
+          "journal-title": "Memory & Cognition"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.5465/amr.1984.4277628",
+          "volume": "9",
+          "author": "Hambrick D. C.",
+          "year": "1984",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.21236/ADA288518",
+          "volume-title": "Organizational linkages: Understanding the productivity paradox",
+          "author": "Harris D. H.",
+          "year": "1994"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1155",
+          "DOI": "10.1002/smj.421",
+          "volume": "25",
+          "author": "Hatch N. E.",
+          "year": "2004",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B50",
+          "volume-title": "Dynamic capabilities: Understanding strategic change in organizations",
+          "author": "Helfat C. E.",
+          "year": "2007"
+        },
+        {
+          "key": "B51",
+          "doi-asserted-by": "crossref",
+          "first-page": "997",
+          "DOI": "10.1002/smj.332",
+          "volume": "24",
+          "author": "Helfat C. E.",
+          "year": "2003",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B52",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1037/0033-2909.121.1.43",
+          "volume": "121",
+          "author": "Hinsz V. B.",
+          "year": "1997",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "B53",
+          "doi-asserted-by": "crossref",
+          "first-page": "1385",
+          "DOI": "10.5465/amj.2007.28166219",
+          "volume": "50",
+          "author": "Hitt M. A.",
+          "year": "2008",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B54",
+          "doi-asserted-by": "crossref",
+          "first-page": "13",
+          "DOI": "10.2307/3069334",
+          "volume": "44",
+          "author": "Hitt M. A.",
+          "year": "2001",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B55",
+          "volume-title": "Making vocational choices: A theory of vocational personalities & work preferences",
+          "author": "Holland J. R.",
+          "year": "1997",
+          "edition": "3"
+        },
+        {
+          "key": "B56",
+          "first-page": "257",
+          "volume-title": "Performance measurement and theory",
+          "author": "Hunter J. E.",
+          "year": "1983"
+        },
+        {
+          "key": "B57",
+          "doi-asserted-by": "crossref",
+          "first-page": "517",
+          "DOI": "10.1146/annurev.psych.56.091103.070250",
+          "volume": "56",
+          "author": "Ilgen D. R.",
+          "year": "2005",
+          "journal-title": "Annual Review of Psychology"
+        },
+        {
+          "key": "B58",
+          "doi-asserted-by": "crossref",
+          "first-page": "237",
+          "DOI": "10.1146/annurev.ps.46.020195.001321",
+          "volume": "46",
+          "author": "Jackson S. E.",
+          "year": "1995",
+          "journal-title": "Annual Review of Psychology"
+        },
+        {
+          "key": "B59",
+          "volume-title": "The g factor",
+          "author": "Jensen A. R.",
+          "year": "1998"
+        },
+        {
+          "key": "B60",
+          "doi-asserted-by": "crossref",
+          "first-page": "133",
+          "DOI": "10.5465/amj.2006.20785670",
+          "volume": "49",
+          "author": "Kacmar K. M.",
+          "year": "2006",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B61",
+          "first-page": "75",
+          "volume-title": "Handbook of industrial and organizational psychology",
+          "volume": "1",
+          "author": "Kanfer R.",
+          "year": "1990"
+        },
+        {
+          "key": "B62",
+          "doi-asserted-by": "crossref",
+          "first-page": "195",
+          "DOI": "10.5465/amr.1994.9410210745",
+          "volume": "19",
+          "author": "Klein K. J.",
+          "year": "1994",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B63",
+          "doi-asserted-by": "crossref",
+          "first-page": "590",
+          "DOI": "10.2189/asqu.51.4.590",
+          "volume": "51",
+          "author": "Klein K. J.",
+          "year": "2006",
+          "journal-title": "Administrative Science Quarterly"
+        },
+        {
+          "key": "B64",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1177/014920639402000206",
+          "volume": "20",
+          "author": "Klimoski R. J.",
+          "year": "1994",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B65",
+          "doi-asserted-by": "crossref",
+          "first-page": "967",
+          "DOI": "10.1002/smj.485",
+          "volume": "26",
+          "author": "Kor Y. Y.",
+          "year": "2005",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B66",
+          "doi-asserted-by": "crossref",
+          "first-page": "60",
+          "DOI": "10.2307/256728",
+          "volume": "38",
+          "author": "Korsgaard M. A.",
+          "year": "1995",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B67",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1002/0471264385.wei1214",
+          "volume-title": "Handbook of psychology",
+          "volume": "12",
+          "author": "Kozlowski S. W. J.",
+          "year": "2003"
+        },
+        {
+          "key": "B68",
+          "first-page": "240",
+          "volume-title": "The changing nature of work performance: Implications for staffing, personnel actions, and development",
+          "author": "Kozlowski S. W. J.",
+          "year": "1999"
+        },
+        {
+          "key": "B69",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1111/j.1529-1006.2006.00030.x",
+          "volume": "7",
+          "author": "Kozlowski S. W. J.",
+          "year": "2006",
+          "journal-title": "Psychological Sciences in the Public Interest"
+        },
+        {
+          "key": "B70",
+          "first-page": "3",
+          "volume-title": "Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions",
+          "author": "Kozlowski S. W. J.",
+          "year": "2000"
+        },
+        {
+          "key": "B71",
+          "doi-asserted-by": "crossref",
+          "first-page": "217",
+          "DOI": "10.1016/S0742-7301(06)25006-0",
+          "volume": "25",
+          "author": "Lepak D. P.",
+          "year": "2006",
+          "journal-title": "Research in Personnel and Human Resource Management"
+        },
+        {
+          "key": "B72",
+          "doi-asserted-by": "crossref",
+          "first-page": "180",
+          "DOI": "10.5465/amr.2007.23464011",
+          "volume": "32",
+          "author": "Lepak D. P.",
+          "year": "2007",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B73",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.5465/amr.1999.1580439",
+          "volume": "24",
+          "author": "Lepak D. P.",
+          "year": "1999",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B74",
+          "doi-asserted-by": "crossref",
+          "first-page": "563",
+          "DOI": "10.1111/j.1744-6570.2000.tb00214.x",
+          "volume": "53",
+          "author": "LePine J. A.",
+          "year": "2000",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B75",
+          "doi-asserted-by": "crossref",
+          "first-page": "41",
+          "DOI": "10.2307/20159559",
+          "volume": "47",
+          "author": "Liao H.",
+          "year": "2004",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B76",
+          "doi-asserted-by": "crossref",
+          "first-page": "93",
+          "DOI": "10.1002/smj.4250171109",
+          "volume": "17",
+          "author": "Liebeskind J. P.",
+          "year": "1996",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B77",
+          "doi-asserted-by": "crossref",
+          "first-page": "903",
+          "DOI": "10.1002/smj.346",
+          "volume": "24",
+          "author": "Lippman S. A.",
+          "year": "2003",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B78",
+          "doi-asserted-by": "crossref",
+          "first-page": "405",
+          "DOI": "10.1146/annurev.psych.51.1.405",
+          "volume": "51",
+          "author": "Lubinski D.",
+          "year": "2000",
+          "journal-title": "Annual Review of Psychology"
+        },
+        {
+          "key": "B79",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.1016/0148-2963(94)00060-R",
+          "volume": "33",
+          "author": "Mahoney J. T.",
+          "year": "1995",
+          "journal-title": "Journal of Business Research"
+        },
+        {
+          "key": "B80",
+          "doi-asserted-by": "crossref",
+          "first-page": "651",
+          "DOI": "10.1177/014920630102700603",
+          "volume": "27",
+          "author": "Mahoney J. T.",
+          "year": "2001",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B81",
+          "doi-asserted-by": "crossref",
+          "first-page": "363",
+          "DOI": "10.1002/smj.4250130505",
+          "volume": "13",
+          "author": "Mahoney J. T.",
+          "year": "1992",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B82",
+          "doi-asserted-by": "crossref",
+          "first-page": "387",
+          "DOI": "10.1002/smj.158",
+          "volume": "22",
+          "author": "Makadok R.",
+          "year": "2001",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B83",
+          "first-page": "30",
+          "volume-title": "Dynamic capabilities: Understanding strategic change in organizations",
+          "author": "Maritan C. A.",
+          "year": "2007"
+        },
+        {
+          "key": "B84",
+          "doi-asserted-by": "crossref",
+          "first-page": "356",
+          "DOI": "10.5465/amr.2001.4845785",
+          "volume": "26",
+          "author": "Marks M. A.",
+          "year": "2001",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B85",
+          "first-page": "51",
+          "volume-title": "The five-factor model of personality: Theoretical perspectives",
+          "author": "McCrae R. R.",
+          "year": "1996"
+        },
+        {
+          "key": "B86",
+          "volume-title": "Groups: Interaction and performance",
+          "author": "McGrath J. E.",
+          "year": "1984"
+        },
+        {
+          "key": "B87",
+          "doi-asserted-by": "crossref",
+          "first-page": "535",
+          "DOI": "10.1037/a0013773",
+          "volume": "94",
+          "author": "Mesmer-Magnus J. R.",
+          "year": "2009",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B88",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1207/s15327043hup1002_1",
+          "volume": "10",
+          "author": "Motowidlo S. J.",
+          "year": "1997",
+          "journal-title": "Human Performance"
+        },
+        {
+          "key": "B89",
+          "doi-asserted-by": "crossref",
+          "first-page": "242",
+          "DOI": "10.5465/amr.1998.533225",
+          "volume": "23",
+          "author": "Nahapiet J.",
+          "year": "1998",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B90",
+          "volume-title": "An evolutionary theory of economic change",
+          "author": "Nelson R. R.",
+          "year": "1982"
+        },
+        {
+          "key": "B91",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1002/smj.573",
+          "volume": "28",
+          "author": "Newbert S.",
+          "year": "2007",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B92",
+          "doi-asserted-by": "crossref",
+          "first-page": "503",
+          "DOI": "10.1111/j.1744-6570.2008.00121.x",
+          "volume": "61",
+          "author": "Nishii L. H.",
+          "year": "2008",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B93",
+          "first-page": "243",
+          "volume-title": "Managing knowledge for sustained competitive advantage",
+          "author": "Oldham G. R.",
+          "year": "2003"
+        },
+        {
+          "key": "B94",
+          "first-page": "211",
+          "volume-title": "Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions",
+          "author": "Ostroff C.",
+          "year": "2000"
+        },
+        {
+          "key": "B95",
+          "doi-asserted-by": "crossref",
+          "first-page": "425",
+          "DOI": "10.2307/257082",
+          "volume": "41",
+          "author": "Pennings J. M.",
+          "year": "1998",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B96",
+          "volume-title": "The theory of the growth of the firm",
+          "author": "Penrose E.",
+          "year": "1959",
+          "edition": "3"
+        },
+        {
+          "key": "B97",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1002/smj.4250140303",
+          "volume": "14",
+          "author": "Peteraf M. A.",
+          "year": "1993",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B98",
+          "doi-asserted-by": "crossref",
+          "first-page": "121",
+          "DOI": "10.1016/S0742-7301(04)23003-1",
+          "volume": "23",
+          "author": "Ployhart R. E.",
+          "year": "2004",
+          "journal-title": "Research in Personnel and Human Resource Management"
+        },
+        {
+          "key": "B99",
+          "doi-asserted-by": "crossref",
+          "first-page": "661",
+          "DOI": "10.5465/amj.2006.22083023",
+          "volume": "49",
+          "author": "Ployhart R. E.",
+          "year": "2006",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B100",
+          "doi-asserted-by": "crossref",
+          "first-page": "996",
+          "DOI": "10.5465/AMJ.2009.44635041",
+          "volume": "52",
+          "author": "Ployhart R. E.",
+          "year": "2009",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B101",
+          "doi-asserted-by": "crossref",
+          "first-page": "887",
+          "DOI": "10.1111/j.1744-6570.1995.tb01785.x",
+          "volume": "48",
+          "author": "Quinones M. A.",
+          "year": "1995",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B102",
+          "doi-asserted-by": "crossref",
+          "first-page": "668",
+          "DOI": "10.1037/0021-9010.75.6.668",
+          "volume": "75",
+          "author": "Rentsch J. R.",
+          "year": "1990",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B103",
+          "volume-title": "Management and the worker",
+          "author": "Roethlisberger F. J.",
+          "year": "1939"
+        },
+        {
+          "key": "B104",
+          "first-page": "1",
+          "volume": "7",
+          "author": "Rousseau D. M.",
+          "year": "1985",
+          "journal-title": "Research in Organizational Behavior"
+        },
+        {
+          "key": "B105",
+          "first-page": "556",
+          "volume-title": "Competitive strategic management",
+          "author": "Rumelt R. P.",
+          "year": "1984"
+        },
+        {
+          "key": "B106",
+          "doi-asserted-by": "crossref",
+          "first-page": "262",
+          "DOI": "10.1037/0033-2909.124.2.262",
+          "volume": "124",
+          "author": "Schmidt F. L.",
+          "year": "1998",
+          "journal-title": "Psychological Bulletin"
+        },
+        {
+          "key": "B107",
+          "doi-asserted-by": "crossref",
+          "first-page": "77",
+          "DOI": "10.1002/0471264385.wei1205",
+          "volume-title": "Handbook of psychology",
+          "volume": "12",
+          "author": "Schmitt N.",
+          "year": "2003"
+        },
+        {
+          "key": "B108",
+          "doi-asserted-by": "crossref",
+          "first-page": "437",
+          "DOI": "10.1111/j.1744-6570.1987.tb00609.x",
+          "volume": "40",
+          "author": "Schneider B.",
+          "year": "1987",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "B109",
+          "first-page": "91",
+          "volume-title": "Multilevel theory, research, and methods in organizations: Foundations, extensions, and new directions",
+          "author": "Schneider B.",
+          "year": "2000"
+        },
+        {
+          "key": "B110",
+          "doi-asserted-by": "crossref",
+          "first-page": "150",
+          "DOI": "10.1037/0021-9010.83.2.150",
+          "volume": "83",
+          "author": "Schneider B.",
+          "year": "1998",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B111",
+          "doi-asserted-by": "crossref",
+          "first-page": "745",
+          "DOI": "10.1136/bmj.320.7237.745",
+          "volume": "320",
+          "author": "Sexton J. B.",
+          "year": "2000",
+          "journal-title": "British Medical Journal"
+        },
+        {
+          "key": "B112",
+          "first-page": "1",
+          "volume-title": "Hierarchy theory",
+          "author": "Simon H. A.",
+          "year": "1973"
+        },
+        {
+          "key": "B113",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.5465/amr.2007.23466005",
+          "volume": "32",
+          "author": "Sirmon D. G.",
+          "year": "2007",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B114",
+          "doi-asserted-by": "crossref",
+          "first-page": "85",
+          "DOI": "10.1002/smj.365",
+          "volume": "25",
+          "author": "Skaggs B. C.",
+          "year": "2004",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B115",
+          "volume-title": "An inquiry into the nature and causes of the wealth of nations",
+          "author": "Smith A.",
+          "year": "1963"
+        },
+        {
+          "key": "B116",
+          "volume-title": "The abilities of man",
+          "author": "Spearman C.",
+          "year": "1927"
+        },
+        {
+          "key": "B117",
+          "volume-title": "Group process and productivity",
+          "author": "Steiner I. D.",
+          "year": "1972"
+        },
+        {
+          "key": "B118",
+          "doi-asserted-by": "crossref",
+          "first-page": "1069",
+          "DOI": "10.1037/0021-9010.92.4.1069",
+          "volume": "92",
+          "author": "Takeuchi R.",
+          "year": "2007",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "B119",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1016/0167-2681(82)90003-8",
+          "volume": "3",
+          "author": "Teece D. J.",
+          "year": "1982",
+          "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+          "key": "B120",
+          "doi-asserted-by": "crossref",
+          "first-page": "1319",
+          "DOI": "10.1002/smj.640",
+          "volume": "28",
+          "author": "Teece D. J.",
+          "year": "2007",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B121",
+          "doi-asserted-by": "crossref",
+          "first-page": "509",
+          "DOI": "10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z",
+          "volume": "18",
+          "author": "Teece D. J.",
+          "year": "1997",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B122",
+          "volume-title": "Organizations in action",
+          "author": "Thompson J. D.",
+          "year": "1967"
+        },
+        {
+          "key": "B123",
+          "doi-asserted-by": "crossref",
+          "first-page": "322",
+          "DOI": "10.2307/2094477",
+          "volume": "41",
+          "author": "Van de Ven A. H.",
+          "year": "1976",
+          "journal-title": "American Sociological Review"
+        },
+        {
+          "key": "B124",
+          "doi-asserted-by": "crossref",
+          "first-page": "319",
+          "DOI": "10.1521/soco.1995.13.3.319",
+          "volume": "13",
+          "author": "Wegner D. M.",
+          "year": "1995",
+          "journal-title": "Social Cognition"
+        },
+        {
+          "key": "B125",
+          "doi-asserted-by": "crossref",
+          "first-page": "171",
+          "DOI": "10.1002/smj.4250050207",
+          "volume": "5",
+          "author": "Wernerfelt B.",
+          "year": "1984",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B126",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1016/S0883-9026(99)00063-4",
+          "volume": "16",
+          "author": "Westhead P.",
+          "year": "2001",
+          "journal-title": "Journal of Business Venturing"
+        },
+        {
+          "key": "B127",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.2307/256474",
+          "volume": "35",
+          "author": "Wiersema M. F.",
+          "year": "1992",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "B128",
+          "doi-asserted-by": "crossref",
+          "first-page": "1307",
+          "DOI": "10.1002/smj.360",
+          "volume": "24",
+          "author": "Wiklund J.",
+          "year": "2003",
+          "journal-title": "Strategic Management Journal"
+        },
+        {
+          "key": "B129",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1177/014920630202800302",
+          "volume": "28",
+          "author": "Wright P. M.",
+          "year": "2002",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B130",
+          "doi-asserted-by": "crossref",
+          "first-page": "701",
+          "DOI": "10.1177/014920630102700607",
+          "volume": "27",
+          "author": "Wright P. M.",
+          "year": "2001",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "B131",
+          "doi-asserted-by": "crossref",
+          "first-page": "164",
+          "DOI": "10.5771/0935-9915-2005-2-164",
+          "volume": "16",
+          "author": "Wright P. M.",
+          "year": "2005",
+          "journal-title": "Management Revue"
+        },
+        {
+          "key": "B132",
+          "doi-asserted-by": "crossref",
+          "first-page": "301",
+          "DOI": "10.1080/09585199400000020",
+          "volume": "5",
+          "author": "Wright P. M.",
+          "year": "1994",
+          "journal-title": "International Journal of Human Resource Management"
+        },
+        {
+          "key": "B133",
+          "doi-asserted-by": "crossref",
+          "first-page": "756",
+          "DOI": "10.5465/amr.1998.1255637",
+          "volume": "23",
+          "author": "Wright P. M.",
+          "year": "1998",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B134",
+          "first-page": "337",
+          "volume": "3",
+          "author": "Youndt M. A.",
+          "year": "2004",
+          "journal-title": "Journal of Managerial Issues"
+        },
+        {
+          "key": "B135",
+          "doi-asserted-by": "crossref",
+          "first-page": "185",
+          "DOI": "10.5465/amr.2002.6587995",
+          "volume": "27",
+          "author": "Zahra S. A.",
+          "year": "2002",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "B136",
+          "doi-asserted-by": "crossref",
+          "first-page": "76",
+          "DOI": "10.1287/orsc.6.1.76",
+          "volume": "6",
+          "author": "Zander U.",
+          "year": "1995",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "B137",
+          "doi-asserted-by": "crossref",
+          "first-page": "327",
+          "DOI": "10.2307/30040626",
+          "volume": "46",
+          "author": "Zhang Y.",
+          "year": "2003",
+          "journal-title": "Academy of Management Journal"
+        }
+      ],
+      "container-title": [
+        "Academy of Management Review"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://journals.aom.org/doi/10.5465/amr.2009.0318",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            15
+          ]
+        ],
+        "date-time": "2024-06-15T14:04:25Z",
+        "timestamp": 1718460265000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "http://journals.aom.org/doi/10.5465/amr.2009.0318"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      },
+      "references-count": 137,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2011,
+              1
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.5465/amr.2009.0318"
+      ],
+      "URL": "https://doi.org/10.5465/amr.2009.0318",
+      "relation": {},
+      "ISSN": [
+        "0363-7425",
+        "1930-3807"
+      ],
+      "issn-type": [
+        {
+          "value": "0363-7425",
+          "type": "print"
+        },
+        {
+          "value": "1930-3807",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            1
+          ]
+        ]
+      }
+    }
+  }
+}

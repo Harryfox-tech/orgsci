@@ -1,0 +1,10 @@
+{
+  "request": {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2609.21325",
+    "checked_at": "2026-10-24T03:10:48.647186Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  "data": null
+}

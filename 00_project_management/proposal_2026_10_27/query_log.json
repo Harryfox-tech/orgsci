@@ -1,0 +1,44 @@
+[
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=%22strategic+classification%22+verification+improvement&per-page=8&filter=to_publication_date%3A2026-10-27",
+    "checked_at": "2026-10-27T04:17:46.789348Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=%22strategic+classification%22+verification+improvement&per-page=8&filter=to_publication_date%3A2026-10-27"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=%22algorithmic+recourse%22+information+acquisition&per-page=8&filter=to_publication_date%3A2026-10-27",
+    "checked_at": "2026-10-27T04:17:46.790349Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=%22algorithmic+recourse%22+information+acquisition&per-page=8&filter=to_publication_date%3A2026-10-27"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=skills+certification+training+diagnosis+investment&per-page=8&filter=to_publication_date%3A2026-10-27",
+    "checked_at": "2026-10-27T04:17:46.790349Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=skills+certification+training+diagnosis+investment&per-page=8&filter=to_publication_date%3A2026-10-27"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.2307/1882010",
+    "checked_at": "2026-10-27T04:17:48.414314Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.2307/1882010"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1214/aoms/1177729032",
+    "checked_at": "2026-10-27T04:17:48.575163Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1214/aoms/1177729032"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://export.arxiv.org/api/query?id_list=2502.02328%2C2609.12179%2C2609.22534&max_results=3",
+    "checked_at": "2026-10-27T04:17:48.608028Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  }
+]

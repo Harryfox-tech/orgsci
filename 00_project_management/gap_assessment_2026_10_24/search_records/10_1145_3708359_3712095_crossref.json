@@ -1,0 +1,567 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+    "checked_at": "2026-10-24T02:39:06.969564Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            28
+          ]
+        ],
+        "date-time": "2026-09-28T19:17:15Z",
+        "timestamp": 1790623035522,
+        "version": "4.1.0"
+      },
+      "publisher-location": "New York, NY, USA",
+      "reference-count": 58,
+      "publisher": "ACM",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                3,
+                24
+              ]
+            ],
+            "date-time": "2025-03-24T00:00:00Z",
+            "timestamp": 1742774400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/100000001",
+          "name": "National Science Foundation",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "IIS-2107391"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "IIS-2107391"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/100000001",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "dl.acm.org"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            24
+          ]
+        ]
+      },
+      "DOI": "10.1145/3708359.3712095",
+      "type": "proceedings-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            19
+          ]
+        ],
+        "date-time": "2025-03-19T12:50:34Z",
+        "timestamp": 1742388634000
+      },
+      "page": "446-462",
+      "update-policy": "https://doi.org/10.1145/crossmark-policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 12,
+      "title": [
+        "Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approach"
+      ],
+      "prefix": "10.1145",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0009-3314-0839",
+          "authenticated-orcid": false,
+          "given": "Sohini",
+          "family": "Upadhyay",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Harvard University, Cambridge, Massachusetts, USA,"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7922-6544",
+          "authenticated-orcid": false,
+          "given": "Himabindu",
+          "family": "Lakkaraju",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Harvard University, Cambridge, Massachusetts, USA,"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1897-9048",
+          "authenticated-orcid": false,
+          "given": "Krzysztof Z.",
+          "family": "Gajos",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Engineering and Applied Sciences, Harvard University, Allston, Massachusetts, USA,"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "320",
+      "published-online": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            24
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_3_3_2_2_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Nikola Banovic Zhuoran Yang Aditya Ramesh and Alice Liu. 2023. Being Trustworthy is Not Enough: How Untrustworthy Artificial Intelligence (AI) Can Deceive the End-Users and Gain Their Trust. Proc. ACM Hum.-Comput. Interact. 7 CSCW1 Article 27 (April 2023) 17 pages. 10.1145/3579460",
+          "DOI": "10.1145/3579460"
+        },
+        {
+          "key": "e_1_3_3_2_3_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372830"
+        },
+        {
+          "key": "e_1_3_3_2_4_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3173574.3173951"
+        },
+        {
+          "key": "e_1_3_3_2_5_2",
+          "unstructured": "Kirsten Boehner Shay David Joseph Jofish ’kaye and Phoebe Sengers. 2004. Critical Technical Practice as a Methodology for Values in Design. https://api.semanticscholar.org/CorpusID:1738633"
+        },
+        {
+          "key": "e_1_3_3_2_6_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3377325.3377498"
+        },
+        {
+          "key": "e_1_3_3_2_7_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Zana Buçinca Maja Barbara Malaya and Krzysztof Z. Gajos. 2021. To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making. Proc. ACM Hum.-Comput. Interact. 5 CSCW1 Article 188 (April 2021) 21 pages. 10.1145/3449287",
+          "DOI": "10.1145/3449287"
+        },
+        {
+          "key": "e_1_3_3_2_8_2",
+          "unstructured": "Zana Buçinca Alexandra Chouldechova Jennifer Wortman Vaughan and Krzysztof Z. Gajos. 2022. Beyond End Predictions: Stop Putting Machine Learning First and Design Human-Centered AI for Decision Support. NeurIPS Human-Centered AI Workshop (HCAI) (2022)."
+        },
+        {
+          "key": "e_1_3_3_2_9_2",
+          "unstructured": "Zana Buçinca Siddharth Swaroop Amanda E. Paluch Susan A. Murphy and Krzysztof Z. Gajos. 2024. Towards Optimizing Human-Centric Objectives in AI-Assisted Decision-Making With Offline Reinforcement Learning. (2024)."
+        },
+        {
+          "key": "e_1_3_3_2_10_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "John T. Cacioppo and Richard E. Petty. 1982. The need for cognition. Journal of Personality and Social Psychology 42 1 (1982) 116–131. 10.1037/0022-3514.42.1.116",
+          "DOI": "10.1037/0022-3514.42.1.116"
+        },
+        {
+          "key": "e_1_3_3_2_11_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "J T Cacioppo R E Petty and C F Kao. 1984. The efficient assessment of need for cognition. Journal of personality assessment 48 3 (1984) 306–307. 10.1207/s15327752jpa4803_13",
+          "DOI": "10.1207/s15327752jpa4803_13"
+        },
+        {
+          "key": "e_1_3_3_2_12_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lenart Celar and Ruth MJ Byrne. 2023. How people reason with counterfactual and causal explanations for Artificial Intelligence decisions in familiar and unfamiliar domains. Memory & Cognition (2023) 1–16.",
+          "DOI": "10.3758/s13421-023-01407-5"
+        },
+        {
+          "key": "e_1_3_3_2_13_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Valerie Chen Q. Vera Liao Jennifer Wortman Vaughan and Gagan Bansal. 2023. Understanding the Role of Human Intuition on Reliance in Human-AI Decision-Making with Explanations. Proc. ACM Hum.-Comput. Interact. 7 CSCW2 Article 370 (oct 2023) 32 pages. 10.1145/3610219",
+          "DOI": "10.1145/3610219"
+        },
+        {
+          "key": "e_1_3_3_2_14_2",
+          "volume-title": "Statistical Power Analysis for the Behavioral Sciences (2nd edition ed.)",
+          "author": "Cohen Jacob",
+          "year": "1988",
+          "unstructured": "Jacob Cohen. 1988. Statistical Power Analysis for the Behavioral Sciences (2nd edition ed.). Lawrence Erlbaum Associates."
+        },
+        {
+          "key": "e_1_3_3_2_15_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3301275.3302310"
+        },
+        {
+          "key": "e_1_3_3_2_16_2",
+          "unstructured": "Michael Downs Jonathan L Chu Yaniv Yacoby Finale Doshi-Velez and Weiwei Pan. 2020. Cruds: Counterfactual recourse using disentangled subspaces. ICML WHI 2020 (2020) 1–23."
+        },
+        {
+          "key": "e_1_3_3_2_17_2",
+          "volume-title": "Regulation (EU) 2016/679 of the European Parliament and of the Council",
+          "author": "Parliament European",
+          "unstructured": "European Parliament and Council of the European Union. [n. d.]. Regulation (EU) 2016/679 of the European Parliament and of the Council. https://data.europa.eu/eli/reg/2016/679/oj"
+        },
+        {
+          "key": "e_1_3_3_2_18_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Catherine O Fritz Peter E Morris and Jennifer J Richler. 2012. Effect size estimates: current use calculations and interpretation. Journal of experimental psychology: General 141 1 (2012) 2.",
+          "DOI": "10.1037/a0024338"
+        },
+        {
+          "key": "e_1_3_3_2_19_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3025171.3025192"
+        },
+        {
+          "key": "e_1_3_3_2_20_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3490099.3511138"
+        },
+        {
+          "key": "e_1_3_3_2_21_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.5555/3545946.3598654"
+        },
+        {
+          "key": "e_1_3_3_2_22_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Sarah Jabbour David Fouhey Stephanie Shepard Thomas S. Valley Ella A. Kazerooni Nikola Banovic Jenna Wiens and Michael W. Sjoding. 2023. Measuring the Impact of AI in the Diagnosis of Hospitalized Patients: A Randomized Clinical Vignette Survey Study. JAMA 330 23 (12 2023) 2275–2284. 10.1001/jama.2023.22295",
+          "DOI": "10.1001/jama.2023.22295"
+        },
+        {
+          "key": "e_1_3_3_2_23_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3630106.3658910"
+        },
+        {
+          "key": "e_1_3_3_2_24_2",
+          "unstructured": "Shalmali Joshi Oluwasanmi Koyejo Warut Vijitbenjaronk Been Kim and Joydeep Ghosh. 2019. Towards realistic individual recourse and actionable explanations in black-box decision making systems. arXiv preprint arXiv:https://arXiv.org/abs/1907.09615 (2019)."
+        },
+        {
+          "key": "e_1_3_3_2_25_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Amir-Hossein Karimi Gilles Barthe Bernhard Schölkopf and Isabel Valera. 2022. A Survey of Algorithmic Recourse: Contrastive Explanations and Consequential Recommendations. ACM Comput. Surv. 55 5 Article 95 (dec 2022) 29 pages. 10.1145/3527848",
+          "DOI": "10.1145/3527848"
+        },
+        {
+          "key": "e_1_3_3_2_26_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3442188.3445899"
+        },
+        {
+          "key": "e_1_3_3_2_27_2",
+          "unstructured": "Amir-Hossein Karimi Julius Von Kügelgen Bernhard Schölkopf and Isabel Valera. 2020. Algorithmic recourse under imperfect causal knowledge: a probabilistic approach. Advances in neural information processing systems 33 (2020) 265–277."
+        },
+        {
+          "key": "e_1_3_3_2_28_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3613904.3641898"
+        },
+        {
+          "key": "e_1_3_3_2_29_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3582269.3615595"
+        },
+        {
+          "key": "e_1_3_3_2_30_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Mark T Keane Eoin M Kenny Eoin Delaney and Barry Smyth. 2021. If only we had better counterfactual explanations: Five key deficits to rectify in the evaluation of counterfactual xai techniques. arXiv preprint arXiv:https://arXiv.org/abs/2103.01035 (2021).",
+          "DOI": "10.24963/ijcai.2021/609"
+        },
+        {
+          "key": "e_1_3_3_2_31_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3375627.3375833"
+        },
+        {
+          "key": "e_1_3_3_2_32_2",
+          "unstructured": "Thibault Laugel Marie-Jeanne Lesot Christophe Marsala Xavier Renard and Marcin Detyniecki. 2017. Inverse classification for comparison-based interpretability in machine learning. arXiv preprint arXiv:https://arXiv.org/abs/1712.08443 (2017)."
+        },
+        {
+          "key": "e_1_3_3_2_33_2",
+          "doi-asserted-by": "publisher",
+          "unstructured": "Min Hun Lee and Chong Jun Chew. 2023. Understanding the Effect of Counterfactual Explanations on Trust and Reliance on AI for Human-AI Collaborative Clinical Decision Making. 7 CSCW2 Article 369 (Oct. 2023) 22 pages. 10.1145/3610218",
+          "DOI": "10.1145/3610218"
+        },
+        {
+          "key": "e_1_3_3_2_34_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/hcomp.v10i1.21995"
+        },
+        {
+          "key": "e_1_3_3_2_35_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/1518701.1519023"
+        },
+        {
+          "key": "e_1_3_3_2_36_2",
+          "unstructured": "Scott M Lundberg and Su-In Lee. 2017. A unified approach to interpreting model predictions. Advances in neural information processing systems 30 (2017)."
+        },
+        {
+          "key": "e_1_3_3_2_37_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3593013.3594001"
+        },
+        {
+          "key": "e_1_3_3_2_38_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372850"
+        },
+        {
+          "key": "e_1_3_3_2_39_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1609/aaai.v36i5.20469"
+        },
+        {
+          "key": "e_1_3_3_2_40_2",
+          "unstructured": "Kaivalya Rawal and Himabindu Lakkaraju. 2020. Beyond individualized recourse: Interpretable and interactive summaries of actionable recourses. Advances in Neural Information Processing Systems 33 (2020) 12187–12198."
+        },
+        {
+          "key": "e_1_3_3_2_41_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/2939672.2939778"
+        },
+        {
+          "key": "e_1_3_3_2_42_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287569"
+        },
+        {
+          "key": "e_1_3_3_2_43_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3531146.3533127"
+        },
+        {
+          "key": "e_1_3_3_2_44_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3514094.3534185"
+        },
+        {
+          "key": "e_1_3_3_2_45_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3708359.3712128"
+        },
+        {
+          "key": "e_1_3_3_2_46_2",
+          "unstructured": "Maciej Tomczak and Ewa Tomczak. 2014. The need to report effect size estimates revisited. An overview of some recommended measures of effect size. Trends in sport sciences 1 21 (2014) 19–25."
+        },
+        {
+          "key": "e_1_3_3_2_47_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3287560.3287566"
+        },
+        {
+          "key": "e_1_3_3_2_48_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Jasper van der Waa Elisabeth Nieuwburg Anita Cremers and Mark Neerincx. 2021. Evaluating XAI: A comparison of rule-based and example-based explanations. Artificial Intelligence 291 (2021) 103404.",
+          "DOI": "10.1016/j.artint.2020.103404"
+        },
+        {
+          "key": "e_1_3_3_2_49_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Tiffany C Veinot Hannah Mitchell and Jessica S Ancker. 2018. Good intentions are not enough: how informatics interventions can worsen inequality. Journal of the American Medical Informatics Association 25 8 (2018) 1080–1088.",
+          "DOI": "10.1093/jamia/ocy052"
+        },
+        {
+          "key": "e_1_3_3_2_50_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3351095.3372876"
+        },
+        {
+          "key": "e_1_3_3_2_51_2",
+          "unstructured": "Sahil Verma Varich Boonsanong Minh Hoang Keegan E Hines John P Dickerson and Chirag Shah. 2020. Counterfactual explanations and algorithmic recourses for machine learning: A review. arXiv preprint arXiv:https://arXiv.org/abs/2010.10596 (2020)."
+        },
+        {
+          "key": "e_1_3_3_2_52_2",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sandra Wachter Brent Mittelstadt and Chris Russell. 2017. Counterfactual explanations without opening the black box: Automated decisions and the GDPR. Harv. JL & Tech. 31 (2017) 841.",
+          "DOI": "10.2139/ssrn.3063289"
+        },
+        {
+          "key": "e_1_3_3_2_53_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3397481.3450650"
+        },
+        {
+          "key": "e_1_3_3_2_54_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3459637.3482397"
+        },
+        {
+          "key": "e_1_3_3_2_55_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3544548.3580816"
+        },
+        {
+          "key": "e_1_3_3_2_56_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3581641.3584090"
+        },
+        {
+          "key": "e_1_3_3_2_57_2",
+          "first-page": "219",
+          "volume-title": "Proceedings of the AAAI Conference on Human Computation and Crowdsourcing",
+          "volume": "10",
+          "author": "Yacoby Yaniv",
+          "year": "2022",
+          "unstructured": "Yaniv Yacoby, Ben Green, Christopher L Griffin Jr, and Finale Doshi-Velez. 2022. “If it didn’t happen, why would I change my decision?”: How Judges Respond to Counterfactual Explanations for the Public Safety Assessment. In Proceedings of the AAAI Conference on Human Computation and Crowdsourcing , Vol. 10. 219–230."
+        },
+        {
+          "key": "e_1_3_3_2_58_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3613904.3642771"
+        },
+        {
+          "key": "e_1_3_3_2_59_2",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/3544548.3581161"
+        }
+      ],
+      "event": {
+        "name": "IUI '25: 30th International Conference on Intelligent User Interfaces",
+        "location": "Cagliari Italy",
+        "acronym": "IUI '25",
+        "sponsor": [
+          "SIGAI ACM Special Interest Group on Artificial Intelligence",
+          "SIGCHI ACM Special Interest Group on Computer-Human Interaction"
+        ]
+      },
+      "container-title": [
+        "Proceedings of the 30th International Conference on Intelligent User Interfaces"
+      ],
+      "original-title": [],
+      "link": [
+        {
+          "URL": "https://dl.acm.org/doi/10.1145/3708359.3712095",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/3708359.3712095",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/3708359.3712095",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            6,
+            19
+          ]
+        ],
+        "date-time": "2025-06-19T01:09:46Z",
+        "timestamp": 1750295386000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://dl.acm.org/doi/10.1145/3708359.3712095"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            24
+          ]
+        ]
+      },
+      "references-count": 58,
+      "alternative-id": [
+        "10.1145/3708359.3712095",
+        "10.1145/3708359"
+      ],
+      "URL": "https://doi.org/10.1145/3708359.3712095",
+      "relation": {},
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            3,
+            24
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2025-03-24",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ]
+    }
+  }
+}

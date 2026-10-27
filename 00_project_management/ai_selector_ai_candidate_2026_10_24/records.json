@@ -1,0 +1,569 @@
+[
+  {
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "authors": [
+      "Jiannan Xu",
+      "Gujie Li",
+      "Jane Yi Jiang"
+    ],
+    "year": 2025,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2025-10-15",
+    "publication_dates": {
+      "published-online": "2025-10-15",
+      "published": "2025-10-15"
+    },
+    "publication_type": "journal-article",
+    "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+    "doi": "10.1609/aies.v8i3.36755",
+    "source_url": "https://doi.org/10.1609/aies.v8i3.36755",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Does AI Cheapen Talk? Theory and Evidence from Global Entrepreneurship and Hiring",
+    "authors": [
+      "Bo Cowgill",
+      "Pablo Hernández-Lagos",
+      "Nataliya Langburd Wright"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2026-04-27",
+    "publication_dates": {
+      "published-online": "2026-04-27",
+      "published": "2026-04-27"
+    },
+    "publication_type": "journal-article",
+    "venue": "Management Science",
+    "doi": "10.1287/mnsc.2024.07027",
+    "source_url": "https://doi.org/10.1287/mnsc.2024.07027",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Personnel selection as a signaling game.",
+    "authors": [
+      "Adrian Bangerter",
+      "Nicolas Roulin",
+      "Cornelius J. König"
+    ],
+    "year": 2012,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published-online": "2012",
+      "published": "2012"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Applied Psychology",
+    "doi": "10.1037/a0026078",
+    "source_url": "https://doi.org/10.1037/a0026078",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Algorithmic Monoculture and Its Critics",
+    "authors": [
+      "Brian Hedden",
+      "Manish Raghavan"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2026-09-25",
+    "publication_dates": {
+      "published-online": "2026-09-25",
+      "published": "2026-09-25"
+    },
+    "publication_type": "journal-article",
+    "venue": "Philosophical Perspectives",
+    "doi": "10.1111/phpe.70018",
+    "source_url": "https://doi.org/10.1111/phpe.70018",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "When Better AI Reveals Less",
+    "authors": [
+      "Yetong Liu"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published": "2026"
+    },
+    "publication_type": "posted-content",
+    "venue": null,
+    "doi": "10.2139/ssrn.7592711",
+    "source_url": "https://doi.org/10.2139/ssrn.7592711",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
+    "authors": [
+      "Shaohui Wang"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2026-10",
+      "published": "2026-10"
+    },
+    "publication_type": "journal-article",
+    "venue": "Research Policy",
+    "doi": "10.1016/j.respol.2026.105568",
+    "source_url": "https://doi.org/10.1016/j.respol.2026.105568",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "When LLMs Evaluate LLMs in Hiring: A Multi-Model Auditing Framework for Generative Preference Bias in AI-Assisted Recruitment",
+    "authors": [
+      "Michael Andreas Ebling",
+      "Stefania Ionescu",
+      "Nicolò Pagan"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "pmlr"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_type": "conference",
+    "venue": "Proceedings of Fifth European Conference on Algorithmic Fairness, PMLR 350",
+    "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v350/main/assets/ebling26a/ebling26a.pdf",
+    "full_text_status": "open_pdf",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  }
+]

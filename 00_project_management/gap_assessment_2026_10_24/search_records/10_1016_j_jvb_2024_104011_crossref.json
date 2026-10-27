@@ -1,0 +1,1905 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+    "checked_at": "2026-10-24T02:27:44.066945Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            15
+          ]
+        ],
+        "date-time": "2026-10-15T21:26:24Z",
+        "timestamp": 1792099584793,
+        "version": "4.4.0"
+      },
+      "reference-count": 147,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2024-09-01T00:00:00Z",
+            "timestamp": 1725148800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2024-09-01T00:00:00Z",
+            "timestamp": 1725148800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                27
+              ]
+            ],
+            "date-time": "2024-06-27T00:00:00Z",
+            "timestamp": 1719446400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Journal of Vocational Behavior"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.jvb.2024.104011",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            27
+          ]
+        ],
+        "date-time": "2024-06-27T02:59:32Z",
+        "timestamp": 1719457172000
+      },
+      "page": "104011",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 107,
+      "special_numbering": "C",
+      "title": [
+        "Navigating career stages in the age of artificial intelligence: A systematic interdisciplinary review and agenda for future research"
+      ],
+      "prefix": "10.1016",
+      "volume": "153",
+      "author": [
+        {
+          "given": "Sarah",
+          "family": "Bankins",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Stefan",
+          "family": "Jooss",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simon Lloyd D.",
+          "family": "Restubog",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mauricio",
+          "family": "Marrone",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Anna Carmella",
+          "family": "Ocampo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mindy",
+          "family": "Shoss",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.18178/ijiet.2023.13.3.1822",
+          "article-title": "Caught in the lifelong learning maze: Helping people with learning analytics and chatbots to find personal career paths",
+          "volume": "13",
+          "author": "Ahmad",
+          "year": "2023",
+          "journal-title": "International Journal of Information and Education Technology"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jvb.2024.104011_bb0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "885",
+          "DOI": "10.3390/educsci13090885",
+          "article-title": "AI-supported academic advising: Exploring ChatGPT’s current state and future potential toward student empowerment",
+          "volume": "13",
+          "author": "Akiba",
+          "year": "2023",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0015",
+          "doi-asserted-by": "crossref",
+          "first-page": "245",
+          "DOI": "10.1177/0894845312467501",
+          "article-title": "Competencies for the contemporary career: Development and preliminary validation of the career competencies questionnaire",
+          "volume": "40",
+          "author": "Akkermans",
+          "year": "2013",
+          "journal-title": "Journal of Career Development"
+        },
+        {
+          "issue": "103",
+          "key": "10.1016/j.jvb.2024.104011_bb0020",
+          "first-page": "957",
+          "article-title": "Career transitions across the lifespan: A review and research agenda",
+          "volume": "48",
+          "author": "Akkermans",
+          "year": "2024",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0025",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.2174/18749445-v15-e2203290",
+          "article-title": "Medical students’ knowledge and attitude towards artificial intelligence: An online survey",
+          "volume": "15",
+          "author": "Al Saad",
+          "year": "2022",
+          "journal-title": "The Open Public Health Journal"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "293",
+          "DOI": "10.3390/educsci13030293",
+          "article-title": "Data mining approach to predict success of secondary school students: A Saudi Arabian case study",
+          "volume": "13",
+          "author": "Alghamdi",
+          "year": "2023",
+          "journal-title": "Education Sciences"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0035",
+          "doi-asserted-by": "crossref",
+          "first-page": "179",
+          "DOI": "10.1080/09695958.2023.2215442",
+          "article-title": "Artificial intelligence applied to lawyers’ appraisals",
+          "volume": "30",
+          "author": "Almeida Lopes",
+          "year": "2023",
+          "journal-title": "International Journal of the Legal Profession"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0040",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.3991/ijet.v16i03.17829",
+          "article-title": "Using recommender systems for matching students with suitable specialization: An exploratory study at King Abdulaziz university",
+          "volume": "16",
+          "author": "Alshaikh",
+          "year": "2021",
+          "journal-title": "International Journal of Emerging Technologies in Learning"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0045",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.1080/09695958.2020.1857765",
+          "article-title": "Unlocking the potential of AI for English law",
+          "volume": "28",
+          "author": "Armour",
+          "year": "2021",
+          "journal-title": "International Journal of the Legal Profession"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "1261",
+          "DOI": "10.1177/09500170211069797",
+          "article-title": "Conceptualising ‘meta-work’ in the context of continuous, global mobility: The case of digital nomadism",
+          "volume": "37",
+          "author": "Aroles",
+          "year": "2023",
+          "journal-title": "Work, Employment and Society"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0055",
+          "first-page": "305",
+          "article-title": "Health informatics in the Classroom: An empirical study to investigate higher education’s response to healthcare transformation",
+          "volume": "25",
+          "author": "Ashrafi",
+          "year": "2014",
+          "journal-title": "Journal of Information Systems Education"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0060",
+          "first-page": "1",
+          "article-title": "A chatbot intent classifier for supporting high school students",
+          "volume": "10",
+          "author": "Assayed",
+          "year": "2023",
+          "journal-title": "EAI Endorsed Transactions on Scalable Information Systems"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "993",
+          "DOI": "10.1007/s11192-017-2618-1",
+          "article-title": "Predicting scientific impact based on h-index",
+          "volume": "114",
+          "author": "Ayaz",
+          "year": "2018",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1016/j.hrmr.2018.08.001",
+          "article-title": "Organizational career management practices and objective career success: A systematic review and framework",
+          "volume": "29",
+          "author": "Bagdadli",
+          "year": "2019",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0075",
+          "doi-asserted-by": "crossref",
+          "first-page": "159",
+          "DOI": "10.1002/job.2735",
+          "article-title": "A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice",
+          "volume": "45",
+          "author": "Bankins",
+          "year": "2024",
+          "journal-title": "Journal of Organizational Behavior"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb3000",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.3389/feduc.2022.814842",
+          "article-title": "Career competencies for academic career progression: experiences of academics at a South African university",
+          "volume": "7",
+          "author": "Barnes",
+          "year": "2022",
+          "journal-title": "Frontiers in Education"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "135",
+          "DOI": "10.1108/CDI-10-2021-0251",
+          "article-title": "The why, what and how of career research: A review and recommendations for future study",
+          "volume": "27",
+          "author": "Baruch",
+          "year": "2022",
+          "journal-title": "Career Development International"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jvb.2024.104011_bb0085",
+          "first-page": "2674",
+          "article-title": "A comparative study of machine learning and deep learning algorithms for predicting student’s academic performance",
+          "volume": "14",
+          "author": "Bhushan",
+          "year": "2023",
+          "journal-title": "International Journal of System Assurance Engineering and Management"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1177/2053951718808553",
+          "article-title": "Listening without ears: Artificial intelligence in audio mastering",
+          "volume": "5",
+          "author": "Birtchnell",
+          "year": "2018",
+          "journal-title": "Big Data & Society"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "213",
+          "DOI": "10.1080/10301763.2017.1369718",
+          "article-title": "Employee assessment of their technological redundancy",
+          "volume": "27",
+          "author": "Brougham",
+          "year": "2017",
+          "journal-title": "Labour & Industry: A Journal of the Social and Economic Relations of Work"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "239",
+          "DOI": "10.1017/jmo.2016.55",
+          "article-title": "Smart technology, artificial intelligence, robotics, and algorithms: Employees’ perceptions of our future workplace",
+          "volume": "24",
+          "author": "Brougham",
+          "year": "2018",
+          "journal-title": "Journal of Management & Organization"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0105",
+          "doi-asserted-by": "crossref",
+          "first-page": "357",
+          "DOI": "10.1177/106907279900700403",
+          "article-title": "Use of a Kohonen self-organizing map to classify career clients on the basis of aptitudes",
+          "volume": "7",
+          "author": "Carson",
+          "year": "1999",
+          "journal-title": "Journal of Career Assessment"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "196",
+          "DOI": "10.1006/jvbe.1998.1655",
+          "article-title": "Modeling career counselor decisions with artificial neural networks: Predictions of fit across a comprehensive occupational map",
+          "volume": "54",
+          "author": "Carson",
+          "year": "1999",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0115",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1109/TEM.2021.3138503",
+          "article-title": "Explicating AI literacy of employees at digital workplaces",
+          "volume": "71",
+          "author": "Cetindamar",
+          "year": "2024",
+          "journal-title": "IEEE Transactions on Engineering Management"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.1186/s41239-023-00411-8",
+          "article-title": "Students’ voices on generative AI: Perceptions, benefits, and challenges in higher education",
+          "volume": "20",
+          "author": "Chan",
+          "year": "2023",
+          "journal-title": "International Journal of Educational Technology in Higher Education"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.4018/IJICTE.315010",
+          "article-title": "A prediction and visual analysis method for graduation destination of undergraduates based on LambdaMART model",
+          "volume": "18",
+          "author": "Chen",
+          "year": "2022",
+          "journal-title": "International Journal of Information and Communication Technology Education"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0130",
+          "doi-asserted-by": "crossref",
+          "first-page": "101661",
+          "DOI": "10.1016/j.leaqua.2022.101661",
+          "article-title": "Traversing the storm: An interdisciplinary review of crisis leadership",
+          "volume": "34",
+          "author": "Collins",
+          "year": "2023",
+          "journal-title": "The Leadership Quarterly"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.1002/meet.2014.14505101137",
+          "article-title": "The dynamics of social capital in scientific collaboration networks",
+          "volume": "51",
+          "author": "Costa",
+          "year": "2014",
+          "journal-title": "Proceedings of the American Society for Information Science and Technology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0140",
+          "doi-asserted-by": "crossref",
+          "first-page": "98",
+          "DOI": "10.1080/09585192.2023.2211712",
+          "article-title": "Driven to succeed, or to leave? The variable impact of self‑leadership in rideshare gig work",
+          "volume": "35",
+          "author": "Crayne",
+          "year": "2014",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0145",
+          "unstructured": "Dawson, N., Rizoiu, M-A., & Williams, M-J. (2021). How AI can help choose your next career and stay ahead of automation. https://theconversation.com/how-ai-can-help-choose-your-next-career-and-stay-ahead-of-automation-164162."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "695",
+          "DOI": "10.1016/j.ipm.2015.06.008",
+          "article-title": "An investigation on the serendipity problem in recommender systems",
+          "volume": "51",
+          "author": "De Gemmis",
+          "year": "2015",
+          "journal-title": "Information Processing & Management"
+        },
+        {
+          "issue": "103",
+          "key": "10.1016/j.jvb.2024.104011_bb0160",
+          "first-page": "196",
+          "article-title": "Sustainable careers: Towards a conceptual model",
+          "volume": "117",
+          "author": "De Vos",
+          "year": "2020",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0165",
+          "unstructured": "Department of Industry, Science and Resources (2024). Australia's artificial intelligence ethics framework. https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0170",
+          "doi-asserted-by": "crossref",
+          "first-page": "47",
+          "DOI": "10.17159/2221-4070/2020/v9i2a4",
+          "article-title": "Exploring the anticipated career aspirations of youth in a rural secondary school: A visual participatory approach",
+          "volume": "9",
+          "author": "du Plessis",
+          "year": "2020",
+          "journal-title": "Educational Research for Social Change"
+        },
+        {
+          "issue": "22",
+          "key": "10.1016/j.jvb.2024.104011_bb0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "4468",
+          "DOI": "10.1080/09585192.2021.1953565",
+          "article-title": "Boundaryless careers and algorithmic constraints in the gig economy",
+          "volume": "33",
+          "author": "Duggan",
+          "year": "2022",
+          "journal-title": "The International Journal of Human Resource Management"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "190",
+          "DOI": "10.1177/0961463X231161849",
+          "article-title": "Riders in app time: Exploring the temporal experiences of food delivery platform work",
+          "volume": "32",
+          "author": "Duus",
+          "year": "2023",
+          "journal-title": "Time & Society"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "477",
+          "DOI": "10.1007/s11192-016-1852-2",
+          "article-title": "iSEER: An intelligent automatic computer system for scientific evaluation of researchers",
+          "volume": "107",
+          "author": "Ebadi",
+          "year": "2016",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.5815/ijmecs.2020.04.01",
+          "article-title": "Proposal of a digital ecosystem based on big data and artificial intelligence to support educational and vocational guidance",
+          "volume": "12",
+          "author": "El Haji",
+          "year": "2020",
+          "journal-title": "International Journal of Modern Education and Computer Science"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0195",
+          "unstructured": "European Commission (2024). EU Artificial Intelligence Act. https://artificialintelligenceact.eu/the-act/."
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0200",
+          "unstructured": "European Innovation Council (2023). About Jobiri: The AI based digital career advisor. https://eic.eismea.eu/challenges/solution/jobiri-1degai-based-digital-career-advisor/about."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "111",
+          "DOI": "10.1080/03088839.2013.873545",
+          "article-title": "Analysis of students’ perceptions of seafaring career in China based on artificial neural network and genetic programming",
+          "volume": "42",
+          "author": "Fei",
+          "year": "2015",
+          "journal-title": "Maritime Policy & Management"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0210",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/38004",
+          "article-title": "Aligning the American health information management association entry-level curricula competencies and career map with industry job postings: Cross-sectional study",
+          "volume": "8",
+          "author": "Fenton",
+          "year": "2022",
+          "journal-title": "JMIR Medical Education"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0215",
+          "first-page": "204",
+          "article-title": "Doing more with less: Using AI-based big interview to combine exam preparation and interview practice",
+          "volume": "23",
+          "author": "Fulk",
+          "year": "2022",
+          "journal-title": "Issues in Information Systems"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0220",
+          "first-page": "1",
+          "article-title": "Ethical issues arising due to bias in training A.I. Algorithms in healthcare and data sharing as a potential solution",
+          "volume": "1",
+          "author": "Gaonkar",
+          "year": "2023",
+          "journal-title": "The AI Ethics Journal"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "54",
+          "DOI": "10.18608/jla.2023.7791",
+          "article-title": "Transparency and trustworthiness in user intentions to follow career recommendations from a learning analytics tool",
+          "volume": "10",
+          "author": "Gedrimiene",
+          "year": "2023",
+          "journal-title": "Journal of Learning Analytics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0230",
+          "doi-asserted-by": "crossref",
+          "first-page": "613",
+          "DOI": "10.1057/s41270-023-00236-4",
+          "article-title": "Modeling independent sales representative performance: Application of predictive analytics in direct selling for improved outcomes",
+          "volume": "11",
+          "author": "Glackin",
+          "year": "2023",
+          "journal-title": "Journal of Marketing Analytics"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "1081",
+          "DOI": "10.1007/s10639-022-11221-2",
+          "article-title": "Explainable AI and machine learning: Performance evaluation and explainability of classifiers on educational data mining inspired career counseling",
+          "volume": "28",
+          "author": "Guleria",
+          "year": "2023",
+          "journal-title": "Education and Information Technologies"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0240",
+          "first-page": "1353",
+          "article-title": "Student perceptions of an active learning module to enhance data and modeling skills in undergraduate water resources engineering education",
+          "volume": "35",
+          "author": "Habib",
+          "year": "2019",
+          "journal-title": "The International Journal of Engineering Education"
+        },
+        {
+          "issue": "104",
+          "key": "10.1016/j.jvb.2024.104011_bb0245",
+          "first-page": "784",
+          "article-title": "Predicting nursing baccalaureate program graduates using machine learning models: A quantitative research study",
+          "volume": "99",
+          "author": "Hannaford",
+          "year": "2021",
+          "journal-title": "Nurse Education Today"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "272",
+          "DOI": "10.1002/j.2161-0045.2004.tb00648.x",
+          "article-title": "Counseling for continued career development after retirement: An application of the theory of work adjustment",
+          "volume": "52",
+          "author": "Harper",
+          "year": "2004",
+          "journal-title": "The Career Development Quarterly"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0255",
+          "doi-asserted-by": "crossref",
+          "first-page": "324",
+          "DOI": "10.1080/19452829.2016.1199540",
+          "article-title": "How do aspirations matter?",
+          "volume": "17",
+          "author": "Hart",
+          "year": "2016",
+          "journal-title": "Journal of Human Development and Capabilities"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0260",
+          "doi-asserted-by": "crossref",
+          "first-page": "94",
+          "DOI": "10.1162/qss_a_00001",
+          "article-title": "A supervised machine learning approach to trace doctorate recipients’ employment trajectories",
+          "volume": "1",
+          "author": "Heinisch",
+          "year": "2020",
+          "journal-title": "Quantitative Science Studies"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0265",
+          "first-page": "55",
+          "article-title": "Career track prediction using deep learning model based on discrete series of quantitative classification",
+          "volume": "17",
+          "author": "Hernandez",
+          "year": "2021",
+          "journal-title": "Applied Computer Science"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jvb.2024.104011_bb0270",
+          "doi-asserted-by": "crossref",
+          "first-page": "04022060",
+          "DOI": "10.1061/(ASCE)ME.1943-5479.0001087",
+          "article-title": "Use of LinkedIn data and machine learning to analyze gender differences in construction career paths",
+          "volume": "38",
+          "author": "Hickey",
+          "year": "2022",
+          "journal-title": "Journal of Management in Engineering"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0275",
+          "doi-asserted-by": "crossref",
+          "first-page": "1054",
+          "DOI": "10.1177/1521025120963821",
+          "article-title": "Predicting dropout for nontraditional undergraduate students: A machine learning approach",
+          "volume": "24",
+          "author": "Huo",
+          "year": "2023",
+          "journal-title": "Journal of College Student Retention: Research, Theory & Practice"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0280",
+          "doi-asserted-by": "crossref",
+          "first-page": "308",
+          "DOI": "10.1108/WHATT-01-2023-0011",
+          "article-title": "Next generation employability and career sustainability in the hospitality industry 5.0",
+          "volume": "15",
+          "author": "Hussain",
+          "year": "2023",
+          "journal-title": "Worldwide Hospitality and Tourism Themes"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0285",
+          "doi-asserted-by": "crossref",
+          "first-page": "155",
+          "DOI": "10.5430/jct.v11n5p155",
+          "article-title": "The development and demonstration of creative education programs focused on intelligent information technology",
+          "volume": "11",
+          "author": "Hwang",
+          "year": "2022",
+          "journal-title": "Journal of Curriculum and Teaching"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0290",
+          "doi-asserted-by": "crossref",
+          "first-page": "27",
+          "DOI": "10.1016/j.jebo.2021.12.027",
+          "article-title": "Human capital investment and perceived automation risks: Evidence from 16 countries",
+          "volume": "195",
+          "author": "Innocenti",
+          "year": "2022",
+          "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0295",
+          "first-page": "261",
+          "article-title": "How do we SEE digital platform workers’ skill patterns?",
+          "volume": "56",
+          "author": "Ivanovic",
+          "year": "2023",
+          "journal-title": "Evidence from South-Eastern Europe. Psihologija"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0300",
+          "doi-asserted-by": "crossref",
+          "first-page": "4317",
+          "DOI": "10.14704/WEB/V19I1/WEB19284",
+          "article-title": "An innovative career management platform empowered by AI, big data, and blockchain technologies: Focusing on female engineers",
+          "volume": "19",
+          "author": "Jang",
+          "year": "2022",
+          "journal-title": "Webology"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0305",
+          "doi-asserted-by": "crossref",
+          "first-page": "287",
+          "DOI": "10.1016/j.joi.2007.07.004",
+          "article-title": "Bibliographic coupling and its application to research-front and other core documents",
+          "volume": "1",
+          "author": "Jarneving",
+          "year": "2007",
+          "journal-title": "Journal of Informetrics"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0310",
+          "doi-asserted-by": "crossref",
+          "first-page": "338",
+          "DOI": "10.1016/j.jvb.2018.08.008",
+          "article-title": "Career exploration: A review and future research agenda",
+          "volume": "110",
+          "author": "Jiang",
+          "year": "2019",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "19",
+          "key": "10.1016/j.jvb.2024.104011_bb0315",
+          "article-title": "Artist stories of studio art thinking over lifetimes of living and working",
+          "volume": "20",
+          "author": "Johnston",
+          "year": "2019",
+          "journal-title": "International Journal of Education & the Arts"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0320",
+          "doi-asserted-by": "crossref",
+          "first-page": "1092",
+          "DOI": "10.1007/s40593-022-00317-y",
+          "article-title": "C3-IoC: A career guidance system for assessing student skills using machine learning and network visualisation",
+          "volume": "33",
+          "author": "José-García",
+          "year": "2022",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0325",
+          "doi-asserted-by": "crossref",
+          "first-page": "579",
+          "DOI": "10.1016/j.ejor.2014.04.014",
+          "article-title": "A mathematical model proposal for cost-effective course planning in large hierarchical organizations",
+          "volume": "238",
+          "author": "Karamalak",
+          "year": "2014",
+          "journal-title": "European Journal of Operational Research"
+        },
+        {
+          "issue": "s24",
+          "key": "10.1016/j.jvb.2024.104011_bb0330",
+          "first-page": "561",
+          "article-title": "Individual Up-skilling",
+          "volume": "8",
+          "author": "Karthikeyan",
+          "year": "2019",
+          "journal-title": "International Journal of Recent Technology and Engineering"
+        },
+        {
+          "issue": "467",
+          "key": "10.1016/j.jvb.2024.104011_bb0335",
+          "doi-asserted-by": "crossref",
+          "first-page": "467",
+          "DOI": "10.1038/s41597-022-01578-x",
+          "article-title": "A dataset of mentorship in bioscience with semantic and demographic estimations",
+          "volume": "9",
+          "author": "Ke",
+          "year": "2022",
+          "journal-title": "Scientific Data"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0340",
+          "doi-asserted-by": "crossref",
+          "first-page": "314",
+          "DOI": "10.1177/0894845318763942",
+          "article-title": "Exploring subjective career success among blue-collar workers: Motivators that matter",
+          "volume": "46",
+          "author": "Koekemoer",
+          "year": "2019",
+          "journal-title": "Journal of Career Development"
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.jvb.2024.104011_bb0345",
+          "doi-asserted-by": "crossref",
+          "first-page": "4362",
+          "DOI": "10.1287/mnsc.2020.3727",
+          "article-title": "Demand-aware career path recommendations: A reinforcement learning approach",
+          "volume": "67",
+          "author": "Kokkodis",
+          "year": "2021",
+          "journal-title": "Management Science"
+        },
+        {
+          "issue": "103",
+          "key": "10.1016/j.jvb.2024.104011_bb0350",
+          "first-page": "928",
+          "article-title": "The impact of trust in AI on career sustainability: The role of employee-AI collaboration and protean career orientation",
+          "volume": "146",
+          "author": "Kong",
+          "year": "2023",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0355",
+          "doi-asserted-by": "crossref",
+          "first-page": "717",
+          "DOI": "10.1108/IJCHM-07-2020-0789",
+          "article-title": "Influences of artificial intelligence (AI) awareness on career competency and job burnout",
+          "volume": "33",
+          "author": "Kong",
+          "year": "2021",
+          "journal-title": "International Journal of Contemporary Hospitality Management"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0360",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Kotkov, D., Medlar, A., & Glowacka, D. (2023). Rethinking serendipity in recommender systems. Proceedings of the 2023 Conference on Human Information Interaction and Retrieval, 383–387.",
+          "DOI": "10.1145/3576840.3578310"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0365",
+          "doi-asserted-by": "crossref",
+          "first-page": "270",
+          "DOI": "10.1016/0001-8791(83)90041-6",
+          "article-title": "The attitudes toward work in career transitions",
+          "volume": "23",
+          "author": "Krau",
+          "year": "1983",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0370",
+          "doi-asserted-by": "crossref",
+          "first-page": "15",
+          "DOI": "10.1002/j.2161-0045.2013.00032.x",
+          "article-title": "Applying the happenstance learning theory to involuntary career transitions",
+          "volume": "61",
+          "author": "Krumboltz",
+          "year": "2013",
+          "journal-title": "The Career Development Quarterly"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0375",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1016/j.jvb.2010.05.005",
+          "article-title": "The relationship between learning environment and career competencies of students in vocational education",
+          "volume": "78",
+          "author": "Kuijpers",
+          "year": "2011",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0380",
+          "doi-asserted-by": "crossref",
+          "first-page": "101392",
+          "DOI": "10.1016/j.joi.2023.101392",
+          "article-title": "Researcher influence prediction (ResIP) using academic genealogy network",
+          "volume": "17",
+          "author": "Kumar",
+          "year": "2023",
+          "journal-title": "Journal of Informetrics"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jvb.2024.104011_bb0385",
+          "doi-asserted-by": "crossref",
+          "first-page": "1",
+          "DOI": "10.29333/ejmste/11179",
+          "article-title": "Using “deep learning school” with digital technologies in science and technology",
+          "volume": "17",
+          "author": "Kurbanova",
+          "year": "2021",
+          "journal-title": "Eurasia Journal of Mathematics, Science and Technology Education"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jvb.2024.104011_bb0390",
+          "first-page": "699",
+          "article-title": "Machine learning approach for student career assessment in the modern world",
+          "volume": "7",
+          "author": "Kuswanth",
+          "year": "2019",
+          "journal-title": "International Journal of Recent Technology and Engineering"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0395",
+          "doi-asserted-by": "crossref",
+          "first-page": "103816",
+          "DOI": "10.1016/j.im.2023.103816",
+          "article-title": "The implementation of artificial intelligence in organizations: A systematic literature review",
+          "volume": "60",
+          "author": "Lee",
+          "year": "2023",
+          "journal-title": "Information & Management"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0400",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Lent, R. W., & Brown, S. D. (2013). Understanding and facilitating career development in the 21st century. In Brown, S. D., & Lent, R. W. (Eds.). Career development and counseling: Putting theory and research to work (2nd ed.). 1-26.",
+          "DOI": "10.1002/9781394258994.ch1"
+        },
+        {
+          "issue": "103",
+          "key": "10.1016/j.jvb.2024.104011_bb0405",
+          "first-page": "448",
+          "article-title": "Career decision making, fast and slow: Toward an integrative model of intervention for sustainable career choice",
+          "volume": "120",
+          "author": "Lent",
+          "year": "2020",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "100",
+          "key": "10.1016/j.jvb.2024.104011_bb0410",
+          "first-page": "006",
+          "article-title": "Modeling the structural relationship among primary students’ motivation to learn artificial intelligence",
+          "volume": "2",
+          "author": "Lin",
+          "year": "2021",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0415",
+          "first-page": "19",
+          "article-title": "Towards interpretable automated machine learning for STEM career prediction",
+          "volume": "12",
+          "author": "Liu",
+          "year": "2020",
+          "journal-title": "Journal of Educational Data Mining"
+        },
+        {
+          "issue": "9",
+          "key": "10.1016/j.jvb.2024.104011_bb0420",
+          "doi-asserted-by": "crossref",
+          "first-page": "1940",
+          "DOI": "10.1108/IJPPM-08-2017-0212",
+          "article-title": "Can artificial neural networks predict lawyers’ performance rankings?",
+          "volume": "67",
+          "author": "Lopes",
+          "year": "2018",
+          "journal-title": "International Journal of Productivity and Performance Management"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0425",
+          "first-page": "329",
+          "article-title": "Career transitions: Varieties and commonalities",
+          "volume": "5",
+          "author": "Louis",
+          "year": "1980",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.jvb.2024.104011_bb0430",
+          "doi-asserted-by": "crossref",
+          "first-page": "4778",
+          "DOI": "10.3390/su11174778",
+          "article-title": "Social responsibility toward the employees and career development sustainability during manufacturing transformation in China",
+          "volume": "11",
+          "author": "Lu",
+          "year": "2019",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.jvb.2024.104011_bb0435",
+          "doi-asserted-by": "crossref",
+          "first-page": "10",
+          "DOI": "10.3390/su11102789",
+          "article-title": "Skill needs for early career researchers: A text mining approach",
+          "volume": "11",
+          "author": "Maer-Matei",
+          "year": "2019",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0440",
+          "first-page": "1",
+          "article-title": "Analysis of click-stream data to predict STEM careers from student usage of an intelligent tutoring system",
+          "volume": "12",
+          "author": "Makhlouf",
+          "year": "2020",
+          "journal-title": "Journal of Educational Data Mining"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jvb.2024.104011_bb0445",
+          "first-page": "1783",
+          "article-title": "Evaluation of students’ performance in educational sciences and prediction of future development using tensorflow",
+          "volume": "36",
+          "author": "Manikandan",
+          "year": "2020",
+          "journal-title": "International Journal of Engineering Education"
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.jvb.2024.104011_bb0450",
+          "doi-asserted-by": "crossref",
+          "first-page": "2273",
+          "DOI": "10.1080/03075079.2022.2061444",
+          "article-title": "Identifying skills, qualifications, and attributes expected to do a PhD",
+          "volume": "47",
+          "author": "Mantai",
+          "year": "2022",
+          "journal-title": "Studies in Higher Education"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0455",
+          "doi-asserted-by": "crossref",
+          "first-page": "353",
+          "DOI": "10.1108/IJILT-05-2022-0106",
+          "article-title": "Illustrating the application of a skills taxonomy, machine learning and online data to inform career and training decisions",
+          "volume": "40",
+          "author": "Mason",
+          "year": "2023",
+          "journal-title": "The International Journal of Information and Learning Technology"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0460",
+          "first-page": "143",
+          "article-title": "Barriers and effectiveness to counselling careers with artificial intelligence: A systematic literature review. Ricerche Di Pedagogia E Didattica. Journal of Theories and Research",
+          "volume": "18",
+          "author": "Muhammad",
+          "year": "2023",
+          "journal-title": "Education"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0465",
+          "article-title": "Fostering secondary school students’ AI literacy through making ai-driven recycling bins",
+          "volume": "1–32",
+          "author": "Ng",
+          "year": "2023",
+          "journal-title": "Education and Information Technologies"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0470",
+          "doi-asserted-by": "crossref",
+          "first-page": "23",
+          "DOI": "10.1108/00483488910133468",
+          "article-title": "Graduate entry and adjustment to corporate life",
+          "volume": "18",
+          "author": "Nicholson",
+          "year": "1989",
+          "journal-title": "Personnel Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0475",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1080/15391523.2020.1771640",
+          "article-title": "Feasibility and usability of MentorPal, a framework for rapid development of virtual mentors",
+          "volume": "53",
+          "author": "Nye",
+          "year": "2021",
+          "journal-title": "Journal of Research on Technology in Education"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0480",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1504/IJCEELL.2020.108541",
+          "article-title": "Conceptual clustering of university graduate students’ trajectories using formal concept analysis: A case study in Lebanon",
+          "volume": "30",
+          "author": "Obeid",
+          "year": "2020",
+          "journal-title": "International Journal of Continuing Engineering Education and Life-Long Learning"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0485",
+          "article-title": "Artificial intelligence in career development: A scoping review",
+          "volume": "1–21",
+          "author": "Pandya",
+          "year": "2024",
+          "journal-title": "Human Resource Development International"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0490",
+          "doi-asserted-by": "crossref",
+          "first-page": "83",
+          "DOI": "10.1016/j.susoc.2021.11.001",
+          "article-title": "Prediction of recommendations for employment utilizing machine learning procedures and geo-area based recommender framework",
+          "volume": "3",
+          "author": "Parida",
+          "year": "2022",
+          "journal-title": "Sustainable Operations and Computers"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0495",
+          "doi-asserted-by": "crossref",
+          "first-page": "109",
+          "DOI": "10.1007/s10798-023-09812-2",
+          "article-title": "Implementing artificial intelligence education for middle school technology education in Republic of Korea",
+          "volume": "34",
+          "author": "Park",
+          "year": "2024",
+          "journal-title": "International Journal of Technology and Design Education"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0500",
+          "doi-asserted-by": "crossref",
+          "first-page": "341",
+          "DOI": "10.1007/s11205-019-02249-y",
+          "article-title": "A statistical analysis of factors affecting higher education dropouts",
+          "volume": "156",
+          "author": "Perchinunno",
+          "year": "2021",
+          "journal-title": "Social Indicators Research"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0505",
+          "doi-asserted-by": "crossref",
+          "first-page": "100857",
+          "DOI": "10.1016/j.hrmr.2021.100857",
+          "article-title": "A systematic literature review on the impact of artificial intelligence on workplace outcomes: A multi-process perspective",
+          "volume": "33",
+          "author": "Pereira",
+          "year": "2023",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0510",
+          "doi-asserted-by": "crossref",
+          "first-page": "1169",
+          "DOI": "10.1108/PR-02-2021-0103",
+          "article-title": "Job attitudes and career behaviors relating to employees’ perceived incorporation of artificial intelligence in the workplace: A career self-management perspective",
+          "volume": "52",
+          "author": "Presbitero",
+          "year": "2022",
+          "journal-title": "Personnel Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0515",
+          "first-page": "178",
+          "article-title": "Digital skills research for tourism and hospitality staff",
+          "volume": "8",
+          "author": "Pshenichnykh",
+          "year": "2023",
+          "journal-title": "International Journal of Media and Information Literacy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0520",
+          "doi-asserted-by": "crossref",
+          "first-page": "815",
+          "DOI": "10.1186/s12909-022-03896-5",
+          "article-title": "Exploration of exposure to AI in undergraduate medical education: A Canadian cross-sectional mixed-methods study",
+          "volume": "22",
+          "author": "Pucchio",
+          "year": "2022",
+          "journal-title": "BMC Medical Education"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0525",
+          "unstructured": "PwC (2024). 27th annual global CEO survey. https://www.pwc.com/us/en/library/ceo-survey.html."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jvb.2024.104011_bb0530",
+          "doi-asserted-by": "crossref",
+          "first-page": "2378",
+          "DOI": "10.1108/BIJ-08-2021-0444",
+          "article-title": "The role of predictive analytics to explain the employability of management graduates",
+          "volume": "29",
+          "author": "Raman",
+          "year": "2021",
+          "journal-title": "Benchmarking: An International Journal"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0535",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1111/peps.12514",
+          "article-title": "A meta-analysis of the effects of electronic performance monitoring on work outcomes",
+          "volume": "76",
+          "author": "Ravid",
+          "year": "2023",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "104",
+          "key": "10.1016/j.jvb.2024.104011_bb0540",
+          "first-page": "867",
+          "article-title": "Tracking transdisciplinary skills in the design of online courses: A design-based research study",
+          "volume": "204",
+          "author": "Reilly",
+          "year": "2023",
+          "journal-title": "Computers & Education"
+        },
+        {
+          "issue": "103",
+          "key": "10.1016/j.jvb.2024.104011_bb0545",
+          "first-page": "561",
+          "article-title": "From vocational scholars to social justice advocates: Challenges and opportunities for vocational psychology research on the vulnerable workforce",
+          "volume": "126",
+          "author": "Restubog",
+          "year": "2021",
+          "journal-title": "Journal of Vocational Behavior"
+        },
+        {
+          "issue": "100",
+          "key": "10.1016/j.jvb.2024.104011_bb0550",
+          "first-page": "150",
+          "article-title": "The impact of adopting AI educational technologies on projected course satisfaction in university students",
+          "volume": "5",
+          "author": "Rodway",
+          "year": "2023",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "issue": "100",
+          "key": "10.1016/j.jvb.2024.104011_bb0555",
+          "first-page": "155",
+          "article-title": "Developing middle school students’ understanding of machine learning in an African school",
+          "volume": "5",
+          "author": "Sanusi",
+          "year": "2023",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0560",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1111/irel.12325",
+          "article-title": "Different degrees of skill obsolescence across hard and soft skills and the role of lifelong learning for labor market outcomes",
+          "volume": "62",
+          "author": "Schultheiss",
+          "year": "2023",
+          "journal-title": "Industrial Relations: A Journal of Economy and Society"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0565",
+          "doi-asserted-by": "crossref",
+          "first-page": "7997",
+          "DOI": "10.1007/s10639-023-12072-1",
+          "article-title": "Framework for suggesting corrective actions to help students intended at risk of low performance based on experimental study of college students using explainable machine learning model",
+          "volume": "29",
+          "author": "Singh",
+          "year": "2024",
+          "journal-title": "Education and Information Technologies"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0570",
+          "doi-asserted-by": "crossref",
+          "first-page": "65",
+          "DOI": "10.5815/ijmecs.2022.02.06",
+          "article-title": "Psychometric analysis using computational intelligence for smart choices",
+          "volume": "14",
+          "author": "Singla",
+          "year": "2022",
+          "journal-title": "International Journal of Modern Education and Computer Science"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0575",
+          "doi-asserted-by": "crossref",
+          "first-page": "790",
+          "DOI": "10.1109/TLT.2023.3291310",
+          "article-title": "Analytic study for predictor development on student participation in generic competence development activities based on academic performance",
+          "volume": "16",
+          "author": "So",
+          "year": "2023",
+          "journal-title": "IEEE Transactions on Learning Technologies"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0580",
+          "doi-asserted-by": "crossref",
+          "first-page": "295",
+          "DOI": "10.1111/peps.12529",
+          "article-title": "Investigating machine learning’s capacity to enhance the prediction of career choices",
+          "volume": "77",
+          "author": "Song",
+          "year": "2024",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0585",
+          "doi-asserted-by": "crossref",
+          "first-page": "241",
+          "DOI": "10.1111/jcal.12867",
+          "article-title": "AI literacy curriculum and its relation to children's perceptions of robots and attitudes towards engineering and science: An intervention study in early childhood education",
+          "volume": "40",
+          "author": "Su",
+          "year": "2023",
+          "journal-title": "Journal of Computer Assisted Learning"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0590",
+          "doi-asserted-by": "crossref",
+          "first-page": "100727",
+          "DOI": "10.1016/j.hrmr.2019.100727",
+          "article-title": "Making sense of different perspectives on career transitions: A review and agenda for future research",
+          "volume": "31",
+          "author": "Sullivan",
+          "year": "2021",
+          "journal-title": "Human Resource Management Review"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0595",
+          "series-title": "Handbook of career studies",
+          "first-page": "283",
+          "article-title": "Developmental career theories",
+          "author": "Sullivan",
+          "year": "2007"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0600",
+          "series-title": "The psychology of careers: An introduction to vocational development",
+          "author": "Super",
+          "year": "1957"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0605",
+          "doi-asserted-by": "crossref",
+          "first-page": "333",
+          "DOI": "10.1146/annurev.ps.29.020178.002001",
+          "article-title": "Career development: Exploration and planning",
+          "volume": "29",
+          "author": "Super",
+          "year": "1978",
+          "journal-title": "Annual Review of Psychology"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0610",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/33390",
+          "article-title": "Health care students’ perspectives on artificial intelligence: Countrywide survey in Canada",
+          "volume": "8",
+          "author": "Teng",
+          "year": "2022",
+          "journal-title": "JMIR Medical Education"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0615",
+          "doi-asserted-by": "crossref",
+          "first-page": "58",
+          "DOI": "10.1080/10528008.2021.1871849",
+          "article-title": "Teaching artificial intelligence and Machine Learning in Marketing",
+          "volume": "31",
+          "author": "Thontirawong",
+          "year": "2021",
+          "journal-title": "Marketing Education Review"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0620",
+          "doi-asserted-by": "crossref",
+          "first-page": "5233",
+          "DOI": "10.1038/s41598-019-41695-z",
+          "article-title": "From Louvain to Leiden: Guaranteeing well-connected communities",
+          "volume": "9",
+          "author": "Traag",
+          "year": "2019",
+          "journal-title": "Scientific Reports"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0625",
+          "doi-asserted-by": "crossref",
+          "first-page": "157",
+          "DOI": "10.1177/0894845317731158",
+          "article-title": "Capturing serendipity in careers: An evaluation of the planned happenstance career inventory with Lithuanian undergraduates",
+          "volume": "46",
+          "author": "Urbanaviciute",
+          "year": "2019",
+          "journal-title": "Journal of Career Development"
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.jvb.2024.104011_bb0630",
+          "article-title": "E-assessment and computer-aided prediction methodology for student admission test score",
+          "volume": "13",
+          "author": "Usman",
+          "year": "2017",
+          "journal-title": "EURASIA Journal of Mathematics, Science and Technology Education"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0635",
+          "series-title": "Handbook of research on sustainable careers",
+          "first-page": "1",
+          "article-title": "Sustainable careers: Introductory chapter",
+          "author": "Van der Heijden",
+          "year": "2015"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0640",
+          "doi-asserted-by": "crossref",
+          "first-page": "21",
+          "DOI": "10.1177/14407833221089365",
+          "article-title": "Younger generations’ expectations regarding artificial intelligence in the job market: Mapping accounts about the future relationship of automation and work",
+          "volume": "60",
+          "author": "Vicsek",
+          "year": "2024",
+          "journal-title": "Journal of Sociology"
+        },
+        {
+          "issue": "17",
+          "key": "10.1016/j.jvb.2024.104011_bb0645",
+          "doi-asserted-by": "crossref",
+          "first-page": "10994",
+          "DOI": "10.3390/su141710994",
+          "article-title": "Predictors of university attrition: Looking for an equitable and sustainable higher education",
+          "volume": "14",
+          "author": "Vidal",
+          "year": "2022",
+          "journal-title": "Sustainability"
+        },
+        {
+          "issue": "100",
+          "key": "10.1016/j.jvb.2024.104011_bb0650",
+          "first-page": "042",
+          "article-title": "Domain-specific NLP system to support learning path and curriculum design at tech universities",
+          "volume": "3",
+          "author": "Vo",
+          "year": "2022",
+          "journal-title": "Computers and Education: Artificial Intelligence"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0655",
+          "first-page": "333",
+          "article-title": "Students selection for university course admission at the joint admissions board (Kenya) using trained neural networks",
+          "volume": "10",
+          "author": "Wabwoba",
+          "year": "2011",
+          "journal-title": "Journal of Information Technology Education: Research"
+        },
+        {
+          "key": "10.1016/j.jvb.2024.104011_bb0660",
+          "series-title": "The effective and ethical development of artificial intelligence",
+          "author": "Walsh",
+          "year": "2019"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0670",
+          "doi-asserted-by": "crossref",
+          "first-page": "824",
+          "DOI": "10.1177/1521025119880819",
+          "article-title": "Use of data analytics in supporting the advising of undecided students",
+          "volume": "23",
+          "author": "Wang",
+          "year": "2022",
+          "journal-title": "Journal of College Student Retention: Research, Theory & Practice"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0665",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.2196/32183",
+          "article-title": "Technology literacy in undergraduate medical education: Review and survey of the US medical school innovation and technology programs",
+          "volume": "8",
+          "author": "Wang",
+          "year": "2022",
+          "journal-title": "JMIR Medical Education"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0675",
+          "doi-asserted-by": "crossref",
+          "first-page": "43",
+          "DOI": "10.22492/ije.9.4.03",
+          "article-title": "AI for career guidance: Current requirements and prospects for the future",
+          "volume": "9",
+          "author": "Westman",
+          "year": "2021",
+          "journal-title": "IAFOR Journal of Education"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0680",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.1177/09504222211009180",
+          "article-title": "Technology driven change in the retail sector: Implications for higher education",
+          "volume": "36",
+          "author": "Woods",
+          "year": "2022",
+          "journal-title": "Industry and Higher Education"
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.jvb.2024.104011_bb0685",
+          "doi-asserted-by": "crossref",
+          "first-page": "101518",
+          "DOI": "10.1016/j.leaqua.2021.101518",
+          "article-title": "Crisis leadership: A review and future research agenda",
+          "volume": "32",
+          "author": "Wu",
+          "year": "2021",
+          "journal-title": "The Leadership Quarterly"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0690",
+          "doi-asserted-by": "crossref",
+          "first-page": "654",
+          "DOI": "10.1177/1069072713515628",
+          "article-title": "Relation of environmental and self-career exploration with career decision-making difficulties in Chinese students",
+          "volume": "22",
+          "author": "Xu",
+          "year": "2014",
+          "journal-title": "Journal of Career Assessment"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.jvb.2024.104011_bb0695",
+          "doi-asserted-by": "crossref",
+          "first-page": "374",
+          "DOI": "10.1080/10668926.2021.1876782",
+          "article-title": "Jobs at risk of automation in the USA: Implications for community colleges",
+          "volume": "46",
+          "author": "Yamashita",
+          "year": "2022",
+          "journal-title": "Community College Journal of Research and Practice"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0700",
+          "doi-asserted-by": "crossref",
+          "first-page": "1117",
+          "DOI": "10.1007/s10639-022-11185-3",
+          "article-title": "Using institutional data and messages on social media to predict the career decisions of university students - a data-driven approach",
+          "volume": "28",
+          "author": "Yang",
+          "year": "2023",
+          "journal-title": "Education and Information Technologies"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.jvb.2024.104011_bb0705",
+          "first-page": "280",
+          "article-title": "Using an institutional research perspective to predict undergraduate students’ career decisions in the practice of precision education",
+          "volume": "24",
+          "author": "Yang",
+          "year": "2021",
+          "journal-title": "Educational Technology & Society"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.jvb.2024.104011_bb0710",
+          "doi-asserted-by": "crossref",
+          "first-page": "317",
+          "DOI": "10.1007/s40593-019-00175-1",
+          "article-title": "Incorporating features learned by an enhanced deep knowledge tracing model for STEM/Non-STEM job prediction",
+          "volume": "29",
+          "author": "Yeung",
+          "year": "2019",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0715",
+          "doi-asserted-by": "crossref",
+          "first-page": "2557",
+          "DOI": "10.1007/s11192-023-04660-2",
+          "article-title": "Impact of field of study on authors’ citation trend",
+          "volume": "128",
+          "author": "Zafar",
+          "year": "2023",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0725",
+          "doi-asserted-by": "crossref",
+          "first-page": "264",
+          "DOI": "10.1080/19368623.2023.2166186",
+          "article-title": "How does smart technology, artificial intelligence, automation, robotics, and algorithms awareness affect hotel employees’ career perceptions? A disruptive innovation theory perspective",
+          "volume": "32",
+          "author": "Zhang",
+          "year": "2023",
+          "journal-title": "Journal of Hospitality Marketing & Management"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.jvb.2024.104011_bb0720",
+          "doi-asserted-by": "crossref",
+          "first-page": "290",
+          "DOI": "10.1007/s40593-022-00293-3",
+          "article-title": "Integrating ethics and career futures with technical learning to promote AI literacy for middle school students: An Exploratory Study",
+          "volume": "33",
+          "author": "Zhang",
+          "year": "2023",
+          "journal-title": "International Journal of Artificial Intelligence in Education"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0730",
+          "doi-asserted-by": "crossref",
+          "first-page": "1867",
+          "DOI": "10.1007/s11192-022-04286-w",
+          "article-title": "Predicting the impact and publication date of individual scientists’ future papers",
+          "volume": "127",
+          "author": "Zhou",
+          "year": "2022",
+          "journal-title": "Scientometrics"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.jvb.2024.104011_bb0735",
+          "doi-asserted-by": "crossref",
+          "first-page": "454",
+          "DOI": "10.1002/asi.24415",
+          "article-title": "Understanding and predicting future research impact at different career stages - A social network perspective",
+          "volume": "72",
+          "author": "Zuo",
+          "year": "2021",
+          "journal-title": "Journal of the Association for Information Science and Technology"
+        }
+      ],
+      "container-title": [
+        "Journal of Vocational Behavior"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0001879124000526?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0001879124000526?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2024,
+            8,
+            22
+          ]
+        ],
+        "date-time": "2024-08-22T21:34:57Z",
+        "timestamp": 1724362497000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0001879124000526"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      },
+      "references-count": 147,
+      "alternative-id": [
+        "S0001879124000526"
+      ],
+      "URL": "https://doi.org/10.1016/j.jvb.2024.104011",
+      "relation": {},
+      "ISSN": [
+        "0001-8791"
+      ],
+      "issn-type": [
+        {
+          "value": "0001-8791",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            9
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Navigating career stages in the age of artificial intelligence: A systematic interdisciplinary review and agenda for future research",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Journal of Vocational Behavior",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.jvb.2024.104011",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2024 The Authors. Published by Elsevier Inc.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "104011"
+    }
+  }
+}

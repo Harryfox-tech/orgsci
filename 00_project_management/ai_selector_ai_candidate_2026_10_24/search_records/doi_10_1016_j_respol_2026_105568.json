@@ -1,0 +1,1144 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+    "checked_at": "2026-10-24T03:13:32.415435Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+    "content_type": "application/json"
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            22
+          ]
+        ],
+        "date-time": "2026-09-22T21:14:43Z",
+        "timestamp": 1790111683911,
+        "version": "4.0.1"
+      },
+      "reference-count": 73,
+      "publisher": "Elsevier BV",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2026-10-01T00:00:00Z",
+            "timestamp": 1790812800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Research Policy"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.respol.2026.105568",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            6,
+            25
+          ]
+        ],
+        "date-time": "2026-06-25T19:34:54Z",
+        "timestamp": 1782416094000
+      },
+      "page": "105568",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI"
+      ],
+      "prefix": "10.1016",
+      "volume": "55",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0003-7274-4471",
+          "authenticated-orcid": false,
+          "given": "Shaohui",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.respol.2026.105568_b1",
+          "series-title": "Climbing the ivory tower: How socio-economic background shapes academia",
+          "author": "Abramitzky",
+          "year": "2024"
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b2",
+          "series-title": "Handbook of Labor Economics",
+          "doi-asserted-by": "crossref",
+          "first-page": "1043",
+          "DOI": "10.1016/S0169-7218(11)02410-5",
+          "article-title": "Skills, tasks and technologies: Implications for employment and earnings",
+          "volume": "vol. 4",
+          "author": "Acemoglu",
+          "year": "2011"
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b3",
+          "doi-asserted-by": "crossref",
+          "first-page": "48",
+          "DOI": "10.1257/pandp.20181020",
+          "article-title": "Modeling automation",
+          "volume": "108",
+          "author": "Acemoglu",
+          "year": "2018",
+          "journal-title": "AEA Pap. Proc."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b4",
+          "doi-asserted-by": "crossref",
+          "first-page": "3",
+          "DOI": "10.1257/jep.33.2.3",
+          "article-title": "Automation and new tasks: How technology displaces and reinstates labor",
+          "volume": "33",
+          "author": "Acemoglu",
+          "year": "2019",
+          "journal-title": "J. Econ. Perspect."
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b5",
+          "doi-asserted-by": "crossref",
+          "first-page": "356",
+          "DOI": "10.1257/pandp.20201063",
+          "article-title": "Unpacking skill bias: Automation and new tasks",
+          "volume": "110",
+          "author": "Acemoglu",
+          "year": "2020",
+          "journal-title": "AEA Pap. Proc."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b6",
+          "doi-asserted-by": "crossref",
+          "first-page": "1973",
+          "DOI": "10.3982/ECTA19815",
+          "article-title": "Tasks, automation, and the rise in US wage inequality",
+          "volume": "90",
+          "author": "Acemoglu",
+          "year": "2022",
+          "journal-title": "Econometrica"
+        },
+        {
+          "issue": "Supplement_1",
+          "key": "10.1016/j.respol.2026.105568_b7",
+          "doi-asserted-by": "crossref",
+          "first-page": "i906",
+          "DOI": "10.1093/ooec/odad082",
+          "article-title": "A task-based approach to inequality",
+          "volume": "3",
+          "author": "Acemoglu",
+          "year": "2024",
+          "journal-title": "Oxf. Open Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b8",
+          "doi-asserted-by": "crossref",
+          "first-page": "617",
+          "DOI": "10.1111/j.1756-2171.2008.00031.x",
+          "article-title": "Academic freedom, private-sector focus, and the process of innovation",
+          "volume": "39",
+          "author": "Aghion",
+          "year": "2008",
+          "journal-title": "Rand J. Econ."
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b9",
+          "series-title": "The economics of Artificial Intelligence: An Agenda",
+          "year": "2019"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b10",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.respol.2024.104989",
+          "article-title": "Artificial intelligence and scientific discovery: A model of prioritized search",
+          "volume": "53",
+          "author": "Agrawal",
+          "year": "2024",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.respol.2026.105568_b11",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.18564/jasss.2927",
+          "article-title": "Modelling research policy: Ex-ante evaluation of complex policy instruments",
+          "volume": "18",
+          "author": "Ahrweiler",
+          "year": "2015",
+          "journal-title": "J. Artif. Soc. Soc. Simul."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b12",
+          "doi-asserted-by": "crossref",
+          "first-page": "488",
+          "DOI": "10.2307/1879431",
+          "article-title": "The market for “lemons”: Quality uncertainty and the market mechanism",
+          "volume": "84",
+          "author": "Akerlof",
+          "year": "1970",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b13",
+          "doi-asserted-by": "crossref",
+          "first-page": "225",
+          "DOI": "10.2307/1927286",
+          "article-title": "Capital-labor substitution and economic efficiency",
+          "volume": "43",
+          "author": "Arrow",
+          "year": "1961",
+          "journal-title": "Rev. Econ. Stat."
+        },
+        {
+          "issue": "8",
+          "key": "10.1016/j.respol.2026.105568_b14",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.respol.2024.105075",
+          "article-title": "Unexpectedness in medical research",
+          "volume": "53",
+          "author": "Aslan",
+          "year": "2024",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.respol.2026.105568_b15",
+          "doi-asserted-by": "crossref",
+          "first-page": "1279",
+          "DOI": "10.1162/003355303322552801",
+          "article-title": "The skill content of recent technological change: An empirical exploration",
+          "volume": "118",
+          "author": "Autor",
+          "year": "2003",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b16",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1111/j.1756-2171.2011.00140.x",
+          "article-title": "Incentives and creativity: Evidence from the academic life sciences",
+          "volume": "42",
+          "author": "Azoulay",
+          "year": "2011",
+          "journal-title": "Rand J. Econ."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b17",
+          "doi-asserted-by": "crossref",
+          "first-page": "39",
+          "DOI": "10.1162/003355302753399445",
+          "article-title": "Relational contracts and the theory of the firm",
+          "volume": "117",
+          "author": "Baker",
+          "year": "2002",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "7",
+          "key": "10.1016/j.respol.2026.105568_b18",
+          "doi-asserted-by": "crossref",
+          "first-page": "1823",
+          "DOI": "10.1016/j.respol.2019.04.008",
+          "article-title": "Evaluation in research funding agencies: Are structurally diverse teams biased against?",
+          "volume": "48",
+          "author": "Banal-Estañol",
+          "year": "2019",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b19",
+          "doi-asserted-by": "crossref",
+          "first-page": "219",
+          "DOI": "10.1007/s11238-020-09785-x",
+          "article-title": "Signal extraction: Experimental evidence",
+          "volume": "90",
+          "author": "Bao",
+          "year": "2021",
+          "journal-title": "Theory and Decision"
+        },
+        {
+          "issue": "5, Part 2",
+          "key": "10.1016/j.respol.2026.105568_b20",
+          "doi-asserted-by": "crossref",
+          "first-page": "9",
+          "DOI": "10.1086/258724",
+          "article-title": "Investment in human capital: A theoretical analysis",
+          "volume": "70",
+          "author": "Becker",
+          "year": "1962",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.respol.2026.105568_b21",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.respol.2022.104604",
+          "article-title": "Artificial intelligence in science: An emerging general method of invention",
+          "volume": "51",
+          "author": "Bianchini",
+          "year": "2022",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b22",
+          "doi-asserted-by": "crossref",
+          "first-page": "490",
+          "DOI": "10.1093/restud/rdu036",
+          "article-title": "Relational contracts in competitive labour markets",
+          "volume": "82",
+          "author": "Board",
+          "year": "2015",
+          "journal-title": "Rev. Econ. Stud."
+        },
+        {
+          "issue": "19",
+          "key": "10.1016/j.respol.2026.105568_b23",
+          "doi-asserted-by": "crossref",
+          "first-page": "4887",
+          "DOI": "10.1073/pnas.1719557115",
+          "article-title": "The Matthew effect in science funding",
+          "volume": "115",
+          "author": "Bol",
+          "year": "2018",
+          "journal-title": "Proc. Natl. Acad. Sci."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b24",
+          "doi-asserted-by": "crossref",
+          "first-page": "889",
+          "DOI": "10.1093/qje/qjae044",
+          "article-title": "Generative AI at work",
+          "volume": "140",
+          "author": "Brynjolfsson",
+          "year": "2025",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.respol.2026.105568_b25",
+          "first-page": "869",
+          "article-title": "The San Francisco declaration on research assessment",
+          "volume": "6",
+          "author": "Cagan",
+          "year": "2013",
+          "journal-title": "Dis. Model. Mech."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.respol.2026.105568_b26",
+          "doi-asserted-by": "crossref",
+          "first-page": "7022",
+          "DOI": "10.1287/mnsc.2022.4654",
+          "article-title": "Reputation, competition, and lies in labor market recommendations",
+          "volume": "69",
+          "author": "Câmara",
+          "year": "2023",
+          "journal-title": "Manag. Sci."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b27",
+          "doi-asserted-by": "crossref",
+          "first-page": "144",
+          "DOI": "10.1257/jel.51.1.144",
+          "article-title": "Nine facts about top journals in economics",
+          "volume": "51",
+          "author": "Card",
+          "year": "2013",
+          "journal-title": "J. Econ. Lit."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b28",
+          "doi-asserted-by": "crossref",
+          "first-page": "125",
+          "DOI": "10.1111/jems.12048",
+          "article-title": "Behind the scenes: Sources of complementarity in R&D",
+          "volume": "23",
+          "author": "Ceccagnoli",
+          "year": "2014",
+          "journal-title": "J. Econ. Manag. Strat."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b29",
+          "doi-asserted-by": "crossref",
+          "first-page": "448",
+          "DOI": "10.1257/aer.100.1.448",
+          "article-title": "Building routines: Learning, cooperation, and the dynamics of incomplete relational contracts",
+          "volume": "100",
+          "author": "Chassang",
+          "year": "2010",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b30",
+          "doi-asserted-by": "crossref",
+          "first-page": "128",
+          "DOI": "10.2307/2393553",
+          "article-title": "Absorptive capacity: A new perspective on learning and innovation",
+          "volume": "35",
+          "author": "Cohen",
+          "year": "1990",
+          "journal-title": "Adm. Sci. Q."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b31",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1016/S0047-2727(98)00058-9",
+          "article-title": "Class systems and the enforcement of social norms",
+          "volume": "70",
+          "author": "Cole",
+          "year": "1998",
+          "journal-title": "J. Public Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b32",
+          "doi-asserted-by": "crossref",
+          "first-page": "205",
+          "DOI": "10.1257/jep.28.3.205",
+          "article-title": "The research productivity of new PhDs in economics: The surprisingly high non-success of the successful",
+          "volume": "28",
+          "author": "Conley",
+          "year": "2014",
+          "journal-title": "J. Econ. Perspect."
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b33",
+          "doi-asserted-by": "crossref",
+          "first-page": "114",
+          "DOI": "10.1016/j.jet.2013.10.009",
+          "article-title": "Market signaling with grades",
+          "volume": "151",
+          "author": "Daley",
+          "year": "2014",
+          "journal-title": "J. Econom. Theory"
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b34",
+          "series-title": "Optimal statistical decisions",
+          "author": "DeGroot",
+          "year": "1970"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b35",
+          "doi-asserted-by": "crossref",
+          "first-page": "403",
+          "DOI": "10.1287/orsc.2025.21838",
+          "article-title": "Navigating the jagged technological frontier: Field experimental evidence of the effects of artificial intelligence on knowledge worker productivity and quality",
+          "volume": "37",
+          "author": "Dell’Acqua",
+          "year": "2026",
+          "journal-title": "Organ. Sci."
+        },
+        {
+          "issue": "28",
+          "key": "10.1016/j.respol.2026.105568_b36",
+          "doi-asserted-by": "crossref",
+          "first-page": "eadn5290",
+          "DOI": "10.1126/sciadv.adn5290",
+          "article-title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+          "volume": "10",
+          "author": "Doshi",
+          "year": "2024",
+          "journal-title": "Sci. Adv."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b37",
+          "doi-asserted-by": "crossref",
+          "first-page": "51",
+          "DOI": "10.1089/ees.2016.0223",
+          "article-title": "Academic research in the 21st century: Maintaining scientific integrity in a climate of perverse incentives and hypercompetition",
+          "volume": "34",
+          "author": "Edwards",
+          "year": "2017",
+          "journal-title": "Environ. Eng. Sci."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b38",
+          "doi-asserted-by": "crossref",
+          "first-page": "947",
+          "DOI": "10.1086/341868",
+          "article-title": "The slowdown of the economics publishing process",
+          "volume": "110",
+          "author": "Ellison",
+          "year": "2002",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "11",
+          "key": "10.1016/j.respol.2026.105568_b39",
+          "doi-asserted-by": "crossref",
+          "first-page": "3780",
+          "DOI": "10.1257/aer.20171939",
+          "article-title": "Training and effort dynamics in apprenticeship",
+          "volume": "109",
+          "author": "Fudenberg",
+          "year": "2019",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b40",
+          "doi-asserted-by": "crossref",
+          "first-page": "538",
+          "DOI": "10.1287/mnsc.2024.05684",
+          "article-title": "Roles of artificial intelligence in collaboration with humans: Automation, augmentation, and the future of work",
+          "volume": "72",
+          "author": "Fügener",
+          "year": "2025",
+          "journal-title": "Manag. Sci."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b41",
+          "doi-asserted-by": "crossref",
+          "first-page": "874",
+          "DOI": "10.1086/317671",
+          "article-title": "Hierarchies and the organization of knowledge in production",
+          "volume": "108",
+          "author": "Garicano",
+          "year": "2000",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b42",
+          "series-title": "Bayesian Data Analysis",
+          "author": "Gelman",
+          "year": "2013"
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b43",
+          "series-title": "R&D capital and the idea production function",
+          "author": "Growiec",
+          "year": "2023"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b44",
+          "doi-asserted-by": "crossref",
+          "first-page": "162",
+          "DOI": "10.1257/jel.51.1.162",
+          "article-title": "Six decades of top economics publishing: Who and how?",
+          "volume": "51",
+          "author": "Hamermesh",
+          "year": "2013",
+          "journal-title": "J. Econ. Lit."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b45",
+          "doi-asserted-by": "crossref",
+          "first-page": "419",
+          "DOI": "10.1257/jel.20191574",
+          "article-title": "Publishing and promotion in economics: The tyranny of the top five",
+          "volume": "58",
+          "author": "Heckman",
+          "year": "2020",
+          "journal-title": "J. Econ. Lit."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b46",
+          "first-page": "225",
+          "article-title": "Dynamic noisy signaling",
+          "volume": "10",
+          "author": "Heinsalu",
+          "year": "2018",
+          "journal-title": "Am. Econ. J.: Microeconomics"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b47",
+          "doi-asserted-by": "crossref",
+          "first-page": "251",
+          "DOI": "10.1016/j.respol.2011.09.007",
+          "article-title": "Performance-based university research funding systems",
+          "volume": "41",
+          "author": "Hicks",
+          "year": "2012",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "7548",
+          "key": "10.1016/j.respol.2026.105568_b48",
+          "doi-asserted-by": "crossref",
+          "first-page": "429",
+          "DOI": "10.1038/520429a",
+          "article-title": "Bibliometrics: The Leiden manifesto for research metrics",
+          "volume": "520",
+          "author": "Hicks",
+          "year": "2015",
+          "journal-title": "Nature"
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b49",
+          "doi-asserted-by": "crossref",
+          "first-page": "1111",
+          "DOI": "10.1093/qje/qjaf010",
+          "article-title": "Race to the bottom: Competition and quality in science",
+          "volume": "140",
+          "author": "Hill",
+          "year": "2025",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "special_issue",
+          "key": "10.1016/j.respol.2026.105568_b50",
+          "doi-asserted-by": "crossref",
+          "first-page": "24",
+          "DOI": "10.1093/jleo/7.special_issue.24",
+          "article-title": "Multitask principal–agent analyses: Incentive contracts, asset ownership, and job design",
+          "volume": "7",
+          "author": "Holmstrom",
+          "year": "1991",
+          "journal-title": "J. Law, Econ. Organ."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b51",
+          "doi-asserted-by": "crossref",
+          "first-page": "290",
+          "DOI": "10.1111/j.1542-4774.2010.01047.x",
+          "article-title": "Job market signaling of relative position, or Becker married to Spence",
+          "volume": "10",
+          "author": "Hopkins",
+          "year": "2012",
+          "journal-title": "J. Eur. Econ. Assoc."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b52",
+          "doi-asserted-by": "crossref",
+          "first-page": "688",
+          "DOI": "10.1111/joes.12508",
+          "article-title": "Is everything relative? A survey of the theory of matching tournaments",
+          "volume": "37",
+          "author": "Hopkins",
+          "year": "2023",
+          "journal-title": "J. Econ. Surv."
+        },
+        {
+          "issue": "2",
+          "key": "10.1016/j.respol.2026.105568_b53",
+          "doi-asserted-by": "crossref",
+          "first-page": "191",
+          "DOI": "10.1257/jep.35.2.191",
+          "article-title": "The rise of research teams: Benefits and costs in economics",
+          "volume": "35",
+          "author": "Jones",
+          "year": "2021",
+          "journal-title": "J. Econ. Perspect."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b54",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1016/0304-4076(78)90006-4",
+          "article-title": "Stochastic specification of production functions and economic implications",
+          "volume": "7",
+          "author": "Just",
+          "year": "1978",
+          "journal-title": "J. Econometrics"
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.respol.2026.105568_b55",
+          "doi-asserted-by": "crossref",
+          "first-page": "1945",
+          "DOI": "10.1016/j.respol.2016.08.004",
+          "article-title": "Emergent phenomena in scientific publishing: A simulation exercise",
+          "volume": "45",
+          "author": "Kapeller",
+          "year": "2016",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.respol.2026.105568_b56",
+          "doi-asserted-by": "crossref",
+          "first-page": "1281",
+          "DOI": "10.1257/jel.20231736",
+          "article-title": "Generative AI for economic research: Use cases and implications for economists",
+          "volume": "61",
+          "author": "Korinek",
+          "year": "2023",
+          "journal-title": "J. Econ. Lit."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b57",
+          "first-page": "284",
+          "article-title": "Learning in relational contracts",
+          "volume": "14",
+          "author": "Kostadinov",
+          "year": "2022",
+          "journal-title": "Am. Econ. J.: Microeconomics"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b58",
+          "doi-asserted-by": "crossref",
+          "first-page": "551",
+          "DOI": "10.2307/2118400",
+          "article-title": "The O-ring theory of economic development",
+          "volume": "108",
+          "author": "Kremer",
+          "year": "1993",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b59",
+          "doi-asserted-by": "crossref",
+          "first-page": "841",
+          "DOI": "10.1086/261010",
+          "article-title": "Rank-order tournaments as optimum labor contracts",
+          "volume": "89",
+          "author": "Lazear",
+          "year": "1981",
+          "journal-title": "J. Political Econ."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b60",
+          "doi-asserted-by": "crossref",
+          "first-page": "835",
+          "DOI": "10.1257/000282803322157115",
+          "article-title": "Relational incentive contracts",
+          "volume": "93",
+          "author": "Levin",
+          "year": "2003",
+          "journal-title": "Am. Econ. Rev."
+        },
+        {
+          "issue": "6",
+          "key": "10.1016/j.respol.2026.105568_b61",
+          "doi-asserted-by": "crossref",
+          "first-page": "741",
+          "DOI": "10.1016/S0048-7333(99)00047-5",
+          "article-title": "PhD job market: Professional trajectories and incentives during the PhD",
+          "volume": "29",
+          "author": "Mangematin",
+          "year": "2000",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b62",
+          "doi-asserted-by": "crossref",
+          "first-page": "1823",
+          "DOI": "10.1111/j.1540-6261.2011.01688.x",
+          "article-title": "Motivating innovation",
+          "volume": "66",
+          "author": "Manso",
+          "year": "2011",
+          "journal-title": "J. Financ."
+        },
+        {
+          "issue": "3810",
+          "key": "10.1016/j.respol.2026.105568_b63",
+          "doi-asserted-by": "crossref",
+          "first-page": "56",
+          "DOI": "10.1126/science.159.3810.56",
+          "article-title": "The Matthew effect in science: The reward and communication systems of science are considered",
+          "volume": "159",
+          "author": "Merton",
+          "year": "1968",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "6654",
+          "key": "10.1016/j.respol.2026.105568_b64",
+          "doi-asserted-by": "crossref",
+          "first-page": "187",
+          "DOI": "10.1126/science.adh2586",
+          "article-title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+          "volume": "381",
+          "author": "Noy",
+          "year": "2023",
+          "journal-title": "Science"
+        },
+        {
+          "issue": "03n04",
+          "key": "10.1016/j.respol.2026.105568_b65",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1142/S0219525918500145",
+          "article-title": "Talent vs luck: The role of randomness in success and failure",
+          "volume": "21",
+          "author": "Pluchino",
+          "year": "2018",
+          "journal-title": "Adv. Complex Syst."
+        },
+        {
+          "issue": "10",
+          "key": "10.1016/j.respol.2026.105568_b66",
+          "doi-asserted-by": "crossref",
+          "first-page": "1827",
+          "DOI": "10.1016/j.respol.2015.06.006",
+          "article-title": "What is an emerging technology?",
+          "volume": "44",
+          "author": "Rotolo",
+          "year": "2015",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "5",
+          "key": "10.1016/j.respol.2026.105568_b67",
+          "doi-asserted-by": "crossref",
+          "first-page": "648",
+          "DOI": "10.1002/job.1822",
+          "article-title": "When does centrality matter? Scientific productivity and the moderating role of research specialization and cross-community ties",
+          "volume": "34",
+          "author": "Rotolo",
+          "year": "2013",
+          "journal-title": "J. Organ. Behav."
+        },
+        {
+          "key": "10.1016/j.respol.2026.105568_b68",
+          "series-title": "Socioeconomic diversity of economics PhDs",
+          "author": "Schultz",
+          "year": "2022"
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b69",
+          "doi-asserted-by": "crossref",
+          "first-page": "355",
+          "DOI": "10.2307/1882010",
+          "article-title": "Job market signaling",
+          "volume": "87",
+          "author": "Spence",
+          "year": "1973",
+          "journal-title": "Q. J. Econ."
+        },
+        {
+          "issue": "4",
+          "key": "10.1016/j.respol.2026.105568_b70",
+          "doi-asserted-by": "crossref",
+          "first-page": "207",
+          "DOI": "10.1257/jep.37.4.207",
+          "article-title": "The economics profession’s socioeconomic diversity problem",
+          "volume": "37",
+          "author": "Stansbury",
+          "year": "2023",
+          "journal-title": "J. Econ. Perspect."
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b71",
+          "doi-asserted-by": "crossref",
+          "first-page": "515",
+          "DOI": "10.1287/mnsc.2022.03968",
+          "article-title": "Reskilling the workforce for AI: Domain expertise and algorithmic literacy",
+          "volume": "72",
+          "author": "Tambe",
+          "year": "2025",
+          "journal-title": "Manag. Sci."
+        },
+        {
+          "issue": "3",
+          "key": "10.1016/j.respol.2026.105568_b72",
+          "doi-asserted-by": "crossref",
+          "first-page": "443",
+          "DOI": "10.1016/j.respol.2003.09.005",
+          "article-title": "Institutionalized biases in the award of research grants: A preliminary analysis revisiting the principle of accumulative advantage",
+          "volume": "33",
+          "author": "Viner",
+          "year": "2004",
+          "journal-title": "Res. Policy"
+        },
+        {
+          "issue": "1",
+          "key": "10.1016/j.respol.2026.105568_b73",
+          "doi-asserted-by": "crossref",
+          "first-page": "631",
+          "DOI": "10.1146/annurev-economics-090820-110736",
+          "article-title": "Theoretical foundations of relational incentive contracts",
+          "volume": "13",
+          "author": "Watson",
+          "year": "2021",
+          "journal-title": "Annu. Rev. Econ."
+        }
+      ],
+      "container-title": [
+        "Research Policy"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0048733326001599?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0048733326001599?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            12
+          ]
+        ],
+        "date-time": "2026-09-12T04:09:00Z",
+        "timestamp": 1789186140000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0048733326001599"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "references-count": 73,
+      "journal-issue": {
+        "issue": "8",
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              10
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "S0048733326001599"
+      ],
+      "URL": "https://doi.org/10.1016/j.respol.2026.105568",
+      "relation": {},
+      "ISSN": [
+        "0048-7333"
+      ],
+      "issn-type": [
+        {
+          "value": "0048-7333",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            10
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Research Policy",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.respol.2026.105568",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "105568"
+    }
+  }
+}

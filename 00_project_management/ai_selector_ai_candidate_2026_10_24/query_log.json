@@ -1,0 +1,205 @@
+[
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2404.13076",
+    "checked_at": "2026-10-24T03:10:47.684791Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2501.16355",
+    "checked_at": "2026-10-24T03:10:47.912707Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2502.13221",
+    "checked_at": "2026-10-24T03:10:47.785602Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2509.00462",
+    "checked_at": "2026-10-24T03:10:47.555352Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2604.06047",
+    "checked_at": "2026-10-24T03:10:48.897689Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2604.06688",
+    "checked_at": "2026-10-24T03:10:48.038521Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2604.06996",
+    "checked_at": "2026-10-24T03:10:48.525945Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2604.23897",
+    "checked_at": "2026-10-24T03:10:48.166257Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2605.27371",
+    "checked_at": "2026-10-24T03:10:48.771459Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2608.18091",
+    "checked_at": "2026-10-24T03:10:48.404324Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2608.26582",
+    "checked_at": "2026-10-24T03:10:48.268214Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2609.09776",
+    "checked_at": "2026-10-24T03:10:49.025277Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "arxiv",
+    "url": "https://arxiv.org/abs/2609.21325",
+    "checked_at": "2026-10-24T03:10:48.647186Z",
+    "http_status": null,
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=AI+self+preferencing+algorithmic+hiring&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:39.717013Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=AI+self+preferencing+algorithmic+hiring&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=LLM+hiring+strategic+manipulation+model+choice&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:40.827875Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=LLM+hiring+strategic+manipulation+model+choice&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=LLM+judge+generator+co+evolution&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:41.914558Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=LLM+judge+generator+co+evolution&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=AI+agent+labor+market+evaluation+reputation&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:42.948948Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=AI+agent+labor+market+evaluation+reputation&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=LLM+judge+reward+overoptimization&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:43.960987Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=LLM+judge+reward+overoptimization&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "openalex",
+    "url": "https://api.openalex.org/works?search=algorithmic+monoculture+hiring&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "checked_at": "2026-10-24T03:10:44.928877Z",
+    "http_status": 200,
+    "final_url": "https://api.openalex.org/works?search=algorithmic+monoculture+hiring&per-page=8&filter=from_publication_date%3A2021-01-01%2Cto_publication_date%3A2026-10-24",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+    "checked_at": "2026-10-24T03:13:32.415435Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1037/a0026078",
+    "checked_at": "2026-10-24T03:10:46.534689Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1037/a0026078",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/phpe.70018",
+    "checked_at": "2026-10-24T03:10:46.857977Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+    "checked_at": "2026-10-24T03:10:45.891522Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+    "checked_at": "2026-10-24T03:10:45.891522Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.18653/v1/2025.acl-long.649",
+    "checked_at": "2026-10-24T03:13:31.743232Z",
+    "http_status": 429,
+    "error": "HTTP Error 429: Too Many Requests",
+    "retry_after": null
+  },
+  {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+    "checked_at": "2026-10-24T03:13:31.743232Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+    "content_type": "application/json"
+  },
+  {
+    "platform": "pmlr",
+    "url": "https://proceedings.mlr.press/v350/ebling26a.html",
+    "checked_at": "2026-10-24T03:10:49.126689Z",
+    "http_status": 200,
+    "final_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+    "content_type": "text/html; charset=utf-8"
+  }
+]

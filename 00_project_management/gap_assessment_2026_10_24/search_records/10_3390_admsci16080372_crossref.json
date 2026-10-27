@@ -1,0 +1,922 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.3390/admsci16080372",
+    "checked_at": "2026-10-24T02:27:41.747640Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            6
+          ]
+        ],
+        "date-time": "2026-10-06T05:45:02Z",
+        "timestamp": 1791265502088,
+        "version": "4.1.0"
+      },
+      "reference-count": 64,
+      "publisher": "MDPI AG",
+      "issue": "8",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                3
+              ]
+            ],
+            "date-time": "2026-08-03T00:00:00Z",
+            "timestamp": 1785715200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "funder": [
+        {
+          "name": "University Grants Committee (UGC), Hong Kong"
+        },
+        {
+          "id": [
+            {
+              "id": "https://ror.org/00djwmt25",
+              "id-type": "ROR",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Adm. Sci.",
+        "Administrative Sciences"
+      ],
+      "abstract": "<jats:p>AI-enabled simulation platforms are increasingly used for talent development, offering scalable, low-risk practice and algorithmic feedback for interpersonal HR capabilities such as difficult conversations, negotiation, and consultation. Yet HRD evaluation cautions that within-platform improvement may not transfer to authentic interactions once dashboards and metrics disappear. We conceptualize AI-enabled simulation training as metricized scaffolding and integrate scaffolding theory with exploration–exploitation learning dynamics to explain when algorithmic supports fade into self-regulation rather than produce metric adaptation (score chasing). We introduce Algorithmic Feedback Literacy (AFL)—learners’ capability to interpret algorithmic feedback, calibrate its authority, and translate cues into portable self-scaffolds—as a mechanism linking metricized practice to transfer. We test this model in an AI-enabled virtual internship and career development program that combines repeated simulation attempts with an authentic consultation assessment. Using platform traces (592 attempts nested within 90 learners), instructor-rated consultation performance as a transfer outcome, and 102 learner reflections, we examine how distributed practice span and practice dose related to simulation gains and transfer, and how consultation complexity changes, which interactional behaviors predicted success. Distributed practice span predicted transfer beyond within-platform gains, while practice dose operated primarily through measurable simulation improvement. Complexity shifted performance relevance toward governance and boundary-setting behaviors. Qualitative evidence identified two developmental pathways: productive internalization, where learners converted metric cues into routines and mode-switching strategies, and metric adaptation, where learners optimized scores without internalizing broader professional judgment. We discuss design implications for AI-enabled HRD and retention-oriented capability building: cultivate AFL through transparency and calibration supports, design for deliberate fading, and pair metricized refinement with authentic assessments to strengthen transfer.</jats:p>",
+      "DOI": "10.3390/admsci16080372",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            3
+          ]
+        ],
+        "date-time": "2026-08-03T10:24:07Z",
+        "timestamp": 1785752647000
+      },
+      "page": "372",
+      "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "title": [
+        "Metricized Scaffolds: AI-Enabled Simulation Training and Transfer in Human Resource Development"
+      ],
+      "prefix": "10.3390",
+      "volume": "16",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-0079-7545",
+          "authenticated-orcid": false,
+          "given": "Nina",
+          "family": "Xie",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Management, Faculty of Business, Lingnan University, 8 Castle Peak Road, Tuen Mun, Hong Kong"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yujun",
+          "family": "Liu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Business, Lingnan University, 8 Castle Peak Road, Tuen Mun, Hong Kong"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2650-5691",
+          "authenticated-orcid": false,
+          "given": "Yuanyuan",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Management and Strategy, Lee Shau Kee School of Business and Administration, Hong Kong Metropolitan University, 30 Good Shepherd Street, Ho Man Tin, Kowloon, Hong Kong"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yiduo",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Faculty of Business, Lingnan University, 8 Castle Peak Road, Tuen Mun, Hong Kong"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "1968",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            3
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "ref_1",
+          "doi-asserted-by": "crossref",
+          "first-page": "451",
+          "DOI": "10.1146/annurev.psych.60.110707.163505",
+          "article-title": "Benefits of training and development for individuals and teams, organizations, and society",
+          "volume": "60",
+          "author": "Aguinis",
+          "year": "2009",
+          "journal-title": "Annual Review of Psychology"
+        },
+        {
+          "key": "ref_2",
+          "doi-asserted-by": "crossref",
+          "first-page": "318",
+          "DOI": "10.1177/0149206313484521",
+          "article-title": "How are we doing after 30 years? A meta-analytic review of the antecedents and outcomes of feedback-seeking behavior",
+          "volume": "41",
+          "author": "Anseel",
+          "year": "2015",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_3",
+          "doi-asserted-by": "crossref",
+          "first-page": "63",
+          "DOI": "10.1111/j.1744-6570.1988.tb00632.x",
+          "article-title": "Transfer of training: A review and directions for future research",
+          "volume": "41",
+          "author": "Baldwin",
+          "year": "1988",
+          "journal-title": "Personnel Psychology"
+        },
+        {
+          "key": "ref_4",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.3102/0034654316670999",
+          "article-title": "Synthesizing results from empirical research on computer-based scaffolding in STEM education: A meta-analysis",
+          "volume": "87",
+          "author": "Belland",
+          "year": "2017",
+          "journal-title": "Review of Educational Research"
+        },
+        {
+          "key": "ref_5",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1002/hrdq.21497",
+          "article-title": "The practice of manager as coach (MAC): Unequal power relations and their effect on feelings toward the organization",
+          "volume": "35",
+          "year": "2024",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_6",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Benlian, A., and Pinski, M. (Business Horizons, 2025). The AI literacy development canvas: Assessing and building AI literacy in organizations, Business Horizons, in press.",
+          "DOI": "10.1016/j.bushor.2025.10.001"
+        },
+        {
+          "key": "ref_7",
+          "doi-asserted-by": "crossref",
+          "first-page": "263",
+          "DOI": "10.1177/1523422314532091",
+          "article-title": "Introducing new perspectives on virtual human resource development",
+          "volume": "16",
+          "author": "Bennett",
+          "year": "2014",
+          "journal-title": "Advances in Developing Human Resources"
+        },
+        {
+          "key": "ref_8",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1177/15234223221079440",
+          "article-title": "Dancing in the paradox: Virtual human resource development, online teaching, and learning",
+          "volume": "24",
+          "author": "Bennett",
+          "year": "2022",
+          "journal-title": "Advances in Developing Human Resources"
+        },
+        {
+          "key": "ref_9",
+          "doi-asserted-by": "crossref",
+          "first-page": "1065",
+          "DOI": "10.1177/0149206309352880",
+          "article-title": "Transfer of training: A meta-analytic review",
+          "volume": "36",
+          "author": "Blume",
+          "year": "2010",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_10",
+          "doi-asserted-by": "crossref",
+          "first-page": "1589",
+          "DOI": "10.1287/orsc.2023.18430",
+          "article-title": "The crowdless future? Generative AI and creative problem-solving",
+          "volume": "35",
+          "author": "Boussioux",
+          "year": "2024",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "ref_11",
+          "doi-asserted-by": "crossref",
+          "first-page": "889",
+          "DOI": "10.1093/qje/qjae044",
+          "article-title": "Generative AI at work",
+          "volume": "140",
+          "author": "Brynjolfsson",
+          "year": "2025",
+          "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+          "key": "ref_12",
+          "doi-asserted-by": "crossref",
+          "first-page": "4",
+          "DOI": "10.5465/amle.2020.0512",
+          "article-title": "What about us? Fostering authenticity in entrepreneurship education",
+          "volume": "22",
+          "author": "Byrne",
+          "year": "2023",
+          "journal-title": "Academy of Management Learning & Education"
+        },
+        {
+          "key": "ref_13",
+          "doi-asserted-by": "crossref",
+          "first-page": "498",
+          "DOI": "10.1177/15344843241273316",
+          "article-title": "Responsible AI in organizational training: Applications, implications, and recommendations for future development",
+          "volume": "23",
+          "author": "Chen",
+          "year": "2024",
+          "journal-title": "Human Resource Development Review"
+        },
+        {
+          "key": "ref_14",
+          "doi-asserted-by": "crossref",
+          "first-page": "499",
+          "DOI": "10.3102/0034654320933544",
+          "article-title": "Simulation-based learning in higher education: A meta-analysis",
+          "volume": "90",
+          "author": "Chernikova",
+          "year": "2020",
+          "journal-title": "Review of Educational Research"
+        },
+        {
+          "key": "ref_15",
+          "doi-asserted-by": "crossref",
+          "first-page": "536",
+          "DOI": "10.1177/01492063231194968",
+          "article-title": "Human–AI ensembles: When can they work?",
+          "volume": "51",
+          "author": "Choudhary",
+          "year": "2025",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_16",
+          "doi-asserted-by": "crossref",
+          "first-page": "60",
+          "DOI": "10.19173/irrodl.v21i3.4638",
+          "article-title": "A meta-analysis of scaffolding effects in online learning in higher education",
+          "volume": "21",
+          "author": "Doo",
+          "year": "2020",
+          "journal-title": "The International Review of Research in Open and Distributed Learning"
+        },
+        {
+          "key": "ref_17",
+          "doi-asserted-by": "crossref",
+          "first-page": "199",
+          "DOI": "10.1177/15344843231224009",
+          "article-title": "Artificial intelligence and automation in human resource development: A systematic review",
+          "volume": "23",
+          "author": "Ekuma",
+          "year": "2024",
+          "journal-title": "Human Resource Development Review"
+        },
+        {
+          "key": "ref_18",
+          "doi-asserted-by": "crossref",
+          "first-page": "209",
+          "DOI": "10.5465/amle.2020.0041",
+          "article-title": "Adjusting the sails: Investigating the feedback loop of the opportunity development process in entrepreneurship training",
+          "volume": "21",
+          "author": "Eller",
+          "year": "2022",
+          "journal-title": "Academy of Management Learning & Education"
+        },
+        {
+          "key": "ref_19",
+          "doi-asserted-by": "crossref",
+          "first-page": "829",
+          "DOI": "10.1177/0149206305279599",
+          "article-title": "Executive coaching: A review and agenda for future research",
+          "volume": "31",
+          "author": "Feldman",
+          "year": "2005",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_20",
+          "doi-asserted-by": "crossref",
+          "first-page": "266",
+          "DOI": "10.5465/annals.2018.0171",
+          "article-title": "Is what’s past prologue? A review and agenda for contemporary employability research",
+          "volume": "15",
+          "author": "Fugate",
+          "year": "2021",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "key": "ref_21",
+          "doi-asserted-by": "crossref",
+          "first-page": "291",
+          "DOI": "10.1002/hrdq.21345",
+          "article-title": "Measuring the organizational impact of training: The need for greater methodological rigor",
+          "volume": "30",
+          "author": "Garavan",
+          "year": "2019",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_22",
+          "doi-asserted-by": "crossref",
+          "first-page": "103",
+          "DOI": "10.1111/j.1468-2419.2011.00373.x",
+          "article-title": "The transfer of training: What really matters",
+          "volume": "15",
+          "author": "Grossman",
+          "year": "2011",
+          "journal-title": "International Journal of Training and Development"
+        },
+        {
+          "key": "ref_23",
+          "doi-asserted-by": "crossref",
+          "first-page": "269",
+          "DOI": "10.5465/amr.2005.16387885",
+          "article-title": "A theory of team coaching",
+          "volume": "30",
+          "author": "Hackman",
+          "year": "2005",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "ref_24",
+          "first-page": "612",
+          "article-title": "Introduction to rubrics: An assessment tool to save grading time, convey effective feedback, and promote student learning",
+          "volume": "8",
+          "author": "Hawk",
+          "year": "2009",
+          "journal-title": "Academy of Management Learning & Education"
+        },
+        {
+          "key": "ref_25",
+          "doi-asserted-by": "crossref",
+          "first-page": "101012",
+          "DOI": "10.1016/j.pursup.2025.101012",
+          "article-title": "Brave new procurement deals: An experimental study of how generative artificial intelligence reshapes buyer–supplier negotiations",
+          "volume": "31",
+          "author": "Herold",
+          "year": "2025",
+          "journal-title": "Journal of Purchasing and Supply Management"
+        },
+        {
+          "key": "ref_26",
+          "doi-asserted-by": "crossref",
+          "first-page": "343",
+          "DOI": "10.5465/annals.2022.0072",
+          "article-title": "Managing with artificial intelligence: An integrative framework",
+          "volume": "19",
+          "author": "Hillebrand",
+          "year": "2025",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "key": "ref_27",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.1002/hrdq.3920070103",
+          "article-title": "The flawed four-level evaluation model",
+          "volume": "7",
+          "author": "Holton",
+          "year": "1996",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_28",
+          "doi-asserted-by": "crossref",
+          "first-page": "37",
+          "DOI": "10.1177/1523422304272080",
+          "article-title": "Holton’s evaluation model: New evidence and construct elaborations",
+          "volume": "7",
+          "author": "Holton",
+          "year": "2005",
+          "journal-title": "Advances in Developing Human Resources"
+        },
+        {
+          "key": "ref_29",
+          "doi-asserted-by": "crossref",
+          "first-page": "257",
+          "DOI": "10.1002/hrdq.1136",
+          "article-title": "A critical analysis of HRD evaluation models from a decision-making perspective",
+          "volume": "16",
+          "author": "Holton",
+          "year": "2005",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_30",
+          "doi-asserted-by": "crossref",
+          "first-page": "530",
+          "DOI": "10.1037/apl0000103",
+          "article-title": "One hundred years of employee turnover theory and research",
+          "volume": "102",
+          "author": "Hom",
+          "year": "2017",
+          "journal-title": "Journal of Applied Psychology"
+        },
+        {
+          "key": "ref_31",
+          "doi-asserted-by": "crossref",
+          "first-page": "5",
+          "DOI": "10.5465/amj.2022.0426",
+          "article-title": "When and how artificial intelligence augments employee creativity",
+          "volume": "67",
+          "author": "Jia",
+          "year": "2024",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "ref_32",
+          "doi-asserted-by": "crossref",
+          "first-page": "130",
+          "DOI": "10.1016/j.edurev.2007.05.002",
+          "article-title": "The use of scoring rubrics: Reliability, validity and educational consequences",
+          "volume": "2",
+          "author": "Jonsson",
+          "year": "2007",
+          "journal-title": "Educational Research Review"
+        },
+        {
+          "key": "ref_33",
+          "doi-asserted-by": "crossref",
+          "first-page": "693",
+          "DOI": "10.5465/annals.2023.0230",
+          "article-title": "Artificial intelligence at work: An integrative perspective on the impact of AI on workplace inequality",
+          "volume": "19",
+          "author": "Karunakaran",
+          "year": "2025",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "key": "ref_34",
+          "doi-asserted-by": "crossref",
+          "first-page": "366",
+          "DOI": "10.5465/annals.2018.0174",
+          "article-title": "Algorithms at work: The new contested terrain of control",
+          "volume": "14",
+          "author": "Kellogg",
+          "year": "2020",
+          "journal-title": "Academy of Management Annals"
+        },
+        {
+          "key": "ref_35",
+          "doi-asserted-by": "crossref",
+          "first-page": "397",
+          "DOI": "10.1007/s10648-017-9419-1",
+          "article-title": "Effectiveness of computer-based scaffolding in the context of problem-based learning for STEM education: Bayesian meta-analysis",
+          "volume": "30",
+          "author": "Kim",
+          "year": "2018",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "key": "ref_36",
+          "doi-asserted-by": "crossref",
+          "first-page": "193",
+          "DOI": "10.5465/amle.2005.17268566",
+          "article-title": "Learning styles and learning spaces: Enhancing experiential learning in higher education",
+          "volume": "4",
+          "author": "Kolb",
+          "year": "2005",
+          "journal-title": "Academy of Management Learning & Education"
+        },
+        {
+          "key": "ref_37",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1002/hrdq.21551",
+          "article-title": "Bridging human resource development processes through generative artificial intelligence",
+          "volume": "35",
+          "author": "Korzynski",
+          "year": "2024",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_38",
+          "doi-asserted-by": "crossref",
+          "first-page": "745",
+          "DOI": "10.5465/amr.2022.0058",
+          "article-title": "The role of human managers within algorithmic performance management systems: A process model of employee trust in managers through reflexivity",
+          "volume": "50",
+          "author": "Leavitt",
+          "year": "2025",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "ref_39",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Li, Z., Babar, P. P., and Peiris, R. L. (2025). Generative role-play communication training in virtual reality for autistic individuals: A study on job coach experiences in vocational training programs. CHI 2025 proceedings, Association for Computing Machinery.",
+          "DOI": "10.1145/3706598.3713507"
+        },
+        {
+          "key": "ref_40",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1287/orsc.2.1.71",
+          "article-title": "Exploration and exploitation in organizational learning",
+          "volume": "2",
+          "author": "March",
+          "year": "1991",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "ref_41",
+          "doi-asserted-by": "crossref",
+          "first-page": "1273",
+          "DOI": "10.5465/amj.2019.1343",
+          "article-title": "Constructing envelopes: Taming disruptive algorithms",
+          "volume": "67",
+          "author": "Marti",
+          "year": "2024",
+          "journal-title": "Academy of Management Journal"
+        },
+        {
+          "key": "ref_42",
+          "doi-asserted-by": "crossref",
+          "first-page": "2627",
+          "DOI": "10.1177/01492063241311855",
+          "article-title": "A review of artificial intelligence, algorithms, and robots through the lens of stakeholder theory",
+          "volume": "51",
+          "author": "Matthews",
+          "year": "2025",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_43",
+          "doi-asserted-by": "crossref",
+          "first-page": "623",
+          "DOI": "10.1177/1523422310395367",
+          "article-title": "Exploring the emergence of virtual human resource development",
+          "volume": "12",
+          "author": "McWhorter",
+          "year": "2010",
+          "journal-title": "Advances in Developing Human Resources"
+        },
+        {
+          "key": "ref_44",
+          "doi-asserted-by": "crossref",
+          "first-page": "582",
+          "DOI": "10.1177/15344843231188820",
+          "article-title": "Virtual human resource development: Definitions, challenges, and opportunities",
+          "volume": "22",
+          "author": "McWhorter",
+          "year": "2023",
+          "journal-title": "Human Resource Development Review"
+        },
+        {
+          "key": "ref_45",
+          "doi-asserted-by": "crossref",
+          "first-page": "527",
+          "DOI": "10.1080/02602938.2019.1667955",
+          "article-title": "Developing a learning-centred framework for feedback literacy",
+          "volume": "45",
+          "author": "Molloy",
+          "year": "2020",
+          "journal-title": "Assessment & Evaluation in Higher Education"
+        },
+        {
+          "key": "ref_46",
+          "first-page": "522",
+          "article-title": "Impression management in the feedback-seeking process: A literature review and research agenda",
+          "volume": "16",
+          "author": "Morrison",
+          "year": "1991",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "ref_47",
+          "doi-asserted-by": "crossref",
+          "first-page": "18",
+          "DOI": "10.1287/orsc.2020.1377",
+          "article-title": "Make way for the algorithms: Symbolic actions and change in a regime of knowing",
+          "volume": "32",
+          "author": "Pachidi",
+          "year": "2021",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "ref_48",
+          "doi-asserted-by": "crossref",
+          "first-page": "423",
+          "DOI": "10.1207/s15327809jls1303_6",
+          "article-title": "The social and technological dimensions of scaffolding and related theoretical concepts for learning, education, and human activity",
+          "volume": "13",
+          "author": "Pea",
+          "year": "2004",
+          "journal-title": "The Journal of the Learning Sciences"
+        },
+        {
+          "key": "ref_49",
+          "doi-asserted-by": "crossref",
+          "first-page": "441",
+          "DOI": "10.5465/amr.2021.0421",
+          "article-title": "Combining human and artificial intelligence: Hybrid problem-solving in organizations",
+          "volume": "50",
+          "author": "Raisch",
+          "year": "2025",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "ref_50",
+          "doi-asserted-by": "crossref",
+          "first-page": "100",
+          "DOI": "10.1177/0149206319869435",
+          "article-title": "EPM 20/20: A review, framework, and research agenda for electronic performance monitoring",
+          "volume": "46",
+          "author": "Ravid",
+          "year": "2020",
+          "journal-title": "Journal of Management"
+        },
+        {
+          "key": "ref_51",
+          "doi-asserted-by": "crossref",
+          "first-page": "447",
+          "DOI": "10.1177/15344843251332360",
+          "article-title": "Global perspectives on AI competence development: Analyzing national AI strategies in education and workforce policies",
+          "volume": "24",
+          "author": "Shi",
+          "year": "2025",
+          "journal-title": "Human Resource Development Review"
+        },
+        {
+          "key": "ref_52",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Speer, A. B., Oswald, F. L., and Putka, D. J. (2025). Reliability evidence for AI-based scores in organizational contexts: Applying lessons learned from psychometrics. Organizational Research Methods, OnlineFirst.",
+          "DOI": "10.1177/10944281251346404"
+        },
+        {
+          "key": "ref_53",
+          "doi-asserted-by": "crossref",
+          "first-page": "1786",
+          "DOI": "10.1287/orsc.2022.16738",
+          "article-title": "Algorithmic recommendation tools and experiential learning in clinical care",
+          "volume": "36",
+          "author": "Sundaresan",
+          "year": "2025",
+          "journal-title": "Organization Science"
+        },
+        {
+          "key": "ref_54",
+          "doi-asserted-by": "crossref",
+          "first-page": "11",
+          "DOI": "10.1002/hrdq.21405",
+          "article-title": "Coaching techniques for sustained individual change during career transitions",
+          "volume": "32",
+          "author": "Terblanche",
+          "year": "2021",
+          "journal-title": "Human Resource Development Quarterly"
+        },
+        {
+          "key": "ref_55",
+          "doi-asserted-by": "crossref",
+          "first-page": "2293",
+          "DOI": "10.1038/s41562-024-02024-1",
+          "article-title": "When combinations of humans and AI are useful: A systematic review and meta-analysis",
+          "volume": "8",
+          "author": "Vaccaro",
+          "year": "2024",
+          "journal-title": "Nature Human Behaviour"
+        },
+        {
+          "key": "ref_56",
+          "doi-asserted-by": "crossref",
+          "first-page": "271",
+          "DOI": "10.1007/s10648-010-9127-6",
+          "article-title": "Scaffolding in teacher–student interaction: A decade of research",
+          "volume": "22",
+          "author": "Volman",
+          "year": "2010",
+          "journal-title": "Educational Psychology Review"
+        },
+        {
+          "key": "ref_57",
+          "doi-asserted-by": "crossref",
+          "first-page": "726",
+          "DOI": "10.5465/amr.2022.0041",
+          "article-title": "Artificial intelligence, trust, and perceptions of agency",
+          "volume": "50",
+          "author": "Vanneste",
+          "year": "2025",
+          "journal-title": "Academy of Management Review"
+        },
+        {
+          "key": "ref_58",
+          "unstructured": "Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes, Harvard University Press."
+        },
+        {
+          "key": "ref_59",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wilhelm, L. T., Ding, X., Knutsen, K. M., Carik, B., and Rho, E. H. (2025). How managers perceive AI-assisted conversational training for workplace communication. CUI 2025 Proceedings, Association for Computing Machinery.",
+          "DOI": "10.1145/3719160.3736639"
+        },
+        {
+          "key": "ref_60",
+          "doi-asserted-by": "crossref",
+          "first-page": "17",
+          "DOI": "10.1080/00461520.2016.1207538",
+          "article-title": "Supporting learners’ agentic engagement with feedback: A systematic review and a taxonomy of recipience processes",
+          "volume": "52",
+          "author": "Winstone",
+          "year": "2017",
+          "journal-title": "Educational Psychologist"
+        },
+        {
+          "key": "ref_61",
+          "first-page": "1",
+          "article-title": "What makes rubrics effective in formative assessment? Transparency of performance criteria and feedback use",
+          "volume": "44–45",
+          "author": "Hattie",
+          "year": "2016",
+          "journal-title": "Contemporary Educational Psychology"
+        },
+        {
+          "key": "ref_62",
+          "doi-asserted-by": "crossref",
+          "first-page": "89",
+          "DOI": "10.1111/j.1469-7610.1976.tb00381.x",
+          "article-title": "The role of tutoring in problem solving",
+          "volume": "17",
+          "author": "Wood",
+          "year": "1976",
+          "journal-title": "Journal of Child Psychology and Psychiatry"
+        },
+        {
+          "key": "ref_63",
+          "doi-asserted-by": "crossref",
+          "first-page": "91",
+          "DOI": "10.1177/15234223251335908",
+          "article-title": "Nested complexity: A conceptual framework for leveraging AI for sustainable organizations and human resource development",
+          "volume": "27",
+          "author": "Yawson",
+          "year": "2025",
+          "journal-title": "Advances in Developing Human Resources"
+        },
+        {
+          "key": "ref_64",
+          "doi-asserted-by": "crossref",
+          "first-page": "659",
+          "DOI": "10.1111/ntwe.12343",
+          "article-title": "The rise of algorithmic management and implications for work and organisations",
+          "volume": "40",
+          "author": "Zhang",
+          "year": "2025",
+          "journal-title": "New Technology, Work and Employment"
+        }
+      ],
+      "container-title": [
+        "Administrative Sciences"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://www.mdpi.com/2076-3387/16/8/372/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            3
+          ]
+        ],
+        "date-time": "2026-08-03T10:59:53Z",
+        "timestamp": 1785754793000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.mdpi.com/2076-3387/16/8/372"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            3
+          ]
+        ]
+      },
+      "references-count": 64,
+      "journal-issue": {
+        "issue": "8",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "admsci16080372"
+      ],
+      "URL": "https://doi.org/10.3390/admsci16080372",
+      "relation": {},
+      "ISSN": [
+        "2076-3387"
+      ],
+      "issn-type": [
+        {
+          "value": "2076-3387",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8,
+            3
+          ]
+        ]
+      }
+    }
+  }
+}

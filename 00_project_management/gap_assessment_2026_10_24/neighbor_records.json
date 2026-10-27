@@ -1,0 +1,1177 @@
+[
+  {
+    "title": "Effects of Applicants' Use of Generative AI in Personnel Selection: Towards a More Nuanced View?",
+    "authors": [
+      "Filip Lievens",
+      "Patrick D. Dunlop"
+    ],
+    "year": 2025,
+    "publication_date": "2024-12-17",
+    "publication_dates": {
+      "published-online": "2024-12-17",
+      "published-print": "2025-02",
+      "published": "2024-12-17"
+    },
+    "publication_type": "journal-article",
+    "venue": "International Journal of Selection and Assessment",
+    "doi": "10.1111/ijsa.12516",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+          "checked_at": "2026-10-24T02:27:40.860319Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Differential impact of evaluative vs. non-evaluative AI feedback on employee safety performance and affective wellbeing",
+    "authors": [
+      "Chaorui Shen",
+      "Long Ye",
+      "Ye Yang",
+      "Ming Guo",
+      "Songlin Yang"
+    ],
+    "year": 2026,
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2026-08",
+      "published": "2026-08"
+    },
+    "publication_type": "journal-article",
+    "venue": "Decision Support Systems",
+    "doi": "10.1016/j.dss.2026.114681",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+          "checked_at": "2026-10-24T02:27:40.861287Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。",
+      "publication_date": "来源只给部分日期：2026-08"
+    }
+  },
+  {
+    "title": "Algorithmic Path Dependence in Linked HR Decision Systems",
+    "authors": [
+      "Afyaa Alessa",
+      "Maha AlDalahmeh"
+    ],
+    "year": 2026,
+    "publication_date": "2026-10-21",
+    "publication_dates": {
+      "published-online": "2026-10-21",
+      "published": "2026-10-21"
+    },
+    "publication_type": "journal-article",
+    "venue": "Merits",
+    "doi": "10.3390/merits6040032",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/merits6040032",
+          "checked_at": "2026-10-24T02:27:41.712243Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Metricized Scaffolds: AI-Enabled Simulation Training and Transfer in Human Resource Development",
+    "authors": [
+      "Nina Xie",
+      "Yujun Liu",
+      "Yuanyuan Wang",
+      "Yiduo Wang"
+    ],
+    "year": 2026,
+    "publication_date": "2026-08-03",
+    "publication_dates": {
+      "published-online": "2026-08-03",
+      "published": "2026-08-03"
+    },
+    "publication_type": "journal-article",
+    "venue": "Administrative Sciences",
+    "doi": "10.3390/admsci16080372",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.3390/admsci16080372",
+          "checked_at": "2026-10-24T02:27:41.747640Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "The Transparency Paradox",
+    "authors": [
+      "Ethan S. Bernstein"
+    ],
+    "year": 2012,
+    "publication_date": "2012-06-21",
+    "publication_dates": {
+      "published-online": "2012-06-21",
+      "published-print": "2012-06",
+      "published": "2012-06"
+    },
+    "publication_type": "journal-article",
+    "venue": "Administrative Science Quarterly",
+    "doi": "10.1177/0001839212453028",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1177/0001839212453028",
+          "checked_at": "2026-10-24T02:27:42.519463Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Emergence of the Human Capital Resource: A Multilevel Model",
+    "authors": [
+      "Robert E. Ployhart",
+      "Thomas P. Moliterno"
+    ],
+    "year": 2011,
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2011-01",
+      "published": "2011-01"
+    },
+    "publication_type": "journal-article",
+    "venue": "Academy of Management Review",
+    "doi": "10.5465/amr.2009.0318",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.5465/amr.2009.0318",
+          "checked_at": "2026-10-24T02:27:42.581190Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。",
+      "publication_date": "来源只给部分日期：2011-01"
+    }
+  },
+  {
+    "title": "Personnel selection as a signaling game.",
+    "authors": [
+      "Adrian Bangerter",
+      "Nicolas Roulin",
+      "Cornelius J. König"
+    ],
+    "year": 2012,
+    "publication_date": null,
+    "publication_dates": {
+      "published-online": "2012",
+      "published": "2012"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Applied Psychology",
+    "doi": "10.1037/a0026078",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T02:27:43.324366Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。",
+      "publication_date": "来源只给部分日期：2012"
+    }
+  },
+  {
+    "title": "Equity by Design: A Positive Organizational Scholarship Approach to Human Resource‐Artificial Intelligence Systems Design",
+    "authors": [
+      "Tiffany M. Trzebiatowski",
+      "Eileen Yeirim Suh",
+      "LaStarr Hollie"
+    ],
+    "year": 2026,
+    "publication_date": "2026-03-26",
+    "publication_dates": {
+      "published-online": "2026-03-26",
+      "published": "2026-03-26"
+    },
+    "publication_type": "journal-article",
+    "venue": "Human Resource Management",
+    "doi": "10.1002/hrm.70071",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1002/hrm.70071",
+          "checked_at": "2026-10-24T02:27:43.386625Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Navigating career stages in the age of artificial intelligence: A systematic interdisciplinary review and agenda for future research",
+    "authors": [
+      "Sarah Bankins",
+      "Stefan Jooss",
+      "Simon Lloyd D. Restubog",
+      "Mauricio Marrone",
+      "Anna Carmella Ocampo",
+      "Mindy Shoss"
+    ],
+    "year": 2024,
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2024-09",
+      "published": "2024-09"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Vocational Behavior",
+    "doi": "10.1016/j.jvb.2024.104011",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.jvb.2024.104011",
+          "checked_at": "2026-10-24T02:27:44.066945Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。",
+      "publication_date": "来源只给部分日期：2024-09"
+    }
+  },
+  {
+    "title": "Time Can Invalidate Algorithmic Recourse",
+    "authors": [
+      "Giovanni De Toni",
+      "Stefano Teso",
+      "Bruno Lepri",
+      "Andrea Passerini"
+    ],
+    "year": 2025,
+    "publication_date": "2025-06-23",
+    "publication_dates": {
+      "published-online": "2025-06-23",
+      "published-print": "2025-06-23",
+      "published": "2025-06-23"
+    },
+    "publication_type": "proceedings-article",
+    "venue": "Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency",
+    "doi": "10.1145/3715275.3732008",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3715275.3732008",
+          "checked_at": "2026-10-24T02:39:06.225431Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Counterfactual Explanations May Not Be the Best Algorithmic Recourse Approach",
+    "authors": [
+      "Sohini Upadhyay",
+      "Himabindu Lakkaraju",
+      "Krzysztof Z. Gajos"
+    ],
+    "year": 2025,
+    "publication_date": "2025-03-24",
+    "publication_dates": {
+      "published-online": "2025-03-24",
+      "published-print": "2025-03-24",
+      "published": "2025-03-24"
+    },
+    "publication_type": "proceedings-article",
+    "venue": "Proceedings of the 30th International Conference on Intelligent User Interfaces",
+    "doi": "10.1145/3708359.3712095",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1145/3708359.3712095",
+          "checked_at": "2026-10-24T02:39:06.969564Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。"
+    }
+  },
+  {
+    "title": "Algorithmic Writing Assistance on Jobseekers’ Resumes Increases Hires",
+    "authors": [
+      "Emma Wiles",
+      "Zanele Munyikwa",
+      "John Horton"
+    ],
+    "year": 2025,
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2025-12",
+      "published": "2025-12"
+    },
+    "publication_type": "journal-article",
+    "venue": "Management Science",
+    "doi": "10.1287/mnsc.2024.04528",
+    "abstract": null,
+    "citation_count": null,
+    "open_access_status": null,
+    "full_text_status": "unknown",
+    "download_status": "not_requested",
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+          "checked_at": "2026-10-24T02:39:07.105921Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "missing_fields": {
+      "abstract": "原始摘要保留于API响应；本轮不导出逐字摘要。",
+      "citation_count": "本轮未查询引用数。",
+      "open_access_status": "未作独立OA判定；公开网页/正文证据另见报告。",
+      "publication_date": "来源只给部分日期：2025-12"
+    }
+  }
+]

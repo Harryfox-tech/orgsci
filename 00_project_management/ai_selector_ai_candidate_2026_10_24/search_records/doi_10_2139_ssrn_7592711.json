@@ -1,0 +1,139 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+    "checked_at": "2026-10-24T03:13:31.743232Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+    "content_type": "application/json"
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T04:50:57Z",
+        "timestamp": 1791953457535,
+        "version": "4.3.4"
+      },
+      "posted": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "group-title": "SSRN",
+      "reference-count": 0,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2026-01-01T00:00:00Z",
+            "timestamp": 1767225600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://www.uspto.gov/ip-policy/copyright-policy/copyright-basics"
+        }
+      ],
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [],
+      "abstract": "<jats:p>We analyze a hiring interview in which the firm chooses the quality of an AI\n&lt;br&gt;\nthat drafts each answer, and candidates decide how carefully to verify it. Because a\n&lt;br&gt;\ncorrect draft passes whoever reviews it, AI quality determines how often candidates\n&lt;br&gt;\nmust catch errors, and hence how visible supervision skill is. Informativeness about\n&lt;br&gt;\nsupervision is zero without AI and, once AI is present, strictly declines as AI quality\n&lt;br&gt;\nrises; informativeness about AI-operation skill peaks at an intermediate quality. In\n&lt;br&gt;\na minimal hiring problem, weaker interview AI yields strictly more productive hires\n&lt;br&gt;\nwhenever the role weights supervision enough.</jats:p>",
+      "DOI": "10.2139/ssrn.7592711",
+      "type": "posted-content",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T04:06:40Z",
+        "timestamp": 1791950800000
+      },
+      "source": "Crossref",
+      "is-referenced-by-count": 0,
+      "title": [
+        "When Better AI Reveals Less"
+      ],
+      "prefix": "10.2139",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0006-5846-8484",
+          "authenticated-orcid": true,
+          "given": "Yetong",
+          "family": "Liu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "container-title": [],
+      "original-title": [],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            14
+          ]
+        ],
+        "date-time": "2026-10-14T04:34:48Z",
+        "timestamp": 1791952488000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://www.ssrn.com/abstract=7592711"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "references-count": 0,
+      "URL": "https://doi.org/10.2139/ssrn.7592711",
+      "relation": {},
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026
+          ]
+        ]
+      },
+      "subtype": "preprint"
+    }
+  }
+}

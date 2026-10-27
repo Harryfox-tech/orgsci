@@ -1,0 +1,14 @@
+{
+  "review_date_local": "2026-10-27",
+  "docx_sha256": "b4a1729c7c42ff0ed9a137483297d0da747794f6a4d6aee74bf3f7536667fd6d",
+  "pages": 2,
+  "renderer": "Microsoft Word COM plus bundled Poppler",
+  "standard_renderer_result": "Failed: LibreOffice soffice.exe not found on PATH",
+  "visually_inspected_pages": [
+    1,
+    2
+  ],
+  "visual_check": "passed; no title border, missing glyphs, clipping, overlap or omitted references",
+  "references": 9,
+  "abm_executed": false
+}

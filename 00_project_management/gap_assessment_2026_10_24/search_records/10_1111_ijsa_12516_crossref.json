@@ -1,0 +1,504 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1111/ijsa.12516",
+    "checked_at": "2026-10-24T02:27:40.860319Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            20
+          ]
+        ],
+        "date-time": "2026-10-20T15:13:36Z",
+        "timestamp": 1792509216055,
+        "version": "4.5.0"
+      },
+      "reference-count": 45,
+      "publisher": "Wiley",
+      "issue": "1",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                17
+              ]
+            ],
+            "date-time": "2024-12-17T00:00:00Z",
+            "timestamp": 1734393600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                12,
+                17
+              ]
+            ],
+            "date-time": "2024-12-17T00:00:00Z",
+            "timestamp": 1734393600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Int J Selection Assessment"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            2
+          ]
+        ]
+      },
+      "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Generative AI (GenAI) has made rapid inroads in assessment, as a growing number of applicants rely on it as a coach in unproctored assessments of various selection procedures. This had led to assertions that applicants' GenAI use undermines key assumptions of the predictive model underlying selection and is thus disruptive for organizations' current unproctored assessments, thereby invoking various strategies of organizations to deter and detect its use. In this provocation article, we present a more nuanced view. To this end, we start by reviewing the recent research related to the effects of applicants' use of GenAI in assessment and discuss the evidence of the potential of applicant GenAI use to disrupt assessment validity. Next, we draw on test coaching frameworks to discuss three scenarios of how applicants' use of GenAI might affect an assessment's mean scores and criterion‐related validity. These perspectives highlight that the use of GenAI might not only exert negative consequences but potentially have also positive consequences for both applicants and organizations. It is pivotal to distinguish among these scenarios because they lead to different strategies for organizations to deal with applicant use of GenAI.</jats:p>",
+      "DOI": "10.1111/ijsa.12516",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            17
+          ]
+        ],
+        "date-time": "2024-12-17T04:58:54Z",
+        "timestamp": 1734411534000
+      },
+      "update-policy": "https://doi.org/10.1002/crossmark_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 29,
+      "title": [
+        "Effects of Applicants' Use of Generative AI in Personnel Selection: Towards a More Nuanced View?"
+      ],
+      "prefix": "10.1111",
+      "volume": "33",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9487-5187",
+          "authenticated-orcid": false,
+          "given": "Filip",
+          "family": "Lievens",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Singapore Management University Lee Kong Chian School of Business Singapore Singapore"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5225-6409",
+          "authenticated-orcid": false,
+          "given": "Patrick D.",
+          "family": "Dunlop",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Curtin University Perth Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "311",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            17
+          ]
+        ]
+      },
+      "reference": [
+        {
+          "key": "e_1_2_9_2_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/00131640021970367"
+        },
+        {
+          "key": "e_1_2_9_3_1",
+          "unstructured": "Arctic Shores.2023. “ChatGPT Has Broken Traditional Aptitude Assessments: Your Solution to Future‐proofing Recruitment.”https://www.arcticshores.com/insights/chatgpt-has-broken-traditional-aptitude-assessments-your-solution-to-future-proofing-recruitment."
+        },
+        {
+          "key": "e_1_2_9_4_1",
+          "unstructured": "Arctic Shores.2024. “Why TA Teams Need to Guide Candidates' Use of GenAI… and How to Do It.”https://www.arcticshores.com/insights/why-ta-teams-need-to-guide-candidates-on-using-genai-and-how-to-do-it."
+        },
+        {
+          "key": "e_1_2_9_5_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0026078"
+        },
+        {
+          "key": "e_1_2_9_6_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/a0016532"
+        },
+        {
+          "key": "e_1_2_9_7_1",
+          "unstructured": "BBC.2023. “ChatGPT: How Generative AI Could Change Hiring as We Know It.”https://www.bbc.com/worklife/article/20230419-chatgpt-how-generative-ai-could-change-hiring-as-we-know-it."
+        },
+        {
+          "key": "e_1_2_9_8_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.2196/48978"
+        },
+        {
+          "key": "e_1_2_9_9_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/peps.12285"
+        },
+        {
+          "key": "e_1_2_9_10_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s10936-022-09909-0"
+        },
+        {
+          "key": "e_1_2_9_11_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Brynjolfsson E. D.Li andL. R.Raymond.2023. “Generative AI at Work.”http://www.nber.org/papers/w31161.",
+          "DOI": "10.3386/w31161"
+        },
+        {
+          "key": "e_1_2_9_12_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijsa.12491"
+        },
+        {
+          "key": "e_1_2_9_13_1",
+          "unstructured": "Criddle C. andD.Strauss.2024. “Jobhunters Flood Recruiters With AI‐Generated CVs.”Financial Times.https://www.ft.com/content/30a032dd-bdaa-4aee-bc51-754867abbde0."
+        },
+        {
+          "key": "e_1_2_9_14_1",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Dell'Acqua F. E.McFowland E. R.Mollick et al.2023. “Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.” Harvard Business School Technology & Operations Mgt. Unit Working Paper No. 24‐013.https://doi.org/10.2139/ssrn.4573321.",
+          "DOI": "10.2139/ssrn.4573321"
+        },
+        {
+          "key": "e_1_2_9_15_1",
+          "first-page": "117",
+          "volume-title": "Employee Recruitment, Selection, and Assessment: Contemporary Issues for Theory and Practice",
+          "author": "Diekmann J.",
+          "year": "2015"
+        },
+        {
+          "key": "e_1_2_9_16_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.3389/fpsyg.2023.1199058"
+        },
+        {
+          "key": "e_1_2_9_17_1",
+          "unstructured": "Fletcher R. andR. K.Nielsen. “What Does the Public in Six Countries Think of Generative AI in News?”https://doi.org/10.60625/risj-4zb8-cg87."
+        },
+        {
+          "key": "e_1_2_9_18_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jvb.2024.104013"
+        },
+        {
+          "key": "e_1_2_9_19_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021-9010.92.2.373"
+        },
+        {
+          "key": "e_1_2_9_20_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/ijsa.12479"
+        },
+        {
+          "key": "e_1_2_9_21_1",
+          "unstructured": "Hofman J. M. D. G.Goldstein andD. M.Rothschild.2023. “A Sports Analogy for Understanding Different Ways to Use AI.”Harvard Business Review.https://hbr.org/2023/12/a-sports-analogy-for-understanding-different-ways-to-use-ai."
+        },
+        {
+          "key": "e_1_2_9_22_1",
+          "volume-title": "The Effect of Applicants' Use of Generative AI on Recruiter Ratings of Cover Letters",
+          "author": "Holtrop D.",
+          "year": "2024"
+        },
+        {
+          "key": "e_1_2_9_23_1",
+          "unstructured": "Humlum A. andE.Vestergaard.2024. “The Adoption of ChatGPT.” Working paper.https://bfi.uchicago.edu/wp-content/uploads/2024/04/BFI_WP_2024-50-3.pdf."
+        },
+        {
+          "key": "e_1_2_9_24_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1146/annurev-orgpsych-032516-113349"
+        },
+        {
+          "key": "e_1_2_9_25_1",
+          "unstructured": "Jaffe S. N. P.Shah J.Butler et al. (2024). Generative AI in Real‐World Workplaces: The Second Microsoft Report on AI and Productivity Research.https://www.microsoft.com/en-us/research/uploads/prodnew/2024/07/Generative-AI-in-Real-World-Workplaces.pdf."
+        },
+        {
+          "key": "e_1_2_9_26_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1371/journal.pdig.0000198"
+        },
+        {
+          "key": "e_1_2_9_27_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744-6570.2005.00713.x"
+        },
+        {
+          "key": "e_1_2_9_28_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000160"
+        },
+        {
+          "key": "e_1_2_9_29_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.hrmr.2020.100789"
+        },
+        {
+          "key": "e_1_2_9_30_1",
+          "unstructured": "Mitchell M. A. B.Palmarini andA.Moskvichev.2023. “Comparing Humans GPT‐4 and GPT‐4V on Abstraction and Reasoning Tasks.” arXiv 2311.09247v09242.https://doi.org/10.48550/arXiv.2311.09247."
+        },
+        {
+          "issue": "4",
+          "key": "e_1_2_9_31_1",
+          "first-page": "83",
+          "article-title": "The Predictive Power of Personal Statements in Admissions: A Meta‐Analysis and Cautionary Tale",
+          "volume": "84",
+          "author": "Murphy S. C.",
+          "year": "2009",
+          "journal-title": "College and University"
+        },
+        {
+          "key": "e_1_2_9_32_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/science.adh2586"
+        },
+        {
+          "key": "e_1_2_9_33_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/0021-9010.78.4.679"
+        },
+        {
+          "key": "e_1_2_9_34_1",
+          "unstructured": "OpenAI.2023. “GPT‐4 Technical Report.”https://cdn.openai.com/papers/gpt-4.pdf."
+        },
+        {
+          "key": "e_1_2_9_35_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.paid.2023.112434"
+        },
+        {
+          "key": "e_1_2_9_36_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.paid.2024.112840"
+        },
+        {
+          "key": "e_1_2_9_37_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jvb.2019.04.004"
+        },
+        {
+          "key": "e_1_2_9_38_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.intell.2008.05.003"
+        },
+        {
+          "key": "e_1_2_9_39_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.25035/pad.2019.01.004"
+        },
+        {
+          "key": "e_1_2_9_40_1",
+          "unstructured": "SHL. n.d. “SHL's Exploration of ChatGPT.”https://www.shl.com/resources/by-type/guides-and-ebooks/shls-exploration-of-chatgpt/."
+        },
+        {
+          "key": "e_1_2_9_41_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2041386615580875"
+        },
+        {
+          "key": "e_1_2_9_42_1",
+          "unstructured": "Suri S. S.Counts L.Wang et al.2024. “The Use of Generative Search Engines for Knowledge Work and Complex Tasks.” arXiv(2404.04268v1).https://doi.org/10.48550/arXiv.2404.04268."
+        },
+        {
+          "key": "e_1_2_9_43_1",
+          "unstructured": "Technology Council of Australia.2024. “Meeting the AI Skills Boom.”https://techcouncil.com.au/wp-content/uploads/Meeting-the-AI-Skills-Boom-2024.v2.pdf."
+        },
+        {
+          "key": "e_1_2_9_44_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1744-6570.2006.00909.x"
+        },
+        {
+          "key": "e_1_2_9_45_1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1007/s40979-023-00146-z"
+        },
+        {
+          "key": "e_1_2_9_46_1",
+          "unstructured": "Westfall B.2024. “Nearly Half of Job Seekers are Using AI to Cheat—Here's How Recruiters Can Fight Back.”https://www.capterra.com/resources/how-to-stop-job-application-ai-cheating/."
+        }
+      ],
+      "container-title": [
+        "International Journal of Selection and Assessment"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijsa.12516",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/ijsa.12516",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ijsa.12516",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            2
+          ]
+        ],
+        "date-time": "2026-07-02T12:44:14Z",
+        "timestamp": 1782996254000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://onlinelibrary.wiley.com/doi/10.1111/ijsa.12516"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            17
+          ]
+        ]
+      },
+      "references-count": 45,
+      "journal-issue": {
+        "issue": "1",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              2
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1111/ijsa.12516"
+      ],
+      "URL": "https://doi.org/10.1111/ijsa.12516",
+      "archive": [
+        "Portico"
+      ],
+      "relation": {},
+      "ISSN": [
+        "0965-075X",
+        "1468-2389"
+      ],
+      "issn-type": [
+        {
+          "value": "0965-075X",
+          "type": "print"
+        },
+        {
+          "value": "1468-2389",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            12,
+            17
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "2024-09-03",
+          "order": 0,
+          "name": "received",
+          "label": "Received",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-12-02",
+          "order": 2,
+          "name": "accepted",
+          "label": "Accepted",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        },
+        {
+          "value": "2024-12-17",
+          "order": 3,
+          "name": "published",
+          "label": "Published",
+          "group": {
+            "name": "publication_history",
+            "label": "Publication History"
+          }
+        }
+      ],
+      "article-number": "e12516"
+    }
+  }
+}

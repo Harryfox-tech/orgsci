@@ -1,0 +1,968 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1016/j.dss.2026.114681",
+    "checked_at": "2026-10-24T02:27:40.861287Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            23
+          ]
+        ],
+        "date-time": "2026-09-23T10:37:01Z",
+        "timestamp": 1790159821347,
+        "version": "4.1.0"
+      },
+      "reference-count": 54,
+      "publisher": "Elsevier BV",
+      "license": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2026-08-01T00:00:00Z",
+            "timestamp": 1785542400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "funder": [
+        {
+          "DOI": "10.13039/501100004826",
+          "name": "Beijing Natural Science Foundation",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "9252013"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "9252013"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100004826",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        },
+        {
+          "DOI": "10.13039/501100012166",
+          "name": "National Key Research and Development Program of China",
+          "doi-asserted-by": "publisher",
+          "award": [
+            "2021YFC3001503"
+          ],
+          "award-info": [
+            {
+              "award-number": [
+                "2021YFC3001503"
+              ]
+            }
+          ],
+          "id": [
+            {
+              "id": "10.13039/501100012166",
+              "id-type": "DOI",
+              "asserted-by": "publisher"
+            }
+          ]
+        }
+      ],
+      "content-domain": {
+        "domain": [
+          "elsevier.com",
+          "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+      },
+      "short-container-title": [
+        "Decision Support Systems"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "DOI": "10.1016/j.dss.2026.114681",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            7
+          ]
+        ],
+        "date-time": "2026-05-07T15:27:43Z",
+        "timestamp": 1778167663000
+      },
+      "page": "114681",
+      "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+      "source": "Crossref",
+      "is-referenced-by-count": 1,
+      "special_numbering": "C",
+      "title": [
+        "Differential impact of evaluative vs. non-evaluative AI feedback on employee safety performance and affective wellbeing"
+      ],
+      "prefix": "10.1016",
+      "volume": "207",
+      "author": [
+        {
+          "given": "Chaorui",
+          "family": "Shen",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Long",
+          "family": "Ye",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ye",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ming",
+          "family": "Guo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Songlin",
+          "family": "Yang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "78",
+      "reference": [
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0005",
+          "doi-asserted-by": "crossref",
+          "first-page": "1600",
+          "DOI": "10.1002/smj.3322",
+          "article-title": "The Janus face of artificial intelligence feedback: deployment versus disclosure effects on employee performance",
+          "volume": "42",
+          "author": "Tong",
+          "year": "2021",
+          "journal-title": "Strateg. Manag. J."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0010",
+          "doi-asserted-by": "crossref",
+          "first-page": "323",
+          "DOI": "10.1080/0960085X.2024.2404028",
+          "article-title": "Tell me more, tell me more: the impact of explanations on learning from feedback provided by artificial intelligence",
+          "volume": "34",
+          "author": "Förster",
+          "year": "2025",
+          "journal-title": "Eur. J. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0015",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.dss.2022.113800",
+          "article-title": "Towards risk-aware artificial intelligence and machine learning systems: an overview",
+          "volume": "159",
+          "author": "Zhang",
+          "year": "2022",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0020",
+          "doi-asserted-by": "crossref",
+          "first-page": "114559",
+          "DOI": "10.1016/j.dss.2025.114559",
+          "article-title": "Driver readiness prediction: bridging cognitive distraction monitoring and in-vehicle decision support systems",
+          "volume": "199",
+          "author": "Chang",
+          "year": "2025",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0025",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.chb.2024.108177",
+          "article-title": "The job demands-resources model as a theoretical lens for the bright and dark side of digitization",
+          "volume": "155",
+          "author": "Scholze",
+          "year": "2024",
+          "journal-title": "Comput. Hum. Behav."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0030",
+          "doi-asserted-by": "crossref",
+          "first-page": "114512",
+          "DOI": "10.1016/j.dss.2025.114512",
+          "article-title": "How does AI-assisted diagnosis decision support systems influence doctors’ coping styles and work outcomes? Bright and dark sides of AI in the workplace",
+          "volume": "197",
+          "author": "Deng",
+          "year": "2025",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0035",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.dss.2024.114352",
+          "article-title": "Returning the “socio” to decision support research: expanding beyond a purely technical mindset",
+          "volume": "188",
+          "author": "Chua",
+          "year": "2025",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0040",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.dss.2024.114230",
+          "article-title": "The design of human-artificial intelligence systems in decision sciences: a look back and directions forward",
+          "volume": "182",
+          "author": "Storey",
+          "year": "2024",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0045",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ipm.2023.103572",
+          "article-title": "Finding the sweet spot: exploring the optimal communication delay for AI feedback tools",
+          "volume": "61",
+          "author": "Shi",
+          "year": "2024",
+          "journal-title": "Inf. Process. Manag."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0050",
+          "doi-asserted-by": "crossref",
+          "first-page": "105363",
+          "DOI": "10.1016/j.compedu.2025.105363",
+          "article-title": "Emotionally enriched AI-generated feedback: supporting student well-being without compromising learning",
+          "volume": "239",
+          "author": "Alsaiari",
+          "year": "2025",
+          "journal-title": "Comput. Educ."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0055",
+          "doi-asserted-by": "crossref",
+          "first-page": "1423",
+          "DOI": "10.1108/ITP-02-2022-0122",
+          "article-title": "Work engagement of online car-hailing drivers: the effects of platforms’ algorithmic management",
+          "volume": "37",
+          "author": "Li",
+          "year": "2024",
+          "journal-title": "Inf. Technol. People"
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0060",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1073/pnas.2425439122",
+          "article-title": "AI assessment changes human behavior",
+          "volume": "122",
+          "author": "Goergen",
+          "year": "2025",
+          "journal-title": "Proc. Natl. Acad. Sci."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0065",
+          "doi-asserted-by": "crossref",
+          "first-page": "426",
+          "DOI": "10.1080/07421222.2022.2063556",
+          "article-title": "Examining the impact of algorithmic control on Uber drivers’ technostress",
+          "volume": "39",
+          "author": "Cram",
+          "year": "2022",
+          "journal-title": "J. Manag. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0070",
+          "doi-asserted-by": "crossref",
+          "first-page": "775",
+          "DOI": "10.1002/hrm.22226",
+          "article-title": "Saving face: leveraging artificial intelligence-based negative feedback to enhance employee job performance",
+          "volume": "63",
+          "author": "Pei",
+          "year": "2024",
+          "journal-title": "Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0075",
+          "article-title": "Who’s the better mentor? How AI vs human supervisor developmental feedback influences feedback acceptance",
+          "author": "Wang",
+          "year": "2025",
+          "journal-title": "Bus. Process. Manag. J."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0080",
+          "doi-asserted-by": "crossref",
+          "first-page": "1077",
+          "DOI": "10.1002/hrm.22299",
+          "article-title": "How do coworkers interpret employee AI usage: coworkers’ perceived morality and helping as responses to employee AI usage",
+          "volume": "64",
+          "author": "Zhou",
+          "year": "2025",
+          "journal-title": "Hum. Resour. Manag."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0085",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.1016/0749-5978(92)90068-I",
+          "article-title": "Conveying more (or less) than we realize: the role of impression-management in feedback-seeking",
+          "volume": "53",
+          "author": "Ashford",
+          "year": "1992",
+          "journal-title": "Organ. Behav. Hum. Decis. Process."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0090",
+          "doi-asserted-by": "crossref",
+          "first-page": "522",
+          "DOI": "10.1016/j.aap.2011.09.004",
+          "article-title": "The effects of non-evaluative feedback on drivers’ self-evaluation and performance",
+          "volume": "45",
+          "author": "Dogan",
+          "year": "2012",
+          "journal-title": "Accid. Anal. Prev."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0095",
+          "doi-asserted-by": "crossref",
+          "first-page": "334",
+          "DOI": "10.1080/15213269.2015.1049276",
+          "article-title": "Identity shift III: effects of publicness of feedback and relational closeness in computer-mediated communication",
+          "volume": "19",
+          "author": "Carr",
+          "year": "2016",
+          "journal-title": "Media Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0100",
+          "doi-asserted-by": "crossref",
+          "first-page": "232",
+          "DOI": "10.1111/isj.12389",
+          "article-title": "Algorithms as co-workers: human algorithm role interactions in algorithmic work",
+          "volume": "33",
+          "author": "Tarafdar",
+          "year": "2023",
+          "journal-title": "Inf. Syst. J."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0105",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.chb.2025.108667",
+          "article-title": "Influencing driving safety by matching AI assistant’s verbal emotions to driver: a randomized controlled trial on performance, attention, and emotion",
+          "volume": "169",
+          "author": "Huang",
+          "year": "2025",
+          "journal-title": "Comput. Hum. Behav."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0110",
+          "doi-asserted-by": "crossref",
+          "first-page": "32",
+          "DOI": "10.1016/j.trf.2025.02.026",
+          "article-title": "How does artificial intelligence usage affect the safety behavior of bus drivers? A double-edged sword study",
+          "volume": "111",
+          "author": "Liu",
+          "year": "2025",
+          "journal-title": "Transp. Res. Part F Traffic Psychol. Behav."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0115",
+          "first-page": "35",
+          "article-title": "Algorithm sensemaking: how platform workers make sense of algorithmic management",
+          "volume": "24",
+          "author": "Möhlmannn",
+          "year": "2023",
+          "journal-title": "J. Assoc. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0120",
+          "doi-asserted-by": "crossref",
+          "first-page": "499",
+          "DOI": "10.1037/0021-9010.86.3.499",
+          "article-title": "The job demands-resources model of burnout",
+          "volume": "86",
+          "author": "Demerouti",
+          "year": "2001",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0125",
+          "doi-asserted-by": "crossref",
+          "first-page": "309",
+          "DOI": "10.1108/02683940710733115",
+          "article-title": "The job demands-resources model: state of the art",
+          "volume": "22",
+          "author": "Bakker",
+          "year": "2007",
+          "journal-title": "J. Manag. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0130",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.im.2025.104100",
+          "article-title": "The double-edged sword effect of algorithmic transparency: an empirical study of gig workers’ work disengagement under algorithmic management",
+          "volume": "62",
+          "author": "Li",
+          "year": "2025",
+          "journal-title": "Inf. Manag."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0135",
+          "doi-asserted-by": "crossref",
+          "first-page": "25",
+          "DOI": "10.1146/annurev-orgpsych-120920-053933",
+          "article-title": "Job demands–resources theory: ten years later",
+          "volume": "10",
+          "author": "Bakker",
+          "year": "2023",
+          "journal-title": "Annu. Rev. Organ. Psych. Organ. Behav."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0140",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.dss.2024.114212",
+          "article-title": "Effects of enterprise social media use on employee improvisation ability through psychological conditions: the moderating role of enterprise social media policy",
+          "volume": "181",
+          "author": "Zhu",
+          "year": "2024",
+          "journal-title": "Decis. Support. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0145",
+          "doi-asserted-by": "crossref",
+          "first-page": "71",
+          "DOI": "10.1037/a0021484",
+          "article-title": "Safety at work: a meta-analytic investigation of the link between job demands, job resources, burnout, engagement, and safety outcomes",
+          "volume": "96",
+          "author": "Nahrgang",
+          "year": "2011",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0150",
+          "doi-asserted-by": "crossref",
+          "first-page": "34",
+          "DOI": "10.1037/0033-2909.107.1.34",
+          "article-title": "Impression management: a literature review and two-component model",
+          "volume": "107",
+          "author": "Leary",
+          "year": "1990",
+          "journal-title": "Psychol. Bull."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0155",
+          "doi-asserted-by": "crossref",
+          "first-page": "254",
+          "DOI": "10.1037/0033-2909.119.2.254",
+          "article-title": "The effects of feedback interventions on performance: a historical review, a meta-analysis, and a preliminary feedback intervention theory",
+          "volume": "119",
+          "author": "Kluger",
+          "year": "1996",
+          "journal-title": "Psychol. Bull."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0160",
+          "doi-asserted-by": "crossref",
+          "first-page": "485",
+          "DOI": "10.1080/0960085X.2021.1977729",
+          "article-title": "Algorithmic control and gig workers: a legitimacy perspective of Uber drivers",
+          "volume": "32",
+          "author": "Wiener",
+          "year": "2023",
+          "journal-title": "Eur. J. Inf. Syst."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0165",
+          "doi-asserted-by": "crossref",
+          "first-page": "347",
+          "DOI": "10.1037/1076-8998.5.3.347",
+          "article-title": "Perceptions of safety at work: a framework for linking safety climate to safety performance, knowledge, and motivation",
+          "volume": "5",
+          "author": "Griffin",
+          "year": "2000",
+          "journal-title": "J. Occup. Health Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0170",
+          "doi-asserted-by": "crossref",
+          "first-page": "99",
+          "DOI": "10.1016/S0925-7535(00)00008-4",
+          "article-title": "The impact of organizational climate on safety climate and individual behavior",
+          "volume": "34",
+          "author": "Neal",
+          "year": "2000",
+          "journal-title": "Saf. Sci."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0175",
+          "doi-asserted-by": "crossref",
+          "first-page": "310",
+          "DOI": "10.1177/00187267211038514",
+          "article-title": "Supervisor negative feedback and employee motivation to learn: an attribution perspective",
+          "volume": "76",
+          "author": "Xing",
+          "year": "2023",
+          "journal-title": "Hum. Relat."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0180",
+          "doi-asserted-by": "crossref",
+          "first-page": "17155",
+          "DOI": "10.1007/s10639-025-13472-1",
+          "article-title": "Effects of AI-enhanced multi-display language teaching systems on learning motivation, cognitive load management, and learner autonomy",
+          "volume": "30",
+          "author": "Hong",
+          "year": "2025",
+          "journal-title": "Educ. Inf. Technol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0185",
+          "doi-asserted-by": "crossref",
+          "first-page": "67",
+          "DOI": "10.1037/apl0000153",
+          "article-title": "Help or hindrance? Day-level relationships between flextime use, work–nonwork boundaries, and affective well-being",
+          "volume": "102",
+          "author": "Spieler",
+          "year": "2017",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0190",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1080/1359432X.2011.576009",
+          "article-title": "Take a break?! off-job recovery, job demands, and job resources as predictors of health, active learning, and creativity",
+          "volume": "21",
+          "author": "de Jonge",
+          "year": "2012",
+          "journal-title": "Eur. J. Work Organ. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0195",
+          "doi-asserted-by": "crossref",
+          "first-page": "835",
+          "DOI": "10.1007/s10551-018-3921-3",
+          "article-title": "Ethical implications and accountability of algorithms",
+          "volume": "160",
+          "author": "Martin",
+          "year": "2019",
+          "journal-title": "J. Bus. Ethics"
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0200",
+          "doi-asserted-by": "crossref",
+          "first-page": "126",
+          "DOI": "10.1287/orsc.2021.1549",
+          "article-title": "To engage or not to engage with AI for critical judgments: how professionals deal with opacity when using AI for medical diagnosis",
+          "volume": "33",
+          "author": "Lebovitz",
+          "year": "2022",
+          "journal-title": "Organ. Sci."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0205",
+          "doi-asserted-by": "crossref",
+          "first-page": "321",
+          "DOI": "10.1146/annurev-orgpsych-110622-060758",
+          "article-title": "Electronic monitoring at work",
+          "volume": "12",
+          "author": "König",
+          "year": "2025",
+          "journal-title": "Annu. Rev. Organ. Psych. Organ. Behav."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0210",
+          "doi-asserted-by": "crossref",
+          "first-page": "389",
+          "DOI": "10.1111/apps.12382",
+          "article-title": "How does chronic burnout affect dealing with weekly job demands? A test of central propositions in JD-R and COR-theories",
+          "volume": "72",
+          "author": "Bakker",
+          "year": "2023",
+          "journal-title": "Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0215",
+          "doi-asserted-by": "crossref",
+          "first-page": "237",
+          "DOI": "10.1348/096317908X401723",
+          "article-title": "Job demands, work-family conflict, and emotional exhaustion in police officers: a longitudinal test of competing theories",
+          "volume": "83",
+          "author": "Hall",
+          "year": "2010",
+          "journal-title": "J. Occup. Organ. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0220",
+          "doi-asserted-by": "crossref",
+          "first-page": "273",
+          "DOI": "10.1037/ocp0000056",
+          "article-title": "Job demands–resources theory: taking stock and looking forward",
+          "volume": "22",
+          "author": "Bakker",
+          "year": "2017",
+          "journal-title": "J. Occup. Health Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0225",
+          "doi-asserted-by": "crossref",
+          "first-page": "1145",
+          "DOI": "10.1037/apl0000335",
+          "article-title": "Good actors but bad apples: deviant consequences of daily impression management at work",
+          "volume": "103",
+          "author": "Klotz",
+          "year": "2018",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0230",
+          "first-page": "71",
+          "article-title": "Assessing the attitudes and perceptions of organizational members",
+          "author": "Cammann",
+          "year": "1983",
+          "journal-title": "Assess. Organiz. Change: A guide to methods, Meas. Practic."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0235",
+          "doi-asserted-by": "crossref",
+          "first-page": "73",
+          "DOI": "10.1111/peps.12206",
+          "article-title": "Worked to death: the relationships of job demands and job control with mortality",
+          "volume": "70",
+          "author": "Gonzalez-Mulé",
+          "year": "2017",
+          "journal-title": "Pers. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bib261",
+          "doi-asserted-by": "crossref",
+          "first-page": "349",
+          "DOI": "10.1037/a0015352",
+          "article-title": "Affective experience in adulthood and old age: The role of affective arousal and perceived affect regulation",
+          "volume": "24",
+          "author": "Kessler",
+          "year": "2009",
+          "journal-title": "Psychol. Aging."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bib262",
+          "doi-asserted-by": "crossref",
+          "first-page": "1159",
+          "DOI": "10.1037/0021-9010.92.4.1159",
+          "article-title": "Abusive supervision and workplace deviance and the moderating effects of negative reciprocity beliefs",
+          "volume": "92",
+          "author": "Mitchell",
+          "year": "2007",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0240",
+          "doi-asserted-by": "crossref",
+          "first-page": "178",
+          "DOI": "10.2307/1556375",
+          "article-title": "Consequences of abusive supervision",
+          "volume": "43",
+          "author": "Tepper",
+          "year": "2000",
+          "journal-title": "Acad. Manag. J."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0245",
+          "doi-asserted-by": "crossref",
+          "first-page": "151",
+          "DOI": "10.1037/a0034350",
+          "article-title": "Exploring the effects of individual customer incivility encounters on employee incivility: The moderating roles of entity (in)civility and negative affectivity",
+          "volume": "99",
+          "author": "Walker",
+          "year": "2014",
+          "journal-title": "J. Appl. Psychol."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0250",
+          "doi-asserted-by": "crossref",
+          "first-page": "247",
+          "DOI": "10.1016/j.ssci.2017.11.020",
+          "article-title": "How safety-related stress affects workers’ safety behavior: the moderating role of psychological capital",
+          "volume": "103",
+          "author": "Wang",
+          "year": "2018",
+          "journal-title": "Saf. Sci."
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0255",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Crawford Eean, R. And a. LePine Jeffery, Linking job demands and resources to employee engagement and burnout: a theoretical extension and meta-analytic test, J. Appl. Psychol. 95 (2010) 834–848.",
+          "DOI": "10.1037/a0019364"
+        },
+        {
+          "key": "10.1016/j.dss.2026.114681_bb0260",
+          "doi-asserted-by": "crossref",
+          "DOI": "10.1016/j.ijhcs.2025.103649",
+          "article-title": "Safeguarding worker psychosocial well-being in the age of AI: the critical role of decision control",
+          "volume": "205",
+          "author": "Passalacqua",
+          "year": "2025",
+          "journal-title": "Int. J. Hum.-Comput. Stud."
+        }
+      ],
+      "container-title": [
+        "Decision Support Systems"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0167923626000709?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0167923626000709?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            3
+          ]
+        ],
+        "date-time": "2026-07-03T20:40:28Z",
+        "timestamp": 1783111228000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0167923626000709"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "references-count": 54,
+      "alternative-id": [
+        "S0167923626000709"
+      ],
+      "URL": "https://doi.org/10.1016/j.dss.2026.114681",
+      "relation": {},
+      "ISSN": [
+        "0167-9236"
+      ],
+      "issn-type": [
+        {
+          "value": "0167-9236",
+          "type": "print"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            8
+          ]
+        ]
+      },
+      "assertion": [
+        {
+          "value": "Elsevier",
+          "name": "publisher",
+          "label": "This article is maintained by"
+        },
+        {
+          "value": "Differential impact of evaluative vs. non-evaluative AI feedback on employee safety performance and affective wellbeing",
+          "name": "articletitle",
+          "label": "Article Title"
+        },
+        {
+          "value": "Decision Support Systems",
+          "name": "journaltitle",
+          "label": "Journal Title"
+        },
+        {
+          "value": "https://doi.org/10.1016/j.dss.2026.114681",
+          "name": "articlelink",
+          "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+          "value": "article",
+          "name": "content_type",
+          "label": "Content Type"
+        },
+        {
+          "value": "© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+          "name": "copyright",
+          "label": "Copyright"
+        }
+      ],
+      "article-number": "114681"
+    }
+  }
+}

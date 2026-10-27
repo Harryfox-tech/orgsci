@@ -1,0 +1,1621 @@
+[
+  {
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "authors": [
+      "Jiannan Xu",
+      "Gujie Li",
+      "Jane Yi Jiang"
+    ],
+    "year": 2025,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2025-10-15",
+    "publication_dates": {
+      "published-online": "2025-10-15",
+      "published": "2025-10-15"
+    },
+    "publication_type": "journal-article",
+    "venue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+    "doi": "10.1609/aies.v8i3.36755",
+    "source_url": "https://doi.org/10.1609/aies.v8i3.36755",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1609/aies.v8i3.36755",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    },
+    "study_family": "xu_li_jiang_self_preference",
+    "version_relation": "AIES two-page entry and later full arXiv paper; statistics differ across versions."
+  },
+  {
+    "title": "Does AI Cheapen Talk? Theory and Evidence from Global Entrepreneurship and Hiring",
+    "authors": [
+      "Bo Cowgill",
+      "Pablo Hernández-Lagos",
+      "Nataliya Langburd Wright"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2026-04-27",
+    "publication_dates": {
+      "published-online": "2026-04-27",
+      "published": "2026-04-27"
+    },
+    "publication_type": "journal-article",
+    "venue": "Management Science",
+    "doi": "10.1287/mnsc.2024.07027",
+    "source_url": "https://doi.org/10.1287/mnsc.2024.07027",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1287/mnsc.2024.07027",
+          "checked_at": "2026-10-24T03:10:45.891522Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Personnel selection as a signaling game.",
+    "authors": [
+      "Adrian Bangerter",
+      "Nicolas Roulin",
+      "Cornelius J. König"
+    ],
+    "year": 2012,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published-online": "2012",
+      "published": "2012"
+    },
+    "publication_type": "journal-article",
+    "venue": "Journal of Applied Psychology",
+    "doi": "10.1037/a0026078",
+    "source_url": "https://doi.org/10.1037/a0026078",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1037/a0026078",
+          "checked_at": "2026-10-24T03:10:46.534689Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Algorithmic Monoculture and Its Critics",
+    "authors": [
+      "Brian Hedden",
+      "Manish Raghavan"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": "2026-09-25",
+    "publication_dates": {
+      "published-online": "2026-09-25",
+      "published": "2026-09-25"
+    },
+    "publication_type": "journal-article",
+    "venue": "Philosophical Perspectives",
+    "doi": "10.1111/phpe.70018",
+    "source_url": "https://doi.org/10.1111/phpe.70018",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1111/phpe.70018",
+          "checked_at": "2026-10-24T03:10:46.857977Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "When Better AI Reveals Less",
+    "authors": [
+      "Yetong Liu"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published": "2026"
+    },
+    "publication_type": "posted-content",
+    "venue": null,
+    "doi": "10.2139/ssrn.7592711",
+    "source_url": "https://doi.org/10.2139/ssrn.7592711",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.2139/ssrn.7592711",
+          "checked_at": "2026-10-24T03:13:31.743232Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Hope, signals, and silicon: A game-theoretic model of the pre-doctoral academic labor market in the age of AI",
+    "authors": [
+      "Shaohui Wang"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "crossref"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_date": null,
+    "publication_dates": {
+      "published-print": "2026-10",
+      "published": "2026-10"
+    },
+    "publication_type": "journal-article",
+    "venue": "Research Policy",
+    "doi": "10.1016/j.respol.2026.105568",
+    "source_url": "https://doi.org/10.1016/j.respol.2026.105568",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "doi": [
+        {
+          "platform": "crossref",
+          "source_url": "https://api.crossref.org/works/10.1016/j.respol.2026.105568",
+          "checked_at": "2026-10-24T03:13:32.415435Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "When LLMs Evaluate LLMs in Hiring: A Multi-Model Auditing Framework for Generative Preference Bias in AI-Assisted Recruitment",
+    "authors": [
+      "Michael Andreas Ebling",
+      "Stefania Ionescu",
+      "Nicolò Pagan"
+    ],
+    "year": 2026,
+    "source_platforms": [
+      "pmlr"
+    ],
+    "fetched_at": "2026-10-24",
+    "citation_count": null,
+    "abstract": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried; counts are not evidence of novelty.",
+      "abstract": "See original source; no verbatim abstract exported."
+    },
+    "publication_type": "conference",
+    "venue": "Proceedings of Fifth European Conference on Algorithmic Fairness, PMLR 350",
+    "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v350/main/assets/ebling26a/ebling26a.pdf",
+    "full_text_status": "open_pdf",
+    "field_sources": {
+      "title": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "authors": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "year": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "venue": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "pmlr",
+          "source_url": "https://proceedings.mlr.press/v350/ebling26a.html",
+          "checked_at": "2026-10-24T03:10:49.126689Z",
+          "evidence_type": "source_metadata"
+        }
+      ]
+    }
+  },
+  {
+    "title": "AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights",
+    "authors": [
+      "Jiannan Xu",
+      "Gujie Li",
+      "Jane Yi Jiang"
+    ],
+    "year": 2025,
+    "arxiv_id": "2509.00462v4",
+    "source_url": "https://arxiv.org/abs/2509.00462v4",
+    "note": "Initial preprint 2025; v4 revised 2026-06-06. Same study as the two-page AIES 2025 entry, not independent evidence.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2509.00462v4",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    },
+    "study_family": "xu_li_jiang_self_preference",
+    "version_relation": "AIES two-page entry and later full arXiv paper; statistics differ across versions."
+  },
+  {
+    "title": "LLM Evaluators Recognize and Favor Their Own Generations",
+    "authors": [
+      "Arjun Panickssery",
+      "Samuel R. Bowman",
+      "Shi Feng"
+    ],
+    "year": 2024,
+    "arxiv_id": "2404.13076v1",
+    "source_url": "https://arxiv.org/abs/2404.13076",
+    "note": "arXiv version metadata; this record does not assert a separately verified proceedings status.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2404.13076",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Two Tickets are Better than One: Fair and Accurate Hiring Under Strategic LLM Manipulations",
+    "authors": [
+      "Lee Cohen",
+      "Jack Hsieh",
+      "Connie Hong",
+      "Judy Hanwen Shen"
+    ],
+    "year": 2025,
+    "arxiv_id": "2502.13221v1",
+    "source_url": "https://arxiv.org/abs/2502.13221",
+    "note": "Read public HTML Sections 6-7; guarantees are conditional, not unconditional field evidence.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2502.13221",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "When AI Agents Compete for Jobs: Strategic Capabilities and Economic Dynamics of AI Labour Markets",
+    "authors": [
+      "Christopher Chiu",
+      "Simpson Zhang",
+      "Mihaela van der Schaar"
+    ],
+    "year": 2025,
+    "arxiv_id": "2512.04988v2",
+    "source_url": "https://arxiv.org/abs/2512.04988",
+    "note": "Initial preprint 2025; v2 revised 2026-07-01. arXiv comments report ICML 2026 acceptance; proceedings not independently checked.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2512.04988",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Diagon: A Programmable Testbed for AI-Agent Cognitive Labor Markets",
+    "authors": [
+      "Xuan Liu",
+      "Haoyang Shang",
+      "Haojian Jin"
+    ],
+    "year": 2026,
+    "arxiv_id": "2604.06688v3",
+    "source_url": "https://arxiv.org/abs/2604.06688",
+    "note": "Current v3 title differs from older search-index title When Agent Markets Arrive. Same arXiv ID, not a second study.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.06688",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "MarketBench: Evaluating AI Agents as Market Participants",
+    "authors": [
+      "Andrey Fradkin",
+      "Rohit Krishnan"
+    ],
+    "year": 2026,
+    "arxiv_id": "2604.23897v1",
+    "source_url": "https://arxiv.org/abs/2604.23897",
+    "note": "Read abstract and public HTML introduction/benchmark definition.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2604.23897",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "EvoRubrics: Dynamic Rubrics as Rewards via Adversarial Co-Evolution for LLM Reinforcement Learning",
+    "authors": [
+      "Hongxin Ding",
+      "Baixiang Huang",
+      "Yue Fang",
+      "Weibin Liao",
+      "Zheng Li",
+      "Jinyang Zhang",
+      "Zhijing Wu",
+      "Junfeng Zhao",
+      "Yasha Wang"
+    ],
+    "year": 2026,
+    "arxiv_id": "2606.23038v1",
+    "source_url": "https://arxiv.org/abs/2606.23038",
+    "note": "Read HTML Sections 4 and 6; policy and rubric adapters update, while a judge scores the answer-rubric pairs. Do not conflate rubric generator and judge.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.23038",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "ARCO: Adaptive Rubrics with Co-Evolution for Multi-Step LLM-Based Agents",
+    "authors": [
+      "Zihang Tian",
+      "Jingsen Zhang",
+      "Rui Li",
+      "Xiaohe Bo",
+      "Yuanzi Li",
+      "Xu Chen"
+    ],
+    "year": 2026,
+    "arxiv_id": "2606.21262v2",
+    "source_url": "https://arxiv.org/abs/2606.21262",
+    "note": "Read public HTML framework and limitations. Policy, rubric content and scoring co-evolve; generic criterion endogeneity is not unstudied.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2606.21262",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "J-Zero: Unified Challenger--Solver--Judge Self-Evolution from Zero Data",
+    "authors": [
+      "Gyouk Chu",
+      "Myeongho Jeon",
+      "Teresa Yeo",
+      "Eunho Yang"
+    ],
+    "year": 2026,
+    "arxiv_id": "2608.26582v2",
+    "source_url": "https://arxiv.org/abs/2608.26582",
+    "note": "Abstract and framework overview only; no replication performed.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.26582",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Self- and Other-Labels Induce Bidirectional Bias in LLM Judges",
+    "authors": [
+      "Songeun Chae",
+      "Min Kim",
+      "Donghoon Jung",
+      "Seojin Choi",
+      "Seohyon Jung"
+    ],
+    "year": 2026,
+    "arxiv_id": "2608.18091v3",
+    "source_url": "https://arxiv.org/abs/2608.18091",
+    "note": "Abstract-only evidence: HTML extraction contains contents and abstract, not a readable full body. Page submission date and arXiv ID month appear inconsistent; do not infer a publication day.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2608.18091",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces",
+    "authors": [
+      "Steve Drew",
+      "Jiayu Zhou"
+    ],
+    "year": 2026,
+    "arxiv_id": "2609.21325v1",
+    "source_url": "https://arxiv.org/abs/2609.21325",
+    "note": "Read public HTML introduction and protocol scope; marketplace allocation is proposed, not an observed deployed market.",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "publication_type": "preprint",
+    "venue": "arXiv",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2609.21325",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Rethinking Reward Model Evaluation Through the Lens of Reward Overoptimization",
+    "authors": [
+      "Sunghwan Kim",
+      "Dongjin Kang",
+      "Taeyoon Kwon",
+      "Hyungjoo Chae",
+      "Dongha Lee",
+      "Jinyoung Yeo"
+    ],
+    "year": 2025,
+    "doi": "10.18653/v1/2025.acl-long.649",
+    "publication_type": "conference",
+    "venue": "ACL 2025, Volume 1: Long Papers",
+    "source_url": "https://aclanthology.org/2025.acl-long.649/",
+    "note": "Primary ACL metadata and abstract; Crossref exact-DOI request returned 429. No full paper read claimed.",
+    "source_platforms": [
+      "acl_anthology"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "venue": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "doi": [
+        {
+          "platform": "acl_anthology",
+          "source_url": "https://aclanthology.org/2025.acl-long.649/",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Signaling in the Age of AI: Evidence from Cover Letters",
+    "authors": [
+      "Jingyi Cui",
+      "Gabriel Dias",
+      "Justin Ye"
+    ],
+    "year": 2025,
+    "publication_type": "working-paper",
+    "source_url": "https://jingyi-cui.github.io/Signaling_AI_Cui_Dias_Ye.pdf",
+    "note": "Author-hosted PDF dated 2025-11-12, abstract and Section 4.3 inspected through web extraction. Not a verified journal publication or a locally downloaded PDF.",
+    "source_platforms": [
+      "author_website"
+    ],
+    "fetched_at": "2026-10-24",
+    "abstract": null,
+    "citation_count": null,
+    "download_status": "not_requested",
+    "venue": null,
+    "missing_fields": {
+      "citation_count": "Not queried.",
+      "abstract": "No verbatim abstract exported."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "author_website",
+          "source_url": "https://jingyi-cui.github.io/Signaling_AI_Cui_Dias_Ye.pdf",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "author_website",
+          "source_url": "https://jingyi-cui.github.io/Signaling_AI_Cui_Dias_Ye.pdf",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "year": [
+        {
+          "platform": "author_website",
+          "source_url": "https://jingyi-cui.github.io/Signaling_AI_Cui_Dias_Ye.pdf",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "author_website",
+          "source_url": "https://jingyi-cui.github.io/Signaling_AI_Cui_Dias_Ye.pdf",
+          "checked_at": "2026-10-24T03:15:15Z",
+          "evidence_type": "page_text",
+          "note": "Primary source checked with web tool; local Python arXiv TLS failures remain in query_log.json."
+        }
+      ]
+    }
+  }
+]

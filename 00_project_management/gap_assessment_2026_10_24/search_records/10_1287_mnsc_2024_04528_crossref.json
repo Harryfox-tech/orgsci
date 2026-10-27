@@ -1,0 +1,500 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works/10.1287/mnsc.2024.04528",
+    "checked_at": "2026-10-24T02:39:07.105921Z",
+    "http_status": 200
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work",
+    "message-version": "1.0.0",
+    "message": {
+      "indexed": {
+        "date-parts": [
+          [
+            2026,
+            10,
+            22
+          ]
+        ],
+        "date-time": "2026-10-22T05:38:12Z",
+        "timestamp": 1792647492641,
+        "version": "4.5.0"
+      },
+      "reference-count": 56,
+      "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+      "issue": "12",
+      "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+      },
+      "short-container-title": [
+        "Management Science"
+      ],
+      "published-print": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "abstract": "<jats:p>There is a strong association between writing quality in resumes for new labor market entrants and whether they are ultimately hired. We show this relationship is, at least partially, causal: In a field experiment in an online labor market with nearly half a million jobseekers, treated jobseekers received nongenerative algorithmic writing assistance on their resumes. Treated jobseekers were hired 8% more often at 10% higher wages. Contrary to concerns that the assistance takes away a valuable signal, we find no evidence that employers were less satisfied. We find that the writing on treated jobseekers resumes had fewer errors and was easier to read. Our analysis suggests that writing is an imperfect signal of ability but better writing helps employers ascertain ability through clearer writing, suggesting digital platforms could benefit from incorporating nongenerative algorithmic writing assistance into text-based descriptions of labor services or products.</jats:p>\n                  <jats:p>This paper was accepted by Anindya Ghose, information systems.</jats:p>\n                  <jats:p>Funding: J. Horton and E. Wiles received funding from the online labor market on which this experiment was run. No authors received funding from the Algorithmic Writing Service.</jats:p>\n                  <jats:p>Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mnsc.2024.04528 .</jats:p>",
+      "DOI": "10.1287/mnsc.2024.04528",
+      "type": "journal-article",
+      "created": {
+        "date-parts": [
+          [
+            2025,
+            4,
+            18
+          ]
+        ],
+        "date-time": "2025-04-18T09:49:46Z",
+        "timestamp": 1744969786000
+      },
+      "page": "10144-10164",
+      "source": "Crossref",
+      "is-referenced-by-count": 16,
+      "title": [
+        "Algorithmic Writing Assistance on Jobseekers’ Resumes Increases Hires"
+      ],
+      "prefix": "10.1287",
+      "volume": "71",
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-9300-0496",
+          "authenticated-orcid": false,
+          "given": "Emma",
+          "family": "Wiles",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Questrom School of Business, Boston University, Boston, Massachusetts 02215"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zanele",
+          "family": "Munyikwa",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Revelio Labs, New York, New York 10010"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5426-0156",
+          "authenticated-orcid": false,
+          "given": "John",
+          "family": "Horton",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142; and National Bureau of Economic Research, Cambridge, Massachusetts 02138"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "member": "109",
+      "reference": [
+        {
+          "key": "B1",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.20190586"
+        },
+        {
+          "key": "B2",
+          "first-page": "89",
+          "volume-title": "The Economics of Artificial Intelligence: An Agenda",
+          "author": "Agrawal A",
+          "year": "2018"
+        },
+        {
+          "key": "B3",
+          "volume-title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+          "author": "Agrawal A",
+          "year": "2018"
+        },
+        {
+          "key": "B4",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jinteco.2016.08.003"
+        },
+        {
+          "key": "B5",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.7208/chicago/9780226206981.003.0008"
+        },
+        {
+          "key": "B6",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1126/sciadv.abi9031"
+        },
+        {
+          "key": "B7",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/restud/rdy059"
+        },
+        {
+          "key": "B8",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/0002828042002561"
+        },
+        {
+          "key": "B9",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.1120.1609"
+        },
+        {
+          "key": "B10",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1002/pam.22368"
+        },
+        {
+          "key": "B11",
+          "unstructured": "Brown T, Mann B, Ryder N, Subbiah M, Kaplan JD, Dhariwal P, Neelakantan A, et al. (2020) Language models are few-shot learners. Larochelle H, Ranzato M, Hadsell R, Balcan MF, Lin H, eds.\n                      Advances in Neural Information Processing Systems\n                      , vol. 33 (Curran Associates, Inc., Red Hook, NY), 1877–1901."
+        },
+        {
+          "key": "B12",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Brynjolfsson E, Li D, Raymond LR (2023) Generative AI at work. Technical report, National Bureau of Economic Research, Cambridge, MA.",
+          "DOI": "10.3386/w31161"
+        },
+        {
+          "key": "B13",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.ijindorg.2014.03.002"
+        },
+        {
+          "issue": "548",
+          "key": "B14",
+          "first-page": "F452",
+          "volume": "120",
+          "author": "Card D",
+          "year": "2010",
+          "journal-title": "Econom. J."
+        },
+        {
+          "issue": "1",
+          "key": "B15",
+          "first-page": "A223",
+          "volume": "10",
+          "author": "Cavaleri M",
+          "year": "2016",
+          "journal-title": "J. Academic Language Learn."
+        },
+        {
+          "key": "B16",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2017.2756"
+        },
+        {
+          "key": "B58",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Cowgill B, Hernandez-Lagos P, Wright NL (2024) Does AI cheapen talk? Theory and evidence from global entrepreneurship and hiring. Preprint, submitted January 22, http://dx.doi.org/10.2139/ssrn.4702114.",
+          "DOI": "10.2139/ssrn.4702114"
+        },
+        {
+          "key": "B18",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/qje/qjt001"
+        },
+        {
+          "key": "B19",
+          "unstructured": "Dell’Acqua F (2022) Falling asleep at the wheel: Human/AI collaboration in a field experiment on HR recruiters. Working paper, Harvard Business School, Cambridge, MA."
+        },
+        {
+          "key": "B20",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/qje/qjx022"
+        },
+        {
+          "key": "B22",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Eloundou T, Manning S, Mishkin P, Rock D (2024) GPTs are GPTs: Labor market impact potential of LLMs.\n                      Science\n                      384(6702):1306–1308.",
+          "DOI": "10.1126/science.adj0998"
+        },
+        {
+          "key": "B23",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.p20161010"
+        },
+        {
+          "key": "B24",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Felten EW, Raj M, Seamans R (2023) Occupational heterogeneity in exposure to generative AI. Preprint, submitted April 19, http://dx.doi.org/10.2139/ssrn.4414065.",
+          "DOI": "10.2139/ssrn.4414065"
+        },
+        {
+          "key": "B25",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/02702710500400495"
+        },
+        {
+          "key": "B26",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mksc.2022.1350"
+        },
+        {
+          "key": "B27",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/h0057532"
+        },
+        {
+          "key": "B28",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mksc.2021.1311"
+        },
+        {
+          "key": "B29",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1145/1070838.1070841"
+        },
+        {
+          "key": "B30",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1109/TKDE.2010.188"
+        },
+        {
+          "key": "B31",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/jel.20171452"
+        },
+        {
+          "key": "B32",
+          "unstructured": "HF Canonical Model Maintainers (2022) DistilBERT-base-uncased-finetuned-sst-2-English (Revision bfdd146). Hugging Face. https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english."
+        },
+        {
+          "key": "B33",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/isre.2021.1003"
+        },
+        {
+          "key": "B34",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Horton JJ (2010) Online labor markets.\n                      Proc. 6th Internat. Workshop Internet Network Econom.\n                      , vol. 6484 (Springer, Berlin, Heidelberg).",
+          "DOI": "10.1007/978-3-642-17572-5_45"
+        },
+        {
+          "key": "B35",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/689213"
+        },
+        {
+          "key": "B36",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/0001839216639577"
+        },
+        {
+          "key": "B37",
+          "unstructured": "Kincaid JP, Fishburn RP, Rogers RL, Chissom BS (1975) Derivation of new readability formulas for navy enlisted personnel. Technical Report Research Branch Report, Naval Technical Training, Millington, TN; US Naval Air Station, Memphis, TN."
+        },
+        {
+          "key": "B38",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2022.4426"
+        },
+        {
+          "key": "B39",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1111/j.1467-937X.2009.00536.x"
+        },
+        {
+          "key": "B40",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1287/mnsc.2021.4049"
+        },
+        {
+          "key": "B41",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jpubeco.2017.02.012"
+        },
+        {
+          "key": "B42",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1086/705903"
+        },
+        {
+          "key": "B43",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1177/2329490616671310"
+        },
+        {
+          "key": "B44",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S8755-4615(02)00142-1"
+        },
+        {
+          "key": "B45",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1073/pnas.1211286109"
+        },
+        {
+          "key": "B46",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Noy S, Zhang W (2023) Experimental evidence on the productivity effects of generative artificial intelligence.\n                      Science\n                      381(6654):187–192.",
+          "DOI": "10.1126/science.adh2586"
+        },
+        {
+          "key": "B47",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/pol.3.4.148"
+        },
+        {
+          "key": "B48",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1257/aer.104.11.3565"
+        },
+        {
+          "key": "B49",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1037/apl0000405"
+        },
+        {
+          "key": "B50",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/j.jbusres.2016.08.008"
+        },
+        {
+          "key": "B51",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1080/0013188930350103"
+        },
+        {
+          "key": "B52",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1093/restud/rdv042"
+        },
+        {
+          "key": "B53",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Sterkens P, Caers R, De Couck M, Geamanu M, Van Driessche V, Baert S (2023) Costly mistakes: Why and when spelling errors in resumes jeopardise interview chances.\n                      PLoS One\n                      18(4):e0283280.",
+          "DOI": "10.1371/journal.pone.0283280"
+        },
+        {
+          "key": "B54",
+          "volume-title": "Technology, Skills, and Performance: The Case of Robots in Surgery",
+          "author": "Tafti EA",
+          "year": "2022"
+        },
+        {
+          "key": "B55",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1016/S8755-4615(00)00038-4"
+        },
+        {
+          "key": "B56",
+          "doi-asserted-by": "publisher",
+          "DOI": "10.1089/cyber.2020.0863"
+        },
+        {
+          "key": "B57",
+          "doi-asserted-by": "crossref",
+          "unstructured": "Wiles, E Horton J (2025) Generative AI and labor market matching efficiency. Working paper, Boston University, Boston.",
+          "DOI": "10.2139/ssrn.5187344"
+        }
+      ],
+      "container-title": [
+        "Management Science"
+      ],
+      "original-title": [],
+      "language": "en",
+      "link": [
+        {
+          "URL": "https://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2024.04528",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "deposited": {
+        "date-parts": [
+          [
+            2025,
+            12,
+            5
+          ]
+        ],
+        "date-time": "2025-12-05T09:41:43Z",
+        "timestamp": 1764927703000
+      },
+      "score": 1,
+      "resource": {
+        "primary": {
+          "URL": "https://pubsonline.informs.org/doi/10.1287/mnsc.2024.04528"
+        }
+      },
+      "subtitle": [],
+      "short-title": [],
+      "issued": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      },
+      "references-count": 56,
+      "journal-issue": {
+        "issue": "12",
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        }
+      },
+      "alternative-id": [
+        "10.1287/mnsc.2024.04528"
+      ],
+      "URL": "https://doi.org/10.1287/mnsc.2024.04528",
+      "relation": {},
+      "ISSN": [
+        "0025-1909",
+        "1526-5501"
+      ],
+      "issn-type": [
+        {
+          "value": "0025-1909",
+          "type": "print"
+        },
+        {
+          "value": "1526-5501",
+          "type": "electronic"
+        }
+      ],
+      "subject": [],
+      "published": {
+        "date-parts": [
+          [
+            2025,
+            12
+          ]
+        ]
+      }
+    }
+  }
+}

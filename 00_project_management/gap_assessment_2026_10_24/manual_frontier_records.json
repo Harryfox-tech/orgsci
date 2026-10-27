@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Reinforcement Learning for Durable Algorithmic Recourse",
+    "authors": ["Marina Ceccon", "Alessandro Fabris", "Goran Radanović", "Asia J. Biega", "Gian Antonio Susto"],
+    "year": 2025, "publication_date": "2025-09-26", "revision_date": "2026-02-02",
+    "publication_type": "preprint", "venue": "arXiv", "arxiv_id": "2509.22102v2",
+    "doi": "10.48550/arXiv.2509.22102", "source_url": "https://arxiv.org/abs/2509.22102",
+    "source_platform": "arxiv", "inspection": "版本页、摘要及v2正文第3节；没有核定其他正式发表版本。"
+  },
+  {
+    "title": "Algorithmic Recourse Under Competition", "authors": ["Shahin Jabbari"],
+    "year": 2026, "publication_date": "2026-09-30", "publication_type": "preprint", "venue": "arXiv",
+    "arxiv_id": "2609.39877v1", "doi": null, "source_url": "https://arxiv.org/abs/2609.39877",
+    "source_platform": "arxiv", "inspection": "版本页和v1正文第5.2.7、6节；不能因局限提多轮就忽略部分采纳实验。"
+  },
+  {
+    "title": "AI and the Market for Signals", "authors": ["Emre Ozdenoren", "Doruk Cetemen"],
+    "year": 2026, "publication_date": "2026-09-28", "publication_type": "working-paper",
+    "venue": "CEPR Discussion Paper 21988", "doi": null,
+    "source_url": "https://cepr.org/publications/dp21988", "source_platform": "cepr",
+    "inspection": "官方工作论文摘要与日期；未取得完整模型。"
+  },
+  {
+    "title": "Toward System-Level Algorithmic Recourse: Capacity, Competition, and Evaluation",
+    "authors": ["Zahra Khotanlou"], "year": 2026, "publication_date": "2026-04-23",
+    "publication_type": "thesis", "venue": "University of Waterloo", "doi": null,
+    "source_url": "https://uwspace.uwaterloo.ca/items/bd7cfd65-3af7-4603-8cd5-ffaf32f499fe",
+    "source_platform": "university_repository", "inspection": "大学仓储摘要、作者和日期；学位论文，不是已发表期刊文章。"
+  },
+  {
+    "title": "From Forbid to Reimagine: Employer Strategies for Responding to Candidate GenAI Use in Assessment",
+    "authors": ["Patrick D. Dunlop", "Filip Lievens"], "year": 2026, "publication_date": "2026-03-30",
+    "publication_type": "journal-article", "venue": "International Journal of Selection and Assessment",
+    "doi": "10.1111/ijsa.70060", "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/ijsa.70060",
+    "source_platform": "publisher", "inspection": "出版社正文摘要、Summary及引言；Commentary。Crossref请求429，未将它当作不存在。"
+  }
+]

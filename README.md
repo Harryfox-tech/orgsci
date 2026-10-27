@@ -4,6 +4,12 @@ This repository supports a research paper on how AI-enabled recruitment reshapes
 
 The initial manuscript and its Chinese working translation are retained without content edits. The computational archive contains the executable replication package for the current draft.
 
+## Research direction status
+
+As of 2026-10-27, a two-page research-proposal draft on low-score diagnostic mismatch is prepared following the user's request and adviser feedback. It includes targeted literature checks and a minimal model outline, but is not an approved novelty claim or a final topic decision. The draft has not been sent to the adviser. AI-agent opportunity filtering remains an empirical alternative. The historical manuscript and ABM remain unchanged; they are not evidence that the new mechanism has been established.
+
+See [current research status](00_project_management/CURRENT_STATUS.md), the [research proposal](00_project_management/proposal_2026_10_27/README.md), and the [adviser-feedback review](00_project_management/advisor_guidance_2026_10_26/README.md). Journal choice for the new question remains open.
+
 ## Repository map
 
 | Folder | Purpose |

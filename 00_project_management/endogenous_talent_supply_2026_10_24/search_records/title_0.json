@@ -1,0 +1,854 @@
+{
+  "request": {
+    "platform": "crossref",
+    "url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3",
+    "checked_at": "2026-10-24T04:02:01.310691Z",
+    "http_status": 200,
+    "final_url": "https://api.crossref.org/works?query.title=The+Disparate+Equilibria+of+Algorithmic+Decision+Making+when+Individuals+Invest+Rationally&rows=3"
+  },
+  "data": {
+    "status": "ok",
+    "message-type": "work-list",
+    "message-version": "1.0.0",
+    "message": {
+      "facets": {},
+      "total-results": 1469035,
+      "items": [
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                9,
+                26
+              ]
+            ],
+            "date-time": "2026-09-26T10:23:14Z",
+            "timestamp": 1790418194794,
+            "version": "4.1.0"
+          },
+          "publisher-location": "New York, NY, USA",
+          "reference-count": 45,
+          "publisher": "ACM",
+          "license": [
+            {
+              "start": {
+                "date-parts": [
+                  [
+                    2020,
+                    1,
+                    27
+                  ]
+                ],
+                "date-time": "2020-01-27T00:00:00Z",
+                "timestamp": 1580083200000
+              },
+              "content-version": "vor",
+              "delay-in-days": 0,
+              "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+            }
+          ],
+          "content-domain": {
+            "domain": [
+              "dl.acm.org"
+            ],
+            "crossmark-restriction": true
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                27
+              ]
+            ]
+          },
+          "DOI": "10.1145/3351095.3372861",
+          "type": "proceedings-article",
+          "created": {
+            "date-parts": [
+              [
+                2020,
+                2,
+                26
+              ]
+            ],
+            "date-time": "2020-02-26T17:35:07Z",
+            "timestamp": 1582738507000
+          },
+          "page": "381-391",
+          "update-policy": "https://doi.org/10.1145/crossmark-policy",
+          "source": "Crossref",
+          "is-referenced-by-count": 29,
+          "title": [
+            "The disparate equilibria of algorithmic decision making when individuals invest rationally"
+          ],
+          "prefix": "10.1145",
+          "author": [
+            {
+              "given": "Lydia T.",
+              "family": "Liu",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "University of California"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Ashia",
+              "family": "Wilson",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Microsoft Research"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Nika",
+              "family": "Haghtalab",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Cornell University"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Adam Tauman",
+              "family": "Kalai",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Microsoft Research"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Christian",
+              "family": "Borgs",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Microsoft Research"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            },
+            {
+              "given": "Jennifer",
+              "family": "Chayes",
+              "sequence": "additional",
+              "affiliation": [
+                {
+                  "name": "Microsoft Research"
+                }
+              ],
+              "role": [
+                {
+                  "vocabulary": "crossref",
+                  "role": "author"
+                }
+              ]
+            }
+          ],
+          "member": "320",
+          "published-online": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                27
+              ]
+            ]
+          },
+          "reference": [
+            {
+              "key": "e_1_3_2_2_1_1",
+              "volume-title": "Avenancio-Leon",
+              "author": "Aneja Abhay P.",
+              "year": "2019",
+              "unstructured": "Abhay P. Aneja and Carlos F . Avenancio-Leon . 2019 . No Credit For Time Served? Incarceration and Credit-Driven Crime Cycles . Abhay P. Aneja and Carlos F. Avenancio-Leon. 2019. No Credit For Time Served? Incarceration and Credit-Driven Crime Cycles."
+            },
+            {
+              "key": "e_1_3_2_2_2_1",
+              "volume-title": "Discrimination in Labor Markets",
+              "author": "Arrow Kenneth J.",
+              "unstructured": "Kenneth J. Arrow . 1973. The Theory of Discrimination . In Discrimination in Labor Markets . Princeton University Press , 3--33. Kenneth J. Arrow. 1973. The Theory of Discrimination. In Discrimination in Labor Markets. Princeton University Press, 3--33."
+            },
+            {
+              "key": "e_1_3_2_2_3_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1257/jep.12.2.91"
+            },
+            {
+              "key": "e_1_3_2_2_4_1",
+              "unstructured": "Solon Barocas Moritz Hardt and Arvind Narayanan. 2018. Fairness and Machine Learning. fairmlbook.org. http://www.fairmlbook.org.  Solon Barocas Moritz Hardt and Arvind Narayanan. 2018. Fairness and Machine Learning. fairmlbook.org. http://www.fairmlbook.org."
+            },
+            {
+              "key": "e_1_3_2_2_5_1",
+              "article-title": "Big Data's Disparate Impact",
+              "volume": "104",
+              "author": "Barocas Solon",
+              "year": "2016",
+              "unstructured": "Solon Barocas and Andrew D Selbst . 2016 . Big Data's Disparate Impact . California Law Review 104 , 671 (2016). Solon Barocas and Andrew D Selbst. 2016. Big Data's Disparate Impact. California Law Review 104, 671 (2016).",
+              "journal-title": "California Law Review"
+            },
+            {
+              "key": "e_1_3_2_2_6_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1016/j.jpubeco.2007.03.006"
+            },
+            {
+              "key": "e_1_3_2_2_7_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3240323.3240370"
+            },
+            {
+              "key": "e_1_3_2_2_8_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1257/aer.20150572"
+            },
+            {
+              "key": "e_1_3_2_2_9_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1089/big.2016.0047"
+            },
+            {
+              "key": "e_1_3_2_2_10_1",
+              "first-page": "1220",
+              "article-title": "Will Affirmative-Action Policies Eliminate Negative Stereotypes",
+              "volume": "83",
+              "author": "Coate Stephen",
+              "year": "1993",
+              "unstructured": "Stephen Coate and Glenn C. Loury . 1993 . Will Affirmative-Action Policies Eliminate Negative Stereotypes ? The American Economic Review 83 , 5 (1993), 1220 -- 1240 . Stephen Coate and Glenn C. Loury. 1993. Will Affirmative-Action Policies Eliminate Negative Stereotypes? The American Economic Review 83, 5 (1993), 1220--1240.",
+              "journal-title": "The American Economic Review"
+            },
+            {
+              "key": "e_1_3_2_2_11_1",
+              "volume-title": "Political polarization on twitter. ICWSM 133",
+              "author": "Conover Michael",
+              "year": "2011",
+              "unstructured": "Michael Conover , Jacob Ratkiewicz , Matthew R Francisco , Bruno Goncalves , Filippo Menczer , and Alessandro Flammini . 2011. Political polarization on twitter. ICWSM 133 ( 2011 ), 89Ð96. Michael Conover, Jacob Ratkiewicz, Matthew R Francisco, Bruno Goncalves, Filippo Menczer, and Alessandro Flammini. 2011. Political polarization on twitter. ICWSM 133 (2011), 89Ð96."
+            },
+            {
+              "key": "e_1_3_2_2_12_1",
+              "volume-title": "The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning. CoRR abs/1808.00023",
+              "author": "Corbett-Davies Sam",
+              "year": "2018",
+              "unstructured": "Sam Corbett-Davies and Sharad Goel . 2018. The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning. CoRR abs/1808.00023 ( 2018 ). Sam Corbett-Davies and Sharad Goel. 2018. The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning. CoRR abs/1808.00023 (2018)."
+            },
+            {
+              "key": "e_1_3_2_2_13_1",
+              "unstructured": "Kate Crawford. 2017. The Trouble with Bias. NeurIPS Keynote.  Kate Crawford. 2017. The Trouble with Bias. NeurIPS Keynote."
+            },
+            {
+              "key": "e_1_3_2_2_14_1",
+              "volume-title": "Amazon scraps secret AI recruiting tool that showed bias against women",
+              "author": "Dastin Jeffrey",
+              "year": "2019",
+              "unstructured": "Jeffrey Dastin . 2019. Amazon scraps secret AI recruiting tool that showed bias against women . Reuters ( 10 2019 ). Jeffrey Dastin. 2019. Amazon scraps secret AI recruiting tool that showed bias against women. Reuters (10 2019)."
+            },
+            {
+              "key": "e_1_3_2_2_15_1",
+              "volume-title": "Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML)",
+              "author": "De-Arteaga Maria",
+              "year": "2018",
+              "unstructured": "Maria De-Arteaga , Artur Dubrawski , and Alexandra Chouldechova . 2018 . Learning under selective labels in the presence of expert consistency . Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) (2018). Maria De-Arteaga, Artur Dubrawski, and Alexandra Chouldechova. 2018. Learning under selective labels in the presence of expert consistency. Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML) (2018)."
+            },
+            {
+              "key": "e_1_3_2_2_16_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287572"
+            },
+            {
+              "key": "e_1_3_2_2_17_1",
+              "volume-title": "Proceedings of the 1st Conference on Fairness, Accountability and Transparency (Proceedings of Machine Learning Research), Sorelle A. Friedler and Christo Wilson (Eds.)",
+              "volume": "81",
+              "author": "Dwork Cynthia",
+              "year": "2018",
+              "unstructured": "Cynthia Dwork , Nicole Immorlica , Adam Tauman Kalai , and Max Leiserson . 2018 . Decoupled Classifiers for Group-Fair and Efficient Machine Learning . In Proceedings of the 1st Conference on Fairness, Accountability and Transparency (Proceedings of Machine Learning Research), Sorelle A. Friedler and Christo Wilson (Eds.) , Vol. 81 . PMLR, New York, NY, USA, 119--133. Cynthia Dwork, Nicole Immorlica, Adam Tauman Kalai, and Max Leiserson. 2018. Decoupled Classifiers for Group-Fair and Efficient Machine Learning. In Proceedings of the 1st Conference on Fairness, Accountability and Transparency (Proceedings of Machine Learning Research), Sorelle A. Friedler and Christo Wilson (Eds.), Vol. 81. PMLR, New York, NY, USA, 119--133."
+            },
+            {
+              "key": "e_1_3_2_2_18_1",
+              "volume-title": "Runaway Feedback Loops in Predictive Policing. In Conference on Fairness, Accountability and Transparency, FAT 2018",
+              "author": "Ensign Danielle",
+              "year": "2018",
+              "unstructured": "Danielle Ensign , Sorelle A. Friedler , Scott Neville , Carlos Scheidegger , and Suresh Venkatasubramanian . 2018 . Runaway Feedback Loops in Predictive Policing. In Conference on Fairness, Accountability and Transparency, FAT 2018 , 23--24 February 2018, New York, NY, USA. 160--171. Danielle Ensign, Sorelle A. Friedler, Scott Neville, Carlos Scheidegger, and Suresh Venkatasubramanian. 2018. Runaway Feedback Loops in Predictive Policing. In Conference on Fairness, Accountability and Transparency, FAT 2018, 23--24 February 2018, New York, NY, USA. 160--171."
+            },
+            {
+              "key": "e_1_3_2_2_19_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1006/jcss.1997.1504"
+            },
+            {
+              "key": "e_1_3_2_2_20_1",
+              "volume-title": "CEPR Discussion Papers",
+              "author": "Fuster Andreas",
+              "year": "2017",
+              "unstructured": "Andreas Fuster , Paul Goldsmith-Pinkham , Tarun Ramadorai , and Ansgar Walther . 2017. Predictably Unequal? The Effects of Machine Learning on Credit Markets . Technical report , CEPR Discussion Papers ( 2017 ). Andreas Fuster, Paul Goldsmith-Pinkham, Tarun Ramadorai, and Ansgar Walther. 2017. Predictably Unequal? The Effects of Machine Learning on Credit Markets. Technical report, CEPR Discussion Papers (2017)."
+            },
+            {
+              "key": "e_1_3_2_2_21_1",
+              "volume-title": "Strategic Classification. In Proceedings of the 2016 ACM Conference on Innovations in Theoretical Computer Science (ITCS '16)",
+              "author": "Hardt Moritz",
+              "year": "2016",
+              "unstructured": "Moritz Hardt , Nimrod Megiddo , Christos Papadimitriou , and Mary Wootters . 2016 . Strategic Classification. In Proceedings of the 2016 ACM Conference on Innovations in Theoretical Computer Science (ITCS '16) . ACM, New York, NY, USA, 111--122. Moritz Hardt, Nimrod Megiddo, Christos Papadimitriou, and Mary Wootters. 2016. Strategic Classification. In Proceedings of the 2016 ACM Conference on Innovations in Theoretical Computer Science (ITCS '16). ACM, New York, NY, USA, 111--122."
+            },
+            {
+              "key": "e_1_3_2_2_22_1",
+              "unstructured": "M. Hardt E. Price and N. Srebo. 2016. Equality of Opportunity in Supervised Learning. In Advances in Neural Information Processing Systems. 3315--3323.  M. Hardt E. Price and N. Srebo. 2016. Equality of Opportunity in Supervised Learning. In Advances in Neural Information Processing Systems. 3315--3323."
+            },
+            {
+              "key": "e_1_3_2_2_23_1",
+              "volume-title": "Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.)",
+              "volume": "80",
+              "author": "Hashimoto Tatsunori",
+              "year": "2018",
+              "unstructured": "Tatsunori Hashimoto , Megha Srivastava , Hongseok Namkoong , and Percy Liang . 2018 . Fairness Without Demographics in Repeated Loss Minimization . In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.) , Vol. 80 . PMLR, Stockholm, Sweden , 1929--1938. Tatsunori Hashimoto, Megha Srivastava, Hongseok Namkoong, and Percy Liang. 2018. Fairness Without Demographics in Repeated Loss Minimization. In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.), Vol. 80. PMLR, Stockholm, Sweden, 1929--1938."
+            },
+            {
+              "key": "e_1_3_2_2_24_1",
+              "first-page": "1",
+              "article-title": "The Missing \"One-Off\": The Hidden Supply of High-Achieving",
+              "volume": "1",
+              "author": "Hoxby Caroline",
+              "year": "2013",
+              "unstructured": "Caroline Hoxby and Christopher Avery . 2013 . The Missing \"One-Off\": The Hidden Supply of High-Achieving , Low-Income Students. Brookings Papers on Economic Activity 1 (2013), 1 -- 65 . Caroline Hoxby and Christopher Avery. 2013. The Missing \"One-Off\": The Hidden Supply of High-Achieving, Low-Income Students. Brookings Papers on Economic Activity 1 (2013), 1--65.",
+              "journal-title": "Low-Income Students. Brookings Papers on Economic Activity"
+            },
+            {
+              "key": "e_1_3_2_2_25_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3178876.3186044"
+            },
+            {
+              "key": "e_1_3_2_2_26_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287597"
+            },
+            {
+              "key": "e_1_3_2_2_27_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1111/j.1468-0262.2004.00549.x"
+            },
+            {
+              "key": "e_1_3_2_2_28_1",
+              "volume-title": "Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.)",
+              "volume": "80",
+              "author": "Kallus Nathan",
+              "year": "2018",
+              "unstructured": "Nathan Kallus and Angela Zhou . 2018 . Residual Unfairness in Fair Machine Learning from Prejudiced Data . In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.) , Vol. 80 . PMLR, Stockholmsmässan, Stockholm Sweden, 2439--2448. Nathan Kallus and Angela Zhou. 2018. Residual Unfairness in Fair Machine Learning from Prejudiced Data. In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.), Vol. 80. PMLR, Stockholmsmässan, Stockholm Sweden, 2439--2448."
+            },
+            {
+              "key": "e_1_3_2_2_29_1",
+              "volume-title": "Optimal Decision Making Under Strategic Behavior. CoRR abs/1905.09239",
+              "author": "Khajehnejad Moein",
+              "year": "2019",
+              "unstructured": "Moein Khajehnejad , Behzad Tabibian , Bernhard Schölkopf , Adish Singla , and Manuel Gomez-Rodriguez . 2019. Optimal Decision Making Under Strategic Behavior. CoRR abs/1905.09239 ( 2019 ). arXiv:1905.09239 Moein Khajehnejad, Behzad Tabibian, Bernhard Schölkopf, Adish Singla, and Manuel Gomez-Rodriguez. 2019. Optimal Decision Making Under Strategic Behavior. CoRR abs/1905.09239 (2019). arXiv:1905.09239"
+            },
+            {
+              "key": "e_1_3_2_2_30_1",
+              "volume-title": "Improving Consequential Decision Making under Imperfect Predictions. CoRR abs/1902.02979",
+              "author": "Kilbertus Niki",
+              "year": "2019",
+              "unstructured": "Niki Kilbertus , Manuel Gomez-Rodriguez , Bernhard Schölkopf , Krikamol Muandet , and Isabel Valera . 2019. Improving Consequential Decision Making under Imperfect Predictions. CoRR abs/1902.02979 ( 2019 ). arXiv:1902.02979 Niki Kilbertus, Manuel Gomez-Rodriguez, Bernhard Schölkopf, Krikamol Muandet, and Isabel Valera. 2019. Improving Consequential Decision Making under Imperfect Predictions. CoRR abs/1902.02979 (2019). arXiv:1902.02979"
+            },
+            {
+              "key": "e_1_3_2_2_31_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3328526.3329584"
+            },
+            {
+              "key": "e_1_3_2_2_32_1",
+              "volume-title": "Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017)",
+              "author": "Kleinberg Jon M.",
+              "unstructured": "Jon M. Kleinberg , Sendhil Mullainathan , and Manish Raghavan . [n. d.]. Inherent Trade-Offs in the Fair Determination of Risk Scores . Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017) ([n. d.]). Jon M. Kleinberg, Sendhil Mullainathan, and Manish Raghavan. [n. d.]. Inherent Trade-Offs in the Fair Determination of Risk Scores. Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017) ([n. d.])."
+            },
+            {
+              "key": "e_1_3_2_2_33_1",
+              "volume-title": "Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.)",
+              "volume": "80",
+              "author": "Liu Lydia T.",
+              "year": "2018",
+              "unstructured": "Lydia T. Liu , Sarah Dean , Esther Rolf , Max Simchowitz , and Moritz Hardt . 2018 . Delayed Impact of Fair Machine Learning . In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.) , Vol. 80 . PMLR, Stockholm, Sweden, 3150--3158. Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, and Moritz Hardt. 2018. Delayed Impact of Fair Machine Learning. In Proceedings of the 35th International Conference on Machine Learning (Proceedings of Machine Learning Research), Jennifer Dy and Andreas Krause (Eds.), Vol. 80. PMLR, Stockholm, Sweden, 3150--3158."
+            },
+            {
+              "key": "e_1_3_2_2_34_1",
+              "volume-title": "Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research)",
+              "volume": "97",
+              "author": "Liu Lydia T.",
+              "year": "2019",
+              "unstructured": "Lydia T. Liu , Max Simchowitz , and Moritz Hardt . 2019 . The Implicit Fairness Criterion of Unconstrained Learning . In Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research) , Vol. 97 . PMLR, Long Beach, California, USA, 4051--4060. Lydia T. Liu, Max Simchowitz, and Moritz Hardt. 2019. The Implicit Fairness Criterion of Unconstrained Learning. In Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research), Vol. 97. PMLR, Long Beach, California, USA, 4051--4060."
+            },
+            {
+              "key": "e_1_3_2_2_35_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1136/bmj.296.6623.657"
+            },
+            {
+              "key": "e_1_3_2_2_36_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287576"
+            },
+            {
+              "key": "e_1_3_2_2_37_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1145/3287560.3287599"
+            },
+            {
+              "key": "e_1_3_2_2_38_1",
+              "volume-title": "The Filter bubble: What the Internet is hiding from you",
+              "author": "Pariser Eli",
+              "unstructured": "Eli Pariser . 2011. The Filter bubble: What the Internet is hiding from you . Penguin , UK. Eli Pariser. 2011. The Filter bubble: What the Internet is hiding from you. Penguin, UK."
+            },
+            {
+              "key": "e_1_3_2_2_39_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1017/CBO9780511803161"
+            },
+            {
+              "key": "e_1_3_2_2_40_1",
+              "volume-title": "The Statistical Theory of Racism and Sexism. American Economic Review 62 (02",
+              "author": "Phelps Edmund",
+              "year": "1972",
+              "unstructured": "Edmund Phelps . 1972. The Statistical Theory of Racism and Sexism. American Economic Review 62 (02 1972 ), 659--61. Edmund Phelps. 1972. The Statistical Theory of Racism and Sexism. American Economic Review 62 (02 1972), 659--61."
+            },
+            {
+              "key": "e_1_3_2_2_41_1",
+              "doi-asserted-by": "publisher",
+              "DOI": "10.1007/BF01014905"
+            },
+            {
+              "key": "e_1_3_2_2_42_1",
+              "unstructured": "US Federal Reserve. 2007. Report to the congress on credit scoring and its effects on the availability and affordability of credit.  US Federal Reserve. 2007. Report to the congress on credit scoring and its effects on the availability and affordability of credit."
+            },
+            {
+              "key": "e_1_3_2_2_43_1",
+              "volume-title": "Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research), Kamalika Chaudhuri and Ruslan Salakhutdinov (Eds.)",
+              "volume": "97",
+              "author": "Ustun Berk",
+              "year": "2019",
+              "unstructured": "Berk Ustun , Yang Liu , and David Parkes . 2019 . Fairness without Harm: Decoupled Classifiers with Preference Guarantees . In Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research), Kamalika Chaudhuri and Ruslan Salakhutdinov (Eds.) , Vol. 97 . PMLR, Long Beach, California, USA, 6373--6382. Berk Ustun, Yang Liu, and David Parkes. 2019. Fairness without Harm: Decoupled Classifiers with Preference Guarantees. In Proceedings of the 36th International Conference on Machine Learning (Proceedings of Machine Learning Research), Kamalika Chaudhuri and Ruslan Salakhutdinov (Eds.), Vol. 97. PMLR, Long Beach, California, USA, 6373--6382."
+            },
+            {
+              "key": "e_1_3_2_2_44_1",
+              "volume-title": "Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz.",
+              "author": "Whittaker Meredith",
+              "year": "2018",
+              "unstructured": "Meredith Whittaker , Kate Crawford , Genevieve Fried Roel Dobbe , Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz. 2018 . AI Now Report 2018. Meredith Whittaker, Kate Crawford, Genevieve Fried Roel Dobbe, Elizabeth Kaziunas, Varoon Mathur, Sarah Myers West, Rashida Richardson, Jason Schultz, and Oscar Schwartz. 2018. AI Now Report 2018."
+            },
+            {
+              "key": "e_1_3_2_2_45_1",
+              "volume-title": "Cem Tekin, and Mingyan Liu.",
+              "author": "Zhang Xueru",
+              "year": "2019",
+              "unstructured": "Xueru Zhang , Mohammad Mahdi Khalili , Cem Tekin, and Mingyan Liu. 2019 . Long term impact of fair machine learning in sequential decision making: representation disparity and group retention. CoRR abs/1905.00569 (2019). arXiv:1905.00569 Xueru Zhang, Mohammad Mahdi Khalili, Cem Tekin, and Mingyan Liu. 2019. Long term impact of fair machine learning in sequential decision making: representation disparity and group retention. CoRR abs/1905.00569 (2019). arXiv:1905.00569"
+            }
+          ],
+          "event": {
+            "name": "FAT* '20: Conference on Fairness, Accountability, and Transparency",
+            "location": "Barcelona Spain",
+            "acronym": "FAT* '20",
+            "sponsor": [
+              "ACM Association for Computing Machinery"
+            ]
+          },
+          "container-title": [
+            "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency"
+          ],
+          "link": [
+            {
+              "URL": "https://dl.acm.org/doi/10.1145/3351095.3372861",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "text-mining"
+            },
+            {
+              "URL": "https://dl.acm.org/doi/pdf/10.1145/3351095.3372861",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2025,
+                6,
+                17
+              ]
+            ],
+            "date-time": "2025-06-17T22:41:22Z",
+            "timestamp": 1750200082000
+          },
+          "score": 74.80841,
+          "resource": {
+            "primary": {
+              "URL": "https://dl.acm.org/doi/10.1145/3351095.3372861"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                27
+              ]
+            ]
+          },
+          "references-count": 45,
+          "alternative-id": [
+            "10.1145/3351095.3372861",
+            "10.1145/3351095"
+          ],
+          "URL": "https://doi.org/10.1145/3351095.3372861",
+          "published": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                27
+              ]
+            ]
+          },
+          "assertion": [
+            {
+              "value": "2020-01-27",
+              "order": 2,
+              "name": "published",
+              "label": "Published",
+              "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+              }
+            }
+          ]
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                3
+              ]
+            ],
+            "date-time": "2026-04-03T10:14:36Z",
+            "timestamp": 1775211276144,
+            "version": "3.50.1"
+          },
+          "reference-count": 0,
+          "publisher": "University of California Press",
+          "issue": "3",
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                7,
+                1
+              ]
+            ]
+          },
+          "abstract": "<jats:p>Which interpretive tasks should be delegated to machines? This question has become a focal point of “tech governance” debates. One familiar answer is that while machines are capable of implementing tasks whose ends are uncontroversial, machine delegation is inappropriate for tasks that elude human consensus. After all, if human experts cannot agree about the nature of a task, what hope is there for machines?</jats:p>\n               <jats:p>Here, we turn this position around. When humans disagree about the nature of a task, that should be prima facie grounds for machine delegation, not against it. The reason has to do with fairness: affected parties should be able to predict the outcomes of particular cases. Indeterminate decision-making environments—those in which human disagree about ends—are inherently unpredictable in that, for any given case, the distribution of likely outcomes will depend on a specific decision maker’s view of the relevant end. This injects an irreducible dynamic of randomization into the decision-making process from the perspective of non-repeat players. To the extent machine decisions aggregate across disparate views of a task’s relevant ends, they promise improvement on this specific dimension of predictability. Whatever the other virtues and drawbacks of machine decision-making, this gain should be recognized and factored into governance.</jats:p>\n               <jats:p>The essay has two parts. In the first, we draw a distinction between determinacy and certainty as epistemic properties and fashioning a taxonomy of decision types. In the second part, we bring the formal point alive through a case study of criminal sentencing.</jats:p>",
+          "DOI": "10.1525/nclr.2021.24.3.275",
+          "type": "journal-article",
+          "created": {
+            "date-parts": [
+              [
+                2021,
+                7,
+                14
+              ]
+            ],
+            "date-time": "2021-07-14T17:31:10Z",
+            "timestamp": 1626283870000
+          },
+          "page": "275-300",
+          "source": "Crossref",
+          "is-referenced-by-count": 2,
+          "title": [
+            "Algorithmic Decision-Making When Humans Disagree on Ends"
+          ],
+          "prefix": "10.1525",
+          "volume": "24",
+          "author": [
+            {
+              "given": "Kiel",
+              "family": "Brennan-Marquez",
+              "sequence": "first",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            },
+            {
+              "given": "Vincent",
+              "family": "Chiao",
+              "sequence": "additional",
+              "affiliation": [],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "408",
+          "container-title": [
+            "New Criminal Law Review"
+          ],
+          "language": "en",
+          "link": [
+            {
+              "URL": "http://online.ucpress.edu/nclr/article-pdf/24/3/275/470888/nclr.2021.24.3.275.pdf",
+              "content-type": "application/pdf",
+              "content-version": "vor",
+              "intended-application": "syndication"
+            },
+            {
+              "URL": "http://online.ucpress.edu/nclr/article-pdf/24/3/275/470888/nclr.2021.24.3.275.pdf",
+              "content-type": "unspecified",
+              "content-version": "vor",
+              "intended-application": "similarity-checking"
+            }
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2021,
+                7,
+                14
+              ]
+            ],
+            "date-time": "2021-07-14T17:31:11Z",
+            "timestamp": 1626283871000
+          },
+          "score": 30.45743,
+          "resource": {
+            "primary": {
+              "URL": "https://online.ucpress.edu/nclr/article/24/3/275/117802/Algorithmic-Decision-Making-When-Humans-Disagree"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "references-count": 0,
+          "journal-issue": {
+            "issue": "3",
+            "published-print": {
+              "date-parts": [
+                [
+                  2021,
+                  7,
+                  1
+                ]
+              ]
+            }
+          },
+          "URL": "https://doi.org/10.1525/nclr.2021.24.3.275",
+          "ISSN": [
+            "1933-4192",
+            "1933-4206"
+          ],
+          "issn-type": [
+            {
+              "value": "1933-4192",
+              "type": "print"
+            },
+            {
+              "value": "1933-4206",
+              "type": "electronic"
+            }
+          ],
+          "published-other": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          },
+          "published": {
+            "date-parts": [
+              [
+                2021
+              ]
+            ]
+          }
+        },
+        {
+          "indexed": {
+            "date-parts": [
+              [
+                2025,
+                11,
+                14
+              ]
+            ],
+            "date-time": "2025-11-14T12:27:52Z",
+            "timestamp": 1763123272522,
+            "version": "3.45.0"
+          },
+          "reference-count": 0,
+          "publisher": "IOP Publishing",
+          "isbn-type": [
+            {
+              "type": "electronic",
+              "value": "9780750361163"
+            },
+            {
+              "type": "print",
+              "value": "9780750361125"
+            }
+          ],
+          "content-domain": {
+            "domain": [],
+            "crossmark-restriction": false
+          },
+          "DOI": "10.1088/978-0-7503-6116-3ch3",
+          "type": "book-chapter",
+          "created": {
+            "date-parts": [
+              [
+                2023,
+                7,
+                27
+              ]
+            ],
+            "date-time": "2023-07-27T05:05:06Z",
+            "timestamp": 1690434306000
+          },
+          "page": "3-1-3-20",
+          "source": "Crossref",
+          "is-referenced-by-count": 0,
+          "title": [
+            "Algorithmic decision making"
+          ],
+          "prefix": "10.1088",
+          "author": [
+            {
+              "given": "Animesh",
+              "family": "Mukherjee",
+              "sequence": "first",
+              "affiliation": [
+                {
+                  "name": "Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur (India)",
+                  "place": [
+                    "India"
+                  ]
+                }
+              ],
+              "role": [
+                {
+                  "role": "author",
+                  "vocabulary": "crossref"
+                }
+              ]
+            }
+          ],
+          "member": "266",
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                7,
+                1
+              ]
+            ]
+          },
+          "container-title": [
+            "AI and Ethics"
+          ],
+          "deposited": {
+            "date-parts": [
+              [
+                2025,
+                11,
+                14
+              ]
+            ],
+            "date-time": "2025-11-14T12:24:15Z",
+            "timestamp": 1763123055000
+          },
+          "score": 29.193438,
+          "resource": {
+            "primary": {
+              "URL": "https://iopscience.iop.org/book/mono/978-0-7503-6116-3/chapter/bk978-0-7503-6116-3ch3"
+            }
+          },
+          "issued": {
+            "date-parts": [
+              [
+                2023,
+                7,
+                1
+              ]
+            ]
+          },
+          "ISBN": [
+            "9780750361163",
+            "9780750361125"
+          ],
+          "references-count": 0,
+          "URL": "https://doi.org/10.1088/978-0-7503-6116-3ch3",
+          "published": {
+            "date-parts": [
+              [
+                2023,
+                7,
+                1
+              ]
+            ]
+          }
+        }
+      ],
+      "items-per-page": 3,
+      "query": {
+        "start-index": 0,
+        "search-terms": null
+      }
+    }
+  }
+}

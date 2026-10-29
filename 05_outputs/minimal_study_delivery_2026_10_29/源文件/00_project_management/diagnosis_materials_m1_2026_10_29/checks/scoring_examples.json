@@ -1,0 +1,139 @@
+{
+  "correct_A": {
+    "answer": {
+      "duplicate_ids": [
+        "S102"
+      ],
+      "duplicate_policy": "keep_one_identical",
+      "eligible_ids": [
+        "S101",
+        "S102",
+        "S104",
+        "S105",
+        "S107"
+      ],
+      "excluded_ids": [
+        "S103",
+        "S106"
+      ],
+      "incomplete_eligible_ids": [
+        "S107"
+      ],
+      "missing_treatment": "unknown_do_not_impute",
+      "known_subtotal": "670",
+      "full_total_status": "undetermined"
+    },
+    "scoring": {
+      "checks": {
+        "duplicate_ids": true,
+        "duplicate_policy": true,
+        "eligible_ids": true,
+        "excluded_ids": true,
+        "incomplete_eligible_ids": true,
+        "missing_treatment": true,
+        "known_subtotal": true,
+        "full_total_status": true
+      },
+      "domain_scores": {
+        "record_handling": 2,
+        "scope": 2,
+        "missingness": 2,
+        "aggregation": 2
+      },
+      "score": 8,
+      "max_score": 8,
+      "response_status": "complete",
+      "submitted_fields": [
+        "duplicate_ids",
+        "duplicate_policy",
+        "eligible_ids",
+        "excluded_ids",
+        "incomplete_eligible_ids",
+        "missing_treatment",
+        "known_subtotal",
+        "full_total_status"
+      ],
+      "illustrative_criterion_met": true
+    },
+    "feedback": [
+      "重复记录：本次符合2/2项评分规则；不代表潜在能力已确定。",
+      "纳入范围：本次符合2/2项评分规则；不代表潜在能力已确定。",
+      "缺失信息：本次符合2/2项评分规则；不代表潜在能力已确定。",
+      "汇总表述：本次符合2/2项评分规则；不代表潜在能力已确定。"
+    ]
+  },
+  "incorrect_A": {
+    "scoring": {
+      "checks": {
+        "duplicate_ids": true,
+        "duplicate_policy": true,
+        "eligible_ids": true,
+        "excluded_ids": true,
+        "incomplete_eligible_ids": true,
+        "missing_treatment": false,
+        "known_subtotal": false,
+        "full_total_status": false
+      },
+      "domain_scores": {
+        "record_handling": 2,
+        "scope": 2,
+        "missingness": 1,
+        "aggregation": 0
+      },
+      "score": 5,
+      "max_score": 8,
+      "response_status": "complete",
+      "submitted_fields": [
+        "duplicate_ids",
+        "duplicate_policy",
+        "eligible_ids",
+        "excluded_ids",
+        "incomplete_eligible_ids",
+        "missing_treatment",
+        "known_subtotal",
+        "full_total_status"
+      ],
+      "illustrative_criterion_met": false
+    },
+    "feedback": [
+      "重复记录：本次符合2/2项评分规则；不代表潜在能力已确定。",
+      "纳入范围：本次符合2/2项评分规则；不代表潜在能力已确定。",
+      "缺失信息：本次符合1/2项评分规则；不代表潜在能力已确定。",
+      "汇总表述：本次符合0/2项评分规则；不代表潜在能力已确定。"
+    ]
+  },
+  "generic": [
+    "本任务检查重复记录、纳入范围、缺失信息与汇总表述四个环节。",
+    "这些环节的检查结果不直接等于你的完整能力。",
+    "学习可以帮助你练习；验证可以为资料卡增加本次认可的记录。",
+    "请结合自己的判断，在当前开放的行动中自主选择。"
+  ],
+  "no_response": [
+    "重复记录：记录未完整作答，当前不足以作完整判断；不推断真实能力。",
+    "纳入范围：记录未完整作答，当前不足以作完整判断；不推断真实能力。",
+    "缺失信息：记录未完整作答，当前不足以作完整判断；不推断真实能力。",
+    "汇总表述：记录未完整作答，当前不足以作完整判断；不推断真实能力。"
+  ],
+  "record_L_pass": {
+    "recognized_pass": true,
+    "verified_domains": [
+      "record_handling",
+      "scope",
+      "missingness",
+      "aggregation"
+    ]
+  },
+  "record_V_pass": {
+    "recognized_pass": true,
+    "verified_domains": [
+      "record_handling",
+      "scope",
+      "missingness",
+      "aggregation"
+    ]
+  },
+  "record_N_even_if_posttest_high": {
+    "recognized_pass": false,
+    "verified_domains": []
+  }
+}

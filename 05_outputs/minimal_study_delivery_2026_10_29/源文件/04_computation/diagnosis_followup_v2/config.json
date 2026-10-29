@@ -1,0 +1,26 @@
+{
+  "version": "diagnosis-followup-v2-audit",
+  "purpose": "Audit two assumptions after the supplied Acemoglu-Pischke full text; not a new market ABM or a novelty claim",
+  "base_source": "../minimal_diagnosis_2026_10_28/config.json",
+  "base_config_sha256": "b53c7338b876353a845cdfe91f09e04af29c51a2169b8c6185e66c46ead1db9a",
+  "base_productivity_below_threshold": 1.0,
+  "base_productivity_above_threshold": 2.0,
+  "high_type_verification_productivity_gain": 0.0,
+  "diagnostic_qualities": [0.5, 0.6, 0.8, 0.95, 1.0],
+  "private_information_qualities": [0.5, 0.7, 0.9, 1.0],
+  "high_type_learning_productivity_gains": [0.0, 0.3, 0.6, 1.2],
+  "private_values_of_productivity_gain": [0.0, 0.25, 0.5, 1.0],
+  "access_regimes": {
+    "unequal": {"high_access": 0.75, "low_access": 0.25},
+    "equal_same_slots": {"high_access": 0.5, "low_access": 0.5},
+    "no_verification": {"high_access": 0.0, "low_access": 0.0},
+    "universal_verification": {"high_access": 1.0, "low_access": 1.0}
+  },
+  "group_shares": {"high_access": 0.5, "low_access": 0.5},
+  "unit": "Expected probability mass per initial low-score candidate; potential productivity is a separate nonbinary outcome",
+  "signal_assumption": "Private signal and AI diagnostic are conditionally independent given initial skill; candidate sees both, employer sees neither",
+  "matching": "Within each private-information/productivity condition, compare diagnostic quality 0.5 with higher quality; never credit private self-information to the AI",
+  "interpretation": "Finite types and outcome levels, not a continuously distributed skill model; fixed wage and hiring rule, no general equilibrium",
+  "seed_policy": "No random draws or Monte Carlo; legacy and v1 seeds/results remain untouched",
+  "preregistration_status": "Internal audit plan, written before this v2 enumeration; not externally preregistered, illustrative and uncalibrated"
+}

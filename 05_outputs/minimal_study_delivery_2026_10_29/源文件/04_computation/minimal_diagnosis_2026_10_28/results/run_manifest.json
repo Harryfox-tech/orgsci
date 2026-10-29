@@ -1,0 +1,41 @@
+{
+  "design_version": "minimal-diagnosis-v1",
+  "run_time_utc": "2026-10-28T08:21:21.451948+00:00",
+  "python_version": "3.12.14",
+  "base_commit": "e54666794a675cd46b3c74096cd5024d73d7d301",
+  "config_sha256": "b53c7338b876353a845cdfe91f09e04af29c51a2169b8c6185e66c46ead1db9a",
+  "base_parameters": {
+    "prior_deficient": 0.5,
+    "hire_value": 1.0,
+    "skill_value": 0.0,
+    "learn_gain": 0.6,
+    "verify_gain": 0.0,
+    "learn_cost": 0.3,
+    "verify_cost": 0.08,
+    "test_tpr": 0.9,
+    "test_fpr": 0.05,
+    "no_action_hire": 0.0,
+    "training_requires_verification_access": false
+  },
+  "unit": "Exact expected probability mass per initial low-score candidate; not sampled people",
+  "seed_policy": "No random draws: enumerate all probability branches exactly; legacy paired seeds untouched",
+  "method": "Finite probability enumeration with floating arithmetic, no Monte Carlo",
+  "p_values_or_confidence_intervals": "Not applicable: no empirical sample or Monte Carlo error",
+  "sources_sha256": {
+    "model.py": "4362e1fd569a877d436c4afefcd00201d74af6244790ecaaf4174b0d2122b38b",
+    "run_study.py": "3ddb1649cc60a0e46a2effcd63d3dcc29ef044175aacb7fbc6701e8792c76339",
+    "test_model.py": "a812f10af15ec4b92be3bd6a65c34208fae6fef3d99c0c3cb675b004a988c22c",
+    "config.json": "b53c7338b876353a845cdfe91f09e04af29c51a2169b8c6185e66c46ead1db9a"
+  },
+  "output_sha256": {
+    "base_branches.csv": "ad652af86307a6281c8b37088143a1449e1fbf5f04fbe7aec122996f07881e03",
+    "base_cases.csv": "3ec40c81a663208878690295d720cd09257ba3e6c6886aa49235892c8bfd31b9",
+    "boundary_cases.csv": "8967ab5e3863ad92048f7ed6dc69a4e2023d528e2bb66f7cfd87755787e8638b",
+    "checks.json": "fdc43f457d13b7ba5b21cf8339f0911a440aa8b5d2cd57d52f2298c5bf35c72e",
+    "heterogeneous_costs.csv": "46aeb5c2125cffe72dbe060c9d9b2011d2a0b29c42a1aea636d9260b64f19be5",
+    "parameter_grid.csv": "88e380824a6884adb555b9d7485562462ee69a677c73a2104b68cbf9c5c948b2",
+    "protected_files_sha256.json": "b86e999607118c6f0571919e8483d77af61c9256fe2e9c6a88e327bb5fd5b7eb",
+    "test_output.txt": "e96aa4aba1c89eb336eae8af31eacfde71d461c49f4c937187e3726dd42bcb65",
+    "数值摘要.md": "c55cddf63924651f76b3493fb2734db0b2a5311d6379b472781595237fedb387"
+  }
+}

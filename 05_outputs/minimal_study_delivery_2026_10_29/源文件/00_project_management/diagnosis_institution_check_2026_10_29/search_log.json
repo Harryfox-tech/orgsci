@@ -1,0 +1,287 @@
+{
+  "logged_at_utc": "2026-10-29 04:53:50 UTC",
+  "access_date_local": "2026-10-29",
+  "timezone": "Asia/Shanghai",
+  "scope": "Targeted continuation; not systematic, exhaustive, or a claim of no prior research.",
+  "timestamp_limit": "Per-web-operation timestamps were not captured. Requests are listed in execution order; logged_at is the collection time, not each request time.",
+  "operations": [
+    {
+      "source": "Sider Scholar/OpenAlex",
+      "request": {
+        "query": "skill certification online labour markets",
+        "per_page": 25,
+        "scholar_title": "独立能力认证与劳动力市场"
+      },
+      "status": "unauthorized",
+      "error": "Reauthentication required; no records returned; no retry."
+    },
+    {
+      "source": "web",
+      "request": {
+        "search_query": [
+          {
+            "q": "skills assessment certification jobseekers learning training experiment Carranza Garlick Orkin Rankin"
+          },
+          {
+            "q": "algorithmic recourse recommendations access actions constraints learning certification"
+          },
+          {
+            "q": "site.aws.amazon.com certification training not required exam prerequisites"
+          },
+          {
+            "q": "site.asqa.gov.au recognition prior learning assessment training evidence"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "search_query": [
+          {
+            "q": "\"Skill formation and signaling in online labour markets\""
+          },
+          {
+            "q": "\"skill certification\" \"Kässi\" \"Lehdonvirta\""
+          },
+          {
+            "q": "\"Job Search and Hiring with Two-Sided Limited Information\" skills"
+          },
+          {
+            "q": "\"algorithmic recourse\" \"recommendations\" \"access\" institution constraints"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "open": [
+          {
+            "ref_id": "https://arxiv.org/abs/2508.11070"
+          },
+          {
+            "ref_id": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961"
+          },
+          {
+            "ref_id": "https://www.asqa.gov.au/for-students/credit-transfer-and-recognition-prior-learning"
+          },
+          {
+            "ref_id": "https://aws.amazon.com/certification/policies/before-testing/"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "click": [
+          {
+            "ref_id": "turn236view0",
+            "id": 10
+          }
+        ],
+        "search_query": [
+          {
+            "q": "\"Do Digital Skill Certificates Help\" \"2022\" \"2024\""
+          },
+          {
+            "q": "\"skill certificates\" \"Kässi\" \"2024\" \"2021\""
+          },
+          {
+            "q": "\"algorithmic recourse\" \"institutional\" \"feasible\""
+          },
+          {
+            "q": "\"AI\" \"assessment\" \"certification\" \"mandatory\" \"learning path\" skills"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "find": [
+          {
+            "ref_id": "turn237view0",
+            "pattern": "3 Problem"
+          },
+          {
+            "ref_id": "turn237view0",
+            "pattern": "Definition"
+          },
+          {
+            "ref_id": "turn237view0",
+            "pattern": "training"
+          },
+          {
+            "ref_id": "turn237view0",
+            "pattern": "feedback"
+          }
+        ],
+        "open": [
+          {
+            "ref_id": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1"
+          },
+          {
+            "ref_id": "https://philarchive.org/archive/VENTPB"
+          }
+        ],
+        "search_query": [
+          {
+            "q": "\"The Hidden Assumptions Behind Counterfactual Explanations and Principal Reasons\""
+          },
+          {
+            "q": "\"Do Microcredentials Help New Workers Enter the Market\""
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "open": [
+          {
+            "ref_id": "turn237view0",
+            "lineno": 30
+          },
+          {
+            "ref_id": "turn238view0",
+            "lineno": 24
+          },
+          {
+            "ref_id": "turn238search13"
+          }
+        ],
+        "find": [
+          {
+            "ref_id": "turn238view0",
+            "pattern": "test taking"
+          },
+          {
+            "ref_id": "turn238view0",
+            "pattern": "difference-in"
+          },
+          {
+            "ref_id": "turn238view0",
+            "pattern": "random"
+          },
+          {
+            "ref_id": "turn238view0",
+            "pattern": "0519"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "click": [
+          {
+            "ref_id": "turn237view0",
+            "id": 5
+          },
+          {
+            "ref_id": "turn237view0",
+            "id": 25
+          }
+        ],
+        "find": [
+          {
+            "ref_id": "turn237view0",
+            "pattern": "## 3"
+          },
+          {
+            "ref_id": "turn237view0",
+            "pattern": "seeker"
+          },
+          {
+            "ref_id": "turn238view0",
+            "pattern": "III."
+          },
+          {
+            "ref_id": "turn239view2",
+            "pattern": "4.2"
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "open": [
+          {
+            "ref_id": "turn238view0",
+            "lineno": 155
+          },
+          {
+            "ref_id": "turn239view2",
+            "lineno": 620
+          },
+          {
+            "ref_id": "turn237view0",
+            "lineno": 300
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "open": [
+          {
+            "ref_id": "turn237view0",
+            "lineno": 100
+          },
+          {
+            "ref_id": "turn238view0",
+            "lineno": 495
+          }
+        ],
+        "search_query": [
+          {
+            "q": "site.workera.ai skills assessment personalized learning certification assessment learning recommendations"
+          },
+          {
+            "q": "\"diagnostic feedback\" \"certification\" \"training\" \"jobseekers\""
+          },
+          {
+            "q": "\"algorithmic\" \"recourse\" \"eligibility\" \"training\""
+          }
+        ],
+        "response_length": "long"
+      }
+    },
+    {
+      "source": "web",
+      "request": {
+        "open": [
+          {
+            "ref_id": "https://workera.zendesk.com/hc/en-us/articles/39917915861915-How-to-Learn-with-Elo-Your-AI-Mentor"
+          },
+          {
+            "ref_id": "https://workera.zendesk.com/hc/en-us/articles/38922874449563-Explore-Your-Program-Page"
+          },
+          {
+            "ref_id": "https://workera.zendesk.com/hc/en-us/articles/47704119445019-Improve-Your-Score-with-Skill-Checks"
+          }
+        ],
+        "response_length": "long"
+      }
+    }
+  ],
+  "limitations": [
+    "Sider Scholar unauthorized; fallback to primary sources and Crossref.",
+    "The speculative first search title 'Skill formation and signaling in online labour markets' was not validated as a paper and is not cited.",
+    "PhilArchive full text returned HTTP 403; not used as full-text evidence.",
+    "Search snippets outside original sources were used for discovery only.",
+    "No citation counts or full-text downloads requested."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "protected_files_count": 91,
+  "protected_files_unchanged": true,
+  "changed_protected_files": [],
+  "markdown_files_checked": 8,
+  "local_links_checked": 47,
+  "broken_local_links": [],
+  "metadata_validation": {
+    "total_records": 4,
+    "valid_records": 4,
+    "invalid_records": 0,
+    "errors": 0,
+    "warnings": 0
+  },
+  "deduplication": {
+    "input_records": 4,
+    "output_records": 4,
+    "duplicate_groups": 0,
+    "merged_records": 0,
+    "possible_duplicates": 0,
+    "conflicts": 0
+  },
+  "metadata_script_syntax_valid": true,
+  "new_simulation_runs": 0,
+  "participant_data_collected": false,
+  "pdfs_or_full_text_caches_added": false,
+  "scope": "New preparation documents and source metadata only; no commit or push.",
+  "qa_note": "Final check includes the now-written report itself; an earlier self-link check occurred before report creation and was rerun."
+}

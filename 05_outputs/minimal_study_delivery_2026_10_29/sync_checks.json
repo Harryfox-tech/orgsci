@@ -1,0 +1,22 @@
+{
+  "checked_at_utc": "2026-10-29T15:12:24.465253+00:00",
+  "push_directory": "05_outputs/minimal_study_delivery_2026_10_29",
+  "branch": "main",
+  "base_commit": "e54666794a675cd46b3c74096cd5024d73d7d301",
+  "authorization": "User explicitly requested push into one separate folder on 2026-10-29.",
+  "scope": "Only this delivery directory is staged; original working directories remain in place.",
+  "source_snapshot_files": 113,
+  "snapshot_hashes_verified": true,
+  "preserve_snapshot_bytes": ".gitattributes disables text conversion within this folder.",
+  "protected_files_unchanged": 91,
+  "excluded": [
+    "paper PDFs",
+    "full-text extraction caches",
+    "page images",
+    "private attachments",
+    "participant data"
+  ],
+  "new_research_results": false,
+  "new_participants": 0,
+  "historical_note": "Historical no-push statements refer to note creation; this sync has separate authorization."
+}

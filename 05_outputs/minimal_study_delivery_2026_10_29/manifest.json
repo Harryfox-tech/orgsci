@@ -1,0 +1,686 @@
+{
+  "generated_at_utc": "2026-10-29T10:23:59.013561+00:00",
+  "source_files": [
+    {
+      "source": "00_project_management/CURRENT_STATUS.md",
+      "copy": "源文件/00_project_management/CURRENT_STATUS.md",
+      "sha256": "520c710db90c5fde352b7b02a6d53626006b885f56c389fb003341ce0f4761df",
+      "bytes": 11918
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/01_审查设计与条件推导.md",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/01_审查设计与条件推导.md",
+      "sha256": "844c628d8c09ba8fb90d0c59b1afa9e7d11e443b22496865dee4f778f2dd96a1",
+      "bytes": 4781
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/02_近邻模型映射与主结果化简.md",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/02_近邻模型映射与主结果化简.md",
+      "sha256": "1a126d295fba1b973650dcf299bceba4f0143c881574d9b3a4844dcab5b0ab4f",
+      "bytes": 5626
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/03_推进结果与选题决策.md",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/03_推进结果与选题决策.md",
+      "sha256": "2309bc5932c83f05e9ca39c4c9dd9d4a827581d3225fa04616d832691deb9a57",
+      "bytes": 7677
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/04_机制验证草案与继续门槛.md",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/04_机制验证草案与继续门槛.md",
+      "sha256": "46bea88f534e48c65b8ac9dcbdc190e61ef532baf929e2becd4509b51ab13557",
+      "bytes": 4912
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/qa_report.json",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/qa_report.json",
+      "sha256": "ff4c14b58c3644d6091b4bd7ef9accbf2bc70360d0fa0c1c22189d1d8f3eada3",
+      "bytes": 272
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/README.md",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/README.md",
+      "sha256": "b06d2caac9801ed9b98f80fa0802465e74233da46c1297001e3327047cd7f7d8",
+      "bytes": 1765
+    },
+    {
+      "source": "00_project_management/diagnosis_followup_v2/source_followup.json",
+      "copy": "源文件/00_project_management/diagnosis_followup_v2/source_followup.json",
+      "sha256": "ebc96c363955f9414294a5d35ccc9de8f7482dfd3d792cd8dc0dfda3ae1457a0",
+      "bytes": 1847
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/01_现实流程与近邻对照.md",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/01_现实流程与近邻对照.md",
+      "sha256": "efa7cb54a8d31af933b31f5c986a3e8ddb35cb0ab33e039f7e12f0f58e1f4673",
+      "bytes": 8435
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/02_研究问题与选题决策.md",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/02_研究问题与选题决策.md",
+      "sha256": "8733e2f528379f1421363dce188d89886f4945638c0d595b06e75fabeda8209e",
+      "bytes": 5396
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/03_独立机制实验准备稿.md",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/03_独立机制实验准备稿.md",
+      "sha256": "85bafaa8c1060990dba89db34063e24df2b4e3f9992fd2e46a806d8b35f091ee",
+      "bytes": 6149
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/04_给导师讨论的问题卡.md",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/04_给导师讨论的问题卡.md",
+      "sha256": "1229e8be2ab4ee862fbbe5b61662e407e40f479e9aa21e25b47d52eb8d567d1f",
+      "bytes": 2169
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/crossref_checks.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/crossref_checks.json",
+      "sha256": "9466cf5573f438bdcaa4a3efa2ae34a986e7211dbe0ab1b84b37e7b301fa4fd9",
+      "bytes": 7428
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/deduplicated.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/deduplicated.json",
+      "sha256": "3a33d79ecfc403b1bc6f71c180d381af0089cd931221b146422a79ca6ee5187d",
+      "bytes": 26499
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/primary_records.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/primary_records.json",
+      "sha256": "dcafa5aef03e0468a540617fef9ab2ff2a80c17449ace2de810d4b2515684137",
+      "bytes": 3891
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/protected_files_before.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/protected_files_before.json",
+      "sha256": "4d7715576dfb0b95e5fc0c9079693d94e8d412a04684b989899c3f4d7b8e8df5",
+      "bytes": 14549
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/qa_report.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/qa_report.json",
+      "sha256": "08bd953a96aa097e257a7fdc93a685189c3bf60cdbe6ab30f8cd7adde704e197",
+      "bytes": 915
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/README.md",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/README.md",
+      "sha256": "baf6091c9341e36c022d2e908c64ad602c8cf5b9e4ab4b036f9e876ed1daa10b",
+      "bytes": 2525
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/record_annotations.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/record_annotations.json",
+      "sha256": "8b995f701ac2fae22442317ab731a3e04cd0f7fb9dd6ef4e09e71180a7b79344",
+      "bytes": 11327
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/records.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/records.json",
+      "sha256": "9cf23f1c33c1c01535002050666594d62b86afd37624b7663ba9bcee72c7fd54",
+      "bytes": 25260
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/search_log.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/search_log.json",
+      "sha256": "626a9f7c3fb2982dd7efa6680ae8fcd55cc3400e38aed9076cd0d05ff77a72cc",
+      "bytes": 7811
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/tools/collect_metadata.py",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/tools/collect_metadata.py",
+      "sha256": "c88049c40728f1adfc08689566c12b13d2561548294a3e240a68c29e0d0ab630",
+      "bytes": 5205
+    },
+    {
+      "source": "00_project_management/diagnosis_institution_check_2026_10_29/validation.json",
+      "copy": "源文件/00_project_management/diagnosis_institution_check_2026_10_29/validation.json",
+      "sha256": "d2e92d461e7899f6016cc7e6a3d007b828b71946b9733f4ed79aac9a2c998f3a",
+      "bytes": 540
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/01_研究者流程与处理条件.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/01_研究者流程与处理条件.md",
+      "sha256": "565f859812e10ef29c2dceb3ba14ddd9ba7e5fdb1b120a900eac90a2550c87c4",
+      "bytes": 4371
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/02_评分规则与研究者答案.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/02_评分规则与研究者答案.md",
+      "sha256": "a5196b514d0976c4d016b2d388b8044f28f73fa1c4193e5457e06012581ae0cb",
+      "bytes": 3977
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/03_反馈文案与边界.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/03_反馈文案与边界.md",
+      "sha256": "00385a6feed327f2e7c99daded86803bb8be7468a54262efc440b1b2eedaf572",
+      "bytes": 3129
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/04_测量与数据字典.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/04_测量与数据字典.md",
+      "sha256": "6077ab8d3e804d9c52f2619b52cd897c71aa15757706fc7b0e8b99e7ae57ce4a",
+      "bytes": 3102
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/05_本轮核验与继续门槛.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/05_本轮核验与继续门槛.md",
+      "sha256": "cb88fd9d5ec2f6ea0a11523613939d8e5d09ef59f100878852c33516a6d621f2",
+      "bytes": 3393
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/answer_key.json",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/answer_key.json",
+      "sha256": "7b92f1476e1e7e49c29121689485542cc7dd0b7d99015f653bab9f31358af736",
+      "bytes": 1677
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/checks/materials_checks.json",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/checks/materials_checks.json",
+      "sha256": "27e97dca1645570da85534c778a7ff3c707ac0138ea30471b8e14e825f028edb",
+      "bytes": 1897
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/checks/scoring_examples.json",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/checks/scoring_examples.json",
+      "sha256": "f530fd349780496ab39d7b3506e4528fe7b87eeaf6d7a70d457ad16d3b02ff80",
+      "bytes": 4329
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/README.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/README.md",
+      "sha256": "3853e935e96abe56e5b21e650a70eede8aa1c60228259a73affd44062d7f5b6c",
+      "bytes": 2169
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/learning_D.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/learning_D.md",
+      "sha256": "2234e86fa6d0cad514993280fa203209785ab56d3630ba572769e7eb16e6d1d2",
+      "bytes": 1425
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_A.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_A.md",
+      "sha256": "45debc3a651c23dd2fed6595c84e963e0d81de849c19a6818dca8e1487f37e02",
+      "bytes": 1653
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_B.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_B.md",
+      "sha256": "5eebb6de8c06f23c21243310dfe73d2cd7bf3aff5b58df4c333bfd8354078e78",
+      "bytes": 1691
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_C.md",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/stimuli/participant_C.md",
+      "sha256": "8ed24d8021467448067f70c1bc51e685810d9794340540c2e70e8a7f5b294aa3",
+      "bytes": 1651
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/task_data.json",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/task_data.json",
+      "sha256": "f6945f238f02b2584ac66a96e17aa7613399b343ebdea3077df6ec60498fe76b",
+      "bytes": 3541
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/tools/build_delivery.py",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/tools/build_delivery.py",
+      "sha256": "b9936e572ee9469fc3018497dde4e4218e60d4efbcfa32d312fd27e83d1dbbbb",
+      "bytes": 13338
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/tools/check_materials.py",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/tools/check_materials.py",
+      "sha256": "0642a01086a3334cbd42eb418d860f5d740be5869800242bb5329ce0b4f3ca17",
+      "bytes": 5170
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/tools/render_stimuli.py",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/tools/render_stimuli.py",
+      "sha256": "1a3afff50adf5c13f2b0d09ad080d64e61d460d61abbcb8cad1e056d9870867a",
+      "bytes": 4162
+    },
+    {
+      "source": "00_project_management/diagnosis_materials_m1_2026_10_29/tools/score_materials.py",
+      "copy": "源文件/00_project_management/diagnosis_materials_m1_2026_10_29/tools/score_materials.py",
+      "sha256": "420a51de6f6e5f49e0a2b18c9331db9880bb97bd71528f2422dfa65c3ff71eb5",
+      "bytes": 5457
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/01_最小模型与条件推导.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/01_最小模型与条件推导.md",
+      "sha256": "b20c2cbedd4d56903ca54604ac21bb658204f4a2fdd5eee51e4497e00ee89830",
+      "bytes": 10203
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/02_比较设计与否决标准.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/02_比较设计与否决标准.md",
+      "sha256": "f83a17cecca205291cacefcfd6f53c926f4651f00523959e2f277a8381152bce",
+      "bytes": 4927
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/03_文献对照与仍需全文.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/03_文献对照与仍需全文.md",
+      "sha256": "59aec95c7e30cbd6e5960679d9461505414999b98fb636ea8679bb7561e52360",
+      "bytes": 7067
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/04_最小研究结果与选题判断.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/04_最小研究结果与选题判断.md",
+      "sha256": "56fd8bebefd665514b97aa20fb11204b8b7ff9a414e41e94fd0c0cd4d9ccce7b",
+      "bytes": 10367
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/check_sources.py",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/check_sources.py",
+      "sha256": "ce27223716d18fcd07485dc312f105ad1f467bc38607b0de1a250e1c997df428",
+      "bytes": 2435
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/.gitignore",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/.gitignore",
+      "sha256": "fb43187440b942709fd64c9c2cd0ae3157d18cc611f2e4639fae06c144abeca5",
+      "bytes": 13
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/01_Acemoglu_Pischke_2000_全文精读与模型对照.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/01_Acemoglu_Pischke_2000_全文精读与模型对照.md",
+      "sha256": "88768fc390af6d6675adc7775e4f58044ca141bd94854ef1851737662f735a43",
+      "bytes": 17555
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/02_关键主张与页码台账.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/02_关键主张与页码台账.md",
+      "sha256": "249b3915ffb86e75908a19fb9d7f83f7547e94f9a279845d2bca653cdcd0413f",
+      "bytes": 3040
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/inspect_supplied_pdf.py",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/inspect_supplied_pdf.py",
+      "sha256": "b39ac07def9ee82c3fb409fe90995ca2bd21ed6681ae7ff516ab0d472d5d3798",
+      "bytes": 2774
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/README.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/README.md",
+      "sha256": "9ab87255a9456fe05df0a046d98b8f75fc433779e724bed3722a390506a694c3",
+      "bytes": 1687
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/review_evidence.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/review_evidence.json",
+      "sha256": "5ad99fa782c7c80e9517a4f11f4e5829a35a17b9be19547773af449abafe7f43",
+      "bytes": 1194
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/source_manifest.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/fulltext_review/source_manifest.json",
+      "sha256": "96a6fbdc3a6464facaec9362132d29cfcbdfc8e58120bb2fa6a4ca40f79f2417",
+      "bytes": 722
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/README.md",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/README.md",
+      "sha256": "3766d327a1d8e4ea9b1559750fe0cafd4f1d1ffe9aca4fe2954b6a122ffa4cfe",
+      "bytes": 2707
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_0.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_0.json",
+      "sha256": "6d5345e54a502132662528eef54b1a227dd47f5b7d4cb50a06bfcbd5ec37e27e",
+      "bytes": 4499
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_1.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_1.json",
+      "sha256": "4b71634c971f7866af3b3a13fb4e3cff60713468a588170c12cf1ed207281b93",
+      "bytes": 8827
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_2.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_2.json",
+      "sha256": "3ecd05ae5fbb9d8000efabfaaaeb2d1cb67535466a0e24c45ab99d5b12cd44f2",
+      "bytes": 21776
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_3.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/source_checks/crossref_3.json",
+      "sha256": "266ddf23100fdc3869e93ff6b371d406be2db1299e309935239174b50f80c1e1",
+      "bytes": 15379
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/source_checks/query_log.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/source_checks/query_log.json",
+      "sha256": "d6e07590a1beb061215a7500f56b2d43547eefaf1e2760866f8511913c200e9f",
+      "bytes": 2957
+    },
+    {
+      "source": "00_project_management/minimal_diagnosis_2026_10_28/web_review_log.json",
+      "copy": "源文件/00_project_management/minimal_diagnosis_2026_10_28/web_review_log.json",
+      "sha256": "893626fb7b4fe4389232b33b60e5728ddf2add123ab9dabcd04c97a8d81f1bda",
+      "bytes": 1628
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/.gitignore",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/.gitignore",
+      "sha256": "1a9ba1479331c1ee35add00917198fb47e2c75de2e39eae2c6ed9963f4eca2cd",
+      "bytes": 5
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/01_研究计划.md",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/01_研究计划.md",
+      "sha256": "566ee14f2826e591dd2493c6bdb6f3c261c271b439ef3e2ec7496f1b60006922",
+      "bytes": 6229
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/02_最小模型与理论边界.md",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/02_最小模型与理论边界.md",
+      "sha256": "e83db8432bd25295cc60e56152a9128415801a5a73203eb820f6aa2d73fbdab0",
+      "bytes": 6610
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/03_关键文献对照与核验记录.md",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/03_关键文献对照与核验记录.md",
+      "sha256": "06646bca32f772e547043dbab9e8288a55573f0f4eaa405dca55a6c06ab5e1ec",
+      "bytes": 12405
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/04.md",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/04.md",
+      "sha256": "53d3b0f3da09e487a65e45f6d467c7294616bc24a5b4fc4226e91ba78cc8ae8a",
+      "bytes": 20422
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/AI招聘低分成因诊断_研究计划_20261027.docx",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/AI招聘低分成因诊断_研究计划_20261027.docx",
+      "sha256": "b4a1729c7c42ff0ed9a137483297d0da747794f6a4d6aee74bf3f7536667fd6d",
+      "bytes": 41344
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/deduplicated.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/deduplicated.json",
+      "sha256": "05384104b2f2f4b8189990e1b05355817bba3f10ed68e201a201522db8883a83",
+      "bytes": 42419
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/discovery_summary.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/discovery_summary.json",
+      "sha256": "35b73ebef0d8ef2b50418280be6c5ab04885da87dc63e25bfd9963e618a370af",
+      "bytes": 2372
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/primary_records.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/primary_records.json",
+      "sha256": "4cb5d17d719f9978b080ca2c17b54b3f02023c6130351762faa47278ddcf2b81",
+      "bytes": 2995
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/qa_report.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/qa_report.json",
+      "sha256": "b79584e6ea7d1fd7ee08138daf0eda7e2a230a6e153f0ba5eb634fa7783968cc",
+      "bytes": 489
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/query_log.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/query_log.json",
+      "sha256": "4747dbdaf3214e431fb8bef0f4e0a1ccbf489dab7ece594839893cb77d91b734",
+      "bytes": 2176
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/README.md",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/README.md",
+      "sha256": "52e53464a30ddd05f3f8c67a49ecec88e493997bff1e693148b9ddcc8cfbd42a",
+      "bytes": 3323
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/records.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/records.json",
+      "sha256": "28d7b6a3461cc968f58c1b9b80a89a8e2e318f4e4ec55d55fb276f01d53a53a8",
+      "bytes": 40493
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/references.bib",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/references.bib",
+      "sha256": "97d8c90cb63898c63151f2070af59cbdcc17470e45e27723b86320cdd5cdcd92",
+      "bytes": 4517
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/arxiv_batch.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/arxiv_batch.json",
+      "sha256": "1a0c998b27f4ad584cfcf71650d3207c1228a17324400e44e6ccb8c58964d5b9",
+      "bytes": 400
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/discovery_0.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/discovery_0.json",
+      "sha256": "cf8ead6846352b17669ff65ac48c784799f55a5d3262f713c20a2ea8aa874b2a",
+      "bytes": 262507
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/discovery_1.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/discovery_1.json",
+      "sha256": "4f1f4de7b560f7006bbec7b4f37394dcb03c4225eafdb560cd3b49ff04a5466a",
+      "bytes": 247821
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/discovery_2.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/discovery_2.json",
+      "sha256": "6f4ae7a0b3c773e30956c5aa8179671c9817809e01f6ea6886f402ad084018de",
+      "bytes": 261326
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/doi_0.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/doi_0.json",
+      "sha256": "c9031fe2e0ab2c4a968bf1cc72fa0f4701af1fe1210f97bfd6cb4fc87a2e652b",
+      "bytes": 3480
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/search_records/doi_1.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/search_records/doi_1.json",
+      "sha256": "58997d204a0a084005172438db76ffc4395a491e6f3473a0c6ec32ecad7c9922",
+      "bytes": 3531
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/tmp/source_review/manifest.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/tmp/source_review/manifest.json",
+      "sha256": "bd488e84ec5e74321901c36ba3f2ec6da03135fd34df9cd0b0eec6c127bb8a48",
+      "bytes": 714
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/tools/build_proposal.py",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/tools/build_proposal.py",
+      "sha256": "256b09a908a6ff7b21765e8d502bc3a1012856799bbf3a4a9e13b934f321ebb2",
+      "bytes": 4673
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/tools/check_proposal_sources.py",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/tools/check_proposal_sources.py",
+      "sha256": "cdc0f96a9eb4c5d3d77e92bd7eb875ae22a9b57ca9096ee71f390b42a00c381d",
+      "bytes": 7233
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/validation.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/validation.json",
+      "sha256": "32514dec8cee40c859229aeaafc34e06975e39ff945a8a78fa98b0c14c6081fc",
+      "bytes": 1382
+    },
+    {
+      "source": "00_project_management/proposal_2026_10_27/web_review_log.json",
+      "copy": "源文件/00_project_management/proposal_2026_10_27/web_review_log.json",
+      "sha256": "7433345e6e031d989f1738a74c0a0ae8cd489232829d2b3df356d12f18bf3bba",
+      "bytes": 3681
+    },
+    {
+      "source": "02_literature/notes/seven_topic_readings_2026_09_28/06_Carranza_双边信息与可信证据.md",
+      "copy": "源文件/02_literature/notes/seven_topic_readings_2026_09_28/06_Carranza_双边信息与可信证据.md",
+      "sha256": "7c97bf4ce32cb951e0bf4eca799be3bc3aedbb32dd05067499f90aab0fc8f931",
+      "bytes": 7119
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/bridge_model.py",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/bridge_model.py",
+      "sha256": "819ca4251a91415dd4563be3b2ff72651bb77283c97a9b8eb7e7df302446c7d7",
+      "bytes": 7214
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/config.json",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/config.json",
+      "sha256": "1a486dbd29eb7095c7de652bd9593b007d7ef963f7f542c7a8f604a1b51dd062",
+      "bytes": 1899
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/README.md",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/README.md",
+      "sha256": "fd92dc4e48d62e9365f333767f8080659c2642caa8e66fe7fdd224febbd278e9",
+      "bytes": 2354
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/all_cases.csv",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/all_cases.csv",
+      "sha256": "9bf16fefb74d66b69f45693a3f3f99eea700eccaedb63a6e3051a1be8447870c",
+      "bytes": 802293
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/checks.json",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/checks.json",
+      "sha256": "fb467ed603a1f63a6257968c00fcda4320af90e86a6dbfee1c8b8d790f51445a",
+      "bytes": 602
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/diagnostic_contrasts.csv",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/diagnostic_contrasts.csv",
+      "sha256": "2fca938dcf983222c9173a87f2a8a9ad4817acfaf741143ab1758965ed623a85",
+      "bytes": 127284
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/illustrative_branches.csv",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/illustrative_branches.csv",
+      "sha256": "0703bb93ec6ba627c086978b5bdde3e38717d6ee59345407382922b7c3797904",
+      "bytes": 18508
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/manifest.json",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/manifest.json",
+      "sha256": "fdf741c87681092ef381898f3889352153c7df4e4844a374b4e0aaff099c14c7",
+      "bytes": 1524
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/protected_files_sha256.json",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/protected_files_sha256.json",
+      "sha256": "cb6a30c21ad3566da3653e377f5191eccabbb9aa5e102806e6fc83c322c332a0",
+      "bytes": 26270
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/results/test_output.txt",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/results/test_output.txt",
+      "sha256": "2020f94e48a12d5f7b0d7c471aa2ad9a0da1f6befff7eb0bb7ec709daca0fc0e",
+      "bytes": 1422
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/run_audit.py",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/run_audit.py",
+      "sha256": "5a9da1f513f2725101faa248eb5a59ec991db51ee3cc61fbb651633903205c1b",
+      "bytes": 8432
+    },
+    {
+      "source": "04_computation/diagnosis_followup_v2/test_bridge.py",
+      "copy": "源文件/04_computation/diagnosis_followup_v2/test_bridge.py",
+      "sha256": "06823b90d378c68b3f5cb521081677bcdd5a9dba419674e1c112cff41f6973b5",
+      "bytes": 5230
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/config.json",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/config.json",
+      "sha256": "b53c7338b876353a845cdfe91f09e04af29c51a2169b8c6185e66c46ead1db9a",
+      "bytes": 1967
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/model.py",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/model.py",
+      "sha256": "4362e1fd569a877d436c4afefcd00201d74af6244790ecaaf4174b0d2122b38b",
+      "bytes": 8034
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/README.md",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/README.md",
+      "sha256": "57ea83c4cd2d57e3dcaf9c09607ce6753ce02b97ab7cbe229e0f928139b1198f",
+      "bytes": 3402
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/base_branches.csv",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/base_branches.csv",
+      "sha256": "ad652af86307a6281c8b37088143a1449e1fbf5f04fbe7aec122996f07881e03",
+      "bytes": 7513
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/base_cases.csv",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/base_cases.csv",
+      "sha256": "3ec40c81a663208878690295d720cd09257ba3e6c6886aa49235892c8bfd31b9",
+      "bytes": 16745
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/boundary_cases.csv",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/boundary_cases.csv",
+      "sha256": "8967ab5e3863ad92048f7ed6dc69a4e2023d528e2bb66f7cfd87755787e8638b",
+      "bytes": 59186
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/checks.json",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/checks.json",
+      "sha256": "fdc43f457d13b7ba5b21cf8339f0911a440aa8b5d2cd57d52f2298c5bf35c72e",
+      "bytes": 491
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/heterogeneous_costs.csv",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/heterogeneous_costs.csv",
+      "sha256": "46aeb5c2125cffe72dbe060c9d9b2011d2a0b29c42a1aea636d9260b64f19be5",
+      "bytes": 10674
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/parameter_grid.csv",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/parameter_grid.csv",
+      "sha256": "88e380824a6884adb555b9d7485562462ee69a677c73a2104b68cbf9c5c948b2",
+      "bytes": 667873
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/protected_files_sha256.json",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/protected_files_sha256.json",
+      "sha256": "b86e999607118c6f0571919e8483d77af61c9256fe2e9c6a88e327bb5fd5b7eb",
+      "bytes": 22000
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/run_manifest.json",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/run_manifest.json",
+      "sha256": "2d2cabaab7987207da559190a226d861a08b9295dc5b1a52d9f7164009a9860f",
+      "bytes": 2274
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/test_output.txt",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/test_output.txt",
+      "sha256": "e96aa4aba1c89eb336eae8af31eacfde71d461c49f4c937187e3726dd42bcb65",
+      "bytes": 1658
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/results/数值摘要.md",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/results/数值摘要.md",
+      "sha256": "c55cddf63924651f76b3493fb2734db0b2a5311d6379b472781595237fedb387",
+      "bytes": 1206
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/run_study.py",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/run_study.py",
+      "sha256": "3ddb1649cc60a0e46a2effcd63d3dcc29ef044175aacb7fbc6701e8792c76339",
+      "bytes": 10989
+    },
+    {
+      "source": "04_computation/minimal_diagnosis_2026_10_28/test_model.py",
+      "copy": "源文件/04_computation/minimal_diagnosis_2026_10_28/test_model.py",
+      "sha256": "a812f10af15ec4b92be3bd6a65c34208fae6fef3d99c0c3cb675b004a988c22c",
+      "bytes": 6363
+    }
+  ],
+  "markdown_documents": 38,
+  "copy_policy": "Byte-identical selected source snapshots; caches/full-text PDFs excluded.",
+  "reader_sha256": "a51861c42f61a102550dab95975daf3033060bfe584df7bae6c9c9f5ac9d3e7a"
+}

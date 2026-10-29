@@ -1,0 +1,13 @@
+{
+  "url": "https://competitionandappropriation.econ.ucla.edu/wp-content/uploads/sites/95/2017/08/Spence1973.pdf",
+  "checked_at": "2026-10-27T04:19:25.117006+00:00",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "byte_length": 356437,
+  "sha256": "a37b62fd92b1d1fe2264f0afc23c5c8f04198e4d157027d138bc65a75934cc5e",
+  "local_pdf_path": "00_project_management\\proposal_2026_10_27\\tmp\\source_review\\spence1973.pdf",
+  "pdf_verification_status": "parser_validated",
+  "paper_identity_status": "matched",
+  "identity_evidence": "Parsed cover identifies title, Michael Spence, QJE 87(3), 355-374 (1973).",
+  "purpose": "Temporary cache for scanned-page review, not a bulk PDF delivery."
+}

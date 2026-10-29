@@ -1,0 +1,23 @@
+{
+  "version": "diagnosis-followup-v2-audit",
+  "run_time_utc": "2026-10-28T16:21:39.008540+00:00",
+  "python_version": "3.12.14",
+  "config_sha256": "1a486dbd29eb7095c7de652bd9593b007d7ef963f7f542c7a8f604a1b51dd062",
+  "unit": "Expected probability mass per initial low-score candidate; potential productivity is a separate nonbinary outcome",
+  "seed_policy": "No random draws or Monte Carlo; legacy and v1 seeds/results remain untouched",
+  "command": "python -X utf8 04_computation/diagnosis_followup_v2/run_audit.py",
+  "source_sha256": {
+    "config.json": "1a486dbd29eb7095c7de652bd9593b007d7ef963f7f542c7a8f604a1b51dd062",
+    "bridge_model.py": "819ca4251a91415dd4563be3b2ff72651bb77283c97a9b8eb7e7df302446c7d7",
+    "test_bridge.py": "06823b90d378c68b3f5cb521081677bcdd5a9dba419674e1c112cff41f6973b5",
+    "run_audit.py": "5a9da1f513f2725101faa248eb5a59ec991db51ee3cc61fbb651633903205c1b"
+  },
+  "output_sha256": {
+    "all_cases.csv": "9bf16fefb74d66b69f45693a3f3f99eea700eccaedb63a6e3051a1be8447870c",
+    "checks.json": "fb467ed603a1f63a6257968c00fcda4320af90e86a6dbfee1c8b8d790f51445a",
+    "diagnostic_contrasts.csv": "2fca938dcf983222c9173a87f2a8a9ad4817acfaf741143ab1758965ed623a85",
+    "illustrative_branches.csv": "0703bb93ec6ba627c086978b5bdde3e38717d6ee59345407382922b7c3797904",
+    "protected_files_sha256.json": "cb6a30c21ad3566da3653e377f5191eccabbb9aa5e102806e6fc83c322c332a0",
+    "test_output.txt": "2020f94e48a12d5f7b0d7c471aa2ad9a0da1f6befff7eb0bb7ec709daca0fc0e"
+  }
+}

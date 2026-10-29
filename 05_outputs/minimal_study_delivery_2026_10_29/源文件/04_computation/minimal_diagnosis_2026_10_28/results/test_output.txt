@@ -1,0 +1,17 @@
+test_analytic_interior_formula (test_model.MinimalResearchTests.test_analytic_interior_formula) ... ok
+test_bayes_likelihoods (test_model.MinimalResearchTests.test_bayes_likelihoods) ... ok
+test_equal_learning_effects_remove_skill_tradeoff (test_model.MinimalResearchTests.test_equal_learning_effects_remove_skill_tradeoff) ... ok
+test_more_options_cannot_lower_candidate_value (test_model.MinimalResearchTests.test_more_options_cannot_lower_candidate_value) ... ok
+test_no_forced_participation (test_model.MinimalResearchTests.test_no_forced_participation) ... ok
+test_no_verification_and_low_cost_makes_information_irrelevant (test_model.MinimalResearchTests.test_no_verification_and_low_cost_makes_information_irrelevant) ... ok
+test_optimal_against_all_signal_contingent_policies (test_model.MinimalResearchTests.test_optimal_against_all_signal_contingent_policies) ... ok
+test_partial_teaching_can_crowd_out_more_effective_training (test_model.MinimalResearchTests.test_partial_teaching_can_crowd_out_more_effective_training) ... ok
+test_same_total_slots_same_aggregate_joint_rates (test_model.MinimalResearchTests.test_same_total_slots_same_aggregate_joint_rates) ... ok
+test_shared_bottleneck_does_not_give_training_free_proof (test_model.MinimalResearchTests.test_shared_bottleneck_does_not_give_training_free_proof) ... ok
+test_total_probability_and_accounting (test_model.MinimalResearchTests.test_total_probability_and_accounting) ... ok
+test_value_of_information (test_model.MinimalResearchTests.test_value_of_information) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.007s
+
+OK

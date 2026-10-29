@@ -1,0 +1,17 @@
+{
+  "checked_date": "2026-10-28",
+  "source_type": "explicit_user_supplied_pdf",
+  "source_path": "C:\\Users\\shiqing peng\\Desktop\\1-s2.0-S0014292199000495-main.pdf",
+  "sha256": "5ae6bc6afa236413746d072efd9670f75e031f2b7a9973653fac07ee5348c8f9",
+  "bytes": 149336,
+  "pdf_pages": 11,
+  "printed_pages": "917-927",
+  "doi": "10.1016/S0014-2921(99)00049-5",
+  "identity_checks_passed": true,
+  "scope": "Explicit PDF takes precedence over the earlier multi-article ZIP",
+  "full_pdf_copied_to_repository": false,
+  "extraction": "pypdf; legacy font encodings corrupt some formula glyphs; verify PNGs",
+  "local_cache_gitignored": true,
+  "rendered_pages": 11,
+  "renderer": "Poppler pdftoppm, 130 dpi"
+}

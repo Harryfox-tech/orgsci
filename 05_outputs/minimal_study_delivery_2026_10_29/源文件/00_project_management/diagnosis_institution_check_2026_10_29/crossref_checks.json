@@ -1,0 +1,316 @@
+[
+  {
+    "request": {
+      "url": "https://api.crossref.org/works/10.1257/aer.20200961",
+      "checked_at": "2026-10-29T04:52:09.417053+00:00",
+      "platform": "crossref",
+      "query_type": "exact_doi",
+      "http_status": 200,
+      "final_url": "https://api.crossref.org/works/10.1257/aer.20200961"
+    },
+    "selected_metadata": {
+      "DOI": "10.1257/aer.20200961",
+      "title": [
+        "Job Search and Hiring with Limited Information about Workseekers’ Skills"
+      ],
+      "author": [
+        {
+          "given": "Eliana",
+          "family": "Carranza",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "World Bank (email: )"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Robert",
+          "family": "Garlick",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Duke University (email: )"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kate",
+          "family": "Orkin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Oxford (email: )"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Neil",
+          "family": "Rankin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Stellenbosch (email: )"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "American Economic Review"
+      ],
+      "type": "journal-article",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            11,
+            1
+          ]
+        ]
+      },
+      "volume": "112",
+      "issue": "11",
+      "page": "3547-3583",
+      "URL": "https://doi.org/10.1257/aer.20200961"
+    }
+  },
+  {
+    "request": {
+      "url": "https://api.crossref.org/works/10.3368/jhr.0519-10226R3",
+      "checked_at": "2026-10-29T04:52:09.417053+00:00",
+      "platform": "crossref",
+      "query_type": "exact_doi",
+      "http_status": 200,
+      "final_url": "https://api.crossref.org/works/10.3368/jhr.0519-10226R3"
+    },
+    "selected_metadata": {
+      "DOI": "10.3368/jhr.0519-10226r3",
+      "title": [
+        "Do Microcredentials Help New Workers Enter the Market?"
+      ],
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-8666-200X",
+          "authenticated-orcid": true,
+          "given": "Otto",
+          "family": "Kässi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6509-1703",
+          "authenticated-orcid": true,
+          "given": "Vili",
+          "family": "Lehdonvirta",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Journal of Human Resources"
+      ],
+      "type": "journal-article",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            9
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            7
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            9
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            9
+          ]
+        ]
+      },
+      "volume": "59",
+      "issue": "4",
+      "page": "1284-1318",
+      "URL": "https://doi.org/10.3368/jhr.0519-10226r3"
+    }
+  },
+  {
+    "request": {
+      "url": "https://api.crossref.org/works/10.1145/3351095.3372830",
+      "checked_at": "2026-10-29T04:52:09.418052+00:00",
+      "platform": "crossref",
+      "query_type": "exact_doi",
+      "http_status": 200,
+      "final_url": "https://api.crossref.org/works/10.1145/3351095.3372830"
+    },
+    "selected_metadata": {
+      "DOI": "10.1145/3351095.3372830",
+      "title": [
+        "The hidden assumptions behind counterfactual explanations and principal reasons"
+      ],
+      "author": [
+        {
+          "given": "Solon",
+          "family": "Barocas",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Microsoft Research and Cornell University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Selbst",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of California Los Angeles"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Manish",
+          "family": "Raghavan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Cornell University"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "container-title": [
+        "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency"
+      ],
+      "type": "proceedings-article",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            27
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            27
+          ]
+        ]
+      },
+      "published-online": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            27
+          ]
+        ]
+      },
+      "issued": {
+        "date-parts": [
+          [
+            2020,
+            1,
+            27
+          ]
+        ]
+      },
+      "page": "80-89",
+      "URL": "https://doi.org/10.1145/3351095.3372830"
+    }
+  }
+]

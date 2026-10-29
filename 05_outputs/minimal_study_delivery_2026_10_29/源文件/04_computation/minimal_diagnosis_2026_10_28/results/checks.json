@@ -1,0 +1,14 @@
+{
+  "unit_tests_passed": true,
+  "value_of_information_comparisons": 8100,
+  "value_of_information_violations": 0,
+  "additional_option_comparisons": 4455,
+  "additional_option_violations": 0,
+  "closed_form_cases": 487,
+  "max_closed_form_absolute_error": 2.914335439641036e-16,
+  "max_same_slot_aggregate_absolute_error": 4.440892098500626e-16,
+  "protected_files_count": 64,
+  "protected_files_unchanged": true,
+  "config_unchanged_during_run": true,
+  "tolerance": 1e-10
+}

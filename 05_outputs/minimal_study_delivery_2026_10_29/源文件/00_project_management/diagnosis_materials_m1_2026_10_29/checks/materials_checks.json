@@ -1,0 +1,44 @@
+{
+  "checked_at_utc": "2026-10-29T10:14:23.986545+00:00",
+  "passed_checks": [
+    "A_authored_key_matches_independent_arithmetic",
+    "A_correct_answer_gets_eight",
+    "B_authored_key_matches_independent_arithmetic",
+    "B_correct_answer_gets_eight",
+    "C_authored_key_matches_independent_arithmetic",
+    "C_correct_answer_gets_eight",
+    "D_authored_key_matches_independent_arithmetic",
+    "D_correct_answer_gets_eight",
+    "double_count_and_zero_imputation_do_not_pass",
+    "empty_answer_is_zero",
+    "empty_answer_is_marked_missing",
+    "missing_feedback_does_not_infer_low_ability",
+    "partial_verification_not_a_pass",
+    "boolean_is_not_numeric_answer",
+    "nonfinite_is_not_numeric_answer",
+    "duplicate_answer_ids_rejected",
+    "zero_is_not_missing",
+    "conflicting_duplicate_requires_rule",
+    "L_and_V_have_same_recognition_rule",
+    "private_or_posttest_result_not_automatically_recognized",
+    "missing_verification_not_a_pass",
+    "both_feedback_forms_four_lines"
+  ],
+  "check_count": 22,
+  "status": "passed",
+  "hashes": {
+    "task_data.json": "f6945f238f02b2584ac66a96e17aa7613399b343ebdea3077df6ec60498fe76b",
+    "answer_key.json": "7b92f1476e1e7e49c29121689485542cc7dd0b7d99015f653bab9f31358af736",
+    "tools/score_materials.py": "420a51de6f6e5f49e0a2b18c9331db9880bb97bd71528f2422dfa65c3ff71eb5",
+    "tools/check_materials.py": "0642a01086a3334cbd42eb418d860f5d740be5869800242bb5329ce0b4f3ca17"
+  },
+  "participants": 0,
+  "random_draws": 0,
+  "new_model_parameter_cells": 0,
+  "unit": "Authored task fixtures, not participants or experimental observations",
+  "limitations": [
+    "Difficulty, reliability, learning effects and external validity untested.",
+    "Eight checks are scoring items, not four validated latent traits.",
+    "No diagnostic accuracy or theoretical novelty established."
+  ]
+}

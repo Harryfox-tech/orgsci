@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Your Recourse, My Loss? Algorithmic Recourse under Shared Constraints",
+    "authors": [
+      "Zahra Khotanlou",
+      "Kate Larson",
+      "Amir-Hossein Karimi"
+    ],
+    "year": 2025,
+    "publication_date": "2025-08-14",
+    "publication_type": "preprint",
+    "venue": null,
+    "doi": null,
+    "arxiv_id": "2508.11070v2",
+    "version_date": "2026-05-10",
+    "url": "https://arxiv.org/html/2508.11070v2",
+    "source_platforms": [
+      "arxiv"
+    ],
+    "fetched_at": "2026-10-29",
+    "abstract": null,
+    "citation_count": null,
+    "citation_counts": [],
+    "download_status": "not_requested",
+    "missing_fields": {
+      "venue": "Only the arXiv preprint identity was verified in this round.",
+      "doi": "No separate peer-reviewed publication DOI verified.",
+      "abstract": "Not exported.",
+      "citation_count": "Not queried."
+    },
+    "field_sources": {
+      "title": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "authors": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "year": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "publication_date": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "publication_type": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "arxiv_id": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "version_date": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ],
+      "url": [
+        {
+          "platform": "arxiv",
+          "source_url": "https://arxiv.org/abs/2508.11070",
+          "checked_at": "2026-10-29T04:58:29Z",
+          "evidence_type": "page_text",
+          "note": "Identity and v2 revision date inspected in official page; timestamp records annotation check, not the earlier web request."
+        }
+      ]
+    }
+  }
+]

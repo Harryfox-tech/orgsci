@@ -1,0 +1,32 @@
+{
+  "checked_date": "2026-10-28",
+  "method": "academic-search: official metadata API plus original-source web follow-up",
+  "scope": "Targeted checks, not a systematic review or proof of absence",
+  "calls": [
+    {
+      "queries": [
+        "\"Certification of training and training outcomes\" Acemoglu Pischke model",
+        "training certification diagnostic information voluntary investment skills screening model"
+      ],
+      "retained_original_sources": [
+        "https://dspace.mit.edu/entities/publication/e8d27d33-a87e-4293-8c86-62bfcd87cf20",
+        "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=195741",
+        "https://www.sciencedirect.com/science/article/abs/pii/S0014292199000495"
+      ],
+      "evidence": "Repository identity, author abstract, publisher section previews; not a complete full-text review",
+      "selection_note": "Broad-query irrelevance does not establish a gap"
+    },
+    {
+      "queries": [
+        "\"training or certification\" skills economics",
+        "\"certification\" \"training\" \"substitute\" \"signaling\" workers"
+      ],
+      "retained_original_sources": [],
+      "evidence": "Returned occupational certification rules and training-administration material were off-topic for theory novelty",
+      "selection_note": "Excluded; no absence or institutional-generalization claim drawn from these results"
+    }
+  ],
+  "new_full_text_downloads": 0,
+  "crossref_requests": "See source_checks/query_log.json (4 exact DOI requests)",
+  "literature_status": "Prior verified sources reused with original evidence limits; Acemoglu-Pischke full text still needed"
+}

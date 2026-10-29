@@ -1,0 +1,220 @@
+{
+  "material_version": "M1",
+  "status": "Internal fixtures only; no participants, validated scale, or real credential.",
+  "columns": [
+    "entry_id",
+    "status",
+    "quantity",
+    "unit_value"
+  ],
+  "tasks": [
+    {
+      "id": "A",
+      "title": "门店销售记录",
+      "target_status": "paid",
+      "rows": [
+        [
+          "S101",
+          "paid",
+          "2",
+          "120"
+        ],
+        [
+          "S102",
+          "paid",
+          "1",
+          "80"
+        ],
+        [
+          "S102",
+          "paid",
+          "1",
+          "80"
+        ],
+        [
+          "S103",
+          "cancelled",
+          "3",
+          "50"
+        ],
+        [
+          "S104",
+          "paid",
+          "1",
+          "200"
+        ],
+        [
+          "S105",
+          "paid",
+          "2",
+          "75"
+        ],
+        [
+          "S106",
+          "refunded",
+          "1",
+          "100"
+        ],
+        [
+          "S107",
+          "paid",
+          "",
+          "30"
+        ]
+      ]
+    },
+    {
+      "id": "B",
+      "title": "活动付费票记录",
+      "target_status": "confirmed",
+      "rows": [
+        [
+          "E201",
+          "confirmed",
+          "3",
+          "40"
+        ],
+        [
+          "E202",
+          "confirmed",
+          "2",
+          "35"
+        ],
+        [
+          "E202",
+          "confirmed",
+          "2",
+          "35"
+        ],
+        [
+          "E203",
+          "cancelled",
+          "4",
+          "20"
+        ],
+        [
+          "E204",
+          "confirmed",
+          "1",
+          "150"
+        ],
+        [
+          "E205",
+          "waitlisted",
+          "1",
+          "90"
+        ],
+        [
+          "E206",
+          "confirmed",
+          "",
+          "25"
+        ],
+        [
+          "E207",
+          "confirmed",
+          "2",
+          "60"
+        ]
+      ]
+    },
+    {
+      "id": "C",
+      "title": "项目结算记录",
+      "target_status": "final",
+      "rows": [
+        [
+          "C301",
+          "final",
+          "5",
+          "18"
+        ],
+        [
+          "C302",
+          "final",
+          "2",
+          "45"
+        ],
+        [
+          "C302",
+          "final",
+          "2",
+          "45"
+        ],
+        [
+          "C303",
+          "draft",
+          "10",
+          "12"
+        ],
+        [
+          "C304",
+          "final",
+          "3",
+          "35"
+        ],
+        [
+          "C305",
+          "voided",
+          "1",
+          "99"
+        ],
+        [
+          "C306",
+          "final",
+          "4",
+          ""
+        ],
+        [
+          "C307",
+          "final",
+          "2",
+          "75"
+        ]
+      ]
+    },
+    {
+      "id": "D",
+      "title": "教学演示记录，不用于前后测",
+      "target_status": "paid",
+      "rows": [
+        [
+          "D401",
+          "paid",
+          "2",
+          "60"
+        ],
+        [
+          "D402",
+          "paid",
+          "1",
+          "40"
+        ],
+        [
+          "D402",
+          "paid",
+          "1",
+          "40"
+        ],
+        [
+          "D403",
+          "paid",
+          "",
+          "25"
+        ],
+        [
+          "D404",
+          "cancelled",
+          "3",
+          "50"
+        ]
+      ]
+    }
+  ],
+  "illustrative_threshold": {
+    "total_minimum": 6,
+    "require_missing_domain_full": true,
+    "require_total_domain_full": true,
+    "note": "Uncalibrated research criterion; not a real competence cutoff."
+  }
+}

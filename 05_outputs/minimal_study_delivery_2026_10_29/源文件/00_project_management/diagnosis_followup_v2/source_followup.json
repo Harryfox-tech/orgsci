@@ -1,0 +1,49 @@
+{
+  "scope": "Targeted original-source model comparison; no new metadata corpus or citation-count query",
+  "sources": [
+    {
+      "url": "https://arxiv.org/pdf/1910.04123",
+      "version_observed": "arXiv:1910.04123v1, 4 October 2019; FAT*2020 publication identity retained separately",
+      "locations_read": [
+        "PDF page 4, sections 2.1-2.2, equation (1)",
+        "Institution response begins on PDF pages 4-5"
+      ],
+      "evidence_limit": "Focused model inspection, not all 30 pages or all proofs",
+      "operations": [
+        "open",
+        "find Individual’s Rational Response"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/html/2405.20447",
+      "version_observed": "arXiv:2405.20447v1; FAccT2024 DOI shown in source",
+      "locations_read": [
+        "Section 2, equations (2.1)-(2.2)",
+        "Example 3.4",
+        "Assumption 3.5"
+      ],
+      "evidence_limit": "Framework and selected labor-market example only; no full theorem replication",
+      "operations": [
+        "open",
+        "find Example 3.4",
+        "find Definition 2.1 (returned Example 2.1 and framework)"
+      ]
+    },
+    {
+      "doi": "10.1016/S0014-2921(99)00049-5",
+      "source": "User-supplied full text, previously read and visually checked",
+      "locations_used": [
+        "Section 2",
+        "conditions (5)-(6)",
+        "Section 6, printed page 926"
+      ],
+      "new_network_request": false
+    }
+  ],
+  "new_search_queries": 0,
+  "original_fulltext_open_calls": 2,
+  "find_operations": 3,
+  "gap_status": "Not established; broad endogeneity and investment claims already covered",
+  "logged_at_utc": "2026-10-28T16:20:56Z",
+  "request_timestamp_precision": "Source operations occurred earlier in this work turn; exact individual timestamps were not captured"
+}

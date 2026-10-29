@@ -1,0 +1,54 @@
+{
+  "checked_date": "2026-10-28",
+  "text_read_pdf_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "visually_reviewed_pdf_pages": [
+    1,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "visually_reviewed_printed_pages": [
+    917,
+    920,
+    922,
+    923,
+    924,
+    925,
+    926
+  ],
+  "formula_review": [
+    "production at p920",
+    "conditions (5)-(6) at p923",
+    "welfare notation at p924",
+    "condition (8) at p925"
+  ],
+  "scope": "User-supplied full-text reading and theory comparison; no new internet requests or model executions",
+  "minimal_model_source_hashes_unchanged": true,
+  "minimal_model_output_hashes_unchanged": true,
+  "legacy_manuscript_archive_files_checked": 64,
+  "legacy_manuscript_archive_hashes_unchanged": true,
+  "explicit_pdf_unchanged": true,
+  "local_fulltext_and_page_cache_gitignored": true,
+  "local_markdown_links_valid": true,
+  "remaining_uncertainty": [
+    "Real institutional match",
+    "continuous skill/productivity measure",
+    "independent contribution versus other general investment frameworks"
+  ],
+  "no_commit_or_push": true
+}

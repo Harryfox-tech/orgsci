@@ -1,0 +1,78 @@
+[
+  {
+    "doi": "10.1016/S0014-2921(99)00049-5",
+    "url": "https://api.crossref.org/works/10.1016%2FS0014-2921%2899%2900049-5",
+    "checked_at_utc": "2026-10-28T08:11:22.619360+00:00",
+    "timeout_seconds": 15,
+    "retries_used": 0,
+    "scope": "Exact identity metadata only; no full-text verification",
+    "http_status": 200,
+    "raw_response_file": "crossref_0.json",
+    "sha256": "6d5345e54a502132662528eef54b1a227dd47f5b7d4cb50a06bfcbd5ec37e27e",
+    "returned_title": [
+      "Certification of training and training outcomes"
+    ],
+    "returned_doi": "10.1016/s0014-2921(99)00049-5",
+    "returned_venue": [
+      "European Economic Review"
+    ],
+    "identity_matches": true
+  },
+  {
+    "doi": "10.1162/003355301753265615",
+    "url": "https://api.crossref.org/works/10.1162%2F003355301753265615",
+    "checked_at_utc": "2026-10-28T08:11:23.970560+00:00",
+    "timeout_seconds": 15,
+    "retries_used": 0,
+    "scope": "Exact identity metadata only; no full-text verification",
+    "http_status": 200,
+    "raw_response_file": "crossref_1.json",
+    "sha256": "4b71634c971f7866af3b3a13fb4e3cff60713468a588170c12cf1ed207281b93",
+    "returned_title": [
+      "Why Do Temporary Help Firms Provide Free General Skills Training?"
+    ],
+    "returned_doi": "10.1162/003355301753265615",
+    "returned_venue": [
+      "The Quarterly Journal of Economics"
+    ],
+    "identity_matches": true
+  },
+  {
+    "doi": "10.1145/3351095.3372861",
+    "url": "https://api.crossref.org/works/10.1145%2F3351095.3372861",
+    "checked_at_utc": "2026-10-28T08:11:25.226711+00:00",
+    "timeout_seconds": 15,
+    "retries_used": 0,
+    "scope": "Exact identity metadata only; no full-text verification",
+    "http_status": 200,
+    "raw_response_file": "crossref_2.json",
+    "sha256": "3ecd05ae5fbb9d8000efabfaaaeb2d1cb67535466a0e24c45ab99d5b12cd44f2",
+    "returned_title": [
+      "The disparate equilibria of algorithmic decision making when individuals invest rationally"
+    ],
+    "returned_doi": "10.1145/3351095.3372861",
+    "returned_venue": [
+      "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency"
+    ],
+    "identity_matches": true
+  },
+  {
+    "doi": "10.1257/aer.20200961",
+    "url": "https://api.crossref.org/works/10.1257%2Faer.20200961",
+    "checked_at_utc": "2026-10-28T08:11:26.689994+00:00",
+    "timeout_seconds": 15,
+    "retries_used": 0,
+    "scope": "Exact identity metadata only; no full-text verification",
+    "http_status": 200,
+    "raw_response_file": "crossref_3.json",
+    "sha256": "266ddf23100fdc3869e93ff6b371d406be2db1299e309935239174b50f80c1e1",
+    "returned_title": [
+      "Job Search and Hiring with Limited Information about Workseekers’ Skills"
+    ],
+    "returned_doi": "10.1257/aer.20200961",
+    "returned_venue": [
+      "American Economic Review"
+    ],
+    "identity_matches": true
+  }
+]

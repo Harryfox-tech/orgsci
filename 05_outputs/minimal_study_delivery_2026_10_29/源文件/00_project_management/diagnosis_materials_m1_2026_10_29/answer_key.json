@@ -1,0 +1,91 @@
+{
+  "A": {
+    "duplicate_ids": [
+      "S102"
+    ],
+    "duplicate_policy": "keep_one_identical",
+    "eligible_ids": [
+      "S101",
+      "S102",
+      "S104",
+      "S105",
+      "S107"
+    ],
+    "excluded_ids": [
+      "S103",
+      "S106"
+    ],
+    "incomplete_eligible_ids": [
+      "S107"
+    ],
+    "missing_treatment": "unknown_do_not_impute",
+    "known_subtotal": "670",
+    "full_total_status": "undetermined"
+  },
+  "B": {
+    "duplicate_ids": [
+      "E202"
+    ],
+    "duplicate_policy": "keep_one_identical",
+    "eligible_ids": [
+      "E201",
+      "E202",
+      "E204",
+      "E206",
+      "E207"
+    ],
+    "excluded_ids": [
+      "E203",
+      "E205"
+    ],
+    "incomplete_eligible_ids": [
+      "E206"
+    ],
+    "missing_treatment": "unknown_do_not_impute",
+    "known_subtotal": "460",
+    "full_total_status": "undetermined"
+  },
+  "C": {
+    "duplicate_ids": [
+      "C302"
+    ],
+    "duplicate_policy": "keep_one_identical",
+    "eligible_ids": [
+      "C301",
+      "C302",
+      "C304",
+      "C306",
+      "C307"
+    ],
+    "excluded_ids": [
+      "C303",
+      "C305"
+    ],
+    "incomplete_eligible_ids": [
+      "C306"
+    ],
+    "missing_treatment": "unknown_do_not_impute",
+    "known_subtotal": "435",
+    "full_total_status": "undetermined"
+  },
+  "D": {
+    "duplicate_ids": [
+      "D402"
+    ],
+    "duplicate_policy": "keep_one_identical",
+    "eligible_ids": [
+      "D401",
+      "D402",
+      "D403"
+    ],
+    "excluded_ids": [
+      "D404"
+    ],
+    "incomplete_eligible_ids": [
+      "D403"
+    ],
+    "missing_treatment": "unknown_do_not_impute",
+    "known_subtotal": "160",
+    "full_total_status": "undetermined"
+  }
+}

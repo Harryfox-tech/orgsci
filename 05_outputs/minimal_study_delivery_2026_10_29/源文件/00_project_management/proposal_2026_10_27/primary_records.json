@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education",
+    "authors": ["Gary S. Becker"], "year": 1964, "publication_date": null,
+    "publication_type": "book", "venue": "National Bureau of Economic Research",
+    "doi": null,
+    "url": "https://www.nber.org/books-and-chapters/human-capital-theoretical-and-empirical-analysis-special-reference-education-first-edition/introduction-human-capital-theoretical-and-empirical-analysis-special-reference-education-first",
+    "source_platforms": ["NBER"], "fetched_at": "2026-10-27",
+    "verified_at": "2026-10-27T04:19:34Z",
+    "verification_note": "Metadata supported by indexed NBER original chapter page and supplied adviser bibliography; direct book/chapter page requests returned 403. No full-book reading claimed.",
+    "citation_count": null, "abstract": null, "download_status": "not_requested"
+  },
+  {
+    "title": "Signaling Design",
+    "authors": ["Matteo Camboni", "Mingzi Niu", "Mallesh M. Pai", "Rakesh Vohra"],
+    "year": 2025, "publication_date": "2025-02-04", "publication_type": "preprint",
+    "venue": "arXiv", "doi": "10.48550/arXiv.2502.02328", "arxiv_id": "2502.02328", "version": "v1",
+    "url": "https://arxiv.org/abs/2502.02328", "source_platforms": ["arxiv"],
+    "fetched_at": "2026-10-27", "verified_at": "2026-10-27T04:19:34Z",
+    "verification_note": "Original arXiv abstract and submission history checked; publication status remains preprint in this review.",
+    "citation_count": null, "abstract": null, "download_status": "not_requested"
+  },
+  {
+    "title": "Explanations-Driven Active Feature Acquisition for Algorithmic Recourse",
+    "authors": ["Vinura Galwaduge", "Jagath Samarabandu"],
+    "year": 2026, "publication_date": "2026-09-10", "publication_type": "preprint",
+    "venue": "arXiv", "doi": "10.48550/arXiv.2609.12179", "arxiv_id": "2609.12179", "version": "v1",
+    "url": "https://arxiv.org/abs/2609.12179", "source_platforms": ["arxiv"],
+    "fetched_at": "2026-10-27", "verified_at": "2026-10-27T04:19:34Z",
+    "verification_note": "Original arXiv metadata, abstract and HTML introduction checked; no independent proof replication claimed.",
+    "citation_count": null, "abstract": null, "download_status": "not_requested"
+  },
+  {
+    "title": "Strategic Classification Has a Missing Lever: Audit Risk",
+    "authors": ["Raman Ebrahimi", "Massimo Franceschetti"],
+    "year": 2026, "publication_date": "2026-09-18", "publication_type": "preprint",
+    "venue": "arXiv", "doi": "10.48550/arXiv.2609.22534", "arxiv_id": "2609.22534", "version": "v1",
+    "url": "https://arxiv.org/abs/2609.22534", "source_platforms": ["arxiv"],
+    "fetched_at": "2026-10-27", "verified_at": "2026-10-27T04:19:34Z",
+    "verification_note": "Original arXiv metadata and HTML abstract/introduction checked; no formal-publication claim or full proof audit.",
+    "citation_count": null, "abstract": null, "download_status": "not_requested"
+  }
+]

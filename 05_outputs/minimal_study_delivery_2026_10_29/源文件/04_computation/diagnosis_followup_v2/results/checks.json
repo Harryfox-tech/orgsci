@@ -1,0 +1,17 @@
+{
+  "tests_passed": true,
+  "parameter_cells": 320,
+  "reported_group_cells": 3840,
+  "ai_information_comparisons": 512,
+  "ai_information_violations": 0,
+  "private_information_comparisons": 480,
+  "private_information_violations": 0,
+  "option_value_violations": 0,
+  "formula_cases": 31,
+  "max_formula_absolute_error": 2.220446049250313e-16,
+  "max_probability_mass_error": 2.220446049250313e-16,
+  "max_diagnostic_effect_with_perfect_private_information": 4.440892098500626e-16,
+  "v1_and_legacy_files_unchanged": true,
+  "protected_files_count": 79,
+  "config_unchanged": true
+}

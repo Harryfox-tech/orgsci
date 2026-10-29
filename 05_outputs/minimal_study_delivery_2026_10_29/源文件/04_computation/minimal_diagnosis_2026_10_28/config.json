@@ -1,0 +1,45 @@
+{
+  "design_version": "minimal-diagnosis-v1",
+  "status": "Illustrative mechanism check; not calibrated, preregistered, or an approved novelty claim",
+  "base": {
+    "prior_deficient": 0.5,
+    "hire_value": 1.0,
+    "skill_value": 0.0,
+    "learn_gain": 0.6,
+    "verify_gain": 0.0,
+    "learn_cost": 0.3,
+    "verify_cost": 0.08,
+    "test_tpr": 0.9,
+    "test_fpr": 0.05,
+    "no_action_hire": 0.0,
+    "training_requires_verification_access": false
+  },
+  "qualities": [0.5, 0.6, 0.65, 0.8, 0.95, 1.0],
+  "group_shares": {"high_access": 0.5, "low_access": 0.5},
+  "access_regimes": {
+    "unequal": {"high_access": 0.75, "low_access": 0.25},
+    "equal_same_slots": {"high_access": 0.5, "low_access": 0.5},
+    "no_verification": {"high_access": 0.0, "low_access": 0.0},
+    "universal_verification": {"high_access": 1.0, "low_access": 1.0}
+  },
+  "boundaries": {
+    "perfect_final_test": {"test_tpr": 1.0, "test_fpr": 0.0},
+    "no_skill_formation": {"learn_gain": 0.0},
+    "verification_also_teaches": {"verify_gain": 0.3},
+    "equal_learning_effects": {"verify_gain": 0.6},
+    "expensive_learning": {"learn_cost": 0.65},
+    "positive_skill_value": {"skill_value": 0.5},
+    "shared_verification_bottleneck": {"training_requires_verification_access": true}
+  },
+  "heterogeneous_learning_costs": [0.2, 0.25, 0.3, 0.35, 0.4],
+  "grid": {
+    "prior_deficient": [0.25, 0.5, 0.75],
+    "learn_gain": [0.3, 0.6, 0.9],
+    "learn_cost": [0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8],
+    "verify_cost": [0.02, 0.08, 0.15],
+    "quality": [0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.0]
+  },
+  "seed_policy": "No random draws: enumerate all probability branches exactly; legacy paired seeds untouched",
+  "comparison_budget": "equal_same_slots and unequal have the same ex ante verification slot probability 0.5; private action costs and realized take-up need not be equal",
+  "tie_breaking": ["N", "V", "L"]
+}

@@ -1,0 +1,35 @@
+{
+  "review_date_local": "2026-10-27",
+  "timezone": "Asia/Shanghai",
+  "scope": "Bounded proposal support, not a systematic review. This logs actual web search strings and key source checks; the six script requests are in query_log.json.",
+  "search_queries_in_order": [
+    "\"strategic classification\" \"verification\" \"improvement\"",
+    "\"algorithmic recourse\" \"diagnosis\" \"information\"",
+    "\"Certification of training and training outcomes\" pdf",
+    "\"Blackwell\" \"Equivalent comparisons of experiments\" 1953",
+    "\"strategic classification\" \"verification\" \"improvement\"",
+    "\"algorithmic recourse\" \"information acquisition\"",
+    "site.projecteuclid.org \"Equivalent Comparisons of Experiments\"",
+    "site:nber.org Becker 1964 human capital introduction pdf",
+    "\"Certification of training and training outcomes\" \"pdf\" Acemoglu Pischke",
+    "\"Job Market Signaling\" Spence 1973 pdf harvard"
+  ],
+  "key_source_checks": [
+    {"url":"https://arxiv.org/pdf/1910.04123","result":"PDF readable; sections 2.1-2.2 rechecked"},
+    {"url":"https://arxiv.org/html/2405.20447","result":"HTML readable; Example 3.4 rechecked"},
+    {"url":"https://www.aeaweb.org/content/file?id=17187","result":"PDF abstract readable; subsequent position request timed out"},
+    {"url":"https://iis.seas.harvard.edu/papers/upadhyay2025counterfactual.pdf","result":"PDF abstract readable; study design evidence also retained from prior review"},
+    {"url":"https://economics.mit.edu/sites/default/files/publications/why%20do%20temporary%20jobs%202001.pdf","result":"Published author-hosted PDF readable; prior section-II review retained"},
+    {"url":"https://proceedings.mlr.press/v119/miller20b.html","result":"Official abstract and metadata readable"},
+    {"url":"https://arxiv.org/html/2609.12179v1","result":"Original HTML abstract/introduction and metadata checked"},
+    {"url":"https://arxiv.org/html/2609.22534v1","result":"Original HTML abstract/introduction and metadata checked"},
+    {"url":"https://arxiv.org/abs/2502.02328","result":"Original abstract and submission history checked"},
+    {"url":"https://www.nber.org/books-and-chapters/human-capital-theoretical-and-empirical-analysis-special-reference-education-first-edition/introduction-human-capital-theoretical-and-empirical-analysis-special-reference-education-first","result":"Direct request 403; indexed original-page metadata available; no full chapter reading claimed"},
+    {"url":"https://www.nber.org/system/files/chapters/c3730/c3730.pdf","result":"Candidate request 403; chapter identity not established, not used as evidence"},
+    {"url":"https://www.sciencedirect.com/science/article/pii/S0014292199000495","result":"Direct request 403 this turn; earlier excerpt evidence not relabelled as fresh full-text review"},
+    {"url":"https://dspace.mit.edu/entities/publication/e8d27d33-a87e-4293-8c86-62bfcd87cf20","result":"Repository metadata readable; download click failed"},
+    {"url":"https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-24/issue-2/Equivalent-Comparisons-of-Experiments/10.1214/aoms/1177729032.full","result":"Body inaccessible; iframe returned unavailable page"},
+    {"url":"https://competitionandappropriation.econ.ucla.edu/wp-content/uploads/sites/95/2017/08/Spence1973.pdf","result":"Scanned PDF; local temporary cache parsed and printed pages 356,358,359 visually inspected; response evidence in tmp/source_review/manifest.json"}
+  ],
+  "limitations": ["No universal absence claim", "No citation-count ranking", "No TLS verification disabled", "No paid access or challenge bypass", "No AI/ABM numerical results generated"]
+}

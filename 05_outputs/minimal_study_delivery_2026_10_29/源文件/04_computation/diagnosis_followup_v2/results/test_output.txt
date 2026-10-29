@@ -1,0 +1,15 @@
+test_accounting_and_mass (test_bridge.BridgeTests.test_accounting_and_mass) ... ok
+test_bayes_combines_only_available_information (test_bridge.BridgeTests.test_bayes_combines_only_available_information) ... ok
+test_exact_policy_enumeration_optimality (test_bridge.BridgeTests.test_exact_policy_enumeration_optimality) ... ok
+test_fixed_policy_analytic_difference (test_bridge.BridgeTests.test_fixed_policy_analytic_difference) ... ok
+test_future_productivity_value_can_restore_learning (test_bridge.BridgeTests.test_future_productivity_value_can_restore_learning) ... ok
+test_perfect_self_knowledge_removes_incremental_diagnostic_effect (test_bridge.BridgeTests.test_perfect_self_knowledge_removes_incremental_diagnostic_effect) ... ok
+test_population_action_rate_can_hide_policy_switches (test_bridge.BridgeTests.test_population_action_rate_can_hide_policy_switches) ... ok
+test_positive_post_threshold_growth_is_measured (test_bridge.BridgeTests.test_positive_post_threshold_growth_is_measured) ... ok
+test_strong_but_imperfect_private_information_can_make_ai_inactive (test_bridge.BridgeTests.test_strong_but_imperfect_private_information_can_make_ai_inactive) ... ok
+test_v1_is_nested_with_uninformative_private_signal (test_bridge.BridgeTests.test_v1_is_nested_with_uninformative_private_signal) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.014s
+
+OK

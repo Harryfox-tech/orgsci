@@ -1,0 +1,265 @@
+{
+  "10.1257/aer.20200961": {
+    "fields": {
+      "method_type": "Field experiments; formal abstract checked this round",
+      "sample_or_population": "South African workseekers and firms; sample size not re-extracted",
+      "geography": "South Africa",
+      "publication_status": "Published journal article",
+      "jel_codes": [
+        "J22",
+        "J23",
+        "J24",
+        "J31",
+        "J41",
+        "J64",
+        "O15"
+      ],
+      "reading_scope": "Formal metadata and abstract only this round; earlier working-paper note remains version-specific."
+    },
+    "field_sources": {
+      "method_type": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "sample_or_population": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "geography": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "publication_status": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "jel_codes": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "reading_scope": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://www.aeaweb.org/articles?id=10.1257/aer.20200961",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ]
+    },
+    "missing_fields": {}
+  },
+  "10.3368/jhr.0519-10226r3": {
+    "fields": {
+      "method_type": "Observational event study and conditional difference-in-differences",
+      "sample_or_population": "Workers and transactions on an unnamed online freelancing platform; no sample size claimed here",
+      "geography": null,
+      "publication_status": "Published journal article; issue year 2024",
+      "jel_codes": null,
+      "reading_scope": "Selected passages: printed pp.1288–1289, 1297–1298, introduction and section VI.A; not all 35 PDF pages.",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1"
+    },
+    "field_sources": {
+      "method_type": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "sample_or_population": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "publication_status": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "reading_scope": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://www.utupub.fi/bitstream/handle/10024/188036/1284.full.pdf?isAllowed=y&sequence=1",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ]
+    },
+    "missing_fields": {
+      "geography": "Not extracted or not applicable; see reading scope.",
+      "jel_codes": "Not extracted or not applicable; see reading scope."
+    }
+  },
+  "10.1145/3351095.3372830": {
+    "fields": {
+      "method_type": "Conceptual analysis of explanations, actionability and power",
+      "sample_or_population": null,
+      "geography": null,
+      "publication_status": "Published conference paper, FAT* 2020",
+      "jel_codes": null,
+      "reading_scope": "Introduction and sections 4.1–4.3; no legal-source verification or empirical replication.",
+      "full_text_status": "open_pdf",
+      "pdf_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf"
+    },
+    "field_sources": {
+      "method_type": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "publication_status": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "reading_scope": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "full_text_status": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "pdf_url": [
+        {
+          "platform": "original_full_text",
+          "source_url": "https://andrewselbst.com/wp-content/uploads/2020/01/barocas-selbst-raghavan-hidden-assumptions-behind-counterfactuals.pdf",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "pdf_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ]
+    },
+    "missing_fields": {
+      "sample_or_population": "Not extracted or not applicable; see reading scope.",
+      "geography": "Not extracted or not applicable; see reading scope.",
+      "jel_codes": "Not extracted or not applicable; see reading scope."
+    }
+  },
+  "2508.11070v2": {
+    "fields": {
+      "method_type": "Formal allocation model and computational experiments; no replication in this round",
+      "sample_or_population": "Model seekers/providers; selected reported datasets rather than recruited participants",
+      "geography": null,
+      "publication_status": "arXiv preprint; no peer-reviewed venue verified",
+      "jel_codes": null,
+      "reading_scope": "Sections 2–4 and 6–7; not all experiments or proofs checked."
+    },
+    "field_sources": {
+      "method_type": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://arxiv.org/html/2508.11070v2",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "sample_or_population": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://arxiv.org/html/2508.11070v2",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "publication_status": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://arxiv.org/html/2508.11070v2",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ],
+      "reading_scope": [
+        {
+          "platform": "primary_source",
+          "source_url": "https://arxiv.org/html/2508.11070v2",
+          "checked_at": "2026-10-29T05:00:32Z",
+          "evidence_type": "page_text",
+          "note": "Timestamp is the annotation check; earlier browser request time was not captured."
+        }
+      ]
+    },
+    "missing_fields": {
+      "geography": "Not extracted or not applicable; see reading scope.",
+      "jel_codes": "Not extracted or not applicable; see reading scope."
+    }
+  }
+}
